@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* Public SEO content site — pin light mode (no theme toggle, all colours are
+   authored for a light background). */
+:root {
+  color-scheme: light;
+}
+
+@theme {
+  --color-ink: #0e0e13;
+  --color-paper: #faf8f3;
+  --color-paper-2: #f1ede3;
+  --color-muted: #6b6760;
+  --color-line: #e3ddd0;
+
+  /* Mapped from the next/font CSS vars set on <html> (see layout.tsx). */
+  --font-display: var(--ff-display), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--ff-body), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--ff-mono), ui-monospace, "SFMono-Regular", monospace;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Editorial MDX (rendered inside <div class="longform">). Keeps the markdown
+   clean — no per-element class plumbing in the content files. */
+.longform {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: var(--color-ink);
+}
+.longform > * + * {
+  margin-top: 1.15em;
+}
+.longform h2 {
+  font-family: var(--font-display);
+  font-size: 1.65rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 1.9em;
+}
+.longform h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 1.5em;
+}
+.longform a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.longform ul {
+  list-style: disc;
+  padding-left: 1.3em;
+}
+.longform ol {
+  list-style: decimal;
+  padding-left: 1.3em;
+}
+.longform li + li {
+  margin-top: 0.4em;
+}
+.longform blockquote {
+  border-left: 3px solid var(--color-ink);
+  padding-left: 1em;
+  font-style: italic;
+  color: var(--color-muted);
+}
+.longform strong {
+  font-weight: 700;
+}
