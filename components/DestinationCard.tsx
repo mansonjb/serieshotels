@@ -1,19 +1,25 @@
 import Link from "next/link";
 import { Img } from "@/components/Img";
 import type { Destination } from "@/data/types";
+import type { UI } from "@/data/i18n/ui";
+import { localePath, type Locale } from "@/lib/i18n";
 import { destinationImage } from "@/lib/images";
 
 export function DestinationCard({
   destination,
   stats,
+  locale,
+  dict,
 }: {
   destination: Destination;
   stats: { titles: number; locations: number };
+  locale: Locale;
+  dict: UI;
 }) {
   const img = destinationImage(destination.slug);
   return (
     <Link
-      href={`/destinations/${destination.slug}`}
+      href={localePath(locale, `/destinations/${destination.slug}`)}
       className="group block overflow-hidden rounded-2xl border border-line bg-paper transition-shadow hover:shadow-lg"
     >
       <div className="relative">
@@ -40,8 +46,10 @@ export function DestinationCard({
           {destination.blurb}
         </p>
         <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.14em] text-muted">
-          {stats.titles} {stats.titles === 1 ? "work" : "works"} ·{" "}
-          {stats.locations} {stats.locations === 1 ? "spot" : "spots"}
+          {stats.titles}{" "}
+          {stats.titles === 1 ? dict.labels.work : dict.labels.works} ·{" "}
+          {stats.locations}{" "}
+          {stats.locations === 1 ? dict.labels.spot : dict.labels.spots}
         </p>
       </div>
     </Link>

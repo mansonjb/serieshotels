@@ -2,25 +2,40 @@ import type { MetadataRoute } from "next";
 import { SITE_URL } from "@/lib/site";
 import { DESTINATIONS, LOCATIONS, TITLES } from "@/lib/data";
 import { GUIDES } from "@/content/guides";
+import { LOCALES } from "@/lib/i18n";
+
+/** Root-relative paths (without the locale prefix) and their priority. */
+function paths(): [path: string, priority: number][] {
+  return [
+    ["", 1],
+    ["/titles", 0.8],
+    ["/destinations", 0.8],
+    ["/guides", 0.6],
+    ["/about", 0.3],
+    ["/affiliate-disclosure", 0.2],
+    ...TITLES.map((t) => [`/titles/${t.slug}`, 0.9] as [string, number]),
+    ...DESTINATIONS.map((d) => [`/destinations/${d.slug}`, 0.9] as [string, number]),
+    ...LOCATIONS.map((l) => [`/locations/${l.slug}`, 0.7] as [string, number]),
+    ...GUIDES.map((g) => [`/guides/${g.slug}`, 0.6] as [string, number]),
+  ];
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
-  const at = (path: string, priority: number): MetadataRoute.Sitemap[number] => ({
-    url: `${SITE_URL}${path}`,
-    lastModified: now,
-    priority,
-  });
+  const entries: MetadataRoute.Sitemap = [];
 
-  return [
-    at("/", 1),
-    at("/titles", 0.8),
-    at("/destinations", 0.8),
-    at("/guides", 0.6),
-    at("/about", 0.3),
-    at("/affiliate-disclosure", 0.2),
-    ...TITLES.map((t) => at(`/titles/${t.slug}`, 0.9)),
-    ...DESTINATIONS.map((d) => at(`/destinations/${d.slug}`, 0.9)),
-    ...LOCATIONS.map((l) => at(`/locations/${l.slug}`, 0.7)),
-    ...GUIDES.map((g) => at(`/guides/${g.slug}`, 0.6)),
-  ];
+  for (const [path, priority] of paths()) {
+    const languages = Object.fromEntries(
+      LOCALES.map((l) => [l, `${SITE_URL}/${l}${path}`]),
+    );
+    for (const l of LOCALES) {
+      entries.push({
+        url: `${SITE_URL}/${l}${path}`,
+        lastModified: now,
+        priority,
+        alternates: { languages },
+      });
+    }
+  }
+  return entries;
 }

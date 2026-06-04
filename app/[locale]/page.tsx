@@ -10,21 +10,26 @@ import {
   locationsForTitle,
 } from "@/lib/data";
 import { destinationImage } from "@/lib/images";
-import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
+import {
+  DEFAULT_LOCALE,
+  getDict,
+  isLocale,
+  localePath,
+  localizeDestination,
+  localizeTitle,
+  type Locale,
+} from "@/lib/i18n";
+import { SITE_NAME, SITE_URL } from "@/lib/site";
 
-const STEPS: [string, string][] = [
-  ["Pick a show", "Browse series and films by the places they were shot."],
-  [
-    "Find the real spots",
-    "Each location comes with the scene, the exact map point, and how to actually visit.",
-  ],
-  [
-    "Book stay & tours",
-    "Compare nearby hotels and book tours, tickets and cars in a couple of taps.",
-  ],
-];
+export default async function HomePage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  const loc: Locale = isLocale(locale) ? locale : DEFAULT_LOCALE;
+  const dict = getDict(loc);
 
-export default function HomePage() {
   return (
     <main>
       <JsonLd
@@ -32,8 +37,9 @@ export default function HomePage() {
           "@context": "https://schema.org",
           "@type": "WebSite",
           name: SITE_NAME,
-          url: SITE_URL,
-          description: SITE_DESCRIPTION,
+          url: `${SITE_URL}/${loc}`,
+          inLanguage: loc,
+          description: dict.hero.subtitle,
         }}
       />
 
@@ -49,26 +55,26 @@ export default function HomePage() {
         />
         <div className="relative mx-auto max-w-6xl px-5 py-20 sm:py-28">
           <p className="font-mono text-[12px] uppercase tracking-[0.2em] text-muted">
-            Set-jetting travel guide
+            {dict.hero.eyebrow}
           </p>
           <h1 className="mt-4 max-w-3xl font-display text-5xl font-bold leading-[1.04] tracking-tight text-ink sm:text-6xl">
-            Visit the real places behind your favourite films and series.
+            {dict.hero.title}
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
-            {SITE_DESCRIPTION}
+            {dict.hero.subtitle}
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link
-              href="/titles"
+              href={localePath(loc, "/titles")}
               className="rounded-full bg-ink px-6 py-3 text-sm font-semibold text-paper transition-opacity hover:opacity-90"
             >
-              Browse series & films →
+              {dict.hero.cta1} →
             </Link>
             <Link
-              href="/destinations"
+              href={localePath(loc, "/destinations")}
               className="rounded-full border border-ink px-6 py-3 text-sm font-semibold text-ink transition-colors hover:bg-ink hover:text-paper"
             >
-              Explore destinations
+              {dict.hero.cta2}
             </Link>
           </div>
 
@@ -95,21 +101,23 @@ export default function HomePage() {
       <section className="mx-auto max-w-6xl px-5 py-16">
         <div className="flex items-baseline justify-between gap-4">
           <h2 className="font-display text-3xl font-bold text-ink">
-            On screen
+            {dict.home.onScreen}
           </h2>
           <Link
-            href="/titles"
+            href={localePath(loc, "/titles")}
             className="font-mono text-[11px] uppercase tracking-[0.14em] text-muted hover:text-ink"
           >
-            All titles →
+            {dict.home.allTitles} →
           </Link>
         </div>
         <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {TITLES.slice(0, 6).map((t) => (
+          {TITLES.slice(0, 6).map((tt) => (
             <TitleCard
-              key={t.slug}
-              title={t}
-              locationCount={locationsForTitle(t.slug).length}
+              key={tt.slug}
+              title={localizeTitle(tt, loc)}
+              locationCount={locationsForTitle(tt.slug).length}
+              locale={loc}
+              dict={dict}
             />
           ))}
         </div>
@@ -120,21 +128,23 @@ export default function HomePage() {
         <div className="mx-auto max-w-6xl px-5 py-16">
           <div className="flex items-baseline justify-between gap-4">
             <h2 className="font-display text-3xl font-bold text-ink">
-              On the map
+              {dict.home.onMap}
             </h2>
             <Link
-              href="/destinations"
+              href={localePath(loc, "/destinations")}
               className="font-mono text-[11px] uppercase tracking-[0.14em] text-muted hover:text-ink"
             >
-              All destinations →
+              {dict.home.allDestinations} →
             </Link>
           </div>
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {DESTINATIONS.slice(0, 6).map((d) => (
               <DestinationCard
                 key={d.slug}
-                destination={d}
+                destination={localizeDestination(d, loc)}
                 stats={destinationStats(d.slug)}
+                locale={loc}
+                dict={dict}
               />
             ))}
           </div>
@@ -143,17 +153,22 @@ export default function HomePage() {
 
       {/* How it works */}
       <section className="mx-auto max-w-6xl px-5 py-16">
-        <h2 className="font-display text-3xl font-bold text-ink">How it works</h2>
+        <h2 className="font-display text-3xl font-bold text-ink">
+          {dict.home.howItWorks}
+        </h2>
         <ol className="mt-8 grid gap-6 sm:grid-cols-3">
-          {STEPS.map(([title, body], i) => (
-            <li key={title} className="rounded-2xl border border-line bg-paper p-6">
+          {dict.home.steps.map((step, i) => (
+            <li
+              key={i}
+              className="rounded-2xl border border-line bg-paper p-6"
+            >
               <span className="font-display text-3xl font-bold text-muted/60">
                 {String(i + 1).padStart(2, "0")}
               </span>
               <h3 className="mt-3 font-display text-lg font-semibold text-ink">
-                {title}
+                {step.t}
               </h3>
-              <p className="mt-2 text-sm leading-relaxed text-muted">{body}</p>
+              <p className="mt-2 text-sm leading-relaxed text-muted">{step.b}</p>
             </li>
           ))}
         </ol>

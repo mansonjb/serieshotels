@@ -11,10 +11,22 @@ import { TourBlock } from "@/components/TourBlock";
 import {
   DESTINATIONS,
   getDestination,
+  getTitle,
   locationsForDestination,
   titlesForDestination,
 } from "@/lib/data";
 import { destinationGallery, destinationImage } from "@/lib/images";
+import {
+  DEFAULT_LOCALE,
+  getDict,
+  isLocale,
+  localePath,
+  localizeDestination,
+  localizeLocation,
+  localizeTitle,
+  t,
+  type Locale,
+} from "@/lib/i18n";
 import { SITE_URL } from "@/lib/site";
 
 export const dynamicParams = false;
@@ -27,21 +39,24 @@ export function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params;
-  const dest = getDestination(slug);
-  if (!dest) return {};
-  const title = `Filming locations in ${dest.name}`;
+  const { locale, slug } = await params;
+  const loc: Locale = isLocale(locale) ? locale : DEFAULT_LOCALE;
+  const base = getDestination(slug);
+  if (!base) return {};
+  const dest = localizeDestination(base, loc);
+  const dict = getDict(loc);
+  const title = t(dict.destinationPage.filmingLocationsIn, { name: dest.name });
   return {
     title,
     description: dest.blurb.slice(0, 155),
-    alternates: { canonical: `/destinations/${slug}` },
+    alternates: { canonical: `/${loc}/destinations/${slug}` },
     openGraph: {
       title,
       description: dest.blurb.slice(0, 155),
       type: "article",
-      url: `${SITE_URL}/destinations/${slug}`,
+      url: `${SITE_URL}/${loc}/destinations/${slug}`,
     },
   };
 }
@@ -49,15 +64,18 @@ export async function generateMetadata({
 export default async function DestinationPage({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ locale: string; slug: string }>;
 }) {
-  const { slug } = await params;
-  const dest = getDestination(slug);
-  if (!dest) notFound();
+  const { locale, slug } = await params;
+  const loc: Locale = isLocale(locale) ? locale : DEFAULT_LOCALE;
+  const dict = getDict(loc);
+  const base = getDestination(slug);
+  if (!base) notFound();
+  const dest = localizeDestination(base, loc);
 
   const locations = locationsForDestination(slug);
   const titles = titlesForDestination(slug);
-  const url = `${SITE_URL}/destinations/${slug}`;
+  const url = `${SITE_URL}/${loc}/destinations/${slug}`;
   const heroImg = destinationImage(slug);
   const gallery = destinationGallery(slug);
 
@@ -86,8 +104,8 @@ export default async function DestinationPage({
 
       <Breadcrumbs
         items={[
-          { name: "Home", href: "/" },
-          { name: "Destinations", href: "/destinations" },
+          { name: dict.breadcrumb.home, href: localePath(loc, "/") },
+          { name: dict.nav.destinations, href: localePath(loc, "/destinations") },
           { name: dest.name },
         ]}
       />
@@ -102,7 +120,7 @@ export default async function DestinationPage({
           {dest.region ? ` · ${dest.region}` : ""}
         </p>
         <h1 className="mt-3 font-display text-4xl font-bold leading-tight text-ink sm:text-5xl">
-          Filming locations in {dest.name}
+          {t(dict.destinationPage.filmingLocationsIn, { name: dest.name })}
         </h1>
         <p className="mt-5 max-w-2xl text-lg leading-relaxed text-muted">
           {dest.blurb}
@@ -123,7 +141,7 @@ export default async function DestinationPage({
         </div>
       )}
 
-      <AffiliateDisclosure className="mt-8" />
+      <AffiliateDisclosure locale={loc} dict={dict} className="mt-8" />
 
       <div className="mt-10 grid gap-6 lg:grid-cols-2">
         <Stay22Map
@@ -132,11 +150,13 @@ export default async function DestinationPage({
           label={dest.name}
           campaign={`dest-${slug}`}
           accent={dest.accent}
+          dict={dict}
         />
         <TourBlock
           query={`${dest.name} tours`}
           place={dest.name}
           context={`dest-${slug}`}
+          dict={dict}
         />
       </div>
 
@@ -146,7 +166,7 @@ export default async function DestinationPage({
             <Img
               key={g}
               src={g}
-              alt={`${dest.name} — view ${i + 2}`}
+              alt={`${dest.name} — ${i + 2}`}
               ratio="aspect-[4/3]"
               rounded="rounded-xl"
               className="border border-line"
@@ -156,12 +176,16 @@ export default async function DestinationPage({
         </section>
       )}
 
-      {titles.map((title) => {
+      {titles.map((titleBase) => {
+        const title = localizeTitle(titleBase, loc);
         const locs = locations.filter((l) => l.titleSlug === title.slug);
         return (
           <section key={title.slug} className="mt-14">
             <h2 className="font-display text-2xl font-bold text-ink">
-              <Link href={`/titles/${title.slug}`} className="hover:underline">
+              <Link
+                href={localePath(loc, `/titles/${title.slug}`)}
+                className="hover:underline"
+              >
                 {title.name}
               </Link>
             </h2>
@@ -169,9 +193,10 @@ export default async function DestinationPage({
               {locs.map((l) => (
                 <LocationCard
                   key={l.slug}
-                  location={l}
+                  location={localizeLocation(l, loc)}
                   subtitle={title.name}
                   accent={title.accent}
+                  locale={loc}
                 />
               ))}
             </div>

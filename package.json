@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "sync-photos": "tsx --env-file=.env.local scripts/sync-photos.ts"
+    "sync-photos": "tsx --env-file=.env.local scripts/sync-photos.ts",
+    "sync-trailers": "tsx --env-file=.env.local scripts/sync-trailers.ts",
+    "translate": "tsx --env-file=.env.local scripts/translate.ts"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",
@@ -19,6 +21,7 @@
     "react-dom": "^19.2.5"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.69.0",
     "@tailwindcss/postcss": "^4.1.13",
     "@types/mdx": "^2.0.13",
     "@types/node": "22.10.5",

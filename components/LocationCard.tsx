@@ -1,23 +1,26 @@
 import Link from "next/link";
 import { Img } from "@/components/Img";
 import type { Location } from "@/data/types";
+import { localePath, type Locale } from "@/lib/i18n";
 import { locationImage } from "@/lib/images";
 
 export function LocationCard({
   location,
   subtitle,
   accent,
+  locale,
 }: {
   location: Location;
   /** Context line, e.g. the title or destination name. */
   subtitle: string;
   /** Hex (no #) for the accent fallback. */
   accent: string;
+  locale: Locale;
 }) {
   const img = locationImage(location.slug);
   return (
     <Link
-      href={`/locations/${location.slug}`}
+      href={localePath(locale, `/locations/${location.slug}`)}
       className="group flex gap-4 rounded-2xl border border-line bg-paper p-4 transition-shadow hover:shadow-lg"
     >
       {img ? (

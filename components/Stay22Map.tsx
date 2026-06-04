@@ -1,4 +1,6 @@
 import { AffiliateLink } from "@/components/AffiliateLink";
+import type { UI } from "@/data/i18n/ui";
+import { t } from "@/lib/i18n";
 import { stay22MapSrc, stay22Url } from "@/lib/affiliates/stay22";
 
 /**
@@ -12,15 +14,16 @@ export function Stay22Map({
   label,
   campaign,
   accent,
+  dict,
 }: {
   lat: number;
   lng: number;
   /** Human label, e.g. "Dubrovnik" or "San Domenico Palace". */
   label: string;
-  /** Analytics campaign / context prefix. */
   campaign?: string;
   /** Brand accent for the pins (hex, no #). */
   accent?: string;
+  dict: UI;
 }) {
   const src = stay22MapSrc({ lat, lng, campaign, maincolor: accent });
 
@@ -29,21 +32,21 @@ export function Stay22Map({
       <div className="mb-4 flex flex-wrap items-baseline justify-between gap-3">
         <div>
           <p className="font-mono text-[11px] uppercase tracking-[0.18em] text-muted">
-            Where to stay
+            {dict.stay22.whereToStay}
           </p>
           <h3 className="font-display text-xl font-semibold text-ink">
-            Hotels near {label}
+            {t(dict.stay22.hotelsNear, { name: label })}
           </h3>
         </div>
         <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted">
-          Stay22 · sponsored
+          {dict.stay22.sponsored}
         </span>
       </div>
 
       <div className="overflow-hidden rounded-xl border border-line bg-paper">
         <iframe
           src={src}
-          title={`Hotels near ${label}`}
+          title={t(dict.stay22.hotelsNear, { name: label })}
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
           allowFullScreen
@@ -59,11 +62,10 @@ export function Stay22Map({
           href={stay22Url(label)}
           className="inline-flex items-center gap-1.5 rounded-full bg-ink px-5 py-2.5 text-sm font-semibold text-paper transition-opacity hover:opacity-90"
         >
-          Browse hotels near {label} →
+          {t(dict.stay22.browse, { name: label })} →
         </AffiliateLink>
         <p className="max-w-md text-xs leading-relaxed text-muted">
-          Same hotels, same prices — Stay22 just sends you to whichever site is
-          cheapest today, and we earn a small commission if you book.
+          {dict.stay22.note}
         </p>
       </div>
     </section>

@@ -1,4 +1,5 @@
 import { AffiliateLink } from "@/components/AffiliateLink";
+import type { UI } from "@/data/i18n/ui";
 import {
   discoverCarsUrl,
   getYourGuideSearchUrl,
@@ -15,35 +16,35 @@ export function TourBlock({
   query,
   place,
   context,
-  heading = "Make a day of it",
+  dict,
 }: {
   query: string;
   place: string;
   context: string;
-  heading?: string;
+  dict: UI;
 }) {
   const buttons: {
     network: "viator" | "getyourguide" | "tiqets" | "discovercars";
     label: string;
     href: string;
   }[] = [
-    { network: "viator", label: "Tours on Viator", href: viatorSearchUrl(query) },
+    { network: "viator", label: dict.tours.viator, href: viatorSearchUrl(query) },
     {
       network: "getyourguide",
-      label: "Tours on GetYourGuide",
+      label: dict.tours.gyg,
       href: getYourGuideSearchUrl(query),
     },
-    { network: "tiqets", label: "Tickets on Tiqets", href: tiqetsSearchUrl(query) },
-    { network: "discovercars", label: "Rent a car", href: discoverCarsUrl(place) },
+    { network: "tiqets", label: dict.tours.tiqets, href: tiqetsSearchUrl(query) },
+    { network: "discovercars", label: dict.tours.cars, href: discoverCarsUrl(place) },
   ];
 
   return (
     <section className="rounded-2xl border border-line bg-paper p-6 sm:p-8">
       <p className="font-mono text-[11px] uppercase tracking-[0.18em] text-muted">
-        {heading}
+        {dict.tours.eyebrow}
       </p>
       <h3 className="mt-1 font-display text-xl font-semibold text-ink">
-        Tours, tickets & getting there
+        {dict.tours.title}
       </h3>
       <div className="mt-5 flex flex-wrap gap-3">
         {buttons.map((b) => (
@@ -58,10 +59,7 @@ export function TourBlock({
           </AffiliateLink>
         ))}
       </div>
-      <p className="mt-4 text-xs leading-relaxed text-muted">
-        Affiliate links — booking through them supports the site at no extra
-        cost to you.
-      </p>
+      <p className="mt-4 text-xs leading-relaxed text-muted">{dict.tours.note}</p>
     </section>
   );
 }

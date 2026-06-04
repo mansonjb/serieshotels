@@ -1,0 +1,111 @@
+{
+  "ui": {
+    "nav": { "titles": "Series y Películas", "destinations": "Destinos", "guides": "Guías", "about": "Acerca de" },
+    "hero": {
+      "eyebrow": "Guía de viajes set-jetting",
+      "title": "Visita los lugares reales de tus películas y series favoritas.",
+      "subtitle": "Una guía de viajes set-jetting: los lugares de rodaje reales y visitables detrás de películas y series de éxito — con mapas, cómo llegar, excursiones y dónde alojarte cerca.",
+      "cta1": "Ver series y películas",
+      "cta2": "Explorar destinos"
+    },
+    "home": {
+      "onScreen": "En pantalla",
+      "onMap": "En el mapa",
+      "allTitles": "Todos los títulos",
+      "allDestinations": "Todos los destinos",
+      "howItWorks": "Cómo funciona",
+      "steps": [
+        { "t": "Elige una producción", "b": "Explora series y películas según los lugares donde se rodaron." },
+        { "t": "Encuentra los lugares reales", "b": "Cada lugar incluye la escena, el punto exacto en el mapa y cómo visitarlo de verdad." },
+        { "t": "Reserva alojamiento y excursiones", "b": "Compara hoteles cercanos y reserva excursiones, entradas y coches en unos pocos toques." }
+      ]
+    },
+    "labels": {
+      "series": "Serie", "film": "Película", "spot": "lugar", "spots": "lugares", "work": "obra", "works": "obras",
+      "location": "lugar", "locations": "lugares", "destination": "destino", "destinations": "destinos",
+      "minRead": "min de lectura", "guide": "Guía"
+    },
+    "titlesIndex": {
+      "heading": "Series y Películas",
+      "intro": "Elige un título para ver dónde se rodó realmente cada escena — con mapas, cómo llegar y dónde alojarte cerca."
+    },
+    "destinationsIndex": {
+      "heading": "Destinos",
+      "intro": "Cada lugar reúne todos los sitios de rodaje que hemos mapeado allí, además de dónde alojarte y qué reservar cerca."
+    },
+    "guidesIndex": {
+      "heading": "Guías",
+      "intro": "Lecturas extensas y prácticas para planificar un viaje en torno a la pantalla."
+    },
+    "titlePage": { "whereFilmed": "Dónde se rodó {name}", "across": "{n} lugares en {m} destinos" },
+    "destinationPage": { "filmingLocationsIn": "Lugares de rodaje en {name}" },
+    "locationPage": {
+      "aFilmingLocationFrom": "Un lugar de rodaje de {title} en {destination}.",
+      "theScene": "La escena",
+      "howToVisit": "Cómo visitarlo",
+      "address": "Dirección",
+      "openInMaps": "Abrir en Google Maps",
+      "closerLook": "{name} — de cerca",
+      "more": "Más para descubrir en {name}"
+    },
+    "trailer": {
+      "eyebrow": "En pantalla",
+      "title": "Ver el tráiler oficial",
+      "note": "Tráiler oficial vía YouTube — mira los lugares reales tal como aparecen en pantalla."
+    },
+    "stay22": {
+      "whereToStay": "Dónde alojarse",
+      "hotelsNear": "Hoteles cerca de {name}",
+      "sponsored": "Stay22 · patrocinado",
+      "browse": "Ver hoteles cerca de {name}",
+      "note": "Mismos hoteles, mismos precios — Stay22 simplemente te lleva al sitio más barato del día, y ganamos una pequeña comisión si reservas."
+    },
+    "tours": {
+      "eyebrow": "Haz un día de ello",
+      "title": "Excursiones, entradas y cómo llegar",
+      "viator": "Excursiones en Viator",
+      "gyg": "Excursiones en GetYourGuide",
+      "tiqets": "Entradas en Tiqets",
+      "cars": "Alquilar un coche",
+      "note": "Enlaces de afiliado — reservar a través de ellos apoya el sitio, sin coste adicional para ti."
+    },
+    "disclosure": {
+      "text": "Algunos enlaces son de afiliado — podemos ganar una comisión sin coste adicional para ti.",
+      "how": "Cómo funciona"
+    },
+    "footer": {
+      "explore": "Explorar",
+      "site": "Sitio",
+      "affiliateDisclosure": "Divulgación de afiliados",
+      "tagline": "Visita los lugares reales donde se rodaron tus películas y series favoritas.",
+      "rights": "Solo lugares reales — sin imágenes ni carteles con derechos de autor."
+    },
+    "breadcrumb": { "home": "Inicio" },
+    "notFound": {
+      "code": "404",
+      "title": "Esta escena no llegó al montaje final.",
+      "body": "La página que buscas no existe. Prueba con las series, el mapa o vuelve al inicio.",
+      "home": "Volver al inicio",
+      "browse": "Ver series"
+    },
+    "langName": "Español",
+    "aboutPage": {
+      "title": "Acerca de {site}",
+      "blocks": [
+        { "body": "{site} es una guía de viajes set-jetting. Mapeamos los lugares reales y visitables donde se rodaron películas y series, y a cada uno le añadimos lo que necesitas para planear una visita: la escena, el punto exacto en el mapa, cómo llegar y dónde alojarte cerca." },
+        { "heading": "Cómo se construyen los datos", "body": "Cada lugar se introduce a mano en un conjunto de datos tipado y se contrasta con fuentes de producción, comisiones de cine regionales y oficinas de turismo locales. Solo listamos sitios realmente accesibles — monumentos públicos, lugares con entrada, hoteles reservables — y redactamos las descripciones de escenas y los consejos de visita con nuestras propias palabras." },
+        { "heading": "Sin imágenes con derechos de autor", "body": "Aquí no encontrarás carteles ni logotipos de estudios. El contenido en pantalla pertenece a sus autores; te mostramos los lugares reales, con fotos de esos lugares y los tráilers oficiales, no fotogramas prestados." },
+        { "heading": "Cómo nos financiamos", "body": "Algunos enlaces son de afiliado — hoteles a través de Stay22, excursiones y entradas a través de socios como Viator, GetYourGuide y Tiqets, y alquiler de coches a través de DiscoverCars. Si reservas a través de uno, podemos ganar una pequeña comisión, sin coste adicional para ti. Nunca cambia qué lugares listamos ni lo que decimos de ellos." }
+      ]
+    },
+    "disclosurePage": {
+      "title": "Divulgación de afiliados",
+      "blocks": [
+        { "body": "{site} se financia gracias a sus lectores. Algunos de los enlaces salientes de este sitio son de afiliado, lo que significa que podemos ganar una comisión si haces una reserva o compra tras hacer clic — sin coste adicional para ti. Pagas el mismo precio que habrías pagado de todos modos." },
+        { "heading": "Con quién trabajamos", "body": "Stay22 para hoteles y alojamiento; Viator y GetYourGuide para excursiones y actividades; Tiqets para entradas a atracciones; y DiscoverCars para alquiler de coches." },
+        { "heading": "Nuestro compromiso", "body": "Las relaciones de afiliado nunca deciden qué lugares destacamos ni lo que decimos de ellos. Listamos un lugar porque es un sitio de rodaje real que merece la pena, punto. La comisión no influye en las descripciones de escenas, los consejos de visita ni el orden en que aparecen." }
+      ]
+    }
+  },
+  "content": { "titles": {}, "destinations": {}, "locations": {} }
+}

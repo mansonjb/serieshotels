@@ -1,19 +1,25 @@
 import Link from "next/link";
 import { Img } from "@/components/Img";
 import type { Title } from "@/data/types";
+import type { UI } from "@/data/i18n/ui";
+import { localePath, type Locale } from "@/lib/i18n";
 import { titleImage } from "@/lib/images";
 
 export function TitleCard({
   title,
   locationCount,
+  locale,
+  dict,
 }: {
   title: Title;
   locationCount: number;
+  locale: Locale;
+  dict: UI;
 }) {
   const img = titleImage(title);
   return (
     <Link
-      href={`/titles/${title.slug}`}
+      href={localePath(locale, `/titles/${title.slug}`)}
       className="group block overflow-hidden rounded-2xl border border-line bg-paper transition-shadow hover:shadow-lg"
     >
       {img ? (
@@ -35,10 +41,12 @@ export function TitleCard({
       <div className="p-6">
         <div className="flex items-center justify-between">
           <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted">
-            {title.type === "series" ? "Series" : "Film"} · {title.year}
+            {title.type === "series" ? dict.labels.series : dict.labels.film} ·{" "}
+            {title.year}
           </span>
           <span className="font-mono text-[11px] uppercase tracking-[0.14em] text-muted">
-            {locationCount} {locationCount === 1 ? "spot" : "spots"}
+            {locationCount}{" "}
+            {locationCount === 1 ? dict.labels.spot : dict.labels.spots}
           </span>
         </div>
         <h3 className="mt-3 font-display text-2xl font-semibold leading-tight text-ink group-hover:underline">

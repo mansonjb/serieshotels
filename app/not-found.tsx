@@ -1,32 +1,49 @@
 import Link from "next/link";
 
+/**
+ * Root 404 — reached only for paths with no locale (middleware redirects most
+ * traffic to a locale first). Self-contained html/body because the root layout
+ * is a passthrough; localized 404s live in app/[locale]/not-found.tsx.
+ */
 export default function NotFound() {
   return (
-    <main className="mx-auto flex max-w-6xl flex-col items-start px-5 py-28">
-      <p className="font-mono text-[12px] uppercase tracking-[0.2em] text-muted">
-        404
-      </p>
-      <h1 className="mt-4 font-display text-4xl font-bold text-ink">
-        This scene didn&apos;t make the cut.
-      </h1>
-      <p className="mt-4 max-w-md text-muted">
-        The page you&apos;re after doesn&apos;t exist. Try the series, the map,
-        or head back to the start.
-      </p>
-      <div className="mt-8 flex flex-wrap gap-3">
-        <Link
-          href="/"
-          className="rounded-full bg-ink px-6 py-3 text-sm font-semibold text-paper hover:opacity-90"
-        >
-          Back home →
-        </Link>
-        <Link
-          href="/titles"
-          className="rounded-full border border-ink px-6 py-3 text-sm font-semibold text-ink hover:bg-ink hover:text-paper"
-        >
-          Browse series
-        </Link>
-      </div>
-    </main>
+    <html lang="en">
+      <body
+        style={{
+          margin: 0,
+          fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+          background: "#faf8f3",
+          color: "#0e0e13",
+        }}
+      >
+        <main style={{ maxWidth: 640, margin: "0 auto", padding: "112px 20px" }}>
+          <p style={{ letterSpacing: "0.2em", fontSize: 12, color: "#6b6760" }}>
+            404
+          </p>
+          <h1 style={{ fontSize: 36, margin: "12px 0 0", lineHeight: 1.1 }}>
+            This page doesn&apos;t exist.
+          </h1>
+          <p style={{ color: "#6b6760", marginTop: 16 }}>
+            Head back to the start.
+          </p>
+          <Link
+            href="/en"
+            style={{
+              display: "inline-block",
+              marginTop: 24,
+              background: "#0e0e13",
+              color: "#faf8f3",
+              padding: "12px 22px",
+              borderRadius: 999,
+              textDecoration: "none",
+              fontWeight: 600,
+              fontSize: 14,
+            }}
+          >
+            Back home →
+          </Link>
+        </main>
+      </body>
+    </html>
   );
 }
