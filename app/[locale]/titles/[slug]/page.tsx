@@ -138,6 +138,12 @@ export default async function TitlePage({
         </p>
       </header>
 
+      {trailer && (
+        <div className="mt-8">
+          <TrailerEmbed youtubeId={trailer} dict={dict} />
+        </div>
+      )}
+
       {heroImg && (
         <div className="mt-8">
           <Img
@@ -147,14 +153,8 @@ export default async function TitlePage({
             rounded="rounded-2xl"
             className="border border-line"
             sizes="(max-width: 1280px) 100vw, 1152px"
-            priority
+            priority={!trailer}
           />
-        </div>
-      )}
-
-      {trailer && (
-        <div className="mt-8">
-          <TrailerEmbed youtubeId={trailer} dict={dict} />
         </div>
       )}
 
