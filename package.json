@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "sync-photos": "tsx --env-file=.env.local scripts/sync-photos.ts"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",
@@ -24,6 +25,7 @@
     "@types/react": "19.0.2",
     "@types/react-dom": "19.0.2",
     "tailwindcss": "^4.1.13",
+    "tsx": "^4.21.0",
     "typescript": "5.7.2"
   }
 }

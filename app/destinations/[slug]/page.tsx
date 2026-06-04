@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { Img } from "@/components/Img";
 import { JsonLd } from "@/components/JsonLd";
 import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
@@ -13,6 +14,7 @@ import {
   locationsForDestination,
   titlesForDestination,
 } from "@/lib/data";
+import { destinationGallery, destinationImage } from "@/lib/images";
 import { SITE_URL } from "@/lib/site";
 
 export const dynamicParams = false;
@@ -56,6 +58,8 @@ export default async function DestinationPage({
   const locations = locationsForDestination(slug);
   const titles = titlesForDestination(slug);
   const url = `${SITE_URL}/destinations/${slug}`;
+  const heroImg = destinationImage(slug);
+  const gallery = destinationGallery(slug);
 
   return (
     <main className="mx-auto max-w-6xl px-5 py-12">
@@ -105,6 +109,20 @@ export default async function DestinationPage({
         </p>
       </header>
 
+      {heroImg && (
+        <div className="mt-8">
+          <Img
+            src={heroImg}
+            alt={dest.name}
+            ratio="aspect-[21/9]"
+            rounded="rounded-2xl"
+            className="border border-line"
+            sizes="(max-width: 1280px) 100vw, 1152px"
+            priority
+          />
+        </div>
+      )}
+
       <AffiliateDisclosure className="mt-8" />
 
       <div className="mt-10 grid gap-6 lg:grid-cols-2">
@@ -121,6 +139,22 @@ export default async function DestinationPage({
           context={`dest-${slug}`}
         />
       </div>
+
+      {gallery.length > 0 && (
+        <section className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
+          {gallery.map((g, i) => (
+            <Img
+              key={g}
+              src={g}
+              alt={`${dest.name} — view ${i + 2}`}
+              ratio="aspect-[4/3]"
+              rounded="rounded-xl"
+              className="border border-line"
+              sizes="(max-width: 768px) 50vw, 33vw"
+            />
+          ))}
+        </section>
+      )}
 
       {titles.map((title) => {
         const locs = locations.filter((l) => l.titleSlug === title.slug);

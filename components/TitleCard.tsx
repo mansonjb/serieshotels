@@ -1,5 +1,7 @@
 import Link from "next/link";
+import { Img } from "@/components/Img";
 import type { Title } from "@/data/types";
+import { titleImage } from "@/lib/images";
 
 export function TitleCard({
   title,
@@ -8,17 +10,28 @@ export function TitleCard({
   title: Title;
   locationCount: number;
 }) {
+  const img = titleImage(title);
   return (
     <Link
       href={`/titles/${title.slug}`}
       className="group block overflow-hidden rounded-2xl border border-line bg-paper transition-shadow hover:shadow-lg"
     >
-      <div
-        className="h-2 w-full"
-        style={{
-          background: `linear-gradient(90deg, #${title.accent}, #${title.accent}44)`,
-        }}
-      />
+      {img ? (
+        <div className="relative">
+          <Img src={img} alt={title.name} ratio="aspect-[16/10]" />
+          <div
+            className="absolute inset-x-0 bottom-0 h-1.5"
+            style={{ background: `#${title.accent}` }}
+          />
+        </div>
+      ) : (
+        <div
+          className="h-2 w-full"
+          style={{
+            background: `linear-gradient(90deg, #${title.accent}, #${title.accent}44)`,
+          }}
+        />
+      )}
       <div className="p-6">
         <div className="flex items-center justify-between">
           <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted">

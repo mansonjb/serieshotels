@@ -1,0 +1,392 @@
+{
+  "destinations": {
+    "dubrovnik": {
+      "hero": "/destinations/dubrovnik/hero.jpg",
+      "gallery": [
+        "/destinations/dubrovnik/photo-2.jpg",
+        "/destinations/dubrovnik/photo-3.jpg",
+        "/destinations/dubrovnik/photo-4.jpg"
+      ]
+    },
+    "south-iceland": {
+      "hero": "/destinations/south-iceland/hero.jpg",
+      "gallery": [
+        "/destinations/south-iceland/photo-2.jpg",
+        "/destinations/south-iceland/photo-3.jpg",
+        "/destinations/south-iceland/photo-4.jpg"
+      ]
+    },
+    "county-down": {
+      "hero": "/destinations/county-down/hero.jpg",
+      "gallery": [
+        "/destinations/county-down/photo-2.jpg",
+        "/destinations/county-down/photo-3.jpg",
+        "/destinations/county-down/photo-4.jpg"
+      ]
+    },
+    "taormina": {
+      "hero": "/destinations/taormina/hero.jpg",
+      "gallery": [
+        "/destinations/taormina/photo-2.jpg",
+        "/destinations/taormina/photo-3.jpg",
+        "/destinations/taormina/photo-4.jpg"
+      ]
+    },
+    "paris": {
+      "hero": "/destinations/paris/hero.jpg",
+      "gallery": [
+        "/destinations/paris/photo-2.jpg",
+        "/destinations/paris/photo-3.jpg",
+        "/destinations/paris/photo-4.jpg"
+      ]
+    },
+    "seville": {
+      "hero": "/destinations/seville/hero.jpg",
+      "gallery": [
+        "/destinations/seville/photo-2.jpg",
+        "/destinations/seville/photo-3.jpg",
+        "/destinations/seville/photo-4.jpg"
+      ]
+    },
+    "girona": {
+      "hero": "/destinations/girona/hero.jpg",
+      "gallery": [
+        "/destinations/girona/photo-2.jpg",
+        "/destinations/girona/photo-3.jpg",
+        "/destinations/girona/photo-4.jpg"
+      ]
+    },
+    "basque-country": {
+      "hero": "/destinations/basque-country/hero.jpg",
+      "gallery": [
+        "/destinations/basque-country/photo-2.jpg",
+        "/destinations/basque-country/photo-3.jpg",
+        "/destinations/basque-country/photo-4.jpg"
+      ]
+    },
+    "maui": {
+      "hero": "/destinations/maui/hero.jpg",
+      "gallery": [
+        "/destinations/maui/photo-2.jpg",
+        "/destinations/maui/photo-3.jpg",
+        "/destinations/maui/photo-4.jpg"
+      ]
+    },
+    "koh-samui": {
+      "hero": "/destinations/koh-samui/hero.jpg",
+      "gallery": [
+        "/destinations/koh-samui/photo-2.jpg",
+        "/destinations/koh-samui/photo-3.jpg",
+        "/destinations/koh-samui/photo-4.jpg"
+      ]
+    },
+    "scottish-highlands": {
+      "hero": "/destinations/scottish-highlands/hero.jpg",
+      "gallery": [
+        "/destinations/scottish-highlands/photo-2.jpg",
+        "/destinations/scottish-highlands/photo-3.jpg",
+        "/destinations/scottish-highlands/photo-4.jpg"
+      ]
+    },
+    "central-scotland": {
+      "hero": "/destinations/central-scotland/hero.jpg",
+      "gallery": [
+        "/destinations/central-scotland/photo-2.jpg",
+        "/destinations/central-scotland/photo-3.jpg",
+        "/destinations/central-scotland/photo-4.jpg"
+      ]
+    },
+    "northumberland": {
+      "hero": "/destinations/northumberland/hero.jpg",
+      "gallery": [
+        "/destinations/northumberland/photo-2.jpg",
+        "/destinations/northumberland/photo-3.jpg",
+        "/destinations/northumberland/photo-4.jpg"
+      ]
+    },
+    "oxford": {
+      "hero": "/destinations/oxford/hero.jpg",
+      "gallery": [
+        "/destinations/oxford/photo-2.jpg",
+        "/destinations/oxford/photo-3.jpg",
+        "/destinations/oxford/photo-4.jpg"
+      ]
+    },
+    "north-york-moors": {
+      "hero": "/destinations/north-york-moors/hero.jpg",
+      "gallery": [
+        "/destinations/north-york-moors/photo-2.jpg",
+        "/destinations/north-york-moors/photo-3.jpg",
+        "/destinations/north-york-moors/photo-4.jpg"
+      ]
+    },
+    "matamata": {
+      "hero": "/destinations/matamata/hero.jpg",
+      "gallery": [
+        "/destinations/matamata/photo-2.jpg",
+        "/destinations/matamata/photo-3.jpg",
+        "/destinations/matamata/photo-4.jpg"
+      ]
+    },
+    "tongariro": {
+      "hero": "/destinations/tongariro/hero.jpg",
+      "gallery": [
+        "/destinations/tongariro/photo-2.jpg",
+        "/destinations/tongariro/photo-3.jpg",
+        "/destinations/tongariro/photo-4.jpg"
+      ]
+    },
+    "skopelos": {
+      "hero": "/destinations/skopelos/hero.jpg",
+      "gallery": [
+        "/destinations/skopelos/photo-2.jpg",
+        "/destinations/skopelos/photo-3.jpg",
+        "/destinations/skopelos/photo-4.jpg"
+      ]
+    },
+    "bath": {
+      "hero": "/destinations/bath/hero.jpg",
+      "gallery": [
+        "/destinations/bath/photo-2.jpg",
+        "/destinations/bath/photo-3.jpg",
+        "/destinations/bath/photo-4.jpg"
+      ]
+    },
+    "greenwich": {
+      "hero": "/destinations/greenwich/hero.jpg",
+      "gallery": [
+        "/destinations/greenwich/photo-2.jpg",
+        "/destinations/greenwich/photo-3.jpg",
+        "/destinations/greenwich/photo-4.jpg"
+      ]
+    },
+    "madrid": {
+      "hero": "/destinations/madrid/hero.jpg",
+      "gallery": [
+        "/destinations/madrid/photo-2.jpg",
+        "/destinations/madrid/photo-3.jpg",
+        "/destinations/madrid/photo-4.jpg"
+      ]
+    },
+    "extremadura": {
+      "hero": "/destinations/extremadura/hero.jpg",
+      "gallery": [
+        "/destinations/extremadura/photo-2.jpg",
+        "/destinations/extremadura/photo-3.jpg",
+        "/destinations/extremadura/photo-4.jpg"
+      ]
+    }
+  },
+  "locations": {
+    "dubrovnik-city-walls": {
+      "hero": "/locations/dubrovnik-city-walls/hero.jpg",
+      "gallery": [
+        "/locations/dubrovnik-city-walls/photo-2.jpg"
+      ]
+    },
+    "fort-lovrijenac": {
+      "hero": "/locations/fort-lovrijenac/hero.jpg",
+      "gallery": [
+        "/locations/fort-lovrijenac/photo-2.jpg"
+      ]
+    },
+    "thingvellir": {
+      "hero": "/locations/thingvellir/hero.jpg",
+      "gallery": [
+        "/locations/thingvellir/photo-2.jpg"
+      ]
+    },
+    "castle-ward": {
+      "hero": "/locations/castle-ward/hero.jpg",
+      "gallery": [
+        "/locations/castle-ward/photo-2.jpg"
+      ]
+    },
+    "alcazar-seville": {
+      "hero": "/locations/alcazar-seville/hero.jpg",
+      "gallery": [
+        "/locations/alcazar-seville/photo-2.jpg"
+      ]
+    },
+    "girona-cathedral": {
+      "hero": "/locations/girona-cathedral/hero.jpg",
+      "gallery": [
+        "/locations/girona-cathedral/photo-2.jpg"
+      ]
+    },
+    "gaztelugatxe": {
+      "hero": "/locations/gaztelugatxe/hero.jpg",
+      "gallery": [
+        "/locations/gaztelugatxe/photo-2.jpg"
+      ]
+    },
+    "san-domenico-palace": {
+      "hero": "/locations/san-domenico-palace/hero.jpg",
+      "gallery": [
+        "/locations/san-domenico-palace/photo-2.jpg"
+      ]
+    },
+    "teatro-antico-taormina": {
+      "hero": "/locations/teatro-antico-taormina/hero.jpg",
+      "gallery": [
+        "/locations/teatro-antico-taormina/photo-2.jpg"
+      ]
+    },
+    "isola-bella-taormina": {
+      "hero": "/locations/isola-bella-taormina/hero.jpg",
+      "gallery": [
+        "/locations/isola-bella-taormina/photo-2.jpg"
+      ]
+    },
+    "four-seasons-maui": {
+      "hero": "/locations/four-seasons-maui/hero.jpg",
+      "gallery": [
+        "/locations/four-seasons-maui/photo-2.jpg"
+      ]
+    },
+    "four-seasons-koh-samui": {
+      "hero": "/locations/four-seasons-koh-samui/hero.jpg",
+      "gallery": [
+        "/locations/four-seasons-koh-samui/photo-2.jpg"
+      ]
+    },
+    "place-de-lestrapade": {
+      "hero": "/locations/place-de-lestrapade/hero.jpg",
+      "gallery": [
+        "/locations/place-de-lestrapade/photo-2.jpg"
+      ]
+    },
+    "palais-garnier": {
+      "hero": "/locations/palais-garnier/hero.jpg",
+      "gallery": [
+        "/locations/palais-garnier/photo-2.jpg"
+      ]
+    },
+    "pont-alexandre-iii": {
+      "hero": "/locations/pont-alexandre-iii/hero.jpg",
+      "gallery": [
+        "/locations/pont-alexandre-iii/photo-2.jpg"
+      ]
+    },
+    "jardin-du-palais-royal": {
+      "hero": "/locations/jardin-du-palais-royal/hero.jpg",
+      "gallery": [
+        "/locations/jardin-du-palais-royal/photo-2.jpg"
+      ]
+    },
+    "doune-castle": {
+      "hero": "/locations/doune-castle/hero.jpg",
+      "gallery": [
+        "/locations/doune-castle/photo-2.jpg"
+      ]
+    },
+    "midhope-castle": {
+      "hero": "/locations/midhope-castle/hero.jpg",
+      "gallery": [
+        "/locations/midhope-castle/photo-2.jpg"
+      ]
+    },
+    "culross": {
+      "hero": "/locations/culross/hero.jpg",
+      "gallery": [
+        "/locations/culross/photo-2.jpg"
+      ]
+    },
+    "glencoe": {
+      "hero": "/locations/glencoe/hero.jpg",
+      "gallery": [
+        "/locations/glencoe/photo-2.jpg"
+      ]
+    },
+    "glenfinnan-viaduct": {
+      "hero": "/locations/glenfinnan-viaduct/hero.jpg",
+      "gallery": [
+        "/locations/glenfinnan-viaduct/photo-2.jpg"
+      ]
+    },
+    "alnwick-castle": {
+      "hero": "/locations/alnwick-castle/hero.jpg",
+      "gallery": [
+        "/locations/alnwick-castle/photo-2.jpg"
+      ]
+    },
+    "christ-church-oxford": {
+      "hero": "/locations/christ-church-oxford/hero.jpg",
+      "gallery": [
+        "/locations/christ-church-oxford/photo-2.jpg"
+      ]
+    },
+    "goathland-station": {
+      "hero": "/locations/goathland-station/hero.jpg",
+      "gallery": [
+        "/locations/goathland-station/photo-2.jpg"
+      ]
+    },
+    "hobbiton": {
+      "hero": "/locations/hobbiton/hero.jpg",
+      "gallery": [
+        "/locations/hobbiton/photo-2.jpg"
+      ]
+    },
+    "tongariro-national-park": {
+      "hero": "/locations/tongariro-national-park/hero.jpg",
+      "gallery": [
+        "/locations/tongariro-national-park/photo-2.jpg"
+      ]
+    },
+    "agios-ioannis-skopelos": {
+      "hero": "/locations/agios-ioannis-skopelos/hero.jpg",
+      "gallery": [
+        "/locations/agios-ioannis-skopelos/photo-2.jpg"
+      ]
+    },
+    "kastani-beach": {
+      "hero": "/locations/kastani-beach/hero.jpg",
+      "gallery": [
+        "/locations/kastani-beach/photo-2.jpg"
+      ]
+    },
+    "royal-crescent-bath": {
+      "hero": "/locations/royal-crescent-bath/hero.jpg",
+      "gallery": [
+        "/locations/royal-crescent-bath/photo-2.jpg"
+      ]
+    },
+    "holburne-museum": {
+      "hero": "/locations/holburne-museum/hero.jpg",
+      "gallery": [
+        "/locations/holburne-museum/photo-2.jpg"
+      ]
+    },
+    "rangers-house-greenwich": {
+      "hero": "/locations/rangers-house-greenwich/hero.jpg",
+      "gallery": [
+        "/locations/rangers-house-greenwich/photo-2.jpg"
+      ]
+    },
+    "csic-madrid": {
+      "hero": "/locations/csic-madrid/hero.jpg",
+      "gallery": [
+        "/locations/csic-madrid/photo-2.jpg"
+      ]
+    },
+    "banco-de-espana": {
+      "hero": "/locations/banco-de-espana/hero.jpg",
+      "gallery": [
+        "/locations/banco-de-espana/photo-2.jpg"
+      ]
+    },
+    "caceres-old-town": {
+      "hero": "/locations/caceres-old-town/hero.jpg",
+      "gallery": [
+        "/locations/caceres-old-town/photo-2.jpg"
+      ]
+    },
+    "trujillo-castle": {
+      "hero": "/locations/trujillo-castle/hero.jpg",
+      "gallery": [
+        "/locations/trujillo-castle/photo-2.jpg"
+      ]
+    }
+  }
+}

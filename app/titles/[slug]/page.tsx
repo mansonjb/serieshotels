@@ -3,10 +3,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { Img } from "@/components/Img";
 import { JsonLd } from "@/components/JsonLd";
 import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
+import { titleImage } from "@/lib/images";
 import type { Title } from "@/data/types";
 import {
   TITLES,
@@ -64,6 +66,7 @@ export default async function TitlePage({
   const locations = locationsForTitle(slug);
   const destinations = destinationsForTitle(slug);
   const url = `${SITE_URL}/titles/${slug}`;
+  const heroImg = titleImage(title);
 
   return (
     <main className="mx-auto max-w-6xl px-5 py-12">
@@ -114,6 +117,20 @@ export default async function TitlePage({
           {destinations.length === 1 ? "destination" : "destinations"}
         </p>
       </header>
+
+      {heroImg && (
+        <div className="mt-8">
+          <Img
+            src={heroImg}
+            alt={`A filming location from ${title.name}`}
+            ratio="aspect-[21/9]"
+            rounded="rounded-2xl"
+            className="border border-line"
+            sizes="(max-width: 1280px) 100vw, 1152px"
+            priority
+          />
+        </div>
+      )}
 
       <AffiliateDisclosure className="mt-8" />
 

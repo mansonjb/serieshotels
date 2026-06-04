@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Img } from "@/components/Img";
 import { JsonLd } from "@/components/JsonLd";
 import { TitleCard } from "@/components/TitleCard";
 import { DestinationCard } from "@/components/DestinationCard";
@@ -8,6 +9,7 @@ import {
   destinationStats,
   locationsForTitle,
 } from "@/lib/data";
+import { destinationImage } from "@/lib/images";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
 
 const STEPS: [string, string][] = [
@@ -69,6 +71,23 @@ export default function HomePage() {
               Explore destinations
             </Link>
           </div>
+
+          <div className="mt-12 grid grid-cols-3 gap-3 sm:gap-4 lg:grid-cols-5">
+            {DESTINATIONS.slice(0, 5).map((d) => {
+              const im = destinationImage(d.slug);
+              return im ? (
+                <Img
+                  key={d.slug}
+                  src={im}
+                  alt={d.name}
+                  ratio="aspect-[3/4]"
+                  rounded="rounded-xl"
+                  className="border border-line"
+                  sizes="(max-width: 768px) 33vw, 18vw"
+                />
+              ) : null;
+            })}
+          </div>
         </div>
       </section>
 
@@ -86,7 +105,7 @@ export default function HomePage() {
           </Link>
         </div>
         <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {TITLES.map((t) => (
+          {TITLES.slice(0, 6).map((t) => (
             <TitleCard
               key={t.slug}
               title={t}
@@ -111,7 +130,7 @@ export default function HomePage() {
             </Link>
           </div>
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {DESTINATIONS.map((d) => (
+            {DESTINATIONS.slice(0, 6).map((d) => (
               <DestinationCard
                 key={d.slug}
                 destination={d}

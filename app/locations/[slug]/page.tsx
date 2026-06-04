@@ -3,10 +3,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { Img } from "@/components/Img";
 import { JsonLd } from "@/components/JsonLd";
 import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
+import { locationGallery, locationImage } from "@/lib/images";
 import {
   LOCATIONS,
   destinationForLocation,
@@ -67,6 +69,8 @@ export default async function LocationPage({
   const nearby = locationsForDestination(dest.slug).filter(
     (l) => l.slug !== loc.slug,
   );
+  const heroImg = locationImage(slug);
+  const sceneImg = locationGallery(slug)[0];
 
   return (
     <main className="mx-auto max-w-4xl px-5 py-12">
@@ -132,6 +136,20 @@ export default async function LocationPage({
         </p>
       </header>
 
+      {heroImg && (
+        <div className="mt-8">
+          <Img
+            src={heroImg}
+            alt={loc.name}
+            ratio="aspect-[21/9]"
+            rounded="rounded-2xl"
+            className="border border-line"
+            sizes="(max-width: 1024px) 100vw, 896px"
+            priority
+          />
+        </div>
+      )}
+
       <AffiliateDisclosure className="mt-8" />
 
       <section className="mt-12">
@@ -139,6 +157,18 @@ export default async function LocationPage({
         <p className="mt-3 text-lg leading-relaxed text-ink/90">
           {loc.sceneContext}
         </p>
+        {sceneImg && (
+          <div className="mt-6">
+            <Img
+              src={sceneImg}
+              alt={`${loc.name} — a closer look`}
+              ratio="aspect-[16/9]"
+              rounded="rounded-2xl"
+              className="border border-line"
+              sizes="(max-width: 1024px) 100vw, 896px"
+            />
+          </div>
+        )}
       </section>
 
       <section className="mt-10">
