@@ -44,7 +44,7 @@ export default async function GuidesIndexPage({
       <h1 className="mt-6 font-display text-4xl font-bold text-ink">
         {dict.guidesIndex.heading}
       </h1>
-      <p className="mt-3 max-w-xl text-muted">{dict.guidesIndex.intro}</p>
+      <p className="mt-3 text-muted">{dict.guidesIndex.intro}</p>
 
       <div className="mt-10 space-y-4">
         {GUIDES.map((g) => (

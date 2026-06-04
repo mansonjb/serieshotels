@@ -47,7 +47,7 @@ export default async function TitlesIndexPage({
       <h1 className="mt-6 font-display text-4xl font-bold text-ink">
         {dict.titlesIndex.heading}
       </h1>
-      <p className="mt-3 max-w-xl text-muted">{dict.titlesIndex.intro}</p>
+      <p className="mt-3 text-muted">{dict.titlesIndex.intro}</p>
 
       <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {TITLES.map((tt) => (

@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* Public SEO content site — pin light mode (no theme toggle, all colours are
+/* Public SEO content site, pin light mode (no theme toggle, all colours are
    authored for a light background). */
 :root {
   color-scheme: light;
@@ -27,7 +27,7 @@ body {
 }
 
 /* Editorial MDX (rendered inside <div class="longform">). Keeps the markdown
-   clean — no per-element class plumbing in the content files. */
+   clean, no per-element class plumbing in the content files. */
 .longform {
   font-size: 1.0625rem;
   line-height: 1.75;
@@ -74,7 +74,7 @@ body {
   font-weight: 700;
 }
 
-/* Auto-scrolling marquee — the top titles strip on the home hero. The track
+/* Auto-scrolling marquee, the top titles strip on the home hero. The track
    holds the list twice and slides by -50% for a seamless loop; pauses on hover
    and is disabled for reduced-motion users. */
 @keyframes st-marquee {

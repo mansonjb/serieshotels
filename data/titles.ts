@@ -13,7 +13,7 @@ export const TITLES: Title[] = [
     genres: ["Fantasy", "Drama", "Adventure"],
     tagline: "Ten years, a whole continent of real-world stand-ins for Westeros.",
     synopsis:
-      "Noble houses across an invented world scheme, betray and go to war for a single throne, while an older threat gathers beyond the realm's frozen northern edge. Filmed across Europe for the better part of a decade, the series turned real towns, palaces and rift valleys into landscapes as recognisable as its characters — which is exactly why they reward a visit.",
+      "Noble houses across an invented world scheme, betray and go to war for a single throne, while an older threat gathers beyond the realm's frozen northern edge. Filmed across Europe for the better part of a decade, the series turned real towns, palaces and rift valleys into landscapes as recognisable as its characters, which is exactly why they reward a visit.",
     locationSlugs: [
       "dubrovnik-city-walls",
       "fort-lovrijenac",
@@ -32,9 +32,9 @@ export const TITLES: Title[] = [
     tmdbId: 111803,
     accent: "be123c",
     genres: ["Drama", "Dark comedy"],
-    tagline: "Five-star resorts, one very bad week — and real hotels you can book.",
+    tagline: "Five-star resorts, one very bad week, and real hotels you can book.",
     synopsis:
-      "An anthology of dark social comedy set at a different luxury resort each season, where wealthy guests and the staff who serve them circle one another over a week that tends to end with a body. Each season is built around a genuine hotel — Hawaii, then Sicily, then Thailand — making this the rare set you can actually check into.",
+      "An anthology of dark social comedy set at a different luxury resort each season, where wealthy guests and the staff who serve them circle one another over a week that tends to end with a body. Each season is built around a genuine hotel, Hawaii, then Sicily, then Thailand, making this the rare set you can actually check into.",
     locationSlugs: [
       "san-domenico-palace",
       "teatro-antico-taormina",
@@ -53,7 +53,7 @@ export const TITLES: Title[] = [
     genres: ["Comedy", "Romance"],
     tagline: "Postcard Paris, mapped to the cafés and bridges you can walk to.",
     synopsis:
-      "A young American marketing executive is dropped into a Paris firm and stumbles, charmingly, through the city's codes of work, food and romance. The show treats Paris as a co-star, lingering on a Latin Quarter square, a gilded bridge, a landmark opera house and the cafés in between — all real, all close together, and all easy to fold into one day on foot.",
+      "A young American marketing executive is dropped into a Paris firm and stumbles, charmingly, through the city's codes of work, food and romance. The show treats Paris as a co-star, lingering on a Latin Quarter square, a gilded bridge, a landmark opera house and the cafés in between, all real, all close together, and all easy to fold into one day on foot.",
     locationSlugs: [
       "place-de-lestrapade",
       "palais-garnier",
@@ -85,7 +85,7 @@ export const TITLES: Title[] = [
     genres: ["Fantasy", "Adventure", "Family"],
     tagline: "Hogwarts was assembled from real castles, colleges and a steam line.",
     synopsis:
-      "An orphaned boy discovers he's a wizard and comes of age across eight films at a school of magic. Hogwarts itself is a composite of real British places — a castle for the flying lessons, an Oxford college for the halls, a Highland viaduct for the train — most of which you can stand in front of today.",
+      "An orphaned boy discovers he's a wizard and comes of age across eight films at a school of magic. Hogwarts itself is a composite of real British places, a castle for the flying lessons, an Oxford college for the halls, a Highland viaduct for the train, most of which you can stand in front of today.",
     locationSlugs: [
       "glenfinnan-viaduct",
       "alnwick-castle",
@@ -129,7 +129,7 @@ export const TITLES: Title[] = [
     genres: ["Drama", "Romance", "History"],
     tagline: "Regency romance staged across Bath's crescents and Greenwich's colonnades.",
     synopsis:
-      "London's marriage market gets a lavish, gossip-fuelled makeover in this Regency romance. Much of its 'London' is actually Bath and Greenwich, whose Georgian terraces, museums and parks supply the ballrooms and townhouse facades — real places you can walk straight up to.",
+      "London's marriage market gets a lavish, gossip-fuelled makeover in this Regency romance. Much of its 'London' is actually Bath and Greenwich, whose Georgian terraces, museums and parks supply the ballrooms and townhouse facades, real places you can walk straight up to.",
     locationSlugs: [
       "royal-crescent-bath",
       "holburne-museum",

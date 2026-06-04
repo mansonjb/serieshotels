@@ -90,7 +90,7 @@ export default async function LocationPage({
   const sceneImg = locationGallery(slug)[0];
 
   return (
-    <main className="mx-auto max-w-4xl px-5 py-12">
+    <main className="mx-auto max-w-5xl px-5 py-12">
       <JsonLd
         data={{
           "@context": "https://schema.org",

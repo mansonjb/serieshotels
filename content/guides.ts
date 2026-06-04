@@ -21,7 +21,7 @@ export const GUIDES: Guide[] = [
     slug: "set-jetting-101",
     title: "Set-jetting 101: visiting filming locations the right way",
     description:
-      "A practical primer on planning a trip around film and TV locations — how to find the real spot, when to go, and how to visit without being a nuisance.",
+      "A practical primer on planning a trip around film and TV locations, how to find the real spot, when to go, and how to visit without being a nuisance.",
     readingMinutes: 6,
     loaders: {
       en: () => import("./set-jetting-101.mdx"),
@@ -35,7 +35,7 @@ export const GUIDES: Guide[] = [
     slug: "game-of-thrones-locations",
     title: "The Game of Thrones location trail: Croatia, Spain, Iceland & beyond",
     description:
-      "How the show's real-world sets fit together across Europe — from King's Landing in Dubrovnik to Dorne in Seville and Dragonstone on the Basque coast.",
+      "How the show's real-world sets fit together across Europe, from King's Landing in Dubrovnik to Dorne in Seville and Dragonstone on the Basque coast.",
     readingMinutes: 5,
     loaders: {
       en: () => import("./game-of-thrones-locations.mdx"),

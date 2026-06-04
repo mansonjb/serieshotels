@@ -8,7 +8,7 @@ import {
 } from "@/lib/affiliates/links";
 
 /**
- * Reusable "book the experience" row — tours, tickets and a car, all through
+ * Reusable "book the experience" row, tours, tickets and a car, all through
  * <AffiliateLink>. `query` is the activity/place search term; `place` is the
  * car pickup label; `context` prefixes the analytics tags.
  */

@@ -46,7 +46,7 @@ export async function generateMetadata({
   return {
     metadataBase: new URL(SITE_URL),
     title: {
-      default: `${SITE_NAME} — ${dict.hero.title}`,
+      default: `${SITE_NAME}, ${dict.hero.title}`,
       template: `%s · ${SITE_NAME}`,
     },
     description: dict.hero.subtitle,

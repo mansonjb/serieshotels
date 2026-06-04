@@ -6,7 +6,7 @@
 
 export type TitleType = "movie" | "series";
 
-/** A film or series — the "œuvre". */
+/** A film or series, the "œuvre". */
 export interface Title {
   slug: string;
   name: string;
@@ -15,16 +15,16 @@ export interface Title {
   year: number;
   /** Last-air year for an ended series. Omit for films / ongoing shows. */
   endYear?: number;
-  /** TMDB id — only for build-time enrichment scripts, never shipped to client. */
+  /** TMDB id, only for build-time enrichment scripts, never shipped to client. */
   tmdbId?: number;
   /** One-line hook, our own words. */
   tagline: string;
-  /** 1–2 paragraphs, our own words. Never copied from an official synopsis. */
+  /** 1-2 paragraphs, our own words. Never copied from an official synopsis. */
   synopsis: string;
   genres: string[];
   /** Slugs of the Locations filmed for this title. */
   locationSlugs: string[];
-  /** Accent colour (hex, no leading #) for gradients/cards — no imagery in v1. */
+  /** Accent colour (hex, no leading #) for gradients/cards, no imagery in v1. */
   accent: string;
 }
 
@@ -48,9 +48,9 @@ export interface Location {
   lat: number;
   lng: number;
   kind: LocationKind;
-  /** What was shot here — our own words. */
+  /** What was shot here, our own words. */
   sceneContext: string;
-  /** Practical "how to actually visit" notes — our own words. */
+  /** Practical "how to actually visit" notes, our own words. */
   howToVisit: string;
   /** Optional street address for maps/schema. */
   address?: string;

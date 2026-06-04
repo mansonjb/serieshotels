@@ -11,7 +11,7 @@ export const DESTINATIONS: Destination[] = [
     lng: 18.1077,
     accent: "c2410c",
     blurb:
-      "The walled old town on the Adriatic became the most filmed face of King's Landing. Its limestone streets, sea-facing ramparts and clifftop forts are walkable in an afternoon, which makes Dubrovnik the easiest set-jetting day in Europe — you can trace half a season between coffee and dinner.",
+      "The walled old town on the Adriatic became the most filmed face of King's Landing. Its limestone streets, sea-facing ramparts and clifftop forts are walkable in an afternoon, which makes Dubrovnik the easiest set-jetting day in Europe, you can trace half a season between coffee and dinner.",
   },
   {
     slug: "south-iceland",
@@ -55,7 +55,7 @@ export const DESTINATIONS: Destination[] = [
     lng: 2.3522,
     accent: "6d28d9",
     blurb:
-      "The city that plays itself. From a quiet Latin Quarter square to its grandest bridge and opera house, Paris's most photogenic corners anchor a streaming-era romance — and they're close enough to string into a single walking route across the Left and Right Banks.",
+      "The city that plays itself. From a quiet Latin Quarter square to its grandest bridge and opera house, Paris's most photogenic corners anchor a streaming-era romance, and they're close enough to string into a single walking route across the Left and Right Banks.",
   },
   {
     slug: "seville",
@@ -66,7 +66,7 @@ export const DESTINATIONS: Destination[] = [
     lng: -5.9845,
     accent: "b45309",
     blurb:
-      "Andalusia's capital lent its Moorish palaces and orange-scented courtyards to the sun-baked kingdom of Dorne. The Real Alcázar is the headline set, but the whole old town — tiled, shaded and walkable — rewards a slow couple of days.",
+      "Andalusia's capital lent its Moorish palaces and orange-scented courtyards to the sun-baked kingdom of Dorne. The Real Alcázar is the headline set, but the whole old town, tiled, shaded and walkable, rewards a slow couple of days.",
   },
   {
     slug: "girona",
@@ -121,7 +121,7 @@ export const DESTINATIONS: Destination[] = [
     lng: -5.1052,
     accent: "1e40af",
     blurb:
-      "Glens, lochs and a famous railway viaduct have made the western Highlands a magnet for screen pilgrims — the opening landscapes of a time-travel epic and the route of a certain steam-hauled school train. Fort William makes a practical base for the lot.",
+      "Glens, lochs and a famous railway viaduct have made the western Highlands a magnet for screen pilgrims, the opening landscapes of a time-travel epic and the route of a certain steam-hauled school train. Fort William makes a practical base for the lot.",
   },
   {
     slug: "central-scotland",
@@ -143,7 +143,7 @@ export const DESTINATIONS: Destination[] = [
     lng: -1.706,
     accent: "374151",
     blurb:
-      "England's far north-east is castle country, and its grandest — a still-inhabited medieval fortress — taught a generation of wizards to fly. Wide empty beaches and Hadrian's Wall are close enough to fill out the trip.",
+      "England's far north-east is castle country, and its grandest, a still-inhabited medieval fortress, taught a generation of wizards to fly. Wide empty beaches and Hadrian's Wall are close enough to fill out the trip.",
   },
   {
     slug: "oxford",
@@ -209,7 +209,7 @@ export const DESTINATIONS: Destination[] = [
     lng: -2.359,
     accent: "a21caf",
     blurb:
-      "Georgian crescents, honey-coloured terraces and Roman baths make this UNESCO city a ready-made Regency set — and the costume-drama crews know it. Most of the filmed facades are an easy stroll apart.",
+      "Georgian crescents, honey-coloured terraces and Roman baths make this UNESCO city a ready-made Regency set, and the costume-drama crews know it. Most of the filmed facades are an easy stroll apart.",
   },
   {
     slug: "greenwich",

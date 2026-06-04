@@ -4,7 +4,7 @@ import { t } from "@/lib/i18n";
 import { stay22MapSrc, stay22Url } from "@/lib/affiliates/stay22";
 
 /**
- * Stay22 "where to stay" block — a lazy-loaded interactive hotel map plus a
+ * Stay22 "where to stay" block, a lazy-loaded interactive hotel map plus a
  * fallback deeplink. Server component: the AID is read from env inside the
  * lib helpers and baked into the iframe src, never hardcoded.
  */

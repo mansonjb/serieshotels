@@ -1,10 +1,10 @@
 /**
- * Stay22 helpers — the monetization pivot. A single affiliate id (STAY22_AID)
+ * Stay22 helpers, the monetization pivot. A single affiliate id (STAY22_AID)
  * covers every major OTA (Booking, Hotels.com, Airbnb, Expedia, Vrbo).
  *
  * The id is read server-side ONLY and never hardcoded (see CLAUDE.md). It is
  * injected into the lazy <Stay22Map> iframe src at render time. If unset, the
- * widget still renders — just without commission attribution.
+ * widget still renders, just without commission attribution.
  */
 const AID = process.env.STAY22_AID || "";
 

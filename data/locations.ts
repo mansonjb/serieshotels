@@ -13,9 +13,9 @@ export const LOCATIONS: Location[] = [
     kind: "landmark",
     address: "Stari Grad, 20000 Dubrovnik, Croatia",
     sceneContext:
-      "The sea-facing ramparts and the old harbour stood in for King's Landing throughout the series — the walk along the walls frames the same rooftops and bays you'll recognise from the capital's exterior shots.",
+      "The sea-facing ramparts and the old harbour stood in for King's Landing throughout the series, the walk along the walls frames the same rooftops and bays you'll recognise from the capital's exterior shots.",
     howToVisit:
-      "Buy a timed ticket for the full circuit of the walls (a one-way loop of roughly two kilometres, mostly stairs). Go at opening or late afternoon to dodge cruise crowds and the heat; allow 60–90 minutes.",
+      "Buy a timed ticket for the full circuit of the walls (a one-way loop of roughly two kilometres, mostly stairs). Go at opening or late afternoon to dodge cruise crowds and the heat; allow 60-90 minutes.",
     nearbyTips: [
       "Enter at the Pile Gate and descend onto the Stradun, the main marble street.",
       "Take the cable car up Mount Srđ for the overhead view of the whole walled city.",
@@ -67,7 +67,7 @@ export const LOCATIONS: Location[] = [
     kind: "building",
     address: "Strangford, Downpatrick BT30 7LS, United Kingdom",
     sceneContext:
-      "The farmyard and tower at this National Trust estate were built out into Winterfell's courtyard — the spot where the Stark household gathers in the very first episode.",
+      "The farmyard and tower at this National Trust estate were built out into Winterfell's courtyard, the spot where the Stark household gathers in the very first episode.",
     howToVisit:
       "A National Trust property with paid entry (free for members). Independent operators on site run costumed archery and cycle tours of the filming spots; book those ahead in summer. About 50 minutes from Belfast.",
     nearbyTips: [
@@ -87,7 +87,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "The Moorish palace's tiled courtyards and sunken gardens became the Water Gardens of Dorne, the seat of House Martell.",
     howToVisit:
-      "Book a timed ticket online well ahead — it sells out daily, especially in spring. Go first thing to walk the gardens before the heat and crowds; allow at least 90 minutes.",
+      "Book a timed ticket online well ahead, it sells out daily, especially in spring. Go first thing to walk the gardens before the heat and crowds; allow at least 90 minutes.",
     nearbyTips: [
       "The Seville Cathedral and Giralda tower are next door.",
       "Wander the tangled lanes of the Santa Cruz quarter just outside the walls.",
@@ -141,9 +141,9 @@ export const LOCATIONS: Location[] = [
     kind: "hotel",
     address: "Piazza San Domenico de Guzman 5, 98039 Taormina, Italy",
     sceneContext:
-      "This former convent turned cliff-top hotel was the real 'White Lotus Sicily' — its terraces, pool and sea views are the resort you watch the guests fall apart in.",
+      "This former convent turned cliff-top hotel was the real 'White Lotus Sicily', its terraces, pool and sea views are the resort you watch the guests fall apart in.",
     howToVisit:
-      "It's a working five-star hotel, so the grounds are for guests and rooms book up far ahead for summer. If you're not staying, you can often reserve a drink or lunch on the terrace — call ahead to check.",
+      "It's a working five-star hotel, so the grounds are for guests and rooms book up far ahead for summer. If you're not staying, you can often reserve a drink or lunch on the terrace, call ahead to check.",
     nearbyTips: [
       "The hotel sits steps from Corso Umberto, the town's pedestrian spine.",
       "The public gardens (Villa Comunale) nearby give similar views for free.",
@@ -164,7 +164,7 @@ export const LOCATIONS: Location[] = [
       "Paid timed ticket; go early or near closing for softer light and the clearest view of Etna. The climb up through town is gentle but uphill, so leave time. Allow 45 minutes inside.",
     nearbyTips: [
       "It's a five-minute walk from the top of Corso Umberto.",
-      "Grab a granita and brioche on the way up — a Sicilian breakfast ritual.",
+      "Grab a granita and brioche on the way up, a Sicilian breakfast ritual.",
     ],
   },
   {
@@ -179,7 +179,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "The tiny island reserve and the pebble beach below town feature in the season's boat and shoreline scenes, just under the cliffs the hotel sits on.",
     howToVisit:
-      "Reach the beach by the cable car (funivia) down from town, then walk the short causeway to the island at low tide. The nature reserve charges a small entry fee. Bring water shoes — it's pebbles, not sand.",
+      "Reach the beach by the cable car (funivia) down from town, then walk the short causeway to the island at low tide. The nature reserve charges a small entry fee. Bring water shoes, it's pebbles, not sand.",
     nearbyTips: [
       "Mazzarò beach next door has loungers and beach bars.",
       "The funivia runs every 15 minutes and saves a steep walk back up.",
@@ -215,7 +215,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "This hillside resort of private pool villas above the Gulf of Thailand served as the principal 'White Lotus Thailand' in the third season.",
     howToVisit:
-      "A guest-only resort on the island's quieter north-west coast; villas book up well ahead. Non-guests can sometimes arrange a meal at the restaurants — enquire directly.",
+      "A guest-only resort on the island's quieter north-west coast; villas book up well ahead. Non-guests can sometimes arrange a meal at the restaurants, enquire directly.",
     nearbyTips: [
       "The Big Buddha temple (Wat Phra Yai) is a short drive east.",
       "Fisherman's Village in Bophut has night-market food and bars.",
@@ -235,7 +235,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "This quiet Latin Quarter square is home to the building used for Emily's apartment, and the corner restaurant on it stands in for the bistro downstairs.",
     howToVisit:
-      "It's a real residential square, so visit considerately and keep noise down — people live here. There's no ticket; the café and bakery on the corner are open to all. Mornings are quietest for photos.",
+      "It's a real residential square, so visit considerately and keep noise down, people live here. There's no ticket; the café and bakery on the corner are open to all. Mornings are quietest for photos.",
     nearbyTips: [
       "The Panthéon is a two-minute walk away.",
       "The Jardin du Luxembourg is a short stroll west.",
@@ -269,7 +269,7 @@ export const LOCATIONS: Location[] = [
     kind: "landmark",
     address: "Pont Alexandre III, 75008 Paris, France",
     sceneContext:
-      "The most ornate bridge in Paris — gilded statues, lamp posts and all — turns up in the series' romantic and establishing beats over the Seine.",
+      "The most ornate bridge in Paris, gilded statues, lamp posts and all, turns up in the series' romantic and establishing beats over the Seine.",
     howToVisit:
       "A public bridge, free and open at all hours. Sunrise and the blue hour after sunset give the best light and the thinnest crowds. Walk down to the riverbank quays underneath for the postcard angle.",
     nearbyTips: [
@@ -287,7 +287,7 @@ export const LOCATIONS: Location[] = [
     kind: "landmark",
     address: "8 Rue de Montpensier, 75001 Paris, France",
     sceneContext:
-      "The arcaded royal garden — and the striped Buren columns in its forecourt — feature as one of Emily's elegant Right Bank strolls.",
+      "The arcaded royal garden, and the striped Buren columns in its forecourt, feature as one of Emily's elegant Right Bank strolls.",
     howToVisit:
       "The garden is free and open daily; the surrounding arcades hide old-world shops and cafés. Early morning gives you the colonnades almost to yourself.",
     nearbyTips: [
@@ -307,9 +307,9 @@ export const LOCATIONS: Location[] = [
     kind: "building",
     address: "Castle Rd, Doune FK16 6EA, United Kingdom",
     sceneContext:
-      "This medieval stronghold played Castle Leoch, seat of Clan MacKenzie — the same courtyard that earlier stood in for Winterfell in the Game of Thrones pilot.",
+      "This medieval stronghold played Castle Leoch, seat of Clan MacKenzie, the same courtyard that earlier stood in for Winterfell in the Game of Thrones pilot.",
     howToVisit:
-      "Run by Historic Environment Scotland with paid entry; the excellent audio guide leans into the screen history. About an hour from both Edinburgh and Glasgow. Allow 60–90 minutes.",
+      "Run by Historic Environment Scotland with paid entry; the excellent audio guide leans into the screen history. About an hour from both Edinburgh and Glasgow. Allow 60-90 minutes.",
     nearbyTips: [
       "The town of Stirling and its castle are 20 minutes away.",
       "The Trossachs and Loch Lomond start just to the west.",
@@ -325,9 +325,9 @@ export const LOCATIONS: Location[] = [
     kind: "building",
     address: "Hopetoun Estate, South Queensferry EH30 9SL, United Kingdom",
     sceneContext:
-      "The weathered tower house is the exterior of Lallybroch, the Fraser family home — one of the most recognised facades in the whole series.",
+      "The weathered tower house is the exterior of Lallybroch, the Fraser family home, one of the most recognised facades in the whole series.",
     howToVisit:
-      "It sits on the private Hopetoun Estate; pay the small access fee at the estate before driving in. Only the exterior can be visited — the inside isn't open — but the courtyard is the photo everyone comes for.",
+      "It sits on the private Hopetoun Estate; pay the small access fee at the estate before driving in. Only the exterior can be visited, the inside isn't open, but the courtyard is the photo everyone comes for.",
     nearbyTips: [
       "Hopetoun House itself is nearby and open to visitors.",
       "South Queensferry and the three Forth bridges are 15 minutes away.",
@@ -345,7 +345,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "This perfectly preserved 17th-century burgh became the village of Cranesmuir, and the ochre Culross Palace garden played Claire's healing herb garden.",
     howToVisit:
-      "Wander the cobbled streets for free; the National Trust palace and garden have paid entry. It's a small place — an hour or two covers it — on the north shore of the Firth of Forth.",
+      "Wander the cobbled streets for free; the National Trust palace and garden have paid entry. It's a small place, an hour or two covers it, on the north shore of the Firth of Forth.",
     nearbyTips: [
       "The Kincardine and Clackmannanshire bridges are close for onward driving.",
       "Combine it with Doune Castle for a full Outlander day.",
@@ -363,7 +363,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "The brooding glen and its surrounding peaks supply the sweeping Highland landscapes of the opening titles and several travel sequences.",
     howToVisit:
-      "Free and open year-round; it's a drive through on the A82 with marked viewpoints and trailheads. The Glencoe Visitor Centre explains the geology and history. Weather changes fast — pack layers.",
+      "Free and open year-round; it's a drive through on the A82 with marked viewpoints and trailheads. The Glencoe Visitor Centre explains the geology and history. Weather changes fast, pack layers.",
     nearbyTips: [
       "Fort William, the area's hub, is 30 minutes north.",
       "The Glenfinnan Viaduct is within easy reach for a Harry Potter add-on.",
@@ -381,9 +381,9 @@ export const LOCATIONS: Location[] = [
     kind: "landmark",
     address: "Glenfinnan, Fort William PH37 4LT, United Kingdom",
     sceneContext:
-      "The graceful curved railway viaduct is the one the Hogwarts Express steams across — most famously with a flying car in pursuit.",
+      "The graceful curved railway viaduct is the one the Hogwarts Express steams across, most famously with a flying car in pursuit.",
     howToVisit:
-      "Park at the Glenfinnan visitor car park and walk up the trail to the viewpoint (15–20 minutes). Time it for the Jacobite steam train crossing, which runs daily in season — check the timetable before you go.",
+      "Park at the Glenfinnan visitor car park and walk up the trail to the viewpoint (15-20 minutes). Time it for the Jacobite steam train crossing, which runs daily in season, check the timetable before you go.",
     nearbyTips: [
       "The Glenfinnan Monument and Loch Shiel are right below.",
       "Continue to Mallaig for the ferry to the Isle of Skye.",
@@ -399,9 +399,9 @@ export const LOCATIONS: Location[] = [
     kind: "building",
     address: "Alnwick NE66 1NQ, United Kingdom",
     sceneContext:
-      "The castle's outer bailey is where the first films staged Harry's broomstick flying lessons — the lawns Madam Hooch teaches on.",
+      "The castle's outer bailey is where the first films staged Harry's broomstick flying lessons, the lawns Madam Hooch teaches on.",
     howToVisit:
-      "Paid entry; the castle runs daily broomstick-flying sessions on the same lawns, which kids love. It's still a family home, so opening is seasonal — check dates. Allow half a day.",
+      "Paid entry; the castle runs daily broomstick-flying sessions on the same lawns, which kids love. It's still a family home, so opening is seasonal, check dates. Allow half a day.",
     nearbyTips: [
       "The Alnwick Garden and its giant treehouse are next door.",
       "Northumberland's wide beaches (Bamburgh, Embleton) are a short drive.",
@@ -457,7 +457,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "The Shire, complete with Bag End and its round hobbit-hole doors, was built on a working sheep farm and kept permanently as a visitor attraction.",
     howToVisit:
-      "Visits are by guided tour only, booked in advance — you can't drive into the set itself. Tours leave from the nearby ticket centre; the Green Dragon Inn pours a complimentary ale at the end. Allow about half a day.",
+      "Visits are by guided tour only, booked in advance, you can't drive into the set itself. Tours leave from the nearby ticket centre; the Green Dragon Inn pours a complimentary ale at the end. Allow about half a day.",
     nearbyTips: [
       "The town of Matamata has the photogenic 'Hobbiton i-SITE' info centre.",
       "Rotorua's geothermal parks are about an hour south.",
@@ -477,7 +477,7 @@ export const LOCATIONS: Location[] = [
     howToVisit:
       "Free to enter; the celebrated Tongariro Alpine Crossing is a strenuous full-day, one-way hike needing a shuttle and good weather. For a gentler taste, shorter trails leave from Whakapapa village.",
     nearbyTips: [
-      "Book a Crossing shuttle ahead in summer — parking is limited.",
+      "Book a Crossing shuttle ahead in summer, parking is limited.",
       "Lake Taupō, with its own activities, is to the north.",
     ],
   },
@@ -513,7 +513,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "This pine-backed pebble cove on the island's west coast is where several of the film's beach musical numbers were staged.",
     howToVisit:
-      "A public beach with a seasonal taverna and sunbed hire; the water is clear and calm. Go by car or scooter — the road winds down through pine forest. Mornings are quietest.",
+      "A public beach with a seasonal taverna and sunbed hire; the water is clear and calm. Go by car or scooter, the road winds down through pine forest. Mornings are quietest.",
     nearbyTips: [
       "Milia and Panormos beaches are close by along the same coast.",
       "Bring water shoes for the pebbles.",
@@ -607,7 +607,7 @@ export const LOCATIONS: Location[] = [
     sceneContext:
       "The real Bank of Spain on Plaza de Cibeles is the target of the second heist; its monumental corner facade appears throughout, though the interiors were a built set.",
     howToVisit:
-      "An exterior-only stop — it's a functioning central bank. The best vantage is from across Plaza de Cibeles, one of Madrid's grandest junctions.",
+      "An exterior-only stop, it's a functioning central bank. The best vantage is from across Plaza de Cibeles, one of Madrid's grandest junctions.",
     nearbyTips: [
       "Climb the Cibeles Palace rooftop terrace opposite for the view.",
       "The Prado and Retiro Park are a short walk east.",
@@ -625,7 +625,7 @@ export const LOCATIONS: Location[] = [
     kind: "street",
     address: "Plaza de Santa María, 10003 Cáceres, Spain",
     sceneContext:
-      "The untouched medieval quarter — towers, palaces and stone lanes — doubled as the streets of King's Landing, needing barely any set dressing.",
+      "The untouched medieval quarter, towers, palaces and stone lanes, doubled as the streets of King's Landing, needing barely any set dressing.",
     howToVisit:
       "The walled old town is free to wander; some palaces and towers charge small entry fees. It's compact and best on foot, ideally at golden hour when the stone glows. Allow a half-day.",
     nearbyTips: [

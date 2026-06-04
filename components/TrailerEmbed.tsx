@@ -1,7 +1,7 @@
 import type { UI } from "@/data/i18n/ui";
 
 /**
- * Official trailer embed — the legal way to show real footage of a film/series
+ * Official trailer embed, the legal way to show real footage of a film/series
  * (served by the rights-holder via YouTube), paired with the "now" photos.
  * Renders nothing when no trailer id is set, so titles without one (or before
  * `pnpm sync-trailers` runs) simply omit the block.

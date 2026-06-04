@@ -4,7 +4,7 @@ import NextImage from "next/image";
  * Site-wide image wrapper. A fixed-aspect frame + next/image `fill`, which
  * gives automatic AVIF/WebP, responsive srcset, and lazy-loading below the
  * fold. All sources are local /public JPEGs fetched from Google Places
- * (real places only — no posters/stills).
+ * (real places only, no posters/stills).
  */
 export function Img({
   src,

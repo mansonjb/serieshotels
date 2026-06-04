@@ -65,7 +65,7 @@ export async function generateMetadata({
 
 function yearLabel(tt: Title): string {
   if (tt.type === "movie") return String(tt.year);
-  return `${tt.year}–${tt.endYear ?? "present"}`;
+  return `${tt.year}-${tt.endYear ?? "present"}`;
 }
 
 export default async function TitlePage({
@@ -124,10 +124,10 @@ export default async function TitlePage({
           {title.type === "series" ? dict.labels.series : dict.labels.film} ·{" "}
           {yearLabel(title)} · {title.genres.join(" · ")}
         </p>
-        <h1 className="mt-3 max-w-3xl font-display text-4xl font-bold leading-tight text-ink sm:text-5xl">
+        <h1 className="mt-3 font-display text-4xl font-bold leading-tight text-ink sm:text-5xl">
           {t(dict.titlePage.whereFilmed, { name: title.name })}
         </h1>
-        <p className="mt-5 max-w-2xl text-lg leading-relaxed text-muted">
+        <p className="mt-5 text-lg leading-relaxed text-muted">
           {title.synopsis}
         </p>
         <p className="mt-5 font-mono text-[11px] uppercase tracking-[0.14em] text-muted">

@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 /**
- * Root 404 — reached only for paths with no locale (middleware redirects most
+ * Root 404, reached only for paths with no locale (middleware redirects most
  * traffic to a locale first). Self-contained html/body because the root layout
  * is a passthrough; localized 404s live in app/[locale]/not-found.tsx.
  */

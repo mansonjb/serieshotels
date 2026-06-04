@@ -68,7 +68,7 @@ export default async function HomePage({
           <h1 className="mt-4 max-w-3xl font-display text-5xl font-bold leading-[1.04] tracking-tight text-ink sm:text-6xl">
             {dict.hero.title}
           </h1>
-          <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
+          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted">
             {dict.hero.subtitle}
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
@@ -87,7 +87,7 @@ export default async function HomePage({
           </div>
         </div>
 
-        {/* Top titles, auto-scrolling, edge to edge — above the fold. */}
+        {/* Top titles, auto-scrolling, edge to edge, above the fold. */}
         <div className="relative pb-12 sm:pb-16">
           <TitleMarquee
             items={marqueeItems}

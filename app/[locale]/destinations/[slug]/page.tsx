@@ -122,7 +122,7 @@ export default async function DestinationPage({
         <h1 className="mt-3 font-display text-4xl font-bold leading-tight text-ink sm:text-5xl">
           {t(dict.destinationPage.filmingLocationsIn, { name: dest.name })}
         </h1>
-        <p className="mt-5 max-w-2xl text-lg leading-relaxed text-muted">
+        <p className="mt-5 text-lg leading-relaxed text-muted">
           {dest.blurb}
         </p>
       </header>
@@ -166,7 +166,7 @@ export default async function DestinationPage({
             <Img
               key={g}
               src={g}
-              alt={`${dest.name} — ${i + 2}`}
+              alt={`${dest.name}, ${i + 2}`}
               ratio="aspect-[4/3]"
               rounded="rounded-xl"
               className="border border-line"
