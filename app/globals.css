@@ -73,3 +73,28 @@ body {
 .longform strong {
   font-weight: 700;
 }
+
+/* Auto-scrolling marquee — the top titles strip on the home hero. The track
+   holds the list twice and slides by -50% for a seamless loop; pauses on hover
+   and is disabled for reduced-motion users. */
+@keyframes st-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.marquee {
+  display: flex;
+  width: max-content;
+  animation: st-marquee 60s linear infinite;
+}
+.marquee-mask:hover .marquee {
+  animation-play-state: paused;
+}
+@media (prefers-reduced-motion: reduce) {
+  .marquee {
+    animation: none;
+  }
+}

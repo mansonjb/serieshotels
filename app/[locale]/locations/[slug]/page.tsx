@@ -264,7 +264,7 @@ export default async function LocationPage({
           <h2 className="font-display text-2xl font-bold text-ink">
             {t(dict.locationPage.more, { name: dest.name })}
           </h2>
-          <div className="mt-6 grid gap-4 sm:grid-cols-2">
+          <div className="mt-6 grid gap-4">
             {nearby.map((l) => {
               const tb = getTitle(l.titleSlug);
               return (

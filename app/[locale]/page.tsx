@@ -1,15 +1,15 @@
 import Link from "next/link";
-import { Img } from "@/components/Img";
 import { JsonLd } from "@/components/JsonLd";
 import { TitleCard } from "@/components/TitleCard";
 import { DestinationCard } from "@/components/DestinationCard";
+import { TitleMarquee, type MarqueeItem } from "@/components/TitleMarquee";
 import {
   DESTINATIONS,
   TITLES,
   destinationStats,
   locationsForTitle,
 } from "@/lib/data";
-import { destinationImage } from "@/lib/images";
+import { titleImage } from "@/lib/images";
 import {
   DEFAULT_LOCALE,
   getDict,
@@ -29,6 +29,14 @@ export default async function HomePage({
   const { locale } = await params;
   const loc: Locale = isLocale(locale) ? locale : DEFAULT_LOCALE;
   const dict = getDict(loc);
+
+  const marqueeItems: MarqueeItem[] = TITLES.map((tt) => ({
+    slug: tt.slug,
+    name: tt.name,
+    meta: `${tt.type === "series" ? dict.labels.series : dict.labels.film} · ${tt.year}`,
+    img: titleImage(tt),
+    accent: tt.accent,
+  }));
 
   return (
     <main>
@@ -53,7 +61,7 @@ export default async function HomePage({
               "linear-gradient(115deg, #be123c 0%, #6d28d9 28%, #0e7490 52%, #15803d 74%, #c2410c 100%)",
           }}
         />
-        <div className="relative mx-auto max-w-6xl px-5 py-20 sm:py-28">
+        <div className="relative mx-auto max-w-6xl px-5 pt-14 pb-8 sm:pt-20 sm:pb-10">
           <p className="font-mono text-[12px] uppercase tracking-[0.2em] text-muted">
             {dict.hero.eyebrow}
           </p>
@@ -77,23 +85,14 @@ export default async function HomePage({
               {dict.hero.cta2}
             </Link>
           </div>
+        </div>
 
-          <div className="mt-12 grid grid-cols-3 gap-3 sm:gap-4 lg:grid-cols-5">
-            {DESTINATIONS.slice(0, 5).map((d) => {
-              const im = destinationImage(d.slug);
-              return im ? (
-                <Img
-                  key={d.slug}
-                  src={im}
-                  alt={d.name}
-                  ratio="aspect-[3/4]"
-                  rounded="rounded-xl"
-                  className="border border-line"
-                  sizes="(max-width: 768px) 33vw, 18vw"
-                />
-              ) : null;
-            })}
-          </div>
+        {/* Top titles, auto-scrolling, edge to edge — above the fold. */}
+        <div className="relative pb-12 sm:pb-16">
+          <TitleMarquee
+            items={marqueeItems}
+            hrefBase={localePath(loc, "/titles")}
+          />
         </div>
       </section>
 

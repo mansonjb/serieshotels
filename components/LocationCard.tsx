@@ -27,28 +27,30 @@ export function LocationCard({
         <Img
           src={img}
           alt={location.name}
-          ratio="aspect-square"
+          ratio="aspect-[4/3]"
           rounded="rounded-xl"
-          className="w-24 shrink-0 sm:w-28"
-          sizes="112px"
+          className="w-32 shrink-0 sm:w-52"
+          sizes="(max-width: 640px) 128px, 208px"
         />
       ) : (
         <div
-          className="w-1.5 shrink-0 rounded-full"
-          style={{ background: `#${accent}` }}
+          className="aspect-[4/3] w-32 shrink-0 rounded-xl sm:w-52"
+          style={{
+            background: `linear-gradient(135deg, #${accent}, #${accent}66)`,
+          }}
           aria-hidden
         />
       )}
-      <div className="min-w-0 py-1">
+      <div className="min-w-0 flex-1 py-1">
         <div className="flex flex-wrap items-center gap-x-2 font-mono text-[11px] uppercase tracking-[0.14em] text-muted">
           <span>{location.kind}</span>
           <span className="text-line">·</span>
           <span className="truncate">{subtitle}</span>
         </div>
-        <h3 className="mt-1.5 font-display text-lg font-semibold leading-tight text-ink group-hover:underline">
+        <h3 className="mt-1.5 font-display text-lg font-semibold leading-tight text-ink group-hover:underline sm:text-xl">
           {location.name}
         </h3>
-        <p className="mt-1.5 line-clamp-2 text-sm leading-relaxed text-muted">
+        <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-muted sm:line-clamp-3">
           {location.sceneContext}
         </p>
       </div>

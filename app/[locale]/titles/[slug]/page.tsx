@@ -181,7 +181,7 @@ export default async function TitlePage({
               </span>
             </div>
 
-            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            <div className="mt-6 grid gap-4">
               {locs.map((l) => (
                 <LocationCard
                   key={l.slug}
