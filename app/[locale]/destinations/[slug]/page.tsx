@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Img } from "@/components/Img";
 import { JsonLd } from "@/components/JsonLd";
@@ -140,9 +139,6 @@ export default async function DestinationPage({
           />
         </div>
       )}
-
-      <AffiliateDisclosure locale={loc} dict={dict} className="mt-8" />
-
       <div className="mt-10 grid gap-6 lg:grid-cols-2">
         <Stay22Map
           lat={dest.lat}

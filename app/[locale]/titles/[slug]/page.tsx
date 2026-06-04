@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Img } from "@/components/Img";
 import { JsonLd } from "@/components/JsonLd";
@@ -157,9 +156,6 @@ export default async function TitlePage({
           />
         </div>
       )}
-
-      <AffiliateDisclosure locale={loc} dict={dict} className="mt-8" />
-
       {destinations.map((destBase) => {
         const dest = localizeDestination(destBase, loc);
         const locs = locations.filter((l) => l.destinationSlug === dest.slug);
