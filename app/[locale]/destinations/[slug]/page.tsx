@@ -139,7 +139,7 @@ export default async function DestinationPage({
           />
         </div>
       )}
-      <div className="mt-10 grid gap-6 lg:grid-cols-2">
+      <div className="mt-10 space-y-6">
         <Stay22Map
           lat={dest.lat}
           lng={dest.lng}

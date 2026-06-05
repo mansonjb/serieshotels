@@ -189,7 +189,7 @@ export default async function TitlePage({
               ))}
             </div>
 
-            <div className="mt-6 grid gap-6 lg:grid-cols-2">
+            <div className="mt-6 space-y-6">
               <Stay22Map
                 lat={dest.lat}
                 lng={dest.lng}
