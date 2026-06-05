@@ -5,6 +5,9 @@ import type { UI } from "@/data/i18n/ui";
 import { localePath, type Locale } from "@/lib/i18n";
 import { titleImage } from "@/lib/images";
 
+const SHADOW_SM = { textShadow: "0 1px 3px rgba(0,0,0,0.45)" };
+const SHADOW_LG = { textShadow: "0 2px 10px rgba(0,0,0,0.55)" };
+
 export function TitleCard({
   title,
   locationCount,
@@ -17,42 +20,60 @@ export function TitleCard({
   dict: UI;
 }) {
   const img = titleImage(title);
+  const meta = `${title.type === "series" ? dict.labels.series : dict.labels.film} · ${title.year}`;
+
   return (
     <Link
       href={localePath(locale, `/titles/${title.slug}`)}
       className="group block overflow-hidden rounded-2xl border border-line bg-paper transition-shadow hover:shadow-lg"
     >
-      {img ? (
-        <div className="relative">
-          <Img src={img} alt={title.name} ratio="aspect-[16/10]" />
+      <div className="relative">
+        {img ? (
+          <Img src={img} alt={title.name} ratio="aspect-[4/3]" />
+        ) : (
           <div
-            className="absolute inset-x-0 bottom-0 h-1.5"
-            style={{ background: `#${title.accent}` }}
+            className="aspect-[4/3] w-full"
+            style={{
+              background: `linear-gradient(135deg, #${title.accent}, #${title.accent}66)`,
+            }}
           />
+        )}
+
+        {/* Calque noir à 20 % pour faire ressortir le titre en surimpression. */}
+        <div className="pointer-events-none absolute inset-0 bg-black/20" />
+
+        <div className="absolute inset-0 flex flex-col justify-between p-5">
+          <div className="flex items-start justify-between gap-3">
+            <span
+              className="font-mono text-[11px] uppercase tracking-[0.16em] text-white/85"
+              style={SHADOW_SM}
+            >
+              {meta}
+            </span>
+            <span
+              className="font-mono text-[11px] uppercase tracking-[0.14em] text-white/85"
+              style={SHADOW_SM}
+            >
+              {locationCount}{" "}
+              {locationCount === 1 ? dict.labels.spot : dict.labels.spots}
+            </span>
+          </div>
+          <h3
+            className="font-display text-2xl font-semibold leading-tight text-white group-hover:underline"
+            style={SHADOW_LG}
+          >
+            {title.name}
+          </h3>
         </div>
-      ) : (
+
         <div
-          className="h-2 w-full"
-          style={{
-            background: `linear-gradient(90deg, #${title.accent}, #${title.accent}44)`,
-          }}
+          className="pointer-events-none absolute inset-x-0 bottom-0 h-1.5"
+          style={{ background: `#${title.accent}` }}
         />
-      )}
-      <div className="p-6">
-        <div className="flex items-center justify-between">
-          <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted">
-            {title.type === "series" ? dict.labels.series : dict.labels.film} ·{" "}
-            {title.year}
-          </span>
-          <span className="font-mono text-[11px] uppercase tracking-[0.14em] text-muted">
-            {locationCount}{" "}
-            {locationCount === 1 ? dict.labels.spot : dict.labels.spots}
-          </span>
-        </div>
-        <h3 className="mt-3 font-display text-2xl font-semibold leading-tight text-ink group-hover:underline">
-          {title.name}
-        </h3>
-        <p className="mt-2 text-sm leading-relaxed text-muted">{title.tagline}</p>
+      </div>
+
+      <div className="p-5 pt-4">
+        <p className="text-sm leading-relaxed text-muted">{title.tagline}</p>
       </div>
     </Link>
   );
