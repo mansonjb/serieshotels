@@ -1,6 +1,11 @@
 {
   "ui": {
-    "nav": { "titles": "Séries & Films", "destinations": "Destinations", "guides": "Guides", "about": "À propos" },
+    "nav": {
+      "titles": "Séries & Films",
+      "destinations": "Destinations",
+      "guides": "Guides",
+      "about": "À propos"
+    },
     "hero": {
       "eyebrow": "Guide de voyage set-jetting",
       "title": "Visitez les vrais lieux de vos films et séries préférés.",
@@ -15,15 +20,33 @@
       "allDestinations": "Toutes les destinations",
       "howItWorks": "Comment ça marche",
       "steps": [
-        { "t": "Choisissez une œuvre", "b": "Parcourez séries et films par leurs lieux de tournage." },
-        { "t": "Trouvez les vrais décors", "b": "Pour chaque lieu : la scène, le point exact sur la carte, et comment vraiment s'y rendre." },
-        { "t": "Réservez séjour et sorties", "b": "Comparez les hôtels du coin et réservez excursions, billets et voiture en quelques clics." }
+        {
+          "t": "Choisissez une œuvre",
+          "b": "Parcourez séries et films par leurs lieux de tournage."
+        },
+        {
+          "t": "Trouvez les vrais décors",
+          "b": "Pour chaque lieu : la scène, le point exact sur la carte, et comment vraiment s'y rendre."
+        },
+        {
+          "t": "Réservez séjour et sorties",
+          "b": "Comparez les hôtels du coin et réservez excursions, billets et voiture en quelques clics."
+        }
       ]
     },
     "labels": {
-      "series": "Série", "film": "Film", "spot": "lieu", "spots": "lieux", "work": "œuvre", "works": "œuvres",
-      "location": "lieu", "locations": "lieux", "destination": "destination", "destinations": "destinations",
-      "minRead": "min de lecture", "guide": "Guide"
+      "series": "Série",
+      "film": "Film",
+      "spot": "lieu",
+      "spots": "lieux",
+      "work": "œuvre",
+      "works": "œuvres",
+      "location": "lieu",
+      "locations": "lieux",
+      "destination": "destination",
+      "destinations": "destinations",
+      "minRead": "min de lecture",
+      "guide": "Guide"
     },
     "titlesIndex": {
       "heading": "Séries & Films",
@@ -37,8 +60,13 @@
       "heading": "Guides",
       "intro": "Des lectures de fond, concrètes, pour bâtir un voyage autour de l'écran."
     },
-    "titlePage": { "whereFilmed": "Où {name} a été tourné", "across": "{n} lieux dans {m} destinations" },
-    "destinationPage": { "filmingLocationsIn": "Lieux de tournage à {name}" },
+    "titlePage": {
+      "whereFilmed": "Où {name} a été tourné",
+      "across": "{n} lieux dans {m} destinations"
+    },
+    "destinationPage": {
+      "filmingLocationsIn": "Lieux de tournage à {name}"
+    },
     "locationPage": {
       "aFilmingLocationFrom": "Un lieu de tournage de {title}, à {destination}.",
       "theScene": "La scène",
@@ -80,7 +108,9 @@
       "tagline": "Visitez les vrais lieux où vos films et séries préférés ont été tournés.",
       "rights": "Que des lieux réels : aucune image ni affiche sous copyright."
     },
-    "breadcrumb": { "home": "Accueil" },
+    "breadcrumb": {
+      "home": "Accueil"
+    },
     "notFound": {
       "code": "404",
       "title": "Cette scène n'a pas survécu au montage.",
@@ -92,94 +122,875 @@
     "aboutPage": {
       "title": "À propos de {site}",
       "blocks": [
-        { "body": "{site} est un guide de voyage set-jetting. On cartographie les vrais lieux, bien réels et visitables, où films et séries ont été tournés, et on donne pour chacun de quoi préparer sa visite : la scène, le point exact sur la carte, comment y aller et où dormir tout près." },
-        { "heading": "Comment on construit les données", "body": "Chaque lieu est saisi à la main dans une base typée, puis recoupé avec les sources de production, les film commissions régionales et les offices de tourisme. On ne retient que des lieux réellement accessibles (monuments publics, sites à billets, hôtels où l'on peut réserver), et on rédige les descriptions de scènes et les conseils de visite avec nos propres mots." },
-        { "heading": "Aucune image sous copyright", "body": "Ici, ni affiches ni logos de studios. Les images des œuvres appartiennent à leurs auteurs ; nous, on vous emmène sur les lieux réels, avec des photos de ces lieux et les bandes-annonces officielles, jamais des captures empruntées." },
-        { "heading": "Comment on fait tourner le site", "body": "Certains liens sont affiliés : hôtels via Stay22, excursions et billets via des partenaires comme Viator, GetYourGuide et Tiqets, et voiture via DiscoverCars. Si vous réservez par l'un d'eux, on touche une petite commission, sans frais pour vous. Et ça ne change jamais les lieux qu'on liste ni ce qu'on en dit." }
+        {
+          "body": "{site} est un guide de voyage set-jetting. On cartographie les vrais lieux, bien réels et visitables, où films et séries ont été tournés, et on donne pour chacun de quoi préparer sa visite : la scène, le point exact sur la carte, comment y aller et où dormir tout près."
+        },
+        {
+          "heading": "Comment on construit les données",
+          "body": "Chaque lieu est saisi à la main dans une base typée, puis recoupé avec les sources de production, les film commissions régionales et les offices de tourisme. On ne retient que des lieux réellement accessibles (monuments publics, sites à billets, hôtels où l'on peut réserver), et on rédige les descriptions de scènes et les conseils de visite avec nos propres mots."
+        },
+        {
+          "heading": "Aucune image sous copyright",
+          "body": "Ici, ni affiches ni logos de studios. Les images des œuvres appartiennent à leurs auteurs ; nous, on vous emmène sur les lieux réels, avec des photos de ces lieux et les bandes-annonces officielles, jamais des captures empruntées."
+        },
+        {
+          "heading": "Comment on fait tourner le site",
+          "body": "Certains liens sont affiliés : hôtels via Stay22, excursions et billets via des partenaires comme Viator, GetYourGuide et Tiqets, et voiture via DiscoverCars. Si vous réservez par l'un d'eux, on touche une petite commission, sans frais pour vous. Et ça ne change jamais les lieux qu'on liste ni ce qu'on en dit."
+        }
       ]
     },
     "disclosurePage": {
       "title": "Divulgation d'affiliation",
       "blocks": [
-        { "body": "{site} vit grâce à ses lecteurs. Certains liens sortants du site sont affiliés : on peut toucher une commission si vous réservez ou achetez après avoir cliqué, sans que cela vous coûte un centime de plus. Vous payez le même prix qu'en passant en direct." },
-        { "heading": "Avec qui on travaille", "body": "Stay22 pour les hôtels et hébergements ; Viator et GetYourGuide pour les excursions et activités ; Tiqets pour les billets d'attractions ; DiscoverCars pour la location de voiture." },
-        { "heading": "Notre engagement", "body": "Les liens affiliés ne décident jamais des lieux qu'on met en avant ni de ce qu'on en dit. Si un lieu figure ici, c'est qu'il vaut vraiment le détour, point. La commission n'a aucune influence sur les descriptions, les conseils, ou l'ordre d'affichage." }
+        {
+          "body": "{site} vit grâce à ses lecteurs. Certains liens sortants du site sont affiliés : on peut toucher une commission si vous réservez ou achetez après avoir cliqué, sans que cela vous coûte un centime de plus. Vous payez le même prix qu'en passant en direct."
+        },
+        {
+          "heading": "Avec qui on travaille",
+          "body": "Stay22 pour les hôtels et hébergements ; Viator et GetYourGuide pour les excursions et activités ; Tiqets pour les billets d'attractions ; DiscoverCars pour la location de voiture."
+        },
+        {
+          "heading": "Notre engagement",
+          "body": "Les liens affiliés ne décident jamais des lieux qu'on met en avant ni de ce qu'on en dit. Si un lieu figure ici, c'est qu'il vaut vraiment le détour, point. La commission n'a aucune influence sur les descriptions, les conseils, ou l'ordre d'affichage."
+        }
       ]
     }
   },
   "content": {
     "titles": {
-      "game-of-thrones": { "tagline": "Dix ans de tournage, un continent entier en guise de décor pour Westeros.", "synopsis": "Dans un monde inventé, de grandes maisons complotent, se trahissent et s'entre-déchirent pour un seul trône, pendant qu'une menace bien plus ancienne s'éveille au-delà du Mur. Tournée aux quatre coins de l'Europe pendant près de dix ans, la série a fait de villes, de palais et de vallées bien réels des décors aussi mythiques que ses personnages. Autant aller les fouler." },
-      "the-white-lotus": { "tagline": "Des palaces cinq étoiles, une semaine qui tourne mal, et des hôtels où l'on peut vraiment dormir.", "synopsis": "À chaque saison son resort de luxe, ses clients fortunés et le personnel qui les sert, le temps d'une semaine qui finit presque toujours par un cadavre. Après Hawaï, la série a posé ses valises en Sicile, puis en Thaïlande, toujours dans de vrais hôtels. C'est l'un des rares décors où l'on peut littéralement prendre une chambre." },
-      "emily-in-paris": { "tagline": "Le Paris des cartes postales, café par café, pont par pont.", "synopsis": "Une jeune Américaine du marketing débarque dans une agence parisienne et se cogne, le sourire aux lèvres, aux codes français du travail, de la table et de l'amour. Paris y tient le second rôle : une place du Quartier latin, un pont doré, un opéra, et tous les cafés entre les deux. Que des lieux réels, à deux pas les uns des autres, faciles à enchaîner en une journée." },
-      "outlander": { "tagline": "Une romance qui voyage dans le temps, tournée dans les vrais châteaux d'Écosse.", "synopsis": "Propulsée deux siècles en arrière dans les Highlands jacobites, une infirmière de 1945 y retrouve l'Histoire, le danger et un second grand amour. La production a tourné dans de vrais châteaux, villages et glens plutôt que sur des plateaux : suivre la série revient donc à sillonner le cœur de l'Écosse et ses Highlands." },
-      "harry-potter": { "tagline": "Poudlard en vrai : des châteaux, un college d'Oxford et un train à vapeur.", "synopsis": "Un orphelin découvre qu'il est sorcier et grandit, huit films durant, dans une école de magie. Poudlard n'existe pas d'un seul tenant : c'est un assemblage de lieux britanniques bien réels, un château pour les cours de balai, un college d'Oxford pour les grandes salles, un viaduc des Highlands pour le train. La plupart se visitent encore." },
-      "the-lord-of-the-rings": { "tagline": "La Terre du Milieu, c'est la Nouvelle-Zélande, et la Comté se visite.", "synopsis": "Un hobbit qui n'avait rien demandé traverse tout un continent pour détruire un anneau maudit, dans une trilogie qui a propulsé les paysages néo-zélandais en tête des listes de voyage. Beaucoup de décors ont disparu après le tournage, mais la Comté, elle, a été rebâtie pour durer, et le volcan qui jouait la Montagne du Destin se dresse toujours dans son parc national." },
-      "mamma-mia": { "tagline": "Une comédie musicale égéenne, perchée sur une falaise grecque coiffée d'une chapelle.", "synopsis": "À la veille de son mariage sur une île grecque, une future mariée convie les trois ex de sa mère, le tout sur un florilège de tubes pop. L'île imaginaire de Kalokairi, c'est surtout la vraie Skopelos, dont la chapelle au sommet de la falaise et la crique bordée de pins sont les images les plus célèbres du film." },
-      "bridgerton": { "tagline": "La Régence en grand, des crescents de Bath aux colonnades de Greenwich.", "synopsis": "Le marché matrimonial londonien s'offre un lifting fastueux et nourri de ragots dans cette romance Régence. Mais son « Londres » est surtout fait de Bath et de Greenwich : leurs croissants géorgiens, leurs musées et leurs parcs prêtent salles de bal et façades d'hôtels particuliers, autant de lieux bien réels où l'on peut aller flâner." },
-      "money-heist": { "tagline": "Le casse le plus suivi de la télé espagnole, tourné en plein Madrid.", "synopsis": "Un cerveau réunit une bande en combinaison rouge pour réussir les braquages les plus fous de l'histoire espagnole. La Fabrique de la Monnaie et la Banque d'Espagne sont au cœur de l'intrigue, et leurs vraies façades madrilènes bordent de grands boulevards qu'on peut arpenter entre deux tapas." },
-      "house-of-the-dragon": { "tagline": "La préquelle Targaryen, tournée dans les cités fortifiées d'Estrémadure.", "synopsis": "Deux siècles avant Game of Thrones, les Targaryen se déchirent pour un trône et des dragons. Leur Port-Réal a largement été bâti à partir des centres médiévaux restés intacts de l'ouest de l'Espagne, où palais de conquistadors et remparts n'ont presque rien eu à changer." }
+      "game-of-thrones": {
+        "tagline": "Dix ans de tournage, un continent entier en guise de décor pour Westeros.",
+        "synopsis": "Dans un monde inventé, de grandes maisons complotent, se trahissent et s'entre-déchirent pour un seul trône, pendant qu'une menace bien plus ancienne s'éveille au-delà du Mur. Tournée aux quatre coins de l'Europe pendant près de dix ans, la série a fait de villes, de palais et de vallées bien réels des décors aussi mythiques que ses personnages. Autant aller les fouler."
+      },
+      "the-white-lotus": {
+        "tagline": "Des palaces cinq étoiles, une semaine qui tourne mal, et des hôtels où l'on peut vraiment dormir.",
+        "synopsis": "À chaque saison son resort de luxe, ses clients fortunés et le personnel qui les sert, le temps d'une semaine qui finit presque toujours par un cadavre. Après Hawaï, la série a posé ses valises en Sicile, puis en Thaïlande, toujours dans de vrais hôtels. C'est l'un des rares décors où l'on peut littéralement prendre une chambre."
+      },
+      "emily-in-paris": {
+        "tagline": "Le Paris des cartes postales, café par café, pont par pont.",
+        "synopsis": "Une jeune Américaine du marketing débarque dans une agence parisienne et se cogne, le sourire aux lèvres, aux codes français du travail, de la table et de l'amour. Paris y tient le second rôle : une place du Quartier latin, un pont doré, un opéra, et tous les cafés entre les deux. Que des lieux réels, à deux pas les uns des autres, faciles à enchaîner en une journée."
+      },
+      "outlander": {
+        "tagline": "Une romance qui voyage dans le temps, tournée dans les vrais châteaux d'Écosse.",
+        "synopsis": "Propulsée deux siècles en arrière dans les Highlands jacobites, une infirmière de 1945 y retrouve l'Histoire, le danger et un second grand amour. La production a tourné dans de vrais châteaux, villages et glens plutôt que sur des plateaux : suivre la série revient donc à sillonner le cœur de l'Écosse et ses Highlands."
+      },
+      "harry-potter": {
+        "tagline": "Poudlard en vrai : des châteaux, un college d'Oxford et un train à vapeur.",
+        "synopsis": "Un orphelin découvre qu'il est sorcier et grandit, huit films durant, dans une école de magie. Poudlard n'existe pas d'un seul tenant : c'est un assemblage de lieux britanniques bien réels, un château pour les cours de balai, un college d'Oxford pour les grandes salles, un viaduc des Highlands pour le train. La plupart se visitent encore."
+      },
+      "the-lord-of-the-rings": {
+        "tagline": "La Terre du Milieu, c'est la Nouvelle-Zélande, et la Comté se visite.",
+        "synopsis": "Un hobbit qui n'avait rien demandé traverse tout un continent pour détruire un anneau maudit, dans une trilogie qui a propulsé les paysages néo-zélandais en tête des listes de voyage. Beaucoup de décors ont disparu après le tournage, mais la Comté, elle, a été rebâtie pour durer, et le volcan qui jouait la Montagne du Destin se dresse toujours dans son parc national."
+      },
+      "mamma-mia": {
+        "tagline": "Une comédie musicale égéenne, perchée sur une falaise grecque coiffée d'une chapelle.",
+        "synopsis": "À la veille de son mariage sur une île grecque, une future mariée convie les trois ex de sa mère, le tout sur un florilège de tubes pop. L'île imaginaire de Kalokairi, c'est surtout la vraie Skopelos, dont la chapelle au sommet de la falaise et la crique bordée de pins sont les images les plus célèbres du film."
+      },
+      "bridgerton": {
+        "tagline": "La Régence en grand, des crescents de Bath aux colonnades de Greenwich.",
+        "synopsis": "Le marché matrimonial londonien s'offre un lifting fastueux et nourri de ragots dans cette romance Régence. Mais son « Londres » est surtout fait de Bath et de Greenwich : leurs croissants géorgiens, leurs musées et leurs parcs prêtent salles de bal et façades d'hôtels particuliers, autant de lieux bien réels où l'on peut aller flâner."
+      },
+      "money-heist": {
+        "tagline": "Le casse le plus suivi de la télé espagnole, tourné en plein Madrid.",
+        "synopsis": "Un cerveau réunit une bande en combinaison rouge pour réussir les braquages les plus fous de l'histoire espagnole. La Fabrique de la Monnaie et la Banque d'Espagne sont au cœur de l'intrigue, et leurs vraies façades madrilènes bordent de grands boulevards qu'on peut arpenter entre deux tapas."
+      },
+      "house-of-the-dragon": {
+        "tagline": "La préquelle Targaryen, tournée dans les cités fortifiées d'Estrémadure.",
+        "synopsis": "Deux siècles avant Game of Thrones, les Targaryen se déchirent pour un trône et des dragons. Leur Port-Réal a largement été bâti à partir des centres médiévaux restés intacts de l'ouest de l'Espagne, où palais de conquistadors et remparts n'ont presque rien eu à changer."
+      },
+      "downton-abbey": {
+        "tagline": "La grandeur des maîtres et des domestiques, ancrée dans un vrai château anglais.",
+        "synopsis": "Une famille aristocrate et les domestiques qui font tourner son domaine traversent amours, scandales et bouleversements d'un siècle qui change, dans les années qui entourent la Première Guerre mondiale. La demeure au cœur de la série, c'est le vrai Highclere Castle, et le village a été tourné dans un seul hameau de l'Oxfordshire : tout l'univers de la série est donc bien réel, et se visite."
+      },
+      "the-crown": {
+        "tagline": "La monarchie britannique, mise en scène dans des cathédrales et des palais où l'on peut entrer.",
+        "synopsis": "Une fresque qui couvre des décennies suit Élisabeth II, de son accession au trône aux tensions intimes derrière le devoir public. Les vrais palais étant inaccessibles, la production s'est appuyée sur des doublures comme la cathédrale d'Ely et Lancaster House, dont beaucoup ouvrent leurs portes aux visiteurs."
+      },
+      "peaky-blinders": {
+        "tagline": "Les gangsters de Birmingham au rasoir affûté, recréés dans des musées de brique et de pavés.",
+        "synopsis": "Une famille de gangsters ambitieux et dangereux se hisse vers le sommet à travers la fumée du Birmingham d'après-guerre. Les rues crasseuses de la série ont surtout été rebâties dans un musée vivant du Black Country et dans les quartiers d'entrepôts de Liverpool, deux décors que l'on peut arpenter aujourd'hui."
+      },
+      "wednesday": {
+        "tagline": "Un mystère gothique en pensionnat, tourné dans un vrai château roumain.",
+        "synopsis": "Mercredi Addams est expédiée dans une école pour parias, où elle démêle un mystère sanglant avec son flegme légendaire. L'académie Nevermore, c'est le château néogothique de Cantacuzino, dans les Carpates, adossé à des versants boisés qu'un téléphérique permet de survoler."
+      },
+      "the-witcher": {
+        "tagline": "La saga d'un chasseur de monstres, tournée parmi châteaux en ruine et sommets volcaniques.",
+        "synopsis": "Un chasseur de monstres mutant, une puissante magicienne et une princesse en fuite sont liés par le destin dans un monde de fantasy déchiré par la guerre. Ses champs de bataille et ses terres désolées sont des lieux bien réels, d'une ruine de château perchée en Pologne aux hauts plateaux de roche noire des îles Canaries."
+      },
+      "vikings": {
+        "tagline": "Des pillards nordiques et un lac de montagne devenu Kattegat.",
+        "synopsis": "Un fermier nordique de légende s'élève vers la gloire et le pouvoir comme pillard puis souverain, entraînant sa famille et ses dieux dans une ère brutale d'expansion. Une grande partie a été tournée en Irlande, où un lac sombre, couleur de thé, niché dans les montagnes du Wicklow a campé la colonie de Kattegat."
+      },
+      "poldark": {
+        "tagline": "Une romance cornouaillaise ténébreuse, tournée le long de vraies falaises et de vrais ports.",
+        "synopsis": "Un soldat rentre de la guerre pour trouver sa fortune cornouaillaise en ruine et son ancien amour fiancé à un autre, dans une grande fresque d'époque de mines et de landes. Les maisons de pompe au sommet des falaises, le port de Charlestown et les vagues de Holywell Bay sont la Cornouailles authentique."
+      },
+      "broadchurch": {
+        "tagline": "Un meurtre au bord de mer qui couve à petit feu, sous les falaises dorées du Dorset.",
+        "synopsis": "La mort d'un garçon du coin déchire une petite station balnéaire anglaise tandis que deux enquêteurs travaillent l'affaire et que la communauté se retourne contre elle-même. Le décor reconnaissable entre tous, c'est West Bay, dans le Dorset, dont la falaise de grès à pic domine presque chaque scène."
+      },
+      "normal-people": {
+        "tagline": "Une histoire d'amour irlandaise tout en délicatesse, cadrée par Trinity College et la côte de Sligo.",
+        "synopsis": "Deux jeunes gens entrent et sortent de la vie l'un de l'autre, d'une petite ville de l'ouest jusqu'à l'université à Dublin, dans une étude intime du premier amour et des classes sociales. Les cours feutrées de Trinity College et les vastes plages de Sligo ancrent l'histoire dans une Irlande bien réelle, et visitable."
+      },
+      "sherlock": {
+        "tagline": "Une Baker Street moderne, repérée à ses vrais coins de Londres.",
+        "synopsis": "Un détective brillant et cassant et son colocataire médecin militaire résolvent des crimes dans un Londres contemporain. La célèbre façade du 221B est une rangée géorgienne de North Gower Street, et un hôpital de la City a fourni le toit d'un cliffhanger inoubliable."
+      },
+      "the-sound-of-music": {
+        "tagline": "La mélodie du bonheur, et toutes ses collines se parcourent encore à Salzbourg.",
+        "synopsis": "Une gouvernante à l'esprit libre ramène la musique dans la maison d'un veuf austère à la veille de l'annexion de l'Autriche, dans l'une des comédies musicales les plus aimées du cinéma. Salzbourg porte fièrement son grand rôle, des jardins de Mirabell du Do-Ré-Mi à la terrasse du palais au bord du lac et à l'abbaye sur la colline."
+      },
+      "roman-holiday": {
+        "tagline": "Une princesse, une Vespa et les vraies places de Rome.",
+        "synopsis": "Une jeune princesse trop couvée fausse compagnie à ses gardiens le temps d'une journée volée de liberté à Rome, et s'éprend d'un reporter qui sait très bien qui elle est. La place d'Espagne, la Bouche de la Vérité et les fontaines de la ville sont bien réelles, et toujours assiégées pour les mêmes photos."
+      },
+      "the-talented-mr-ripley": {
+        "tagline": "Une menace gorgée de soleil le long de la vraie côte italienne.",
+        "synopsis": "Un jeune imposteur charmeur est envoyé en Italie pour ramener un riche héritier, et finit par convoiter sa vie dorée, avec des conséquences meurtrières. La station imaginaire de Mongibello est un mélange de vraies beautés du sud de l'Italie, de Positano accrochée à ses falaises au port pastel de Procida."
+      },
+      "call-me-by-your-name": {
+        "tagline": "Un été languide du nord de l'Italie, autour d'une place de village tranquille.",
+        "synopsis": "Dans la campagne italienne du début des années 1980, un adolescent et l'assistant de recherche plus âgé de son père vivent une romance brève et intense, le temps d'un long été. L'univers sans hâte du film, c'est la ville de Crema et la plaine verdoyante de Lombardie alentour."
+      },
+      "the-grand-budapest-hotel": {
+        "tagline": "Un hôtel de conte de fées bâti dans une vraie ville allemande restée intacte.",
+        "synopsis": "Un concierge de légende et son fidèle groom sont entraînés dans une histoire d'art volé et d'héritage disputé, dans une Europe d'avant-guerre fantasque. La république imaginaire de Zubrowka a surtout été assemblée à Görlitz, dont les rues préservées et le grand magasin ancien sont devenus l'hôtel lui-même."
+      },
+      "notting-hill": {
+        "tagline": "Une comédie romantique londonienne qui se parcourt encore, porte bleue comprise.",
+        "synopsis": "La vie tranquille d'un libraire de voyage timide bascule quand la plus grande star de cinéma du monde pousse la porte de sa boutique, dans une romance londonienne très aimée. La porte bleue, le marché et la librairie sont autant de vrais coins de Notting Hill, à quelques pas les uns des autres, dans l'ouest de Londres."
+      },
+      "pride-and-prejudice": {
+        "tagline": "Austen à l'écran, mise en scène à Chatsworth et sur une crête venteuse du Peak District.",
+        "synopsis": "La pétillante Elizabeth Bennet et le fier Mr Darcy se jugent mal à travers les salons et les domaines de l'Angleterre géorgienne. Le film de 2005 a fait de Chatsworth House son Pemberley et a envoyé son héroïne ruminer sur un rocher de grès, haut perché dans le Peak District."
+      },
+      "no-time-to-die": {
+        "tagline": "Le dernier salut de Bond, avec une poursuite dans les grottes de Matera.",
+        "synopsis": "Un agent secret à la retraite est rappelé pour une ultime mission, personnelle, contre un adversaire assoiffé de vengeance. Le film s'ouvre sur une course-poursuite à couper le souffle à travers l'antique ville troglodyte de Matera, puis file sur une route balayée par la tempête le long de la côte norvégienne."
+      },
+      "indiana-jones-last-crusade": {
+        "tagline": "La quête du Graal qui s'achève devant la façade rose de Petra.",
+        "synopsis": "Un archéologue et son père qu'il connaît mal devancent des chasseurs de trésors rivaux jusqu'au dernier repos du Saint Graal. Le temple qui garde le Graal, c'est le Trésor de Petra, la cité nabatéenne taillée dans les falaises du désert, au sud de la Jordanie."
+      },
+      "the-beach": {
+        "tagline": "La quête du paradis, tournée dans un lagon thaïlandais caché.",
+        "synopsis": "Un jeune voyageur en quête perpétuelle suit la rumeur d'une commune secrète sur une île au large de la Thaïlande, pour découvrir que le paradis a un prix. La crique fabuleuse, c'est Maya Bay, une plage cernée de falaises sur une île inhabitée de la mer d'Andaman."
+      }
     },
     "destinations": {
-      "dubrovnik": { "blurb": "Posée sur l'Adriatique, la vieille ville fortifiée est devenue le visage le plus filmé de Port-Réal. Ruelles de calcaire, remparts ouverts sur la mer, forts accrochés à la falaise : tout se fait à pied en un après-midi. Sans doute la journée de set-jetting la plus simple d'Europe, où l'on rejoue une demi-saison entre un café et un dîner." },
-      "south-iceland": { "blurb": "Failles, champs de lave et cascades du Cercle d'Or ont prêté leurs paysages aux terres sauvages d'au-delà du Mur et à la route du Val d'Arryn. Tout se boucle en une journée depuis Reykjavík, sur ce qui reste l'itinéraire en voiture le plus parcouru d'Islande." },
-      "county-down": { "blurb": "Autour du Strangford Lough, une poignée de domaines ont servi de QG à dix ans de tournage de Westeros, et la cour d'une propriété du National Trust est devenue Winterfell. On y est en moins d'une heure depuis Belfast, et les studios où furent bâtis les intérieurs sont juste à côté." },
-      "taormina": { "blurb": "Accrochée à la côte est de la Sicile, couronnée d'un théâtre grec avec l'Etna en toile de fond, Taormine a campé une saison entière de drame en resort de luxe. L'hôtel-vedette existe pour de vrai, on peut y réserver, et la ville se parcourt entièrement à pied." },
-      "paris": { "blurb": "La ville qui se joue elle-même. D'une place tranquille du Quartier latin au plus beau de ses ponts jusqu'à l'Opéra, les coins les plus photogéniques de Paris portent toute une romance de l'ère du streaming, et tiennent dans une seule balade d'une rive à l'autre." },
-      "seville": { "blurb": "La capitale andalouse a prêté ses palais mauresques et ses patios parfumés à l'oranger au royaume gorgé de soleil de Dorne. L'Alcázar en est la pièce maîtresse, mais c'est toute la vieille ville, carrelée, ombragée, faite pour la marche, qui mérite qu'on s'y attarde." },
-      "girona": { "blurb": "À une heure au nord de Barcelone, les ruelles médiévales de Gérone et l'escalier de sa cathédrale ont incarné tour à tour Braavos et Port-Réal. Quartier ancien ramassé, maisons colorées au fil de l'eau, remparts intacts : l'une des plus belles surprises de Catalogne." },
-      "basque-country": { "blurb": "Dans le nord basque, les collines vertes plongent dans un Atlantique spectaculaire, et une chaussée de pierre serpente jusqu'à une chapelle sur son îlot, devenue Peyredragon. Bilbao et les bars à pintxos de la côte font une base idéale pour la journée." },
-      "maui": { "blurb": "L'île hawaïenne où a commencé la satire des palaces, sur la plage soignée de Wailea. Au-delà de l'hôtel, Maui aligne la route volcanique de Hāna, le lever de soleil au-dessus des nuages au Haleakalā, et quelques-uns des plus beaux fonds à masque-tuba du Pacifique." },
-      "koh-samui": { "blurb": "Une île tapissée de jungle dans le golfe de Thaïlande, hôte de la troisième saison de mauvaises manières de la série. Cocoteraies, grands Bouddhas et route côtière jalonnée de plages : une base facile, et chaude toute l'année." },
-      "scottish-highlands": { "blurb": "Glens, lochs et un viaduc ferroviaire mythique font des Highlands de l'Ouest un aimant pour les pèlerins de l'écran : les paysages d'ouverture d'une saga sur le voyage dans le temps, et la voie d'un certain train à vapeur d'école. Fort William fait une base bien pratique." },
-      "central-scotland": { "blurb": "À moins d'une heure d'Édimbourg et de Glasgow, quelques châteaux et un bourg du XVIIe siècle resté intact ont campé les demeures et les villages de l'Écosse du XVIIIe. De quoi tout enchaîner en une seule journée de route." },
-      "northumberland": { "blurb": "L'extrême nord-est de l'Angleterre est un pays de châteaux, et le plus imposant, une forteresse médiévale encore habitée, a appris à voler à toute une génération de sorciers. De grandes plages désertes et le mur d'Hadrien complètent le tableau juste à côté." },
-      "oxford": { "blurb": "Les colleges de pierre dorée de la ville universitaire, leurs cloîtres et leurs réfectoires ont campé Poudlard plus d'une fois. La plupart des lieux de tournage tiennent dans un rayon de dix minutes à pied, en plein centre." },
-      "north-york-moors": { "blurb": "Une lande de bruyère que traverse un train à vapeur d'époque, où une minuscule gare de village est devenue la porte d'un village de sorciers. Avec la ligne historique et le parc national alentour, on prend le temps." },
-      "matamata": { "blurb": "Une campagne laitière vallonnée et verdoyante de l'île du Nord, devenue la Comté. Le décor de Hobbiton, planté là pour de bon et entretenu au cordeau, vaut à lui seul le détour, à deux heures au sud-est d'Auckland." },
-      "tongariro": { "blurb": "Un parc national de plaines de cendre et d'un cône presque parfait, qui a campé le Mordor et la Montagne du Destin. C'est aussi le théâtre de l'une des plus belles randonnées d'une journée au monde, la Tongariro Alpine Crossing." },
-      "skopelos": { "blurb": "Une île des Sporades couverte de pins en pleine mer Égée, ourlée de criques limpides et coiffée d'une chapelle de falaise où s'est tourné un mariage resté célèbre. Plus calme que ses cousines des Cyclades, elle se gagne en ferry par Skiathos." },
-      "bath": { "blurb": "Croissants géorgiens, façades couleur miel, thermes romains : cette ville classée par l'UNESCO est un décor Régence clé en main, et les tournages en costumes ne s'y trompent pas. La plupart des façades filmées sont à quelques pas l'une de l'autre." },
-      "greenwich": { "blurb": "Le quartier maritime de Londres, tout en colonnades baroques et en parc sur la colline, prête ses hôtels particuliers et ses palais aux séries d'époque. De quoi remplir une demi-journée, à un saut de bateau-bus du centre." },
-      "madrid": { "blurb": "Les grands bâtiments officiels de la capitale espagnole ont campé les cibles du casse le plus regardé de la télé. Leurs vraies façades bordent de larges avenues du quartier des musées, qu'on arpente entre deux arrêts tapas." },
-      "extremadura": { "blurb": "Une région de l'ouest espagnol, blanchie de soleil, faite de cités fortifiées et de palais de conquistadors, dont les centres médiévaux intacts sont devenus la capitale d'une dynastie chevauche-dragons. Cáceres et Trujillo se rejoignent en un court trajet." }
+      "dubrovnik": {
+        "blurb": "Posée sur l'Adriatique, la vieille ville fortifiée est devenue le visage le plus filmé de Port-Réal. Ruelles de calcaire, remparts ouverts sur la mer, forts accrochés à la falaise : tout se fait à pied en un après-midi. Sans doute la journée de set-jetting la plus simple d'Europe, où l'on rejoue une demi-saison entre un café et un dîner."
+      },
+      "south-iceland": {
+        "blurb": "Failles, champs de lave et cascades du Cercle d'Or ont prêté leurs paysages aux terres sauvages d'au-delà du Mur et à la route du Val d'Arryn. Tout se boucle en une journée depuis Reykjavík, sur ce qui reste l'itinéraire en voiture le plus parcouru d'Islande."
+      },
+      "county-down": {
+        "blurb": "Autour du Strangford Lough, une poignée de domaines ont servi de QG à dix ans de tournage de Westeros, et la cour d'une propriété du National Trust est devenue Winterfell. On y est en moins d'une heure depuis Belfast, et les studios où furent bâtis les intérieurs sont juste à côté."
+      },
+      "taormina": {
+        "blurb": "Accrochée à la côte est de la Sicile, couronnée d'un théâtre grec avec l'Etna en toile de fond, Taormine a campé une saison entière de drame en resort de luxe. L'hôtel-vedette existe pour de vrai, on peut y réserver, et la ville se parcourt entièrement à pied."
+      },
+      "paris": {
+        "blurb": "La ville qui se joue elle-même. D'une place tranquille du Quartier latin au plus beau de ses ponts jusqu'à l'Opéra, les coins les plus photogéniques de Paris portent toute une romance de l'ère du streaming, et tiennent dans une seule balade d'une rive à l'autre."
+      },
+      "seville": {
+        "blurb": "La capitale andalouse a prêté ses palais mauresques et ses patios parfumés à l'oranger au royaume gorgé de soleil de Dorne. L'Alcázar en est la pièce maîtresse, mais c'est toute la vieille ville, carrelée, ombragée, faite pour la marche, qui mérite qu'on s'y attarde."
+      },
+      "girona": {
+        "blurb": "À une heure au nord de Barcelone, les ruelles médiévales de Gérone et l'escalier de sa cathédrale ont incarné tour à tour Braavos et Port-Réal. Quartier ancien ramassé, maisons colorées au fil de l'eau, remparts intacts : l'une des plus belles surprises de Catalogne."
+      },
+      "basque-country": {
+        "blurb": "Dans le nord basque, les collines vertes plongent dans un Atlantique spectaculaire, et une chaussée de pierre serpente jusqu'à une chapelle sur son îlot, devenue Peyredragon. Bilbao et les bars à pintxos de la côte font une base idéale pour la journée."
+      },
+      "maui": {
+        "blurb": "L'île hawaïenne où a commencé la satire des palaces, sur la plage soignée de Wailea. Au-delà de l'hôtel, Maui aligne la route volcanique de Hāna, le lever de soleil au-dessus des nuages au Haleakalā, et quelques-uns des plus beaux fonds à masque-tuba du Pacifique."
+      },
+      "koh-samui": {
+        "blurb": "Une île tapissée de jungle dans le golfe de Thaïlande, hôte de la troisième saison de mauvaises manières de la série. Cocoteraies, grands Bouddhas et route côtière jalonnée de plages : une base facile, et chaude toute l'année."
+      },
+      "scottish-highlands": {
+        "blurb": "Glens, lochs et un viaduc ferroviaire mythique font des Highlands de l'Ouest un aimant pour les pèlerins de l'écran : les paysages d'ouverture d'une saga sur le voyage dans le temps, et la voie d'un certain train à vapeur d'école. Fort William fait une base bien pratique."
+      },
+      "central-scotland": {
+        "blurb": "À moins d'une heure d'Édimbourg et de Glasgow, quelques châteaux et un bourg du XVIIe siècle resté intact ont campé les demeures et les villages de l'Écosse du XVIIIe. De quoi tout enchaîner en une seule journée de route."
+      },
+      "northumberland": {
+        "blurb": "L'extrême nord-est de l'Angleterre est un pays de châteaux, et le plus imposant, une forteresse médiévale encore habitée, a appris à voler à toute une génération de sorciers. De grandes plages désertes et le mur d'Hadrien complètent le tableau juste à côté."
+      },
+      "oxford": {
+        "blurb": "Les colleges de pierre dorée de la ville universitaire, leurs cloîtres et leurs réfectoires ont campé Poudlard plus d'une fois. La plupart des lieux de tournage tiennent dans un rayon de dix minutes à pied, en plein centre."
+      },
+      "north-york-moors": {
+        "blurb": "Une lande de bruyère que traverse un train à vapeur d'époque, où une minuscule gare de village est devenue la porte d'un village de sorciers. Avec la ligne historique et le parc national alentour, on prend le temps."
+      },
+      "matamata": {
+        "blurb": "Une campagne laitière vallonnée et verdoyante de l'île du Nord, devenue la Comté. Le décor de Hobbiton, planté là pour de bon et entretenu au cordeau, vaut à lui seul le détour, à deux heures au sud-est d'Auckland."
+      },
+      "tongariro": {
+        "blurb": "Un parc national de plaines de cendre et d'un cône presque parfait, qui a campé le Mordor et la Montagne du Destin. C'est aussi le théâtre de l'une des plus belles randonnées d'une journée au monde, la Tongariro Alpine Crossing."
+      },
+      "skopelos": {
+        "blurb": "Une île des Sporades couverte de pins en pleine mer Égée, ourlée de criques limpides et coiffée d'une chapelle de falaise où s'est tourné un mariage resté célèbre. Plus calme que ses cousines des Cyclades, elle se gagne en ferry par Skiathos."
+      },
+      "bath": {
+        "blurb": "Croissants géorgiens, façades couleur miel, thermes romains : cette ville classée par l'UNESCO est un décor Régence clé en main, et les tournages en costumes ne s'y trompent pas. La plupart des façades filmées sont à quelques pas l'une de l'autre."
+      },
+      "greenwich": {
+        "blurb": "Le quartier maritime de Londres, tout en colonnades baroques et en parc sur la colline, prête ses hôtels particuliers et ses palais aux séries d'époque. De quoi remplir une demi-journée, à un saut de bateau-bus du centre."
+      },
+      "madrid": {
+        "blurb": "Les grands bâtiments officiels de la capitale espagnole ont campé les cibles du casse le plus regardé de la télé. Leurs vraies façades bordent de larges avenues du quartier des musées, qu'on arpente entre deux arrêts tapas."
+      },
+      "extremadura": {
+        "blurb": "Une région de l'ouest espagnol, blanchie de soleil, faite de cités fortifiées et de palais de conquistadors, dont les centres médiévaux intacts sont devenus la capitale d'une dynastie chevauche-dragons. Cáceres et Trujillo se rejoignent en un court trajet."
+      },
+      "hampshire": {
+        "blurb": "Des terres agricoles vallonnées et de grands domaines de campagne à une heure à l'ouest de Londres, couronnés par la demeure jacobéenne devenue Downton Abbey. Highclere est l'aimant, mais les collines du Hampshire et ses bourgs de marché alentour font une escapade verte facile depuis la capitale."
+      },
+      "cotswolds": {
+        "blurb": "Des villages de pierre dorée et des routes tranquilles à la lisière ouest de l'Oxfordshire, dont l'un campe le village de Downton depuis le tout premier épisode. L'église, la place et l'ancienne école de Bampton tiennent à quelques pas, et les Cotswolds se déploient tout autour."
+      },
+      "ely": {
+        "blurb": "Une petite cité épiscopale en bordure des Fens du Cambridgeshire, où l'une des plus spectaculaires églises médiévales d'Angleterre a doublé l'abbaye de Westminster à l'écran. Ely se fait en une demi-journée en train depuis Cambridge ou Londres, sa cathédrale visible à des kilomètres à la ronde sur les plaines."
+      },
+      "london": {
+        "blurb": "La ville la plus filmée au monde, et un haut lieu du set-jetting à part entière : l'appartement de Baker Street d'un détective, la porte bleue d'une comédie romantique, un intérieur de palais qui en remplace un vrai. Les lieux sont éparpillés, mais chacun se trouve sur une ligne de métro et mérite un après-midi à thème, à pied."
+      },
+      "birmingham": {
+        "blurb": "Le cœur industriel de l'Angleterre, et le berceau spirituel de la famille Shelby, même si une bonne partie des berges crasseuses de la série a été recréée dans un musée vivant du Black Country voisin. Birmingham, elle, a transformé ses vieilles usines et ses canaux en une base de caractère, à parcourir à pied."
+      },
+      "liverpool": {
+        "blurb": "Une grande ville portuaire dont les docks et les entrepôts victoriens campent à l'écran une Angleterre plus enfumée, vieille d'un siècle. L'immense Tobacco Warehouse de brique et les quais pavés sont les coins les plus filmés, à deux pas du front de mer et de ses musées."
+      },
+      "carpathians": {
+        "blurb": "Des montagnes boisées et des villes de villégiature Belle Époque dans les Carpates roumaines, où un château néogothique sur un versant arboré est devenu une certaine académie pour parias. Bușteni et la vallée de Prahova sont à quelques heures de Bucarest, avec des téléphériques vers de hauts plateaux alpins."
+      },
+      "southern-poland": {
+        "blurb": "Un plateau calcaire semé de châteaux en ruine entre Cracovie et Częstochowa, dont l'un, juché sur un éperon rocheux, a accueilli une bataille décisive d'une saga de fantasy. Le Sentier des Nids d'Aigles relie les ruines à travers une campagne vallonnée, à une heure de Cracovie."
+      },
+      "canary-islands": {
+        "blurb": "Des îles volcaniques au large de l'Afrique, où pics de roche noire, forêt de lauriers et cratères lunaires doublent des paysages d'un autre monde. Le monolithe de basalte de Grande Canarie et les hauts plateaux couverts de pins campent des terres sauvages de fantasy, à une journée de route des stations balnéaires."
+      },
+      "wicklow": {
+        "blurb": "Le Jardin de l'Irlande, un comté de lacs sombres, de vallées et de cascades juste au sud de Dublin, où un lac de montagne couleur de thé est devenu la colonie nordique de Kattegat. L'essentiel des paysages se trouve dans le parc national des montagnes du Wicklow, une escapade facile depuis la ville."
+      },
+      "cornwall": {
+        "blurb": "La pointe sauvage du sud-ouest de l'Angleterre, tout en maisons de pompe au sommet des falaises, ports de pêche et plages de surf, et décor reconnaissable entre tous d'une romance d'époque ténébreuse. Les lieux filmés s'égrènent le long du sentier côtier, à relier en voiture avec force arrêts pour un pasty cornouaillais."
+      },
+      "dorset": {
+        "blurb": "Un littoral de falaises de grès doré et de plages de galets sur la côte sud de l'Angleterre, où une petite ville portuaire a porté un polar qui couve à petit feu. West Bay et la Jurassic Coast alentour valent bien un week-end de marches sur les falaises et de chasse aux fossiles."
+      },
+      "dublin": {
+        "blurb": "La capitale littéraire de l'Irlande, où un campus universitaire feutré et des rues géorgiennes ont cadré une tendre histoire d'amour contemporaine. Trinity College se trouve en plein centre, point d'ancrage commode pour une ville de pubs, de musées et de balades au fil de l'eau."
+      },
+      "sligo": {
+        "blurb": "Un comté d'une beauté discrète dans le nord-ouest de l'Irlande, fait de montagnes au sommet plat, de plages de surf et de pays de Yeats, qui a campé à l'écran la petite ville natale des personnages. Des plages comme Streedagh sont larges, sauvages et souvent désertes, à quelques heures au-delà de Galway."
+      },
+      "salzburg": {
+        "blurb": "La ville baroque des Alpes où une famille chantante a conquis le monde, dont les jardins, le palais au bord du lac et l'abbaye sur la colline se parcourent encore comme un itinéraire de set-jetting. La ville natale de Mozart fait aussi une porte d'entrée vers les lacs et les montagnes du Salzkammergut."
+      },
+      "rome": {
+        "blurb": "La Ville éternelle, décor d'une princesse en fuite à Vespa et d'un siècle de cinéma depuis. Ses fontaines, ses places et ses vieilles pierres se serrent au cœur de la ville, faites pour flâner entre une glace et la façade célèbre suivante."
+      },
+      "amalfi-coast": {
+        "blurb": "Un ruban vertigineux de villages pastel empilés au-dessus de la mer Tyrrhénienne, où un thriller glamour s'est gorgé de lumière méditerranéenne. Positano en est l'ancrage carte postale, qu'on rejoint par une route côtière à donner le frisson ou, plus tranquillement, en bateau."
+      },
+      "bay-of-naples": {
+        "blurb": "Les îles et le rivage du golfe de Naples, gorgés de soleil et tout en pastel, où un thriller des années 1950 a trouvé sa station balnéaire imaginaire. Le port de pêche de Procida en est le cœur photogénique, à un court saut d'hydroglisseur depuis Naples."
+      },
+      "lombardy": {
+        "blurb": "Les terres agricoles plates et brumeuses et les vieilles villes du nord de l'Italie, où une romance estivale baignée de soleil s'est nouée autour d'une place de province tranquille. Crema en est l'ancrage tout en douceur, avec les lacs et les contreforts à un court trajet vers le nord."
+      },
+      "gorlitz": {
+        "blurb": "Une ville parfaitement préservée à la frontière est de l'Allemagne, si épargnée par la guerre que les cinéastes s'en servent comme d'un décor d'époque clé en main, jusqu'au hall d'un certain hôtel rose. Görliwood est ramassée, élégante, et à mille lieues des sentiers touristiques."
+      },
+      "peak-district": {
+        "blurb": "Le premier parc national d'Angleterre, une houle de crêtes de grès et de demeures de maître en plein cœur du pays, où une grande maison a campé Pemberley et un rocher venteux a cadré une héroïne perdue dans ses pensées. Chatsworth et les landes au-dessus de Hathersage s'enchaînent en une journée classique."
+      },
+      "matera": {
+        "blurb": "Une cité antique d'habitations troglodytes taillées dans un ravin du grand sud de l'Italie, si intemporelle qu'elle a joué Jérusalem, et tout récemment la scène d'une course-poursuite de Bond. Les Sassi couleur de miel forment un dédale classé par l'UNESCO, à explorer lentement, à pied."
+      },
+      "atlantic-road": {
+        "blurb": "Un ruban de ponts qui saute d'îlot en îlot le long de la côte ouest battue par les tempêtes en Norvège, le temps d'une poursuite à grande vitesse dans un film d'espionnage. La route de l'Atlantique est un trajet court mais spectaculaire, souvent fouetté par les embruns, près de la ville de Kristiansund."
+      },
+      "petra": {
+        "blurb": "La cité de roche rose des Nabatéens, cachée dans les canyons du désert au sud de la Jordanie, dont la façade-temple a cadré la quête du Saint Graal. La marche d'approche par le canyon en fente jusqu'au Trésor est l'une des grandes révélations du voyage."
+      },
+      "krabi": {
+        "blurb": "Une côte de pitons calcaires, de lagons cachés et d'eau turquoise sur la mer d'Andaman, en Thaïlande, où une crique d'une perfection impossible est devenue le paradis secret des routards. Maya Bay se trouve au large, sur une île inhabitée, qu'on rejoint en bateau depuis Krabi ou Phuket."
+      }
     },
     "locations": {
-      "dubrovnik-city-walls": { "sceneContext": "Sur les remparts tournés vers le large et le vieux port, c'est Port-Réal qui défile : en faisant le tour des murailles, on retrouve les toits et les baies des plans de la capitale.", "howToVisit": "Prenez un billet à l'heure pour le tour complet des murailles : une boucle à sens unique d'environ deux kilomètres, surtout des escaliers. À l'ouverture ou en fin d'après-midi pour fuir les croisiéristes et la chaleur ; comptez 60 à 90 minutes.", "nearbyTips": ["Entrez par la porte Pile et descendez sur le Stradun, la grande artère de marbre.", "Montez en téléphérique au mont Srđ pour embrasser toute la ville close d'un seul regard."] },
-      "fort-lovrijenac": { "sceneContext": "Plantée sur son rocher juste à l'ouest des murs, la forteresse joue l'extérieur du Donjon Rouge, jusqu'à la cour des scènes de la Néra.", "howToVisit": "Le billet des remparts donne aussi accès au fort : gardez votre coupon. La montée est raide, par des marches à découvert, mais la petite plateforme au-dessus de l'Adriatique vaut l'effort.", "nearbyTips": ["La crique du port ouest (Kolorina) se niche juste en contrebas.", "Enchaînez avec la porte Pile, à deux minutes."] },
-      "thingvellir": { "sceneContext": "Entre ses hautes parois de roche, le sentier de la faille fait office de route vers les Eyrié et de décor aux montagnes du Val d'Arryn.", "howToVisit": "C'est la première étape du Cercle d'Or, à 45 minutes de Reykjavík. Parking payant, mais l'entrée du parc est libre et la promenade dans la gorge d'Almannagjá, plate et bien balisée.", "nearbyTips": ["Poursuivez la boucle jusqu'aux geysers de Geysir et à la chute de Gullfoss.", "Les plongeurs brevetés peuvent faire du snorkeling dans la faille de Silfra, dans le même parc."] },
-      "castle-ward": { "sceneContext": "La ferme et la tour de ce domaine du National Trust ont été transformées en cour de Winterfell, là où les Stark se réunissent dès le tout premier épisode.", "howToVisit": "Domaine du National Trust, entrée payante (gratuite pour les membres). Sur place, des prestataires proposent tir à l'arc en costume et balades à vélo des décors : réservez l'été. Environ 50 minutes de Belfast.", "nearbyTips": ["Le domaine donne sur le Strangford Lough, idéal pour marcher après la visite.", "Audley's Castle, autre décor reconnaissable, est à quelques pas dans le parc."] },
-      "alcazar-seville": { "sceneContext": "Les patios carrelés et les jardins en contrebas du palais mauresque sont devenus les Jardins de l'Eau de Dorne, fief de la maison Martell.", "howToVisit": "Réservez votre billet à l'heure en ligne, bien à l'avance : c'est complet chaque jour, surtout au printemps. Arrivez à l'ouverture pour profiter des jardins avant la chaleur et la foule ; au moins 90 minutes.", "nearbyTips": ["La cathédrale de Séville et la Giralda sont juste à côté.", "Perdez-vous dans le lacis de ruelles de Santa Cruz, au pied des murs."] },
-      "girona-cathedral": { "sceneContext": "Le grand escalier baroque de la cathédrale fait l'approche du Grand Septuaire de Baelor ; un peu plus bas, les vieilles ruelles deviennent les canaux et les rues de Braavos.", "howToVisit": "L'escalier et la place sont en accès libre ; un billet ouvre la cathédrale et son cloître. Montez dans le Barri Vell et longez les remparts médiévaux pour les plus belles vues.", "nearbyTips": ["Faites le Passeig de la Muralla, sur les remparts intacts.", "Photographiez les maisons colorées de l'Onyar, au-dessus de la rivière."] },
-      "gaztelugatxe": { "sceneContext": "Cet escalier de pierre qui ondule jusqu'à la chapelle de l'îlot, c'est Peyredragon, le fief insulaire des Targaryen battu par les flots.", "howToVisit": "L'accès se réserve en ligne (billet gratuit, à l'heure) : une descente raide puis quelque 240 marches à remonter, donc bonnes chaussures et gourde. Prévoyez deux bonnes heures avec le sentier depuis le parking.", "nearbyTips": ["Le port de pêche de Bermeo, juste à côté, est parfait pour déjeuner.", "Bilbao et son Guggenheim sont à trois quarts d'heure."] },
-      "san-domenico-palace": { "sceneContext": "Ancien couvent devenu palace en surplomb de la mer, c'est le vrai « White Lotus Sicile » : ses terrasses, sa piscine et ses vues sont le décor où l'on regarde les clients se déliter.", "howToVisit": "C'est un cinq-étoiles en activité : les jardins sont réservés aux clients et les chambres partent des mois à l'avance pour l'été. Sans y loger, on peut souvent réserver un verre ou un déjeuner en terrasse, à confirmer par téléphone.", "nearbyTips": ["L'hôtel est à deux pas du Corso Umberto, l'artère piétonne.", "Les jardins publics (Villa Comunale), tout près, offrent des vues semblables gratuitement."] },
-      "teatro-antico-taormina": { "sceneContext": "Avec l'Etna encadré par son mur en ruine, le théâtre gréco-romain signe les plans d'ouverture qui plantent la saison à Taormine.", "howToVisit": "Billet à l'heure, payant ; venez tôt ou en fin de journée pour une lumière douce et l'Etna bien dégagé. La montée par la ville est douce mais réelle : prévoyez 45 minutes sur place.", "nearbyTips": ["C'est à cinq minutes du haut du Corso Umberto.", "Offrez-vous une granita-brioche en chemin, le petit-déjeuner sicilien."] },
-      "isola-bella-taormina": { "sceneContext": "Le minuscule îlot-réserve et la plage de galets, en contrebas de la ville, reviennent dans les scènes de bateau et de bord de mer, juste sous les falaises de l'hôtel.", "howToVisit": "Descendez par le téléphérique (funivia), puis rejoignez l'îlot par la petite langue de galets à marée basse. Petit droit d'entrée pour la réserve. Prévoyez des chaussures d'eau : ce sont des galets, pas du sable.", "nearbyTips": ["La plage de Mazzarò, à côté, a transats et bars.", "Le funivia passe tous les quarts d'heure et épargne la remontée."] },
-      "four-seasons-maui": { "sceneContext": "Sur la plage de Wailea, ce resort fut le tout premier « White Lotus », celui d'Hawaï : hall, piscine à débordement et suites face à l'océan de la saison une.", "howToVisit": "Palace réservé aux clients : réservez tôt en haute saison. À Hawaï, les plages sont publiques par la loi : on rejoint celle de Wailea par le sentier d'accès au littoral, même sans chambre.", "nearbyTips": ["Le Wailea Beach Path relie plusieurs resorts le long du sable.", "Montez au Haleakalā pour le lever de soleil au-dessus des nuages (créneau à réserver)."] },
-      "four-seasons-koh-samui": { "sceneContext": "Ce resort à flanc de colline, fait de villas à piscine privée au-dessus du golfe de Thaïlande, a tenu le rôle principal du « White Lotus Thaïlande » en saison trois.", "howToVisit": "Réservé aux clients, sur la côte nord-ouest plus tranquille de l'île ; les villas partent longtemps à l'avance. Les non-résidents peuvent parfois réserver une table aux restaurants : renseignez-vous directement.", "nearbyTips": ["Le temple du Grand Bouddha (Wat Phra Yai) est à quelques minutes à l'est.", "Le Fisherman's Village de Bophut a son marché de nuit et ses bars."] },
-      "place-de-lestrapade": { "sceneContext": "Cette place tranquille du Quartier latin abrite l'immeuble de l'appartement d'Emily, et le restaurant du coin joue le bistrot d'en bas.", "howToVisit": "C'est une vraie place habitée : visitez en douceur et sans bruit. Pas de billet ; le café et la boulangerie du coin sont ouverts à tous. Le matin, c'est le plus calme pour les photos.", "nearbyTips": ["Le Panthéon est à deux minutes.", "Le jardin du Luxembourg est tout proche, à l'ouest."] },
-      "palais-garnier": { "sceneContext": "Dorures et grand escalier : l'opéra du XIXe revient tout au long de la série comme le décor le plus théâtral de la ville.", "howToVisit": "Visite libre en journée avec un billet, ou réservez un spectacle pour voir la salle vivante. Le grand escalier et les foyers sont les temps forts ; vérifiez le calendrier, les visites s'interrompent les jours de matinée.", "nearbyTips": ["Les Galeries Lafayette et leur toit-terrasse sont juste à côté.", "Le Café de la Paix tient le coin de la place depuis toujours."] },
-      "pont-alexandre-iii": { "sceneContext": "Statues dorées, lampadaires, tout l'apparat : le plus orné des ponts parisiens revient dans les moments romantiques de la série, au-dessus de la Seine.", "howToVisit": "Pont public, libre et ouvert à toute heure. Le lever du jour et l'heure bleue donnent la plus belle lumière et le moins de monde. Descendez sur les quais pour l'angle carte postale.", "nearbyTips": ["Le Grand et le Petit Palais encadrent le débouché rive droite.", "Les Invalides s'alignent pile en face, côté rive gauche."] },
-      "jardin-du-palais-royal": { "sceneContext": "Le jardin royal sous arcades, et les colonnes rayées de Buren dans sa cour, signent l'une des plus jolies flâneries d'Emily sur la rive droite.", "howToVisit": "Jardin gratuit, ouvert tous les jours ; les galeries qui l'entourent cachent boutiques et cafés d'autrefois. Tôt le matin, les colonnades sont presque pour vous seul.", "nearbyTips": ["Le Louvre est à deux minutes au sud.", "La galerie Vivienne, passage couvert du XIXe, est à l'angle."] },
-      "doune-castle": { "sceneContext": "Cette forteresse médiévale joue le château de Leoch, fief des MacKenzie, dans la même cour qui avait servi de Winterfell pour le pilote de Game of Thrones.", "howToVisit": "Géré par Historic Environment Scotland, entrée payante ; l'audioguide, excellent, joue à fond la carte des tournages. À une heure d'Édimbourg comme de Glasgow ; comptez 60 à 90 minutes.", "nearbyTips": ["Stirling et son château sont à 20 minutes.", "Les Trossachs et le Loch Lomond commencent juste à l'ouest."] },
-      "midhope-castle": { "sceneContext": "Cette tour patinée est l'extérieur de Lallybroch, la maison des Fraser, l'une des façades les plus reconnaissables de toute la série.", "howToVisit": "Elle se trouve sur le domaine privé de Hopetoun : réglez le petit droit d'accès avant d'y rouler. Seul l'extérieur se visite, mais c'est la cour que tout le monde vient photographier.", "nearbyTips": ["Hopetoun House, juste à côté, se visite aussi.", "South Queensferry et les trois ponts du Forth sont à un quart d'heure."] },
-      "culross": { "sceneContext": "Ce bourg du XVIIe siècle resté intact devient le village de Cranesmuir, et le jardin ocre de Culross Palace fait le potager de simples de Claire.", "howToVisit": "Les ruelles pavées se parcourent librement ; le palais et son jardin (National Trust) sont payants. Petit village : une heure ou deux suffisent, sur la rive nord du Firth of Forth.", "nearbyTips": ["Les ponts de Kincardine et du Clackmannanshire sont proches pour la suite.", "À combiner avec Doune Castle pour une journée 100 % Outlander."] },
-      "glencoe": { "sceneContext": "Le glen sombre et ses sommets fournissent les grands paysages des Highlands du générique et de plusieurs scènes de route.", "howToVisit": "Libre et ouvert toute l'année : on le traverse par l'A82, avec points de vue et départs de sentiers balisés. Le centre des visiteurs raconte la géologie et l'histoire. La météo tourne vite : prévoyez des couches.", "nearbyTips": ["Fort William, le pôle du coin, est à 30 minutes au nord.", "Le viaduc de Glenfinnan est tout près pour une escale Harry Potter."] },
-      "glenfinnan-viaduct": { "sceneContext": "Ce viaduc ferroviaire en courbe, c'est celui que franchit le Poudlard Express, le plus souvent avec une voiture volante à ses trousses.", "howToVisit": "Garez-vous au centre des visiteurs de Glenfinnan et montez au point de vue par le sentier (15 à 20 minutes). Calez-vous sur le passage du train à vapeur Jacobite, quotidien en saison : vérifiez l'horaire avant de partir.", "nearbyTips": ["Le monument de Glenfinnan et le Loch Shiel sont juste en dessous.", "Poussez jusqu'à Mallaig pour le ferry vers Skye."] },
-      "alnwick-castle": { "sceneContext": "C'est dans la cour extérieure du château que les premiers films tournent les cours de balai de Harry, sur les pelouses de Madame Bibine.", "howToVisit": "Entrée payante ; le château propose chaque jour des initiations au balai sur ces mêmes pelouses, le bonheur des enfants. C'est encore une demeure familiale : ouverture saisonnière, vérifiez les dates. Prévoyez une demi-journée.", "nearbyTips": ["The Alnwick Garden et sa cabane géante sont juste à côté.", "Les grandes plages du Northumberland (Bamburgh, Embleton) sont tout près."] },
-      "christ-church-oxford": { "sceneContext": "L'escalier du XVIe siècle du college apparaît à l'écran, et son grand réfectoire a servi de modèle à la Grande Salle de Poudlard.", "howToVisit": "Billet à l'heure, payant, via le college ; comme c'est un college et une cathédrale en activité, certaines parties ferment par moments. Réservez l'été. Comptez environ une heure.", "nearbyTips": ["La Bodleian Library, autre décor de Poudlard, est à dix minutes.", "Grimpez à la tour voisine de l'église universitaire pour la vue sur les toits."] },
-      "goathland-station": { "sceneContext": "Cette petite gare de lande joue Pré-au-Lard, là où les élèves descendent du Poudlard Express dans le premier film.", "howToVisit": "C'est un arrêt en service du train historique des North Yorkshire Moors : prenez un billet pour y arriver à la vapeur, comme les sorciers. Sinon, le village et le quai sont en accès libre.", "nearbyTips": ["Continuez la ligne jusqu'à Whitby, sur la côte.", "La lande alentour est un terrain de randonnée de premier choix."] },
-      "hobbiton": { "sceneContext": "La Comté, Cul-de-Sac et ses portes rondes de trous de hobbit ont été bâties sur une ferme à moutons en activité, puis gardées pour de bon en attraction.", "howToVisit": "La visite est guidée et sur réservation : on n'entre pas en voiture sur le décor. Les tours partent du centre d'accueil voisin, et l'auberge du Dragon Vert offre une bière à la fin. Comptez une demi-journée.", "nearbyTips": ["La ville de Matamata a son office « Hobbiton i-SITE », très photogénique.", "Les parcs géothermiques de Rotorua sont à une heure au sud."] },
-      "tongariro-national-park": { "sceneContext": "Les plaines de cendre du parc et le cône presque parfait du mont Ngauruhoe ont campé les pentes de la Montagne du Destin et les terres mortes du Mordor.", "howToVisit": "Entrée libre ; la célèbre Tongariro Alpine Crossing est une grosse rando d'une journée, à sens unique, qui demande une navette et une météo clémente. Pour un avant-goût plus doux, des sentiers courts partent du village de Whakapapa.", "nearbyTips": ["Réservez la navette de la Crossing à l'avance l'été : peu de stationnement.", "Le lac Taupō, au nord, a ses propres activités."] },
-      "agios-ioannis-skopelos": { "sceneContext": "Perchée sur son éperon rocheux, la petite chapelle est le décor du mariage en haut de la falaise, au bout d'un long escalier taillé dans la roche.", "howToVisit": "Visite gratuite, mais une bonne centaine de marches raides depuis la plage en contrebas : bonnes chaussures et eau. Tenue couvrante pour entrer dans la chapelle. Sur la côte nord de Skopelos, à 40 minutes de la ville.", "nearbyTips": ["La plage, en bas, rafraîchit après la montée.", "Les maisons blanches en gradins de Skopelos méritent une soirée."] },
-      "kastani-beach": { "sceneContext": "C'est sur cette crique de galets bordée de pins, à l'ouest de l'île, que se sont tournés plusieurs numéros musicaux de la plage.", "howToVisit": "Plage publique avec taverne de saison et transats à louer ; eau claire et calme. On y va en voiture ou en scooter, par une route qui serpente sous les pins. Le matin, c'est le plus tranquille.", "nearbyTips": ["Les plages de Milia et Panormos sont tout près, sur la même côte.", "Prévoyez des chaussures d'eau pour les galets."] },
-      "royal-crescent-bath": { "sceneContext": "Ce croissant géorgien de maisons dorées fait le Londres chic de la Régence, l'une de ses extrémités tenant lieu de résidence mondaine.", "howToVisit": "On longe le croissant et sa pelouse librement ; le No.1 Royal Crescent, maison-musée géorgienne restaurée, est payant. La rangée est habitée : admirez les façades depuis la pelouse.", "nearbyTips": ["The Circus, autre joyau géorgien, est à deux minutes.", "Les thermes romains et l'abbaye sont au centre, en contrebas."] },
-      "holburne-museum": { "sceneContext": "La façade du musée joue l'extérieur de la maison de Lady Danbury, en tête de l'une des plus belles rues de Bath.", "howToVisit": "L'entrée du musée est gratuite (les expos temporaires peuvent être payantes) ; le bâtiment ferme la perspective de Great Pulteney Street, elle aussi un décor de Bridgerton. Comptez une heure avec l'art et le café.", "nearbyTips": ["Remontez Great Pulteney Street et passez sur le Pulteney Bridge.", "Les Sydney Gardens, derrière le musée, font une pause au calme."] },
-      "rangers-house-greenwich": { "sceneContext": "Cette villa géorgienne de brique rouge, en lisière de Greenwich Park, c'est l'extérieur de l'hôtel particulier des Bridgerton à Londres.", "howToVisit": "Gérée par English Heritage, entrée payante en saison pour la collection d'art à l'intérieur ; l'extérieur et le parc sont gratuits. On y va en DLR ou en bateau depuis le centre de Londres.", "nearbyTips": ["Montez dans le parc jusqu'à l'Observatoire royal et le méridien d'origine.", "L'Old Royal Naval College, autre chouchou des séries d'époque, est en bas au bord du fleuve."] },
-      "csic-madrid": { "sceneContext": "Le grand siège du conseil national de la recherche espagnol joue la Fabrique de la Monnaie, le bâtiment que la bande occupe lors du premier casse.", "howToVisit": "C'est une institution en activité, calle Serrano : on s'en tient à une photo de l'extérieur, depuis le trottoir. À glisser dans une balade du quartier des musées plutôt que d'espérer entrer.", "nearbyTips": ["Le Musée archéologique national est à deux pas au sud.", "Les boutiques du quartier de Salamanque sont tout autour."] },
-      "banco-de-espana": { "sceneContext": "Sur la place de Cibeles, la vraie Banque d'Espagne est la cible du second casse : sa façade d'angle monumentale revient sans cesse, même si les intérieurs étaient un décor.", "howToVisit": "Photo de l'extérieur seulement, c'est une banque centrale en activité. Le meilleur point de vue est de l'autre côté de la place de Cibeles, l'un des plus beaux carrefours de Madrid.", "nearbyTips": ["Montez sur la terrasse du Palais de Cibeles, en face, pour la vue.", "Le Prado et le parc du Retiro sont à deux pas à l'est."] },
-      "caceres-old-town": { "sceneContext": "Tours, palais, ruelles de pierre : le quartier médiéval resté intact a campé les rues de Port-Réal, presque sans rien y ajouter.", "howToVisit": "La vieille ville fortifiée se parcourt librement ; quelques palais et tours demandent un petit droit d'entrée. Tout se fait à pied, idéalement à l'heure dorée quand la pierre s'embrase. Comptez une demi-journée.", "nearbyTips": ["Montez à la tour de Bujaco pour la vue sur la Plaza Mayor.", "Trujillo, autre ville de tournage, est à 45 minutes à l'est."] },
-      "trujillo-castle": { "sceneContext": "Le château maure qui couronne la colline et la grande Plaza Mayor en contrebas ont campé des morceaux de la capitale Targaryen et de ses abords.", "howToVisit": "Petit droit d'entrée pour le château, tout en haut de la ville ; la montée par les vieilles ruelles fait partie du plaisir. Le coucher de soleil depuis les remparts, sur la plaine, est le clou.", "nearbyTips": ["La Plaza Mayor à arcades est le cœur battant de la ville.", "À associer à Cáceres pour une journée complète en Estrémadure."] }
+      "dubrovnik-city-walls": {
+        "sceneContext": "Sur les remparts tournés vers le large et le vieux port, c'est Port-Réal qui défile : en faisant le tour des murailles, on retrouve les toits et les baies des plans de la capitale.",
+        "howToVisit": "Prenez un billet à l'heure pour le tour complet des murailles : une boucle à sens unique d'environ deux kilomètres, surtout des escaliers. À l'ouverture ou en fin d'après-midi pour fuir les croisiéristes et la chaleur ; comptez 60 à 90 minutes.",
+        "nearbyTips": [
+          "Entrez par la porte Pile et descendez sur le Stradun, la grande artère de marbre.",
+          "Montez en téléphérique au mont Srđ pour embrasser toute la ville close d'un seul regard."
+        ]
+      },
+      "fort-lovrijenac": {
+        "sceneContext": "Plantée sur son rocher juste à l'ouest des murs, la forteresse joue l'extérieur du Donjon Rouge, jusqu'à la cour des scènes de la Néra.",
+        "howToVisit": "Le billet des remparts donne aussi accès au fort : gardez votre coupon. La montée est raide, par des marches à découvert, mais la petite plateforme au-dessus de l'Adriatique vaut l'effort.",
+        "nearbyTips": [
+          "La crique du port ouest (Kolorina) se niche juste en contrebas.",
+          "Enchaînez avec la porte Pile, à deux minutes."
+        ]
+      },
+      "thingvellir": {
+        "sceneContext": "Entre ses hautes parois de roche, le sentier de la faille fait office de route vers les Eyrié et de décor aux montagnes du Val d'Arryn.",
+        "howToVisit": "C'est la première étape du Cercle d'Or, à 45 minutes de Reykjavík. Parking payant, mais l'entrée du parc est libre et la promenade dans la gorge d'Almannagjá, plate et bien balisée.",
+        "nearbyTips": [
+          "Poursuivez la boucle jusqu'aux geysers de Geysir et à la chute de Gullfoss.",
+          "Les plongeurs brevetés peuvent faire du snorkeling dans la faille de Silfra, dans le même parc."
+        ]
+      },
+      "castle-ward": {
+        "sceneContext": "La ferme et la tour de ce domaine du National Trust ont été transformées en cour de Winterfell, là où les Stark se réunissent dès le tout premier épisode.",
+        "howToVisit": "Domaine du National Trust, entrée payante (gratuite pour les membres). Sur place, des prestataires proposent tir à l'arc en costume et balades à vélo des décors : réservez l'été. Environ 50 minutes de Belfast.",
+        "nearbyTips": [
+          "Le domaine donne sur le Strangford Lough, idéal pour marcher après la visite.",
+          "Audley's Castle, autre décor reconnaissable, est à quelques pas dans le parc."
+        ]
+      },
+      "alcazar-seville": {
+        "sceneContext": "Les patios carrelés et les jardins en contrebas du palais mauresque sont devenus les Jardins de l'Eau de Dorne, fief de la maison Martell.",
+        "howToVisit": "Réservez votre billet à l'heure en ligne, bien à l'avance : c'est complet chaque jour, surtout au printemps. Arrivez à l'ouverture pour profiter des jardins avant la chaleur et la foule ; au moins 90 minutes.",
+        "nearbyTips": [
+          "La cathédrale de Séville et la Giralda sont juste à côté.",
+          "Perdez-vous dans le lacis de ruelles de Santa Cruz, au pied des murs."
+        ]
+      },
+      "girona-cathedral": {
+        "sceneContext": "Le grand escalier baroque de la cathédrale fait l'approche du Grand Septuaire de Baelor ; un peu plus bas, les vieilles ruelles deviennent les canaux et les rues de Braavos.",
+        "howToVisit": "L'escalier et la place sont en accès libre ; un billet ouvre la cathédrale et son cloître. Montez dans le Barri Vell et longez les remparts médiévaux pour les plus belles vues.",
+        "nearbyTips": [
+          "Faites le Passeig de la Muralla, sur les remparts intacts.",
+          "Photographiez les maisons colorées de l'Onyar, au-dessus de la rivière."
+        ]
+      },
+      "gaztelugatxe": {
+        "sceneContext": "Cet escalier de pierre qui ondule jusqu'à la chapelle de l'îlot, c'est Peyredragon, le fief insulaire des Targaryen battu par les flots.",
+        "howToVisit": "L'accès se réserve en ligne (billet gratuit, à l'heure) : une descente raide puis quelque 240 marches à remonter, donc bonnes chaussures et gourde. Prévoyez deux bonnes heures avec le sentier depuis le parking.",
+        "nearbyTips": [
+          "Le port de pêche de Bermeo, juste à côté, est parfait pour déjeuner.",
+          "Bilbao et son Guggenheim sont à trois quarts d'heure."
+        ]
+      },
+      "san-domenico-palace": {
+        "sceneContext": "Ancien couvent devenu palace en surplomb de la mer, c'est le vrai « White Lotus Sicile » : ses terrasses, sa piscine et ses vues sont le décor où l'on regarde les clients se déliter.",
+        "howToVisit": "C'est un cinq-étoiles en activité : les jardins sont réservés aux clients et les chambres partent des mois à l'avance pour l'été. Sans y loger, on peut souvent réserver un verre ou un déjeuner en terrasse, à confirmer par téléphone.",
+        "nearbyTips": [
+          "L'hôtel est à deux pas du Corso Umberto, l'artère piétonne.",
+          "Les jardins publics (Villa Comunale), tout près, offrent des vues semblables gratuitement."
+        ]
+      },
+      "teatro-antico-taormina": {
+        "sceneContext": "Avec l'Etna encadré par son mur en ruine, le théâtre gréco-romain signe les plans d'ouverture qui plantent la saison à Taormine.",
+        "howToVisit": "Billet à l'heure, payant ; venez tôt ou en fin de journée pour une lumière douce et l'Etna bien dégagé. La montée par la ville est douce mais réelle : prévoyez 45 minutes sur place.",
+        "nearbyTips": [
+          "C'est à cinq minutes du haut du Corso Umberto.",
+          "Offrez-vous une granita-brioche en chemin, le petit-déjeuner sicilien."
+        ]
+      },
+      "isola-bella-taormina": {
+        "sceneContext": "Le minuscule îlot-réserve et la plage de galets, en contrebas de la ville, reviennent dans les scènes de bateau et de bord de mer, juste sous les falaises de l'hôtel.",
+        "howToVisit": "Descendez par le téléphérique (funivia), puis rejoignez l'îlot par la petite langue de galets à marée basse. Petit droit d'entrée pour la réserve. Prévoyez des chaussures d'eau : ce sont des galets, pas du sable.",
+        "nearbyTips": [
+          "La plage de Mazzarò, à côté, a transats et bars.",
+          "Le funivia passe tous les quarts d'heure et épargne la remontée."
+        ]
+      },
+      "four-seasons-maui": {
+        "sceneContext": "Sur la plage de Wailea, ce resort fut le tout premier « White Lotus », celui d'Hawaï : hall, piscine à débordement et suites face à l'océan de la saison une.",
+        "howToVisit": "Palace réservé aux clients : réservez tôt en haute saison. À Hawaï, les plages sont publiques par la loi : on rejoint celle de Wailea par le sentier d'accès au littoral, même sans chambre.",
+        "nearbyTips": [
+          "Le Wailea Beach Path relie plusieurs resorts le long du sable.",
+          "Montez au Haleakalā pour le lever de soleil au-dessus des nuages (créneau à réserver)."
+        ]
+      },
+      "four-seasons-koh-samui": {
+        "sceneContext": "Ce resort à flanc de colline, fait de villas à piscine privée au-dessus du golfe de Thaïlande, a tenu le rôle principal du « White Lotus Thaïlande » en saison trois.",
+        "howToVisit": "Réservé aux clients, sur la côte nord-ouest plus tranquille de l'île ; les villas partent longtemps à l'avance. Les non-résidents peuvent parfois réserver une table aux restaurants : renseignez-vous directement.",
+        "nearbyTips": [
+          "Le temple du Grand Bouddha (Wat Phra Yai) est à quelques minutes à l'est.",
+          "Le Fisherman's Village de Bophut a son marché de nuit et ses bars."
+        ]
+      },
+      "place-de-lestrapade": {
+        "sceneContext": "Cette place tranquille du Quartier latin abrite l'immeuble de l'appartement d'Emily, et le restaurant du coin joue le bistrot d'en bas.",
+        "howToVisit": "C'est une vraie place habitée : visitez en douceur et sans bruit. Pas de billet ; le café et la boulangerie du coin sont ouverts à tous. Le matin, c'est le plus calme pour les photos.",
+        "nearbyTips": [
+          "Le Panthéon est à deux minutes.",
+          "Le jardin du Luxembourg est tout proche, à l'ouest."
+        ]
+      },
+      "palais-garnier": {
+        "sceneContext": "Dorures et grand escalier : l'opéra du XIXe revient tout au long de la série comme le décor le plus théâtral de la ville.",
+        "howToVisit": "Visite libre en journée avec un billet, ou réservez un spectacle pour voir la salle vivante. Le grand escalier et les foyers sont les temps forts ; vérifiez le calendrier, les visites s'interrompent les jours de matinée.",
+        "nearbyTips": [
+          "Les Galeries Lafayette et leur toit-terrasse sont juste à côté.",
+          "Le Café de la Paix tient le coin de la place depuis toujours."
+        ]
+      },
+      "pont-alexandre-iii": {
+        "sceneContext": "Statues dorées, lampadaires, tout l'apparat : le plus orné des ponts parisiens revient dans les moments romantiques de la série, au-dessus de la Seine.",
+        "howToVisit": "Pont public, libre et ouvert à toute heure. Le lever du jour et l'heure bleue donnent la plus belle lumière et le moins de monde. Descendez sur les quais pour l'angle carte postale.",
+        "nearbyTips": [
+          "Le Grand et le Petit Palais encadrent le débouché rive droite.",
+          "Les Invalides s'alignent pile en face, côté rive gauche."
+        ]
+      },
+      "jardin-du-palais-royal": {
+        "sceneContext": "Le jardin royal sous arcades, et les colonnes rayées de Buren dans sa cour, signent l'une des plus jolies flâneries d'Emily sur la rive droite.",
+        "howToVisit": "Jardin gratuit, ouvert tous les jours ; les galeries qui l'entourent cachent boutiques et cafés d'autrefois. Tôt le matin, les colonnades sont presque pour vous seul.",
+        "nearbyTips": [
+          "Le Louvre est à deux minutes au sud.",
+          "La galerie Vivienne, passage couvert du XIXe, est à l'angle."
+        ]
+      },
+      "doune-castle": {
+        "sceneContext": "Cette forteresse médiévale joue le château de Leoch, fief des MacKenzie, dans la même cour qui avait servi de Winterfell pour le pilote de Game of Thrones.",
+        "howToVisit": "Géré par Historic Environment Scotland, entrée payante ; l'audioguide, excellent, joue à fond la carte des tournages. À une heure d'Édimbourg comme de Glasgow ; comptez 60 à 90 minutes.",
+        "nearbyTips": [
+          "Stirling et son château sont à 20 minutes.",
+          "Les Trossachs et le Loch Lomond commencent juste à l'ouest."
+        ]
+      },
+      "midhope-castle": {
+        "sceneContext": "Cette tour patinée est l'extérieur de Lallybroch, la maison des Fraser, l'une des façades les plus reconnaissables de toute la série.",
+        "howToVisit": "Elle se trouve sur le domaine privé de Hopetoun : réglez le petit droit d'accès avant d'y rouler. Seul l'extérieur se visite, mais c'est la cour que tout le monde vient photographier.",
+        "nearbyTips": [
+          "Hopetoun House, juste à côté, se visite aussi.",
+          "South Queensferry et les trois ponts du Forth sont à un quart d'heure."
+        ]
+      },
+      "culross": {
+        "sceneContext": "Ce bourg du XVIIe siècle resté intact devient le village de Cranesmuir, et le jardin ocre de Culross Palace fait le potager de simples de Claire.",
+        "howToVisit": "Les ruelles pavées se parcourent librement ; le palais et son jardin (National Trust) sont payants. Petit village : une heure ou deux suffisent, sur la rive nord du Firth of Forth.",
+        "nearbyTips": [
+          "Les ponts de Kincardine et du Clackmannanshire sont proches pour la suite.",
+          "À combiner avec Doune Castle pour une journée 100 % Outlander."
+        ]
+      },
+      "glencoe": {
+        "sceneContext": "Le glen sombre et ses sommets fournissent les grands paysages des Highlands du générique et de plusieurs scènes de route.",
+        "howToVisit": "Libre et ouvert toute l'année : on le traverse par l'A82, avec points de vue et départs de sentiers balisés. Le centre des visiteurs raconte la géologie et l'histoire. La météo tourne vite : prévoyez des couches.",
+        "nearbyTips": [
+          "Fort William, le pôle du coin, est à 30 minutes au nord.",
+          "Le viaduc de Glenfinnan est tout près pour une escale Harry Potter."
+        ]
+      },
+      "glenfinnan-viaduct": {
+        "sceneContext": "Ce viaduc ferroviaire en courbe, c'est celui que franchit le Poudlard Express, le plus souvent avec une voiture volante à ses trousses.",
+        "howToVisit": "Garez-vous au centre des visiteurs de Glenfinnan et montez au point de vue par le sentier (15 à 20 minutes). Calez-vous sur le passage du train à vapeur Jacobite, quotidien en saison : vérifiez l'horaire avant de partir.",
+        "nearbyTips": [
+          "Le monument de Glenfinnan et le Loch Shiel sont juste en dessous.",
+          "Poussez jusqu'à Mallaig pour le ferry vers Skye."
+        ]
+      },
+      "alnwick-castle": {
+        "sceneContext": "C'est dans la cour extérieure du château que les premiers films tournent les cours de balai de Harry, sur les pelouses de Madame Bibine.",
+        "howToVisit": "Entrée payante ; le château propose chaque jour des initiations au balai sur ces mêmes pelouses, le bonheur des enfants. C'est encore une demeure familiale : ouverture saisonnière, vérifiez les dates. Prévoyez une demi-journée.",
+        "nearbyTips": [
+          "The Alnwick Garden et sa cabane géante sont juste à côté.",
+          "Les grandes plages du Northumberland (Bamburgh, Embleton) sont tout près."
+        ]
+      },
+      "christ-church-oxford": {
+        "sceneContext": "L'escalier du XVIe siècle du college apparaît à l'écran, et son grand réfectoire a servi de modèle à la Grande Salle de Poudlard.",
+        "howToVisit": "Billet à l'heure, payant, via le college ; comme c'est un college et une cathédrale en activité, certaines parties ferment par moments. Réservez l'été. Comptez environ une heure.",
+        "nearbyTips": [
+          "La Bodleian Library, autre décor de Poudlard, est à dix minutes.",
+          "Grimpez à la tour voisine de l'église universitaire pour la vue sur les toits."
+        ]
+      },
+      "goathland-station": {
+        "sceneContext": "Cette petite gare de lande joue Pré-au-Lard, là où les élèves descendent du Poudlard Express dans le premier film.",
+        "howToVisit": "C'est un arrêt en service du train historique des North Yorkshire Moors : prenez un billet pour y arriver à la vapeur, comme les sorciers. Sinon, le village et le quai sont en accès libre.",
+        "nearbyTips": [
+          "Continuez la ligne jusqu'à Whitby, sur la côte.",
+          "La lande alentour est un terrain de randonnée de premier choix."
+        ]
+      },
+      "hobbiton": {
+        "sceneContext": "La Comté, Cul-de-Sac et ses portes rondes de trous de hobbit ont été bâties sur une ferme à moutons en activité, puis gardées pour de bon en attraction.",
+        "howToVisit": "La visite est guidée et sur réservation : on n'entre pas en voiture sur le décor. Les tours partent du centre d'accueil voisin, et l'auberge du Dragon Vert offre une bière à la fin. Comptez une demi-journée.",
+        "nearbyTips": [
+          "La ville de Matamata a son office « Hobbiton i-SITE », très photogénique.",
+          "Les parcs géothermiques de Rotorua sont à une heure au sud."
+        ]
+      },
+      "tongariro-national-park": {
+        "sceneContext": "Les plaines de cendre du parc et le cône presque parfait du mont Ngauruhoe ont campé les pentes de la Montagne du Destin et les terres mortes du Mordor.",
+        "howToVisit": "Entrée libre ; la célèbre Tongariro Alpine Crossing est une grosse rando d'une journée, à sens unique, qui demande une navette et une météo clémente. Pour un avant-goût plus doux, des sentiers courts partent du village de Whakapapa.",
+        "nearbyTips": [
+          "Réservez la navette de la Crossing à l'avance l'été : peu de stationnement.",
+          "Le lac Taupō, au nord, a ses propres activités."
+        ]
+      },
+      "agios-ioannis-skopelos": {
+        "sceneContext": "Perchée sur son éperon rocheux, la petite chapelle est le décor du mariage en haut de la falaise, au bout d'un long escalier taillé dans la roche.",
+        "howToVisit": "Visite gratuite, mais une bonne centaine de marches raides depuis la plage en contrebas : bonnes chaussures et eau. Tenue couvrante pour entrer dans la chapelle. Sur la côte nord de Skopelos, à 40 minutes de la ville.",
+        "nearbyTips": [
+          "La plage, en bas, rafraîchit après la montée.",
+          "Les maisons blanches en gradins de Skopelos méritent une soirée."
+        ]
+      },
+      "kastani-beach": {
+        "sceneContext": "C'est sur cette crique de galets bordée de pins, à l'ouest de l'île, que se sont tournés plusieurs numéros musicaux de la plage.",
+        "howToVisit": "Plage publique avec taverne de saison et transats à louer ; eau claire et calme. On y va en voiture ou en scooter, par une route qui serpente sous les pins. Le matin, c'est le plus tranquille.",
+        "nearbyTips": [
+          "Les plages de Milia et Panormos sont tout près, sur la même côte.",
+          "Prévoyez des chaussures d'eau pour les galets."
+        ]
+      },
+      "royal-crescent-bath": {
+        "sceneContext": "Ce croissant géorgien de maisons dorées fait le Londres chic de la Régence, l'une de ses extrémités tenant lieu de résidence mondaine.",
+        "howToVisit": "On longe le croissant et sa pelouse librement ; le No.1 Royal Crescent, maison-musée géorgienne restaurée, est payant. La rangée est habitée : admirez les façades depuis la pelouse.",
+        "nearbyTips": [
+          "The Circus, autre joyau géorgien, est à deux minutes.",
+          "Les thermes romains et l'abbaye sont au centre, en contrebas."
+        ]
+      },
+      "holburne-museum": {
+        "sceneContext": "La façade du musée joue l'extérieur de la maison de Lady Danbury, en tête de l'une des plus belles rues de Bath.",
+        "howToVisit": "L'entrée du musée est gratuite (les expos temporaires peuvent être payantes) ; le bâtiment ferme la perspective de Great Pulteney Street, elle aussi un décor de Bridgerton. Comptez une heure avec l'art et le café.",
+        "nearbyTips": [
+          "Remontez Great Pulteney Street et passez sur le Pulteney Bridge.",
+          "Les Sydney Gardens, derrière le musée, font une pause au calme."
+        ]
+      },
+      "rangers-house-greenwich": {
+        "sceneContext": "Cette villa géorgienne de brique rouge, en lisière de Greenwich Park, c'est l'extérieur de l'hôtel particulier des Bridgerton à Londres.",
+        "howToVisit": "Gérée par English Heritage, entrée payante en saison pour la collection d'art à l'intérieur ; l'extérieur et le parc sont gratuits. On y va en DLR ou en bateau depuis le centre de Londres.",
+        "nearbyTips": [
+          "Montez dans le parc jusqu'à l'Observatoire royal et le méridien d'origine.",
+          "L'Old Royal Naval College, autre chouchou des séries d'époque, est en bas au bord du fleuve."
+        ]
+      },
+      "csic-madrid": {
+        "sceneContext": "Le grand siège du conseil national de la recherche espagnol joue la Fabrique de la Monnaie, le bâtiment que la bande occupe lors du premier casse.",
+        "howToVisit": "C'est une institution en activité, calle Serrano : on s'en tient à une photo de l'extérieur, depuis le trottoir. À glisser dans une balade du quartier des musées plutôt que d'espérer entrer.",
+        "nearbyTips": [
+          "Le Musée archéologique national est à deux pas au sud.",
+          "Les boutiques du quartier de Salamanque sont tout autour."
+        ]
+      },
+      "banco-de-espana": {
+        "sceneContext": "Sur la place de Cibeles, la vraie Banque d'Espagne est la cible du second casse : sa façade d'angle monumentale revient sans cesse, même si les intérieurs étaient un décor.",
+        "howToVisit": "Photo de l'extérieur seulement, c'est une banque centrale en activité. Le meilleur point de vue est de l'autre côté de la place de Cibeles, l'un des plus beaux carrefours de Madrid.",
+        "nearbyTips": [
+          "Montez sur la terrasse du Palais de Cibeles, en face, pour la vue.",
+          "Le Prado et le parc du Retiro sont à deux pas à l'est."
+        ]
+      },
+      "caceres-old-town": {
+        "sceneContext": "Tours, palais, ruelles de pierre : le quartier médiéval resté intact a campé les rues de Port-Réal, presque sans rien y ajouter.",
+        "howToVisit": "La vieille ville fortifiée se parcourt librement ; quelques palais et tours demandent un petit droit d'entrée. Tout se fait à pied, idéalement à l'heure dorée quand la pierre s'embrase. Comptez une demi-journée.",
+        "nearbyTips": [
+          "Montez à la tour de Bujaco pour la vue sur la Plaza Mayor.",
+          "Trujillo, autre ville de tournage, est à 45 minutes à l'est."
+        ]
+      },
+      "trujillo-castle": {
+        "sceneContext": "Le château maure qui couronne la colline et la grande Plaza Mayor en contrebas ont campé des morceaux de la capitale Targaryen et de ses abords.",
+        "howToVisit": "Petit droit d'entrée pour le château, tout en haut de la ville ; la montée par les vieilles ruelles fait partie du plaisir. Le coucher de soleil depuis les remparts, sur la plaine, est le clou.",
+        "nearbyTips": [
+          "La Plaza Mayor à arcades est le cœur battant de la ville.",
+          "À associer à Cáceres pour une journée complète en Estrémadure."
+        ]
+      },
+      "highclere-castle": {
+        "sceneContext": "La demeure jacobéenne en pierre dorée et son vaste parc sont Downton Abbey en personne : le grand salon, la bibliothèque et les chambres servent de vrais intérieurs à la famille dans chaque saison.",
+        "howToVisit": "Highclere ouvre aux visiteurs à des dates choisies du printemps à l'automne, et autour de Noël ; les billets partent vite, réservez en ligne bien à l'avance. C'est à environ 90 minutes de Londres en voiture, ou un train jusqu'à Newbury puis un court taxi.",
+        "nearbyTips": [
+          "L'exposition égyptienne dans les caves rappelle le vrai passé archéologique de la famille.",
+          "La ville de Newbury, tout près, regorge d'adresses pour déjeuner."
+        ]
+      },
+      "bampton-village": {
+        "sceneContext": "Ce paisible village de l'Oxfordshire, c'est le village de Downton : son église et son ancienne école campent l'hôpital local et les rues que traverse la famille.",
+        "howToVisit": "Bampton se parcourt librement à toute heure : c'est un vrai village vivant, pas une attraction, alors visitez avec respect. C'est à un court trajet d'Oxford ou de Witney, avec une petite exposition Downton dans l'ancienne école.",
+        "nearbyTips": [
+          "L'église St Mary apparaît dans d'innombrables scènes.",
+          "À combiner avec les villes cotswoldiennes voisines de Burford et Witney."
+        ]
+      },
+      "ely-cathedral": {
+        "sceneContext": "La vaste cathédrale médiévale, surnommée le Vaisseau des Fens, double l'abbaye de Westminster dans les scènes de couronnement et de mariage royal.",
+        "howToVisit": "La cathédrale accueille les visiteurs tous les jours, entrée payante incluant la fameuse visite de sa tour octogonale ; vérifiez les horaires autour des offices. Ely est à 15 minutes de train de Cambridge.",
+        "nearbyTips": [
+          "Montez à la tour octogonale et à la tour ouest pour les vues sur les Fens plats.",
+          "La maison d'Oliver Cromwell, tout près, est l'autre musée de la ville."
+        ]
+      },
+      "lancaster-house": {
+        "sceneContext": "Cet opulent hôtel particulier de St James's fournit les escaliers dorés et les salles d'apparat qui doublent les intérieurs de Buckingham Palace.",
+        "howToVisit": "C'est un bâtiment gouvernemental en activité : il n'ouvre au public qu'occasionnellement, lors des week-ends Open House et de visites spéciales ; consultez le programme à l'avance. Il jouxte Green Park, à deux pas du vrai palais.",
+        "nearbyTips": [
+          "Green Park et le Mall sont juste devant la porte.",
+          "Poussez jusqu'à Buckingham Palace pour la relève de la garde."
+        ]
+      },
+      "black-country-museum": {
+        "sceneContext": "Les rues pavées du musée à ciel ouvert, son canal et ses vieux ateliers ont été habillés en Birmingham de l'ère Shelby, jusqu'aux repaires du quartier du Garrison.",
+        "howToVisit": "Un musée à ciel ouvert payant près de Dudley, avec démonstrations en costume et une ville reconstituée des années 1900 ; comptez au moins une demi-journée. Il organise des soirées spéciales façon Peaky Blinders, qui affichent vite complet.",
+        "nearbyTips": [
+          "Le tramway et la péniche restaurés sont inclus dans l'entrée.",
+          "Le château et le zoo de Dudley sont juste à côté."
+        ]
+      },
+      "stanley-dock-liverpool": {
+        "sceneContext": "L'imposant Tobacco Warehouse de brique et le quai pavé ont fourni les extérieurs d'usine enfumés et les bagarres sur les docks de la série.",
+        "howToVisit": "Le secteur des docks est accessible au public et abrite désormais un hôtel et le marché régulier de Stanley Dock ; les extérieurs de l'entrepôt se voient gratuitement. C'est à 25 minutes de marche au nord du centre, le long du front de mer.",
+        "nearbyTips": [
+          "L'Albert Dock et ses musées s'égrènent au fil du fleuve.",
+          "Calez votre venue sur le marché du week-end, sous les arches de l'entrepôt."
+        ]
+      },
+      "cantacuzino-castle": {
+        "sceneContext": "Ce château de montagne néogothique et ses jardins en terrasses sont l'académie Nevermore, l'école pour parias au cœur de la série.",
+        "howToVisit": "Le château de Cantacuzino, à Bușteni, est ouvert tous les jours, entrée payante, avec une exposition très courue sur le thème de Nevermore ; réservez un billet horaire l'été. C'est à environ deux heures de Bucarest par la route ou en train.",
+        "nearbyTips": [
+          "Prenez le téléphérique de Bușteni jusqu'au plateau de Bucegi.",
+          "La croix de Caraiman, sur la crête au-dessus, est le plus haut monument de sommet de Roumanie."
+        ]
+      },
+      "ogrodzieniec-castle": {
+        "sceneContext": "Le saisissant château en ruine, sur son éperon rocheux, a mis en scène la bataille décisive de la colline de Sodden dans la première saison.",
+        "howToVisit": "Les ruines forment une attraction payante sur le Sentier des Nids d'Aigles, ouverte tous les jours en saison, avec une passerelle qui en fait le tour. C'est à environ une heure de voiture de Cracovie.",
+        "nearbyTips": [
+          "Les rochers calcaires alentour sont prisés des grimpeurs.",
+          "À combiner avec une journée dans la vieille ville de Cracovie."
+        ]
+      },
+      "roque-nublo": {
+        "sceneContext": "Le monolithe volcanique de Grande Canarie et les hauts plateaux couverts de pins alentour forment les terres désolées d'un autre monde que traversent les personnages.",
+        "howToVisit": "Un sentier bien balisé grimpe jusqu'au pied du rocher depuis un parking de bord de route, à l'intérieur de l'île ; comptez une heure aller, et emportez de l'eau. Les routes de montagne depuis la côte sont sinueuses, prévoyez la journée.",
+        "nearbyTips": [
+          "Le coucher de soleil sur la mer de nuages, avec le Teide au loin, est la récompense.",
+          "Le village blanc de Tejeda, en contrebas, fait une halte déjeuner pittoresque."
+        ]
+      },
+      "lough-tay": {
+        "sceneContext": "Le lac de montagne sombre, teinté de tourbe, avec sa plage de sable pâle, c'est Kattegat, la colonie nordique où la saga revient encore et encore.",
+        "howToVisit": "Un point de vue célèbre sur le lac se trouve sur la route du Sally Gap ; le lac lui-même est sur des terres privées des Guinness, à admirer donc depuis les hauteurs. C'est à environ une heure de route dans les montagnes depuis Dublin.",
+        "nearbyTips": [
+          "Poursuivez par le Sally Gap jusqu'aux ruines monastiques de Glendalough.",
+          "La cascade de Powerscourt est un court détour."
+        ]
+      },
+      "charlestown-cornwall": {
+        "sceneContext": "Ce port géorgien, avec ses grands voiliers toujours à quai, double les ports du XVIIIe siècle de la série, presque sans rien changer.",
+        "howToVisit": "Le port se parcourt librement à toute heure, cerné de cafés et d'un musée des naufrages ; c'est un port patrimonial en activité, alors respectez tournages et navires. Le parking est à un court trajet, dans le quartier de Charlestown à St Austell.",
+        "nearbyTips": [
+          "Les biomes de l'Eden Project sont à dix minutes dans les terres.",
+          "Les grands voiliers se visitent parfois."
+        ]
+      },
+      "botallack-mine": {
+        "sceneContext": "Les maisons de pompe des Crowns, accrochées au bord de la falaise, sont la Wheal Leisure de Poldark, la mine au cœur de sa fortune.",
+        "howToVisit": "Un site gratuit du National Trust sur la Tin Coast, qu'on rejoint par une courte marche sur un chemin caillouteux depuis le parking de Botallack ; chaussez du solide près des falaises. Le sentier côtier le relie aux mines voisines.",
+        "nearbyTips": [
+          "La mine de Levant, tout près, fait tourner une machine à balancier restaurée.",
+          "Cape Cornwall et Land's End sont proches le long de la côte."
+        ]
+      },
+      "holywell-bay": {
+        "sceneContext": "La large plage de surf, avec ses deux îlots rocheux, c'est le sable balayé par le vent que Poldark traverse au galop dans le générique.",
+        "howToVisit": "Une grande plage adossée aux dunes, avec parking et café de saison ; vérifiez les horaires des marées, car l'estran est immense à marée basse et rétrécit à marée haute. C'est à quelques minutes de Newquay.",
+        "nearbyTips": [
+          "Les dunes dissimulent un petit puits sacré dans les falaises.",
+          "Les écoles de surf de Newquay sont tout près."
+        ]
+      },
+      "west-bay-dorset": {
+        "sceneContext": "La falaise dorée à pic d'East Beach surplombe la ville portuaire et se dresse derrière presque chaque scène de l'enquête sur le meurtre.",
+        "howToVisit": "Le port, la plage et le sentier de la falaise sont libres et ouverts toute l'année ; les falaises sont instables, alors tenez-vous bien à l'écart du bord et du pied. West Bay est à un court trajet de Bridport, sur la Jurassic Coast.",
+        "nearbyTips": [
+          "Montez le sentier de la falaise pour la vue carte postale sur la ville.",
+          "Chesil Beach s'étire vers l'est depuis ici."
+        ]
+      },
+      "trinity-college-dublin": {
+        "sceneContext": "Les cours pavées et les arches de la plus ancienne université d'Irlande sont l'endroit où Marianne et Connell se retrouvent et s'éloignent, étudiants.",
+        "howToVisit": "Le campus se parcourt librement ; l'Old Library et le Livre de Kells sont une visite payante à part, à réserver à l'avance. Il se trouve en plein centre de Dublin.",
+        "nearbyTips": [
+          "Les boutiques et les musiciens de rue de Grafton Street sont juste à côté.",
+          "La National Gallery est à une courte marche."
+        ]
+      },
+      "streedagh-beach": {
+        "sceneContext": "La longue plage sauvage double la côte ouest balayée par le vent de la ville natale des personnages, dans le comté de Sligo.",
+        "howToVisit": "Une plage gratuite et préservée, adossée aux dunes, parfaite pour une marche revigorante ; il n'y a aucun service, alors venez équipé. C'est à environ 30 minutes au nord de la ville de Sligo.",
+        "nearbyTips": [
+          "La montagne au sommet plat du Benbulben domine l'horizon.",
+          "Yeats repose au cimetière voisin de Drumcliffe."
+        ]
+      },
+      "north-gower-street": {
+        "sceneContext": "Cette rangée géorgienne double le 221B Baker Street, le café Speedy's en contrebas tenant lieu de voisin du rez-de-chaussée du détective.",
+        "howToVisit": "Une vraie rue résidentielle animée près d'Euston, libre à toute heure ; le café sert petits-déjeuners et déjeuners, alors ayez des égards pour le personnel et les habitants. C'est à une courte marche de la station Euston Square.",
+        "nearbyTips": [
+          "Le café Speedy's vit toujours de sa gloire à l'écran.",
+          "La vraie Baker Street et son musée Holmes sont tout près."
+        ]
+      },
+      "st-bartholomews-hospital": {
+        "sceneContext": "Le toit de cet hôpital historique de la City est l'endroit où le détective met en scène sa chute saisissante, à la fin de la deuxième saison.",
+        "howToVisit": "Le plus ancien hôpital de Grande-Bretagne encore en activité sur son site d'origine ; son petit musée et son grand hall ouvrent à des jours limités, et la cour est en accès libre. Il jouxte Smithfield, à quelques minutes de St Paul.",
+        "nearbyTips": [
+          "La cathédrale St Paul est à une courte marche au sud.",
+          "Les halles victoriennes du marché de Smithfield sont juste à côté."
+        ]
+      },
+      "mirabell-gardens": {
+        "sceneContext": "Le parterre baroque, la fontaine de Pégase et le long escalier de pierre sont l'endroit où les enfants dansent sur Do-Ré-Mi.",
+        "howToVisit": "Les jardins forment un parc public gratuit, ouvert tous les jours, le plus fréquenté en milieu de matinée avec les groupes ; le palais lui-même accueille des concerts. Ils se trouvent juste de l'autre côté de la rivière, face à la vieille ville.",
+        "nearbyTips": [
+          "L'escalier du Do-Ré-Mi mène à une pergola couverte de roses.",
+          "La résidence de Mozart est à deux minutes."
+        ]
+      },
+      "leopoldskron-palace": {
+        "sceneContext": "La terrasse au bord du lac et la porte d'eau de ce palais rococo sont la grande demeure de la famille von Trapp dans les extérieurs du film.",
+        "howToVisit": "Aujourd'hui hôtel et institut culturel, le parc est réservé aux clients, mais le lac dispose d'un chemin public avec vue sur la célèbre façade. C'est à 30 minutes de marche ou un court trajet en bus depuis le centre.",
+        "nearbyTips": [
+          "Le téléphérique de l'Untersberg gravit la montagne derrière.",
+          "Le palais de Hellbrunn et ses fontaines farceuses sont tout près."
+        ]
+      },
+      "nonnberg-abbey": {
+        "sceneContext": "Ce couvent perché sur la colline est la vraie abbaye où Maria est novice, sa cour et son portail apparaissant dans le film.",
+        "howToVisit": "Un couvent bénédictin en activité, dont l'église est ouverte gratuitement aux visiteurs discrets ; les espaces des religieuses sont privés, alors baissez la voix. On y monte par un escalier raide depuis la vieille ville, derrière la forteresse.",
+        "nearbyTips": [
+          "La forteresse de Hohensalzburg domine juste au-dessus.",
+          "La montée récompense par des vues sur les toits de la ville."
+        ]
+      },
+      "spanish-steps": {
+        "sceneContext": "Le grand escalier est l'endroit où la princesse en fuite mange sa glace, dans l'une des scènes les plus copiées du film.",
+        "howToVisit": "L'escalier est libre et ouvert jour et nuit, mais s'y asseoir est désormais interdit et verbalisé, alors admirez-le depuis la place. Il est au cœur du quartier des boutiques, à la station de métro Piazza di Spagna.",
+        "nearbyTips": [
+          "La maison Keats-Shelley jouxte l'escalier.",
+          "La fontaine de Trevi est à dix minutes de marche."
+        ]
+      },
+      "mouth-of-truth": {
+        "sceneContext": "Le visage de marbre antique sous le porche de l'église est l'endroit où le couple se met au défi d'éprouver la légende : elle mord la main des menteurs.",
+        "howToVisit": "La Bocca della Verità se trouve sous le porche de Santa Maria in Cosmedin, moyennant une petite obole et souvent une courte file pour la photo. C'est près du Circus Maximus et du Tibre.",
+        "nearbyTips": [
+          "Le temple rond d'Hercule se dresse de l'autre côté de la place.",
+          "L'Aventin et sa vue par le trou de serrure sont à une courte montée."
+        ]
+      },
+      "positano": {
+        "sceneContext": "Les maisons pastel qui dégringolent vers la mer captent l'oisiveté méditerranéenne et glamour de Mongibello, la station imaginaire du film.",
+        "howToVisit": "Le village se parcourt librement mais grimpe sec : une cascade d'escaliers jusqu'à la plage ; arrivez tôt ou en bateau pour éviter le pire de la foule et du stationnement. Des bateaux le relient à Amalfi et Capri.",
+        "nearbyTips": [
+          "Le Sentier des Dieux, sur les falaises, démarre au-dessus de la ville.",
+          "Les ferries font de Capri une escapade facile à la journée."
+        ]
+      },
+      "procida": {
+        "sceneContext": "Le port de pêche pastel de Marina Corricella offre l'Italie préservée et habitée de la ville côtière de l'histoire.",
+        "howToVisit": "La plus petite île du golfe, qu'on rejoint en hydroglisseur depuis Naples en moins d'une heure ; elle se traverse à pied de bout en bout, sans voiture. Le port de la Corricella, sans voiture, se savoure à pied.",
+        "nearbyTips": [
+          "Montez à la citadelle de Terra Murata pour la vue plongeante sur le port.",
+          "Ischia, l'île thermale plus grande, est à un court saut."
+        ]
+      },
+      "crema-piazza-duomo": {
+        "sceneContext": "La place de la cathédrale et les rues à arcades de cette ville de Lombardie forment le décor languide des flâneries estivales des amants.",
+        "howToVisit": "La piazza est une place publique gratuite et animée, au cœur de la ville, cernée de cafés ; Crema se rejoint facilement en train ou en voiture depuis Milan. Parcourez les ruelles pour retrouver les devantures et les fontaines du film.",
+        "nearbyTips": [
+          "Les pâtisseries autour de la place sont faites pour un après-midi sans hâte.",
+          "Milan est à moins d'une heure en train."
+        ]
+      },
+      "cascate-del-serio": {
+        "sceneContext": "Les vasques et les cascades de cette vallée alpine, au nord de la ville, sont l'endroit où les deux jeunes gens nagent et paressent loin de la chaleur.",
+        "howToVisit": "L'une des plus hautes cascades d'Europe, lâchée seulement quelques jours programmés par an à Valbondione ; la rivière et les sentiers se parcourent toute l'année. C'est à quelques heures dans les montagnes depuis Crema.",
+        "nearbyTips": [
+          "Vérifiez les dates de lâcher si vous voulez la cascade au complet.",
+          "Les Alpes orobiques offrent quantité de randonnées de vallée."
+        ]
+      },
+      "gorlitzer-warenhaus": {
+        "sceneContext": "Le grand atrium et l'escalier majestueux de ce grand magasin Art nouveau sont devenus le hall de l'hôtel rose du film.",
+        "howToVisit": "Un grand magasin centenaire utilisé comme décor de cinéma, ouvert aux visiteurs par moments et pour des marchés occasionnels ; consultez le programme local avant d'y aller. Il est au centre de la vieille ville magnifiquement préservée de Görlitz.",
+        "nearbyTips": [
+          "Flânez dans Görliwood, l'une des vieilles villes les mieux préservées d'Allemagne.",
+          "Traversez le pont jusqu'à la ville polonaise de Zgorzelec."
+        ]
+      },
+      "the-blue-door": {
+        "sceneContext": "Cette entrée de l'ouest de Londres était la porte de l'appartement de William, la fameuse porte bleue qu'il franchit avec la star de cinéma.",
+        "howToVisit": "Une habitation privée dans une rue résidentielle, alors regardez-la depuis le trottoir et respectez les habitants ; elle se trouve et se photographie gratuitement. C'est à une courte marche de Westbourne Park ou de Notting Hill Gate.",
+        "nearbyTips": [
+          "La librairie de voyage qui a inspiré le film est au coin de la rue.",
+          "Le marché de Portobello Road est à deux minutes."
+        ]
+      },
+      "portobello-road-market": {
+        "sceneContext": "Le marché animé d'antiquités et de fruits est l'endroit où William traverse les saisons dans le célèbre plan-séquence du film.",
+        "howToVisit": "Un marché de rue gratuit, le plus grand le samedi pour les antiquités et le plus vivant le matin ; venez tôt pour devancer la cohue. Il court à travers le cœur de Notting Hill.",
+        "nearbyTips": [
+          "Les maisons pastel de Notting Hill font une balade haute en couleur.",
+          "La librairie et la porte bleue sont toutes deux tout près."
+        ]
+      },
+      "chatsworth-house": {
+        "sceneContext": "Ce domaine palatial du Derbyshire est Pemberley, la grande demeure dont la splendeur achève de faire tourner la tête d'Elizabeth.",
+        "howToVisit": "Une demeure de maître à l'entrée payante (maison, jardins et parc), ouverte la majeure partie de l'année ; le parc seul vaut déjà la visite. C'est dans le Peak District, près de Bakewell.",
+        "nearbyTips": [
+          "La galerie de sculptures apparaît dans les scènes de Pemberley du film.",
+          "Le bourg de Bakewell et sa tarte sont tout près."
+        ]
+      },
+      "stanage-edge": {
+        "sceneContext": "La longue falaise de grès est l'endroit où Elizabeth se tient, décoiffée par le vent, sur un rocher, perdue dans ses pensées, dans l'un des plans emblématiques du film.",
+        "howToVisit": "Une crête de lande gratuite et ouverte, prisée des marcheurs et des grimpeurs, qu'on rejoint par une courte montée depuis un parking de bord de route près de Hathersage ; venez parés au vent et aux intempéries. La crête offre des vues immenses sur la Hope Valley.",
+        "nearbyTips": [
+          "Le village de Hathersage, en contrebas, a des cafés et une piscine.",
+          "Les grimpeurs affluent sur la crête le week-end."
+        ]
+      },
+      "sassi-di-matera": {
+        "sceneContext": "Les quartiers troglodytes couleur de miel et les ponts du ravin servent de décor à l'explosive course-poursuite d'ouverture de Bond à travers Matera.",
+        "howToVisit": "Les Sassi forment un dédale gratuit, classé par l'UNESCO, de ruelles et d'habitations troglodytes, à explorer lentement à pied avec de bonnes chaussures ; certaines églises rupestres et maisons-grottes demandent une petite entrée. Matera est à quelques heures de Bari ou de Naples.",
+        "nearbyTips": [
+          "Visitez une maison-grotte meublée pour voir comment on vivait ici autrefois.",
+          "Le point de vue de l'autre côté du ravin est plus beau au coucher du soleil."
+        ]
+      },
+      "atlantic-ocean-road": {
+        "sceneContext": "Les ponts bas qui bondissent d'îlot en îlot le long de la côte battue par les tempêtes apparaissent dans la poursuite norvégienne à grande vitesse du film.",
+        "howToVisit": "Une route publique gratuite qu'il suffit de parcourir, avec aires et plateformes panoramiques le long de ses quelques kilomètres spectaculaires ; elle est la plus sauvage sous les tempêtes d'automne. Elle relie de petites îles près de Kristiansund et Molde.",
+        "nearbyTips": [
+          "Arrêtez-vous au point de vue du pont de Storseisundet pour le cliché classique.",
+          "Des plateformes de pêche jalonnent le parcours, pour une marche venteuse."
+        ]
+      },
+      "al-khazneh-petra": {
+        "sceneContext": "L'imposante façade du Trésor, taillée dans la roche, est le temple qui garde le Saint Graal au climax du film.",
+        "howToVisit": "Petra est un vaste parc archéologique payant ; le Trésor apparaît après une marche d'une vingtaine de minutes dans l'étroit canyon du Siq depuis l'entrée. Chaussez du solide, emportez de l'eau, et prévoyez la journée.",
+        "nearbyTips": [
+          "Montez au point de vue au-dessus du Trésor pour l'angle en plongée.",
+          "La ville de Wadi Musa concentre tous les hôtels et les restaurants."
+        ]
+      },
+      "maya-bay": {
+        "sceneContext": "La crique cernée de falaises, au sable éclatant et à l'eau turquoise, est le paradis insulaire secret que cherchent les voyageurs.",
+        "howToVisit": "Maya Bay, sur l'île inhabitée de Ko Phi Phi Leh, se rejoint en excursion en bateau depuis Krabi, Phuket ou Phi Phi ; le nombre de visiteurs est désormais plafonné et l'accès fermé certaines saisons pour protéger le récif, alors réservez une sortie encadrée. La baignade est restreinte, et l'on entre par un ponton à l'arrière de la baie.",
+        "nearbyTips": [
+          "Les îles Phi Phi alentour offrent masque-tuba et lagons de calcaire.",
+          "Partez tôt pour voir la baie au plus calme."
+        ]
+      }
     }
   }
 }
