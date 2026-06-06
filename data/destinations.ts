@@ -521,4 +521,236 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "A coast of limestone karsts, hidden lagoons and turquoise water on Thailand's Andaman Sea, where one impossibly perfect cove became a backpackers' secret paradise. Maya Bay sits offshore on an uninhabited island, reached by boat from Krabi or Phuket.",
   },
+
+  // ===================== Added in the v3 expansion =====================
+  {
+    slug: "los-angeles",
+    name: "Los Angeles",
+    country: "United States",
+    region: "California",
+    lat: 34.0522,
+    lng: -118.2437,
+    accent: "d97706",
+    blurb:
+      "The home of the movies itself, and a set-jetting hub by its very nature, from an Art Deco observatory above the city to a hilltop sign and a hundred film facades. Sprawling and car-bound, but the headline screen spots cluster between Hollywood, Downtown and the beaches.",
+  },
+  {
+    slug: "san-francisco",
+    name: "San Francisco",
+    country: "United States",
+    region: "California",
+    lat: 37.7749,
+    lng: -122.4194,
+    accent: "b91c1c",
+    blurb:
+      "Hills, fog and a blood-red bridge have made this bay city one of cinema's favourite backdrops, from vertiginous thrillers to car chases down its switchback streets. Compact and walkable in patches, with cable cars to spare your legs on the climbs.",
+  },
+  {
+    slug: "singapore",
+    name: "Singapore",
+    country: "Singapore",
+    lat: 1.2834,
+    lng: 103.8607,
+    accent: "0d9488",
+    blurb:
+      "A futuristic city-state where a rooftop infinity pool, glowing supertrees and a colonial grande-dame hotel anchored a glossy romance. Hot, green and impeccably easy to get around, it packs its screen landmarks into a walkable bayfront.",
+  },
+  {
+    slug: "tokyo",
+    name: "Tokyo",
+    country: "Japan",
+    region: "Kantō",
+    lat: 35.6762,
+    lng: 139.6503,
+    accent: "be123c",
+    blurb:
+      "Neon, hush and jet-lagged wonder: the Japanese capital lent a high-floor hotel bar and a tide of pedestrians to one of cinema's great mood pieces. Vast but superbly connected, it rewards aimless wandering between its wards.",
+  },
+  {
+    slug: "tuscany",
+    name: "Tuscany",
+    country: "Italy",
+    region: "Tuscany",
+    lat: 43.0613,
+    lng: 11.623,
+    accent: "a16207",
+    blurb:
+      "Golden wheat fields, cypress avenues and stone farmhouses that have stood in for a Roman general's Elysium and a dozen other idylls. The Val d'Orcia is the postcard heart, an easy drive of slow hill towns south of Siena.",
+  },
+  {
+    slug: "ouarzazate",
+    name: "Ouarzazate",
+    country: "Morocco",
+    region: "Drâa-Tafilalet",
+    lat: 30.9189,
+    lng: -6.8934,
+    accent: "92400e",
+    blurb:
+      "The gateway to the Moroccan desert and Africa's busiest film backlot, where a fortified mud-brick village has played ancient Rome, Egypt and beyond. Aït Benhaddou and the studios sit on the road over the Atlas from Marrakech.",
+  },
+  {
+    slug: "southern-tunisia",
+    name: "Southern Tunisia",
+    country: "Tunisia",
+    region: "Tozeur",
+    lat: 33.9197,
+    lng: 8.1335,
+    accent: "b45309",
+    blurb:
+      "Pale salt flats, desert oases and troglodyte villages that became a galaxy far, far away. The Star Wars sets around Nefta and Matmata still stand in the dunes, reachable from the oasis town of Tozeur.",
+  },
+  {
+    slug: "kerry",
+    name: "County Kerry",
+    country: "Ireland",
+    region: "Munster",
+    lat: 51.88,
+    lng: -10.27,
+    accent: "047857",
+    blurb:
+      "Ireland's wild south-west, of sea cliffs, ring roads and a jagged monastic island that became a Jedi's hideaway. Skellig Michael is a weather-dependent boat trip from Portmagee, with the Ring of Kerry looping around behind.",
+  },
+  {
+    slug: "lake-como",
+    name: "Lake Como",
+    country: "Italy",
+    region: "Lombardy",
+    lat: 45.99,
+    lng: 9.26,
+    accent: "0284c7",
+    blurb:
+      "Mirror-still water ringed by mountains and villa gardens, a byword for old-world glamour that has hosted spies and Jedi alike. Bellagio and Lenno are the headline stops, laced together by ferries under the Alps.",
+  },
+  {
+    slug: "venice",
+    name: "Venice",
+    country: "Italy",
+    region: "Veneto",
+    lat: 45.4408,
+    lng: 12.3155,
+    accent: "0c4a6e",
+    blurb:
+      "A city of canals and crumbling palazzi that needs no set dressing, used by everyone from Bond to the period greats. Pedestrian and water-bound, it is best lost in on foot between the vaporetto stops.",
+  },
+  {
+    slug: "florence",
+    name: "Florence",
+    country: "Italy",
+    region: "Tuscany",
+    lat: 43.7696,
+    lng: 11.2558,
+    accent: "9d174d",
+    blurb:
+      "The Renaissance city of domes, statues and the Arno, a ready-made stage for costume drama and murder mystery alike. Its headline squares and bridges sit within a tight, walkable centre.",
+  },
+  {
+    slug: "dunkirk",
+    name: "Dunkirk",
+    country: "France",
+    region: "Hauts-de-France",
+    lat: 51.0344,
+    lng: 2.3768,
+    accent: "374151",
+    blurb:
+      "The French Channel port whose vast tidal beach staged one of the Second World War's great evacuations, and the war film that bears its name. The wide sands and the mole at Malo-les-Bains are a sober, windswept walk.",
+  },
+  {
+    slug: "county-meath",
+    name: "County Meath",
+    country: "Ireland",
+    region: "Leinster",
+    lat: 53.65,
+    lng: -6.68,
+    accent: "15803d",
+    blurb:
+      "Ireland's royal county north of Dublin, rich in castles and ancient tombs, including the largest Norman fortress in the land. Trim makes a compact base, an hour from the capital.",
+  },
+  {
+    slug: "oahu",
+    name: "Oahu",
+    country: "United States",
+    region: "Hawaii",
+    lat: 21.45,
+    lng: -157.84,
+    accent: "0891b2",
+    blurb:
+      "The Hawaiian island where a jungle-clad valley has doubled for dinosaur country, lost islands and more. Kualoa's ranch runs film-location tours, a scenic drive from Waikiki around the windward coast.",
+  },
+  {
+    slug: "mumbai",
+    name: "Mumbai",
+    country: "India",
+    region: "Maharashtra",
+    lat: 19.076,
+    lng: 72.877,
+    accent: "ea580c",
+    blurb:
+      "India's pulsing film capital, a sweep of Raj-era stations, sea-front promenades and dense neighbourhoods that powered a rags-to-riches epic. Loud, warm and best explored on foot around Colaba and the old fort district.",
+  },
+  {
+    slug: "wadi-rum",
+    name: "Wadi Rum",
+    country: "Jordan",
+    region: "Aqaba",
+    lat: 29.5765,
+    lng: 35.4203,
+    accent: "9a3412",
+    blurb:
+      "A Martian sweep of red sand and towering sandstone in southern Jordan, the desert of a sweeping screen epic and many since. Bedouin camps run 4x4 trips and overnight stays under huge skies, an hour from Aqaba.",
+  },
+  {
+    slug: "savoca",
+    name: "Savoca",
+    country: "Italy",
+    region: "Sicily",
+    lat: 37.9586,
+    lng: 15.3344,
+    accent: "7f1d1d",
+    blurb:
+      "A tiny hilltop village above Sicily's Ionian coast, frozen in time, that played the Sicilian homeland in cinema's most famous crime saga. The bar and church from the film are a few steps apart, reached by a winding road up from the Taormina coast.",
+  },
+  {
+    slug: "philadelphia",
+    name: "Philadelphia",
+    country: "United States",
+    region: "Pennsylvania",
+    lat: 39.9526,
+    lng: -75.1652,
+    accent: "991b1b",
+    blurb:
+      "The cradle of American independence, and the underdog city of a boxing legend who ran up its museum steps. The Rocky steps aside, the old town and its markets make a compact, walkable visit.",
+  },
+  {
+    slug: "etretat",
+    name: "Étretat",
+    country: "France",
+    region: "Normandy",
+    lat: 49.707,
+    lng: 0.2036,
+    accent: "0e7490",
+    blurb:
+      "The Normandy coast's most dramatic chalk cliffs and a natural rock arch, long a draw for painters and lately a gentleman-thief series. The clifftop walks above the little resort are free and bracing.",
+  },
+  {
+    slug: "corfu",
+    name: "Corfu",
+    country: "Greece",
+    region: "Ionian Islands",
+    lat: 39.6243,
+    lng: 19.9217,
+    accent: "2563eb",
+    blurb:
+      "A green Ionian island of Venetian forts, olive groves and turquoise coves, the idyll of a much-loved expat-family series. The old town and the quiet north-east bays are an easy ferry or flight from the mainland.",
+  },
+  {
+    slug: "new-york",
+    name: "New York City",
+    country: "United States",
+    region: "New York",
+    lat: 40.7128,
+    lng: -74.006,
+    accent: "1f2937",
+    blurb:
+      "The most filmed city on the planet, where a brownstone stoop and a cupcake counter became pilgrimage sites for a generation of fans. Dense and endlessly walkable, its screen landmarks are a subway ride apart.",
+  },
 ];

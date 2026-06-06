@@ -375,6 +375,174 @@
         "/destinations/krabi/photo-3.jpg",
         "/destinations/krabi/photo-4.jpg"
       ]
+    },
+    "los-angeles": {
+      "hero": "/destinations/los-angeles/hero.jpg",
+      "gallery": [
+        "/destinations/los-angeles/photo-2.jpg",
+        "/destinations/los-angeles/photo-3.jpg",
+        "/destinations/los-angeles/photo-4.jpg"
+      ]
+    },
+    "san-francisco": {
+      "hero": "/destinations/san-francisco/hero.jpg",
+      "gallery": [
+        "/destinations/san-francisco/photo-2.jpg",
+        "/destinations/san-francisco/photo-3.jpg",
+        "/destinations/san-francisco/photo-4.jpg"
+      ]
+    },
+    "singapore": {
+      "hero": "/destinations/singapore/hero.jpg",
+      "gallery": [
+        "/destinations/singapore/photo-2.jpg",
+        "/destinations/singapore/photo-3.jpg",
+        "/destinations/singapore/photo-4.jpg"
+      ]
+    },
+    "tokyo": {
+      "hero": "/destinations/tokyo/hero.jpg",
+      "gallery": [
+        "/destinations/tokyo/photo-2.jpg",
+        "/destinations/tokyo/photo-3.jpg",
+        "/destinations/tokyo/photo-4.jpg"
+      ]
+    },
+    "tuscany": {
+      "hero": "/destinations/tuscany/hero.jpg",
+      "gallery": [
+        "/destinations/tuscany/photo-2.jpg",
+        "/destinations/tuscany/photo-3.jpg",
+        "/destinations/tuscany/photo-4.jpg"
+      ]
+    },
+    "ouarzazate": {
+      "hero": "/destinations/ouarzazate/hero.jpg",
+      "gallery": [
+        "/destinations/ouarzazate/photo-2.jpg",
+        "/destinations/ouarzazate/photo-3.jpg",
+        "/destinations/ouarzazate/photo-4.jpg"
+      ]
+    },
+    "southern-tunisia": {
+      "hero": "/destinations/southern-tunisia/hero.jpg",
+      "gallery": [
+        "/destinations/southern-tunisia/photo-2.jpg",
+        "/destinations/southern-tunisia/photo-3.jpg",
+        "/destinations/southern-tunisia/photo-4.jpg"
+      ]
+    },
+    "kerry": {
+      "hero": "/destinations/kerry/hero.jpg",
+      "gallery": [
+        "/destinations/kerry/photo-2.jpg",
+        "/destinations/kerry/photo-3.jpg",
+        "/destinations/kerry/photo-4.jpg"
+      ]
+    },
+    "lake-como": {
+      "hero": "/destinations/lake-como/hero.jpg",
+      "gallery": [
+        "/destinations/lake-como/photo-2.jpg",
+        "/destinations/lake-como/photo-3.jpg",
+        "/destinations/lake-como/photo-4.jpg"
+      ]
+    },
+    "venice": {
+      "hero": "/destinations/venice/hero.jpg",
+      "gallery": [
+        "/destinations/venice/photo-2.jpg",
+        "/destinations/venice/photo-3.jpg",
+        "/destinations/venice/photo-4.jpg"
+      ]
+    },
+    "florence": {
+      "hero": "/destinations/florence/hero.jpg",
+      "gallery": [
+        "/destinations/florence/photo-2.jpg",
+        "/destinations/florence/photo-3.jpg",
+        "/destinations/florence/photo-4.jpg"
+      ]
+    },
+    "dunkirk": {
+      "hero": "/destinations/dunkirk/hero.jpg",
+      "gallery": [
+        "/destinations/dunkirk/photo-2.jpg",
+        "/destinations/dunkirk/photo-3.jpg",
+        "/destinations/dunkirk/photo-4.jpg"
+      ]
+    },
+    "county-meath": {
+      "hero": "/destinations/county-meath/hero.jpg",
+      "gallery": [
+        "/destinations/county-meath/photo-2.jpg",
+        "/destinations/county-meath/photo-3.jpg",
+        "/destinations/county-meath/photo-4.jpg"
+      ]
+    },
+    "oahu": {
+      "hero": "/destinations/oahu/hero.jpg",
+      "gallery": [
+        "/destinations/oahu/photo-2.jpg",
+        "/destinations/oahu/photo-3.jpg",
+        "/destinations/oahu/photo-4.jpg"
+      ]
+    },
+    "mumbai": {
+      "hero": "/destinations/mumbai/hero.jpg",
+      "gallery": [
+        "/destinations/mumbai/photo-2.jpg",
+        "/destinations/mumbai/photo-3.jpg",
+        "/destinations/mumbai/photo-4.jpg"
+      ]
+    },
+    "wadi-rum": {
+      "hero": "/destinations/wadi-rum/hero.jpg",
+      "gallery": [
+        "/destinations/wadi-rum/photo-2.jpg",
+        "/destinations/wadi-rum/photo-3.jpg",
+        "/destinations/wadi-rum/photo-4.jpg"
+      ]
+    },
+    "savoca": {
+      "hero": "/destinations/savoca/hero.jpg",
+      "gallery": [
+        "/destinations/savoca/photo-2.jpg",
+        "/destinations/savoca/photo-3.jpg",
+        "/destinations/savoca/photo-4.jpg"
+      ]
+    },
+    "philadelphia": {
+      "hero": "/destinations/philadelphia/hero.jpg",
+      "gallery": [
+        "/destinations/philadelphia/photo-2.jpg",
+        "/destinations/philadelphia/photo-3.jpg",
+        "/destinations/philadelphia/photo-4.jpg"
+      ]
+    },
+    "etretat": {
+      "hero": "/destinations/etretat/hero.jpg",
+      "gallery": [
+        "/destinations/etretat/photo-2.jpg",
+        "/destinations/etretat/photo-3.jpg",
+        "/destinations/etretat/photo-4.jpg"
+      ]
+    },
+    "corfu": {
+      "hero": "/destinations/corfu/hero.jpg",
+      "gallery": [
+        "/destinations/corfu/photo-2.jpg",
+        "/destinations/corfu/photo-3.jpg",
+        "/destinations/corfu/photo-4.jpg"
+      ]
+    },
+    "new-york": {
+      "hero": "/destinations/new-york/hero.jpg",
+      "gallery": [
+        "/destinations/new-york/photo-2.jpg",
+        "/destinations/new-york/photo-3.jpg",
+        "/destinations/new-york/photo-4.jpg"
+      ]
     }
   },
   "locations": {
@@ -802,6 +970,234 @@
       "hero": "/locations/maya-bay/hero.jpg",
       "gallery": [
         "/locations/maya-bay/photo-2.jpg"
+      ]
+    },
+    "cafe-des-deux-moulins": {
+      "hero": "/locations/cafe-des-deux-moulins/hero.jpg",
+      "gallery": [
+        "/locations/cafe-des-deux-moulins/photo-2.jpg"
+      ]
+    },
+    "canal-saint-martin": {
+      "hero": "/locations/canal-saint-martin/hero.jpg",
+      "gallery": [
+        "/locations/canal-saint-martin/photo-2.jpg"
+      ]
+    },
+    "griffith-observatory": {
+      "hero": "/locations/griffith-observatory/hero.jpg",
+      "gallery": [
+        "/locations/griffith-observatory/photo-2.jpg"
+      ]
+    },
+    "angels-flight": {
+      "hero": "/locations/angels-flight/hero.jpg",
+      "gallery": [
+        "/locations/angels-flight/photo-2.jpg"
+      ]
+    },
+    "fort-point-golden-gate": {
+      "hero": "/locations/fort-point-golden-gate/hero.jpg",
+      "gallery": [
+        "/locations/fort-point-golden-gate/photo-2.jpg"
+      ]
+    },
+    "mission-san-juan-bautista": {
+      "hero": "/locations/mission-san-juan-bautista/hero.jpg",
+      "gallery": [
+        "/locations/mission-san-juan-bautista/photo-2.jpg"
+      ]
+    },
+    "marina-bay-sands": {
+      "hero": "/locations/marina-bay-sands/hero.jpg",
+      "gallery": [
+        "/locations/marina-bay-sands/photo-2.jpg"
+      ]
+    },
+    "gardens-by-the-bay": {
+      "hero": "/locations/gardens-by-the-bay/hero.jpg",
+      "gallery": [
+        "/locations/gardens-by-the-bay/photo-2.jpg"
+      ]
+    },
+    "park-hyatt-tokyo": {
+      "hero": "/locations/park-hyatt-tokyo/hero.jpg",
+      "gallery": [
+        "/locations/park-hyatt-tokyo/photo-2.jpg"
+      ]
+    },
+    "shibuya-crossing": {
+      "hero": "/locations/shibuya-crossing/hero.jpg",
+      "gallery": [
+        "/locations/shibuya-crossing/photo-2.jpg"
+      ]
+    },
+    "val-d-orcia": {
+      "hero": "/locations/val-d-orcia/hero.jpg",
+      "gallery": [
+        "/locations/val-d-orcia/photo-2.jpg"
+      ]
+    },
+    "ait-benhaddou": {
+      "hero": "/locations/ait-benhaddou/hero.jpg",
+      "gallery": [
+        "/locations/ait-benhaddou/photo-2.jpg"
+      ]
+    },
+    "lars-homestead-chott-el-djerid": {
+      "hero": "/locations/lars-homestead-chott-el-djerid/hero.jpg",
+      "gallery": [
+        "/locations/lars-homestead-chott-el-djerid/photo-2.jpg"
+      ]
+    },
+    "skellig-michael": {
+      "hero": "/locations/skellig-michael/hero.jpg",
+      "gallery": [
+        "/locations/skellig-michael/photo-2.jpg"
+      ]
+    },
+    "villa-del-balbianello": {
+      "hero": "/locations/villa-del-balbianello/hero.jpg",
+      "gallery": [
+        "/locations/villa-del-balbianello/photo-2.jpg"
+      ]
+    },
+    "venice-grand-canal": {
+      "hero": "/locations/venice-grand-canal/hero.jpg",
+      "gallery": [
+        "/locations/venice-grand-canal/photo-2.jpg"
+      ]
+    },
+    "piazza-della-signoria": {
+      "hero": "/locations/piazza-della-signoria/hero.jpg",
+      "gallery": [
+        "/locations/piazza-della-signoria/photo-2.jpg"
+      ]
+    },
+    "basilica-di-santa-croce": {
+      "hero": "/locations/basilica-di-santa-croce/hero.jpg",
+      "gallery": [
+        "/locations/basilica-di-santa-croce/photo-2.jpg"
+      ]
+    },
+    "dunkirk-beach": {
+      "hero": "/locations/dunkirk-beach/hero.jpg",
+      "gallery": [
+        "/locations/dunkirk-beach/photo-2.jpg"
+      ]
+    },
+    "glen-nevis": {
+      "hero": "/locations/glen-nevis/hero.jpg",
+      "gallery": [
+        "/locations/glen-nevis/photo-2.jpg"
+      ]
+    },
+    "trim-castle": {
+      "hero": "/locations/trim-castle/hero.jpg",
+      "gallery": [
+        "/locations/trim-castle/photo-2.jpg"
+      ]
+    },
+    "kualoa-ranch": {
+      "hero": "/locations/kualoa-ranch/hero.jpg",
+      "gallery": [
+        "/locations/kualoa-ranch/photo-2.jpg"
+      ]
+    },
+    "chhatrapati-shivaji-terminus": {
+      "hero": "/locations/chhatrapati-shivaji-terminus/hero.jpg",
+      "gallery": [
+        "/locations/chhatrapati-shivaji-terminus/photo-2.jpg"
+      ]
+    },
+    "taj-mahal-palace-hotel": {
+      "hero": "/locations/taj-mahal-palace-hotel/hero.jpg",
+      "gallery": [
+        "/locations/taj-mahal-palace-hotel/photo-2.jpg"
+      ]
+    },
+    "wadi-rum": {
+      "hero": "/locations/wadi-rum/hero.jpg",
+      "gallery": [
+        "/locations/wadi-rum/photo-2.jpg"
+      ]
+    },
+    "plaza-de-espana-seville": {
+      "hero": "/locations/plaza-de-espana-seville/hero.jpg",
+      "gallery": [
+        "/locations/plaza-de-espana-seville/photo-2.jpg"
+      ]
+    },
+    "bar-vitelli-savoca": {
+      "hero": "/locations/bar-vitelli-savoca/hero.jpg",
+      "gallery": [
+        "/locations/bar-vitelli-savoca/photo-2.jpg"
+      ]
+    },
+    "church-san-nicolo-savoca": {
+      "hero": "/locations/church-san-nicolo-savoca/hero.jpg",
+      "gallery": [
+        "/locations/church-san-nicolo-savoca/photo-2.jpg"
+      ]
+    },
+    "rocky-steps": {
+      "hero": "/locations/rocky-steps/hero.jpg",
+      "gallery": [
+        "/locations/rocky-steps/photo-2.jpg"
+      ]
+    },
+    "italian-market-philadelphia": {
+      "hero": "/locations/italian-market-philadelphia/hero.jpg",
+      "gallery": [
+        "/locations/italian-market-philadelphia/photo-2.jpg"
+      ]
+    },
+    "louvre-pyramid": {
+      "hero": "/locations/louvre-pyramid/hero.jpg",
+      "gallery": [
+        "/locations/louvre-pyramid/photo-2.jpg"
+      ]
+    },
+    "falaise-etretat": {
+      "hero": "/locations/falaise-etretat/hero.jpg",
+      "gallery": [
+        "/locations/falaise-etretat/photo-2.jpg"
+      ]
+    },
+    "corfu-old-town": {
+      "hero": "/locations/corfu-old-town/hero.jpg",
+      "gallery": [
+        "/locations/corfu-old-town/photo-2.jpg"
+      ]
+    },
+    "kalami-bay": {
+      "hero": "/locations/kalami-bay/hero.jpg",
+      "gallery": [
+        "/locations/kalami-bay/photo-2.jpg"
+      ]
+    },
+    "richmond-green": {
+      "hero": "/locations/richmond-green/hero.jpg",
+      "gallery": [
+        "/locations/richmond-green/photo-2.jpg"
+      ]
+    },
+    "richmond-bridge": {
+      "hero": "/locations/richmond-bridge/hero.jpg",
+      "gallery": [
+        "/locations/richmond-bridge/photo-2.jpg"
+      ]
+    },
+    "carrie-stoop-perry-street": {
+      "hero": "/locations/carrie-stoop-perry-street/hero.jpg",
+      "gallery": [
+        "/locations/carrie-stoop-perry-street/photo-2.jpg"
+      ]
+    },
+    "magnolia-bakery": {
+      "hero": "/locations/magnolia-bakery/hero.jpg",
+      "gallery": [
+        "/locations/magnolia-bakery/photo-2.jpg"
       ]
     }
   }

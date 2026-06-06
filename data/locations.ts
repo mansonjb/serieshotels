@@ -1339,4 +1339,728 @@ export const LOCATIONS: Location[] = [
       "Go on an early tour to see the bay at its calmest.",
     ],
   },
+
+  // ===================== Amélie =====================
+  {
+    slug: "cafe-des-deux-moulins",
+    name: "Café des Deux Moulins",
+    titleSlug: "amelie",
+    destinationSlug: "paris",
+    lat: 48.8845,
+    lng: 2.334,
+    kind: "venue",
+    address: "15 Rue Lepic, 75018 Paris, France",
+    sceneContext:
+      "The Montmartre brasserie where Amélie waits tables is a real, still-trading café, its long zinc bar and mirrors much as they appear on screen.",
+    howToVisit:
+      "An ordinary working café open daily for coffee and a bite, so come for a drink and a look rather than a tour; it gets busy with fans at weekends. It's a short uphill walk from Blanche metro.",
+    nearbyTips: [
+      "The windmill of the Moulin Rouge is just down Rue Lepic.",
+      "Climb on up into Montmartre for the Sacré-Cœur.",
+    ],
+  },
+  {
+    slug: "canal-saint-martin",
+    name: "Canal Saint-Martin",
+    titleSlug: "amelie",
+    destinationSlug: "paris",
+    lat: 48.8709,
+    lng: 2.3658,
+    kind: "landmark",
+    address: "Quai de Valmy, 75010 Paris, France",
+    sceneContext:
+      "The tree-lined canal with its iron footbridges is where Amélie skips stones across the water, in one of the film's quiet signature shots.",
+    howToVisit:
+      "A free, leafy stretch of waterway lined with cafés and locks, lovely for a slow walk any time; sunny evenings draw picnicking crowds to the banks. It's a few minutes from République metro.",
+    nearbyTips: [
+      "Watch a barge work its way through the locks.",
+      "The canalside is full of bistros for lunch.",
+    ],
+  },
+
+  // ===================== La La Land =====================
+  {
+    slug: "griffith-observatory",
+    name: "Griffith Observatory",
+    titleSlug: "la-la-land",
+    destinationSlug: "los-angeles",
+    lat: 34.1184,
+    lng: -118.3004,
+    kind: "landmark",
+    address: "2800 E Observatory Rd, Los Angeles, CA 90027, United States",
+    sceneContext:
+      "The Art Deco observatory and its planetarium are where Mia and Sebastian's romance takes flight, literally, in a swirling night-time dance.",
+    howToVisit:
+      "Free to enter and a hilltop favourite for city and Hollywood-sign views; parking is tight, so go early or rideshare, and check the planetarium-show times. The terraces are best at sunset.",
+    nearbyTips: [
+      "The lawn gives a clear line to the Hollywood sign.",
+      "Trails from here climb higher into Griffith Park.",
+    ],
+  },
+  {
+    slug: "angels-flight",
+    name: "Angels Flight",
+    titleSlug: "la-la-land",
+    destinationSlug: "los-angeles",
+    lat: 34.0512,
+    lng: -118.2497,
+    kind: "landmark",
+    address: "350 S Grand Ave, Los Angeles, CA 90071, United States",
+    sceneContext:
+      "The tiny orange funicular climbing Bunker Hill features in the couple's downtown wanderings.",
+    howToVisit:
+      "A short, historic railway with a token fare, running through the day in Downtown LA; it's a one-minute ride, more for the charm than the distance. Grand Central Market sits at the bottom.",
+    nearbyTips: [
+      "Grab tacos in Grand Central Market below.",
+      "The Broad museum and Walt Disney Concert Hall are a short walk.",
+    ],
+  },
+
+  // ===================== Vertigo =====================
+  {
+    slug: "fort-point-golden-gate",
+    name: "Fort Point",
+    titleSlug: "vertigo",
+    destinationSlug: "san-francisco",
+    lat: 37.8106,
+    lng: -122.4769,
+    kind: "landmark",
+    address: "Fort Point, Marine Dr, San Francisco, CA 94129, United States",
+    sceneContext:
+      "The brick fort tucked directly beneath the Golden Gate Bridge is where Madeleine plunges into the bay and Scottie pulls her out.",
+    howToVisit:
+      "A free national historic site right under the bridge's southern end, with the great span overhead; it's wind-blasted, so bring a layer, and check the opening days. Parking is limited just outside.",
+    nearbyTips: [
+      "The coastal path leads up to bridge viewpoints.",
+      "Crissy Field's beach is a short walk east.",
+    ],
+  },
+  {
+    slug: "mission-san-juan-bautista",
+    name: "Mission San Juan Bautista",
+    titleSlug: "vertigo",
+    destinationSlug: "san-francisco",
+    lat: 36.8456,
+    lng: -121.538,
+    kind: "building",
+    address: "406 2nd St, San Juan Bautista, CA 95045, United States",
+    sceneContext:
+      "This Spanish mission staged the film's vertiginous bell-tower climax; the tower itself was a special effect, but the mission and plaza are real.",
+    howToVisit:
+      "A working mission and state park with a small admission, about 90 minutes south of the city; the quiet plaza beside it is free. It makes an easy stop off the route to Monterey.",
+    nearbyTips: [
+      "The old plaza and stables are part of the state park.",
+      "Pair it with a drive down to Monterey or Carmel.",
+    ],
+  },
+
+  // ===================== Crazy Rich Asians =====================
+  {
+    slug: "marina-bay-sands",
+    name: "Marina Bay Sands",
+    titleSlug: "crazy-rich-asians",
+    destinationSlug: "singapore",
+    lat: 1.2834,
+    lng: 103.8607,
+    kind: "hotel",
+    address: "10 Bayfront Ave, Singapore 018956",
+    sceneContext:
+      "The hotel's vast rooftop and its cantilevered infinity pool crown the film's world of wealth, with the city spread out below.",
+    howToVisit:
+      "The SkyPark observation deck is ticketed and open to all; the famous infinity pool is for hotel guests only, so book a room for that shot. The bay promenade below is free.",
+    nearbyTips: [
+      "Catch the free Spectra light-and-water show on the bay.",
+      "The ArtScience Museum's lotus shape sits alongside.",
+    ],
+  },
+  {
+    slug: "gardens-by-the-bay",
+    name: "Gardens by the Bay",
+    titleSlug: "crazy-rich-asians",
+    destinationSlug: "singapore",
+    lat: 1.2816,
+    lng: 103.8636,
+    kind: "nature",
+    address: "18 Marina Gardens Dr, Singapore 018953",
+    sceneContext:
+      "The glowing Supertree Grove, with its towering steel canopies, is pure future-city spectacle straight out of the film.",
+    howToVisit:
+      "The outdoor gardens and the nightly Supertree light show are free; the cooled conservatory domes and the treetop skyway are ticketed. Evenings are cooler and most magical.",
+    nearbyTips: [
+      "Time your visit for the after-dark Garden Rhapsody show.",
+      "The Cloud Forest dome holds an indoor waterfall.",
+    ],
+  },
+
+  // ===================== Lost in Translation =====================
+  {
+    slug: "park-hyatt-tokyo",
+    name: "Park Hyatt Tokyo",
+    titleSlug: "lost-in-translation",
+    destinationSlug: "tokyo",
+    lat: 35.6855,
+    lng: 139.6907,
+    kind: "hotel",
+    address: "3-7-1-2 Nishishinjuku, Shinjuku City, Tokyo 163-1055, Japan",
+    sceneContext:
+      "The hotel's hushed top-floor New York Bar, with its skyline wall of glass, is where the two leads meet over whisky and insomnia.",
+    howToVisit:
+      "A working luxury hotel; the bar welcomes non-guests for a drink (with an evening cover charge and a dress code), so go up for the view and the mood. It towers over west Shinjuku.",
+    nearbyTips: [
+      "Live jazz plays in the bar most evenings.",
+      "The Metropolitan Government observation decks nearby are free.",
+    ],
+  },
+  {
+    slug: "shibuya-crossing",
+    name: "Shibuya Crossing",
+    titleSlug: "lost-in-translation",
+    destinationSlug: "tokyo",
+    lat: 35.6595,
+    lng: 139.7004,
+    kind: "street",
+    address: "Shibuya Scramble Crossing, Shibuya City, Tokyo, Japan",
+    sceneContext:
+      "The vast scramble crossing, a sea of people under giant screens, captures the film's beautiful disorientation.",
+    howToVisit:
+      "A free, public crossing you simply walk; for the overhead view, head up to the Shibuya Sky deck or a café window above. It is busiest and most cinematic after dark.",
+    nearbyTips: [
+      "The Hachiko dog statue waits on the station side.",
+      "Shibuya Sky's rooftop gives the aerial angle.",
+    ],
+  },
+
+  // ===================== Gladiator =====================
+  {
+    slug: "val-d-orcia",
+    name: "Val d'Orcia",
+    titleSlug: "gladiator",
+    destinationSlug: "tuscany",
+    lat: 43.0613,
+    lng: 11.623,
+    kind: "nature",
+    address: "Val d'Orcia, Province of Siena, Italy",
+    sceneContext:
+      "The rolling wheat fields and lone cypresses are Maximus's sunlit memory of home, the Elysium he longs to return to.",
+    howToVisit:
+      "A UNESCO landscape of public roads and hill towns south of Siena, free to drive and photograph; spring and early summer are greenest. Base in Pienza or Montalcino and wander the back lanes.",
+    nearbyTips: [
+      "The chapel of Vitaleta is the area's most photographed view.",
+      "Montalcino's vineyards pour the famous Brunello.",
+    ],
+  },
+  {
+    slug: "ait-benhaddou",
+    name: "Aït Benhaddou",
+    titleSlug: "gladiator",
+    destinationSlug: "ouarzazate",
+    lat: 31.047,
+    lng: -7.1318,
+    kind: "landmark",
+    address: "Aït Benhaddou, Ouarzazate Province, Morocco",
+    sceneContext:
+      "The fortified mud-brick ksar rising from the desert is the slave town of Zucchabar, where Maximus first fights.",
+    howToVisit:
+      "A UNESCO village reached by a short walk and a stream crossing from the roadside; local guides offer to show the kasbah for a tip. It's a couple of hours over the Atlas from Marrakech.",
+    nearbyTips: [
+      "Climb to the granary at the top for desert views.",
+      "The film studios of Ouarzazate are nearby.",
+    ],
+  },
+
+  // ===================== Star Wars =====================
+  {
+    slug: "lars-homestead-chott-el-djerid",
+    name: "Lars Homestead (Chott el Djerid)",
+    titleSlug: "star-wars",
+    destinationSlug: "southern-tunisia",
+    lat: 33.8389,
+    lng: 8.0567,
+    kind: "building",
+    address: "Chott el Djerid, near Nefta, Tunisia",
+    sceneContext:
+      "The white domed igloo on the salt flats is Luke Skywalker's boyhood home, the Lars homestead exterior.",
+    howToVisit:
+      "The preserved set sits in the open desert near Nefta and is free to reach by 4x4 or a guided trip from Tozeur; there are no facilities, so bring water and a hat. Go early to beat the heat.",
+    nearbyTips: [
+      "The oasis town of Tozeur is the regional base.",
+      "Other Star Wars sets dot the dunes around Nefta and Matmata.",
+    ],
+  },
+  {
+    slug: "skellig-michael",
+    name: "Skellig Michael",
+    titleSlug: "star-wars",
+    destinationSlug: "kerry",
+    lat: 51.7708,
+    lng: -10.5386,
+    kind: "nature",
+    address: "Skellig Michael, Co. Kerry, Ireland",
+    sceneContext:
+      "The jagged monastic island rising from the Atlantic is the remote refuge where Rey finds Luke in the sequel trilogy.",
+    howToVisit:
+      "Reached only by a weather-dependent boat from Portmagee, with limited summer landing permits that sell out far ahead; the climb up ancient steps is steep and unguarded. Book early and hope for calm seas.",
+    nearbyTips: [
+      "Sixth-century monks' beehive huts crown the summit.",
+      "Puffins nest on the island in early summer.",
+    ],
+  },
+
+  // ===================== Casino Royale =====================
+  {
+    slug: "villa-del-balbianello",
+    name: "Villa del Balbianello",
+    titleSlug: "casino-royale",
+    destinationSlug: "lake-como",
+    lat: 45.9665,
+    lng: 9.1958,
+    kind: "building",
+    address: "Via Comoedia 5, 22016 Lenno, Lake Como, Italy",
+    sceneContext:
+      "The terraced gardens of this lakeside villa are where a wounded Bond recovers, and where another saga staged a secret wedding.",
+    howToVisit:
+      "A property of the FAI (Italy's national trust) open on set days with a ticket; reach it by a short boat from Lenno or a lakeside walk. Garden and villa tours are sold separately.",
+    nearbyTips: [
+      "Lenno and Bellagio are easy ferry hops.",
+      "The gardens alone are worth the visit.",
+    ],
+  },
+  {
+    slug: "venice-grand-canal",
+    name: "Grand Canal",
+    titleSlug: "casino-royale",
+    destinationSlug: "venice",
+    lat: 45.438,
+    lng: 12.3358,
+    kind: "landmark",
+    address: "Grand Canal, Venice, Italy",
+    sceneContext:
+      "The film's climax plays out as a grand palazzo collapses into the Grand Canal, the city itself the final set.",
+    howToVisit:
+      "The canal is free to ride by vaporetto water-bus or, pricier, by gondola; the Rialto and Accademia bridges give the classic views. It is busiest at midday, quietest early.",
+    nearbyTips: [
+      "Ride the number 1 vaporetto the length of the canal.",
+      "St Mark's Square is a short walk from the Rialto.",
+    ],
+  },
+
+  // ===================== A Room with a View =====================
+  {
+    slug: "piazza-della-signoria",
+    name: "Piazza della Signoria",
+    titleSlug: "a-room-with-a-view",
+    destinationSlug: "florence",
+    lat: 43.7696,
+    lng: 11.2558,
+    kind: "landmark",
+    address: "Piazza della Signoria, 50122 Firenze, Italy",
+    sceneContext:
+      "Florence's great civic square, with its palazzo and statues, is where a shocking moment throws the heroine into the arms of fate.",
+    howToVisit:
+      "A free, open square at the city's heart, ringed by the Palazzo Vecchio and an open-air sculpture loggia; it's busy all day. The Uffizi gallery opens off one corner.",
+    nearbyTips: [
+      "A copy of Michelangelo's David stands before the palazzo.",
+      "The Uffizi's masterpieces are next door.",
+    ],
+  },
+  {
+    slug: "basilica-di-santa-croce",
+    name: "Basilica di Santa Croce",
+    titleSlug: "a-room-with-a-view",
+    destinationSlug: "florence",
+    lat: 43.7686,
+    lng: 11.2622,
+    kind: "landmark",
+    address: "Piazza di Santa Croce, 50122 Firenze, Italy",
+    sceneContext:
+      "The great Franciscan basilica, burial place of Michelangelo and Galileo, features as the heroine explores the city.",
+    howToVisit:
+      "A working church and monument with paid entry; modest dress is required, and the square outside is free and lively. It's a short walk from the Signoria.",
+    nearbyTips: [
+      "The tombs of Michelangelo and Galileo lie inside.",
+      "The leather school behind the church is a local tradition.",
+    ],
+  },
+
+  // ===================== Dunkirk =====================
+  {
+    slug: "dunkirk-beach",
+    name: "Dunkirk Beach (Malo-les-Bains)",
+    titleSlug: "dunkirk",
+    destinationSlug: "dunkirk",
+    lat: 51.0383,
+    lng: 2.3775,
+    kind: "nature",
+    address: "Plage de Malo-les-Bains, 59240 Dunkerque, France",
+    sceneContext:
+      "The wide, flat beach and the long mole are where the film's stranded soldiers wait under fire for rescue, on the very sands of the 1940 evacuation.",
+    howToVisit:
+      "A free public beach and promenade at Malo-les-Bains, open year-round and bracing in any season; the Dunkirk 1940 museum nearby tells the history. It's a short walk from the town centre.",
+    nearbyTips: [
+      "The Dunkirk 1940 Operation Dynamo museum is close.",
+      "The promenade has cafés facing the sea.",
+    ],
+  },
+
+  // ===================== Braveheart =====================
+  {
+    slug: "glen-nevis",
+    name: "Glen Nevis",
+    titleSlug: "braveheart",
+    destinationSlug: "scottish-highlands",
+    lat: 56.7969,
+    lng: -5.0036,
+    kind: "nature",
+    address: "Glen Nevis, Fort William PH33 6PF, United Kingdom",
+    sceneContext:
+      "The green glen beneath Ben Nevis is Wallace's Highland home, its river and slopes filling the film's quieter moments.",
+    howToVisit:
+      "A free, scenic glen reached by road from Fort William, with car parks, walks and a visitor centre; it's the gateway path to Britain's highest peak. Waterfalls and gorges line the upper glen.",
+    nearbyTips: [
+      "The Steall Falls walk starts at the road's end.",
+      "Fort William is the base for the West Highland Line.",
+    ],
+  },
+  {
+    slug: "trim-castle",
+    name: "Trim Castle",
+    titleSlug: "braveheart",
+    destinationSlug: "county-meath",
+    lat: 53.5547,
+    lng: -6.7894,
+    kind: "building",
+    address: "Castle St, Trim, Co. Meath, Ireland",
+    sceneContext:
+      "Ireland's largest Norman castle stood in for the medieval cities of the film, its great keep dressed as York and London.",
+    howToVisit:
+      "An Office of Public Works site with a small fee for the keep tour and free access to the grounds; the tours are guided and seasonal. Trim is about an hour from Dublin.",
+    nearbyTips: [
+      "The riverside walk frames the castle nicely.",
+      "The ruined Yellow Steeple stands across the river.",
+    ],
+  },
+
+  // ===================== Jurassic Park =====================
+  {
+    slug: "kualoa-ranch",
+    name: "Kualoa Ranch",
+    titleSlug: "jurassic-park",
+    destinationSlug: "oahu",
+    lat: 21.5236,
+    lng: -157.8378,
+    kind: "nature",
+    address: "49-560 Kamehameha Hwy, Kaneohe, HI 96744, United States",
+    sceneContext:
+      "The towering green valley is where the film's dinosaurs first roam, a backdrop reused by countless productions since.",
+    howToVisit:
+      "A private ranch open daily; the famous valley is seen on ticketed movie-site tours by bus, ATV or horseback, so book ahead. It's about an hour's drive from Waikiki.",
+    nearbyTips: [
+      "Tours point out spots from the many films shot here.",
+      "The windward coast drive is scenic in its own right.",
+    ],
+  },
+
+  // ===================== Slumdog Millionaire =====================
+  {
+    slug: "chhatrapati-shivaji-terminus",
+    name: "Chhatrapati Shivaji Maharaj Terminus",
+    titleSlug: "slumdog-millionaire",
+    destinationSlug: "mumbai",
+    lat: 18.9398,
+    lng: 72.8355,
+    kind: "building",
+    address: "Chhatrapati Shivaji Maharaj Terminus, Fort, Mumbai 400001, India",
+    sceneContext:
+      "The vast Victorian-Gothic railway terminus is the stage for the film's exuberant closing dance number.",
+    howToVisit:
+      "A UNESCO-listed working station you can admire from outside any time; heritage tours of the interior run on limited days. It's in the busy Fort district.",
+    nearbyTips: [
+      "The Fort area is full of grand colonial architecture.",
+      "Crawford Market nearby is a lively stop.",
+    ],
+  },
+  {
+    slug: "taj-mahal-palace-hotel",
+    name: "The Taj Mahal Palace",
+    titleSlug: "slumdog-millionaire",
+    destinationSlug: "mumbai",
+    lat: 18.922,
+    lng: 72.8332,
+    kind: "hotel",
+    address: "Apollo Bunder, Colaba, Mumbai 400001, India",
+    sceneContext:
+      "The seafront grande-dame hotel and the Gateway of India beside it frame the film's vision of a glittering, unreachable Mumbai.",
+    howToVisit:
+      "A landmark luxury hotel; non-guests can book afternoon tea or a drink to see inside, and the Gateway arch on the waterfront is free. Colaba's cafés are a short stroll.",
+    nearbyTips: [
+      "The Gateway of India stands directly opposite.",
+      "Boats leave the quay for Elephanta Island.",
+    ],
+  },
+
+  // ===================== Lawrence of Arabia =====================
+  {
+    slug: "wadi-rum",
+    name: "Wadi Rum",
+    titleSlug: "lawrence-of-arabia",
+    destinationSlug: "wadi-rum",
+    lat: 29.5765,
+    lng: 35.4203,
+    kind: "nature",
+    address: "Wadi Rum Protected Area, Jordan",
+    sceneContext:
+      "The immense red desert and its sandstone massifs are the backdrop to the film's sweeping ride across Arabia.",
+    howToVisit:
+      "A protected desert entered by ticket, then explored on Bedouin-run 4x4 trips or overnight camps; days are scorching and nights cold, so plan with a local operator. Aqaba is about an hour away.",
+    nearbyTips: [
+      "Overnight in a desert camp for the star-filled sky.",
+      "Petra is a couple of hours north.",
+    ],
+  },
+  {
+    slug: "plaza-de-espana-seville",
+    name: "Plaza de España",
+    titleSlug: "lawrence-of-arabia",
+    destinationSlug: "seville",
+    lat: 37.3772,
+    lng: -5.9869,
+    kind: "landmark",
+    address: "Plaza de España, 41013 Sevilla, Spain",
+    sceneContext:
+      "Seville's grand semicircular plaza stood in for British military headquarters in Cairo, its arcades and bridges instantly recognisable.",
+    howToVisit:
+      "A free, open public square in María Luisa Park, vast and walkable any time; row a little boat in its moat for a few euros. Mornings are quietest for photos.",
+    nearbyTips: [
+      "The tiled alcoves represent Spain's provinces.",
+      "The park around it is shady and full of fountains.",
+    ],
+  },
+
+  // ===================== The Godfather =====================
+  {
+    slug: "bar-vitelli-savoca",
+    name: "Bar Vitelli",
+    titleSlug: "the-godfather",
+    destinationSlug: "savoca",
+    lat: 37.9586,
+    lng: 15.3344,
+    kind: "venue",
+    address: "Piazza Fossia 7, 98038 Savoca, Sicily, Italy",
+    sceneContext:
+      "This village bar is where Michael Corleone asks a wary father for permission to court his daughter Apollonia.",
+    howToVisit:
+      "A real, still-open bar and tiny Godfather museum in the hill village of Savoca; stop for a granita and a look at the photos. The village is a winding drive up from the coast near Taormina.",
+    nearbyTips: [
+      "The bar keeps film stills and props on its walls.",
+      "The village's clifftop church is a short climb.",
+    ],
+  },
+  {
+    slug: "church-san-nicolo-savoca",
+    name: "Chiesa di San Nicolò",
+    titleSlug: "the-godfather",
+    destinationSlug: "savoca",
+    lat: 37.9591,
+    lng: 15.3349,
+    kind: "building",
+    address: "Chiesa di San Nicolò, 98038 Savoca, Sicily, Italy",
+    sceneContext:
+      "The little hilltop church is where Michael and Apollonia marry in the film's Sicilian interlude.",
+    howToVisit:
+      "A small church on the village's high point, free to visit when open, with sweeping views over the valley; the walk up through Savoca is the appeal. Combine it with the bar below.",
+    nearbyTips: [
+      "The terrace gives long views to the Ionian Sea.",
+      "Forza d'Agrò, another Godfather village, is nearby.",
+    ],
+  },
+
+  // ===================== Rocky =====================
+  {
+    slug: "rocky-steps",
+    name: "The Rocky Steps",
+    titleSlug: "rocky",
+    destinationSlug: "philadelphia",
+    lat: 39.9656,
+    lng: -75.181,
+    kind: "landmark",
+    address: "Philadelphia Museum of Art, 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130, United States",
+    sceneContext:
+      "The broad museum steps are where Rocky's training run ends in triumph, arms aloft over the city.",
+    howToVisit:
+      "Free and open at all hours; run up them yourself and find the bronze Rocky statue at the base to the right. The museum itself is a ticketed visit.",
+    nearbyTips: [
+      "Pose with the Rocky statue beside the steps.",
+      "The view back down the parkway frames City Hall.",
+    ],
+  },
+  {
+    slug: "italian-market-philadelphia",
+    name: "9th Street Italian Market",
+    titleSlug: "rocky",
+    destinationSlug: "philadelphia",
+    lat: 39.9343,
+    lng: -75.1588,
+    kind: "street",
+    address: "S 9th St, Philadelphia, PA 19147, United States",
+    sceneContext:
+      "The old open-air market, with its awnings and stalls, features in Rocky's street-level training montage.",
+    howToVisit:
+      "A free, working market along 9th Street, busiest in the morning, with delis, cheese shops and produce; it's closed on Mondays. It sits in the historic Italian neighbourhood of South Philly.",
+    nearbyTips: [
+      "Grab a cheesesteak from a corner counter.",
+      "The cheese and spice shops are local institutions.",
+    ],
+  },
+
+  // ===================== Lupin =====================
+  {
+    slug: "louvre-pyramid",
+    name: "Louvre Pyramid",
+    titleSlug: "lupin",
+    destinationSlug: "paris",
+    lat: 48.8611,
+    lng: 2.3358,
+    kind: "landmark",
+    address: "Rue de Rivoli, 75001 Paris, France",
+    sceneContext:
+      "The glass pyramid and the galleries beneath are where Assane Diop pulls off his audacious opening heist.",
+    howToVisit:
+      "The courtyard and pyramid are free to walk around any time; entering the museum needs a timed ticket booked ahead, and it's closed on Tuesdays. Go early or late to dodge the crush.",
+    nearbyTips: [
+      "The Tuileries gardens stretch west from the pyramid.",
+      "The glass pyramid is floodlit beautifully at night.",
+    ],
+  },
+  {
+    slug: "falaise-etretat",
+    name: "Cliffs of Étretat",
+    titleSlug: "lupin",
+    destinationSlug: "etretat",
+    lat: 49.707,
+    lng: 0.2036,
+    kind: "nature",
+    address: "Falaises d'Étretat, 76790 Étretat, France",
+    sceneContext:
+      "The white chalk cliffs and their natural arch are where the series sweeps to the Normandy coast for a tense reckoning.",
+    howToVisit:
+      "Free clifftop paths climb from either end of the beach for the famous arch-and-needle views; they are steep and exposed, so wear good shoes. The little resort below has cafés and parking.",
+    nearbyTips: [
+      "Climb the path for the view of the Aiguille needle.",
+      "The painter Monet worked these same cliffs.",
+    ],
+  },
+
+  // ===================== The Durrells =====================
+  {
+    slug: "corfu-old-town",
+    name: "Corfu Old Town",
+    titleSlug: "the-durrells",
+    destinationSlug: "corfu",
+    lat: 39.6243,
+    lng: 19.9217,
+    kind: "landmark",
+    address: "Corfu Old Town, 49100, Greece",
+    sceneContext:
+      "The Venetian fortresses, shuttered lanes and arcaded streets of the old town feature throughout the family's island life.",
+    howToVisit:
+      "A free, UNESCO-listed old town to wander on foot, with two old forts to climb for a small fee; it's compact and walkable. The port and airport are close.",
+    nearbyTips: [
+      "Climb the Old Fortress for harbour views.",
+      "The Liston arcade is the spot for a frappé.",
+    ],
+  },
+  {
+    slug: "kalami-bay",
+    name: "Kalami Bay",
+    titleSlug: "the-durrells",
+    destinationSlug: "corfu",
+    lat: 39.7297,
+    lng: 19.93,
+    kind: "nature",
+    address: "Kalami, Corfu, Greece",
+    sceneContext:
+      "The clear north-east bay, overlooked by the White House the Durrell family knew, is the show's sun-soaked seaside.",
+    howToVisit:
+      "A free pebble bay with tavernas and swimming off the rocks, sheltered and calm; the coast road there is winding, so allow time. Boats can be hired to explore the coves.",
+    nearbyTips: [
+      "The White House taverna sits right on the water.",
+      "Albania's coast looms across the strait.",
+    ],
+  },
+
+  // ===================== Ted Lasso =====================
+  {
+    slug: "richmond-green",
+    name: "Richmond Green",
+    titleSlug: "ted-lasso",
+    destinationSlug: "london",
+    lat: 51.4613,
+    lng: -0.3037,
+    kind: "venue",
+    address: "The Green, Richmond TW9 1LX, United Kingdom",
+    sceneContext:
+      "The leafy green and the pub beside it stand in for the team's local, the heart of the show's Richmond.",
+    howToVisit:
+      "A free, open common ringed by pubs and Georgian houses; the pub used for exteriors is a real, working one, so be considerate of staff. Richmond is a quick train or Tube from central London.",
+    nearbyTips: [
+      "The riverside is a two-minute walk away.",
+      "Richmond Park's deer herds are up the hill.",
+    ],
+  },
+  {
+    slug: "richmond-bridge",
+    name: "Richmond Bridge",
+    titleSlug: "ted-lasso",
+    destinationSlug: "london",
+    lat: 51.4561,
+    lng: -0.3082,
+    kind: "landmark",
+    address: "Richmond Bridge, Richmond TW9 1EW, United Kingdom",
+    sceneContext:
+      "The handsome Georgian stone bridge over the Thames appears in the show's strolls along the river.",
+    howToVisit:
+      "A free, historic bridge you can cross on foot, the oldest surviving Thames bridge in London; the towpaths on either side are pleasant walks. Riverside pubs cluster nearby.",
+    nearbyTips: [
+      "Hire a rowing boat from the embankment in summer.",
+      "Walk the towpath toward Petersham meadows.",
+    ],
+  },
+
+  // ===================== Sex and the City =====================
+  {
+    slug: "carrie-stoop-perry-street",
+    name: "Carrie's Stoop (Perry Street)",
+    titleSlug: "sex-and-the-city",
+    destinationSlug: "new-york",
+    lat: 40.7359,
+    lng: -74.0055,
+    kind: "building",
+    address: "66 Perry St, New York, NY 10014, United States",
+    sceneContext:
+      "This Greenwich Village brownstone stoop is Carrie Bradshaw's front step, the show's most photographed address.",
+    howToVisit:
+      "A private home on a quiet street, so admire and photograph from the public sidewalk and keep noise down; a chain across the steps marks where to stop. It's a short walk from Christopher Street.",
+    nearbyTips: [
+      "The West Village's cafés and shops are all around.",
+      "Bleecker Street's boutiques are a block away.",
+    ],
+  },
+  {
+    slug: "magnolia-bakery",
+    name: "Magnolia Bakery",
+    titleSlug: "sex-and-the-city",
+    destinationSlug: "new-york",
+    lat: 40.7359,
+    lng: -74.0048,
+    kind: "venue",
+    address: "401 Bleecker St, New York, NY 10014, United States",
+    sceneContext:
+      "The little corner bakery whose cupcakes the friends share helped launch a global craze after the show.",
+    howToVisit:
+      "A real, busy bakery open daily; queue for a cupcake to go and eat it in the leafy streets nearby. It's a couple of blocks from Carrie's stoop.",
+    nearbyTips: [
+      "Take your cupcake to nearby Bleecker Playground.",
+      "Combine it with a West Village wander.",
+    ],
+  },
 ];

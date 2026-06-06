@@ -45,6 +45,7 @@ const DEST_QUERY: Record<string, string> = {
 const LOC_QUERY: Record<string, string> = {
   thingvellir: "Þingvellir National Park Almannagjá gorge Iceland",
   "castle-ward": "Castle Ward estate Strangford Northern Ireland",
+  "kalami-bay": "Kalami beach Corfu Greece",
 };
 
 type Place = {

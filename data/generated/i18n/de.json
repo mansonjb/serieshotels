@@ -277,6 +277,86 @@
       "the-beach": {
         "tagline": "Die Suche nach dem Paradies, gedreht in einer versteckten Lagune in Thailand.",
         "synopsis": "Ein rastloser junger Reisender folgt einem Gerücht über eine geheime Inselkommune vor der Küste Thailands, nur um festzustellen, dass das Paradies seinen Preis hat. Die legendäre Bucht ist die Maya Bay, ein von Klippen umringter Strand auf einer unbewohnten Insel im Andamanischen Meer."
+      },
+      "amelie": {
+        "tagline": "Ein verträumtes Montmartre-Märchen, vom Café bis zum Kanal erlaufbar.",
+        "synopsis": "Eine schüchterne Pariser Kellnerin stiftet im Stillen kleine Glücksmomente für die Menschen um sie herum und tastet sich dabei an ihr eigenes heran. Der Film verwandelt Montmartre in ein Bilderbuch, und sein Café sowie ein Kanal zum Steineflitschen sind echte Ecken der Stadt, nah genug beieinander, um sie zu einem einzigen Nachmittag zu verbinden."
+      },
+      "la-la-land": {
+        "tagline": "Ein modernes Musical über Los Angeles, von der Sternwartenkuppel bis zur Standseilbahn im Zentrum.",
+        "synopsis": "Eine angehende Schauspielerin und ein Jazzpianist geraten beim Verfolgen ihrer Träume quer durch Los Angeles immer wieder aus dem Takt. Der Film schwebt durch echte Wahrzeichen der Stadt, darunter eine Planetariumsdecke und eine winzige historische Standseilbahn, die man zwischen den Drehs noch aufspüren kann."
+      },
+      "vertigo": {
+        "tagline": "Hitchcocks San-Francisco-Spirale, von der Brücke bis zum Glockenturm.",
+        "synopsis": "Ein pensionierter Polizist mit Höhenangst verfällt einer Frau, die er beschatten soll, in einer schwindelerregenden Studie über Begehren. Sein San Francisco ist echt, von der Bucht unter der Golden Gate bis zu einer spanischen Mission eine Stunde südlich."
+      },
+      "crazy-rich-asians": {
+        "tagline": "Das glitzernde Singapur, Dachpool und Supertrees inklusive.",
+        "synopsis": "Eine New Yorkerin entdeckt, dass ihr Freund einer der reichsten Familien Singapurs angehört, und läuft Spießruten durch deren High Society. Die Stadt funkelt als sie selbst, der himmelhohe Infinity-Pool eines Hotels und ein Garten leuchtender Stahlbäume gehören zu den prägendsten Kulissen."
+      },
+      "lost-in-translation": {
+        "tagline": "Das jetlaggeplagte Tokio, von einer hoch gelegenen Hotelbar bis zur belebtesten Kreuzung der Welt.",
+        "synopsis": "Zwei verlorene Amerikaner, ein verblassender Schauspieler und eine junge Ehefrau, treiben über schlaflose Nächte in Tokio in eine zarte Freundschaft hinein. Die Stimmung des Films lebt in echten Orten, darunter eine stille Hotelbar im obersten Stock und die Neonflut von Shibuya."
+      },
+      "gladiator": {
+        "tagline": "Das antike Rom, heraufbeschworen aus toskanischen Feldern und einer marokkanischen Kasbah.",
+        "synopsis": "Ein verratener römischer Feldherr wird in die Sklaverei verkauft und kämpft sich durch die Arena zurück in Richtung Rache. Seine sonnendurchflutete Heimat ist das Val d'Orcia in der Toskana, und die Wüstenprovinz Zucchabar ist das Lehmziegeldorf Aït Benhaddou in Marokko."
+      },
+      "star-wars": {
+        "tagline": "Tatooine ist eine tunesische Wüste, der Jedi-Tempel eine irische Insel.",
+        "synopsis": "Ein Farmjunge auf einem Wüstenplaneten wird in eine galaktische Rebellion hineingezogen, im Film, der eine ganze Saga auslöste. Lukes Elternhof steht noch immer auf einer tunesischen Salzpfanne, und Jahrzehnte später wurde eine zackige Klosterinsel vor Kerry zum Versteck des Helden."
+      },
+      "casino-royale": {
+        "tagline": "Bond von seiner stilvollsten Seite, von einer Como-Villa bis zu den Kanälen Venedigs.",
+        "synopsis": "Ein frisch ernannter 007 spielt eine todernste Pokerpartie um hohe Einsätze und verliebt sich heftig, mit Folgen. Er erholt sich in einer Villa am Comer See und ereilt sein Schicksal in einem Haus, das in den venezianischen Canal Grande einstürzt."
+      },
+      "a-room-with-a-view": {
+        "tagline": "Edwardianische Leidenschaft, entfesselt im Florenz der Renaissance.",
+        "synopsis": "Die wohlanständige Welt einer jungen Engländerin gerät durch einen Kuss in den toskanischen Hügeln und den Verehrer, der ihr nach Hause folgt, aus den Fugen. Florenz ist das Erwachen, sein großer Platz und die Basilika Santa Croce gehören zu den Schauplätzen des Films."
+      },
+      "dunkirk": {
+        "tagline": "Die Evakuierung von 1940, gedreht an genau dem Strand, an dem sie geschah.",
+        "synopsis": "Hunderttausende eingekesselter alliierter Soldaten warten an einem ungeschützten Strand auf irgendein Boot nach Hause, während der Feind näher rückt. Vieles entstand in Dünkirchen selbst, auf dem breiten Sand und der langen Mole, wo sich die echte Evakuierung abspielte."
+      },
+      "braveheart": {
+        "tagline": "Schottlands Freiheit, erhoben in einem Highland-Tal und einer irischen Burg.",
+        "synopsis": "Ein einfacher Schotte führt eine Rebellion gegen die englische Herrschaft an und wird zur Legende. Sein Highland-Herz ist Glen Nevis unter Britanniens höchstem Berg, während die mittelalterlichen Städte rund um Trim Castle in Irland errichtet wurden."
+      },
+      "jurassic-park": {
+        "tagline": "Die Dinosaurier durchstreiften ein echtes hawaiianisches Tal, in das man hineinfahren kann.",
+        "synopsis": "Der Klon-Dinosaurier-Park eines Milliardärs gerät auf einer abgelegenen Insel katastrophal außer Kontrolle. Diese Insel ist größtenteils Hawaii, und durch das üppige Tal der Kualoa Ranch auf Oahu führen Touren an genau den Stellen vorbei, an denen die Kameras liefen."
+      },
+      "slumdog-millionaire": {
+        "tagline": "Eine Tellerwäscher-Geschichte aus Mumbai, vom Bahnsteig bis zur Uferpromenade.",
+        "synopsis": "Ein Junge aus den Slums verblüfft eine Quizshow und die ganze Nation, seine Antworten gespeist aus einem harten Leben quer durch Mumbai. Der viktorianische Bahnhof seines Schlusstanzes und das alte Festungsviertel der Stadt sind echt und voller Leben."
+      },
+      "lawrence-of-arabia": {
+        "tagline": "Ein Wüstenepos zwischen Jordaniens Wadi Rum und Sevillas Prachtplatz.",
+        "synopsis": "Ein britischer Offizier eint arabische Stämme im Aufstand quer durch die Wüste des Ersten Weltkriegs und wird davon verändert. Der endlose Sand ist Jordaniens Wadi Rum, während Sevillas Plaza de España die Korridore des militärischen Kairo verkörperte."
+      },
+      "the-godfather": {
+        "tagline": "Die Heimat der Corleones, ein in der Zeit eingefrorenes sizilianisches Dorf.",
+        "synopsis": "Ein alternder Verbrecherpatriarch übergibt sein Imperium an einen widerstrebenden Sohn, in der prägenden Gangstersaga des Kinos. Michaels sizilianisches Exil wurde im Bergdorf Savoca gedreht, wo die Bar und die Kirche aus dem Film noch stehen."
+      },
+      "rocky": {
+        "tagline": "Der Lauf des Außenseiters die Treppe hinauf, die man selbst erklimmen kann.",
+        "synopsis": "Ein kleiner Boxer aus Philadelphia bekommt eine Eins-zu-Million-Chance auf den Schwergewichtstitel und hält bis zur letzten Runde durch. Der Trainingslauf die Treppe des Kunstmuseums hinauf ist heute eine Pilgerstätte, und der alte Italian Market riecht noch immer nach der Stadt, für die er kämpfte."
+      },
+      "lupin": {
+        "tagline": "Das Paris eines Gentleman-Diebs, vom Louvre-Coup bis zu den Klippen der Normandie.",
+        "synopsis": "Ein charmanter Meister der Verkleidung plant eine ausgeklügelte Rache, inspiriert von den Geschichten um Arsène Lupin. Er schlägt im Louvre unter der Glaspyramide zu und flieht zu den Kreidefelsen von Étretat an der normannischen Küste."
+      },
+      "the-durrells": {
+        "tagline": "Eine Familienidylle der 1930er auf dem sonnendurchfluteten Korfu.",
+        "synopsis": "Eine exzentrische englische Familie zieht in den 1930ern auf eine griechische Insel und verfällt ihr nach und nach. Die Serie sonnt sich in Korfu, von der venezianischen Altstadt bis zu den klaren Buchten im Nordosten rund um Kalami."
+      },
+      "ted-lasso": {
+        "tagline": "Die Heimstätte der Wohlfühlkomödie, eine Ecke des Londons am Fluss.",
+        "synopsis": "Ein amerikanischer American-Football-Trainer übernimmt einen englischen Premier-League-Klub, von dem er nichts versteht, und gewinnt trotzdem alle Herzen. Die Welt des Teams ist der grüne Londoner Vorort Richmond, dessen Anger, Pub und Flussufer allesamt echt sind."
+      },
+      "sex-and-the-city": {
+        "tagline": "Das New York einer Generation, von einer berühmten Vortreppe bis zur Cupcake-Theke.",
+        "synopsis": "Vier Freundinnen lavieren durch Liebe, Arbeit und Manhattan, in der Serie, die das Bild des Fernsehens von der Stadt neu formte. Carries Vortreppe in Greenwich Village und die Bäckerei, die einen Cupcake-Hype auslöste, sind bis heute Fan-Pilgerorte."
       }
     },
     "destinations": {
@@ -420,6 +500,69 @@
       },
       "krabi": {
         "blurb": "Eine Küste aus Kalksteinkarsten, versteckten Lagunen und türkisfarbenem Wasser am Andamanischen Meer Thailands, wo eine unmöglich perfekte Bucht zum geheimen Paradies der Rucksackreisenden wurde. Die Maya Bay liegt auf einer unbewohnten Insel vor der Küste, mit dem Boot von Krabi oder Phuket erreichbar."
+      },
+      "los-angeles": {
+        "blurb": "Die Heimat des Films selbst, und schon ihrem Wesen nach ein Set-Jetting-Knotenpunkt, von einer Art-Déco-Sternwarte über der Stadt bis zum Schriftzug auf dem Hügel und hundert Filmfassaden. Weitläufig und aufs Auto angewiesen, doch die wichtigsten Drehorte ballen sich zwischen Hollywood, Downtown und den Stränden."
+      },
+      "san-francisco": {
+        "blurb": "Hügel, Nebel und eine blutrote Brücke haben diese Bay-Stadt zu einer Lieblingskulisse des Kinos gemacht, von schwindelerregenden Thrillern bis zu Verfolgungsjagden ihre Serpentinenstraßen hinab. Stellenweise kompakt und zu Fuß erkundbar, mit Cable Cars, die einem die Anstiege ersparen."
+      },
+      "singapore": {
+        "blurb": "Ein futuristischer Stadtstaat, in dem ein Dach-Infinity-Pool, leuchtende Supertrees und ein koloniales Grandhotel eine glanzvolle Romanze verankerten. Heiß, grün und tadellos leicht zu bereisen, packt er seine Filmwahrzeichen an einer zu Fuß erschließbaren Bucht zusammen."
+      },
+      "tokyo": {
+        "blurb": "Neon, Stille und jetlaggeprägtes Staunen: Die japanische Hauptstadt lieh einer hoch gelegenen Hotelbar und einer Flut von Fußgängern ihren Auftritt in einem der großen Stimmungsfilme des Kinos. Riesig, aber hervorragend vernetzt, belohnt sie das ziellose Schlendern zwischen ihren Stadtvierteln."
+      },
+      "tuscany": {
+        "blurb": "Goldene Weizenfelder, Zypressenalleen und steinerne Bauernhäuser, die schon das Elysium eines römischen Feldherrn und ein Dutzend anderer Idyllen verkörpert haben. Das Val d'Orcia ist das Herz der Postkarte, eine entspannte Fahrt durch beschauliche Bergstädtchen südlich von Siena."
+      },
+      "ouarzazate": {
+        "blurb": "Das Tor zur marokkanischen Wüste und Afrikas geschäftigstes Filmgelände, wo ein befestigtes Lehmziegeldorf schon das antike Rom, Ägypten und mehr gespielt hat. Aït Benhaddou und die Studios liegen an der Straße über den Atlas von Marrakesch aus."
+      },
+      "southern-tunisia": {
+        "blurb": "Bleiche Salzpfannen, Wüstenoasen und Höhlendörfer, die zu einer weit, weit entfernten Galaxis wurden. Die Star-Wars-Kulissen rund um Nefta und Matmata stehen noch immer in den Dünen, erreichbar von der Oasenstadt Tozeur aus."
+      },
+      "kerry": {
+        "blurb": "Irlands wilder Südwesten, mit Steilküsten, Panoramastraßen und einer zackigen Klosterinsel, die zum Versteck eines Jedi wurde. Skellig Michael ist eine wetterabhängige Bootsfahrt ab Portmagee, mit dem Ring of Kerry, der sich dahinter herumschlingt."
+      },
+      "lake-como": {
+        "blurb": "Spiegelglattes Wasser, von Bergen und Villengärten umringt, ein Inbegriff für Glamour der alten Welt, der schon Spione und Jedi beherbergt hat. Bellagio und Lenno sind die wichtigsten Stationen, von Fähren unter den Alpen miteinander verwoben."
+      },
+      "venice": {
+        "blurb": "Eine Stadt aus Kanälen und bröckelnden Palazzi, die keinerlei Ausstattung braucht und von allen genutzt wurde, von Bond bis zu den großen Kostümfilmen. Den Fußgängern und dem Wasser vorbehalten, erlebt man sie am besten, indem man sich zwischen den Vaporetto-Stationen zu Fuß verliert."
+      },
+      "florence": {
+        "blurb": "Die Renaissancestadt der Kuppeln, Statuen und des Arno, eine fertige Bühne für Kostümdrama und Kriminalfall gleichermaßen. Ihre wichtigsten Plätze und Brücken liegen in einem eng beieinanderliegenden, zu Fuß erschließbaren Zentrum."
+      },
+      "dunkirk": {
+        "blurb": "Der französische Kanalhafen, dessen weiter Gezeitenstrand eine der großen Evakuierungen des Zweiten Weltkriegs in Szene setzte, und der Kriegsfilm, der seinen Namen trägt. Der breite Sand und die Mole von Malo-les-Bains sind ein nachdenklicher, windgepeitschter Spaziergang."
+      },
+      "county-meath": {
+        "blurb": "Irlands Königsgrafschaft nördlich von Dublin, reich an Burgen und uralten Gräbern, darunter die größte normannische Festung des Landes. Trim bildet einen kompakten Ausgangspunkt, eine Stunde von der Hauptstadt entfernt."
+      },
+      "oahu": {
+        "blurb": "Die hawaiianische Insel, deren dschungelbedecktes Tal schon als Dinosaurierland, verschollene Inseln und mehr herhielt. Die Kualoa Ranch bietet Touren zu den Drehorten, eine landschaftlich reizvolle Fahrt von Waikiki entlang der Luvküste."
+      },
+      "mumbai": {
+        "blurb": "Indiens pulsierende Filmhauptstadt, eine Folge von Bahnhöfen aus der Kolonialzeit, Strandpromenaden und dicht besiedelten Vierteln, die ein Tellerwäscher-Epos antrieben. Laut, warm und am besten zu Fuß rund um Colaba und das alte Festungsviertel zu erkunden."
+      },
+      "wadi-rum": {
+        "blurb": "Ein marsianischer Weiten roten Sands und aufragenden Sandsteins im Süden Jordaniens, die Wüste eines opulenten Leinwandepos und vieler seither. Beduinencamps bieten Geländewagentouren und Übernachtungen unter riesigem Himmel, eine Stunde von Aqaba entfernt."
+      },
+      "savoca": {
+        "blurb": "Ein winziges Bergdorf über Siziliens ionischer Küste, in der Zeit eingefroren, das in der berühmtesten Verbrechersaga des Kinos die sizilianische Heimat spielte. Die Bar und die Kirche aus dem Film liegen wenige Schritte auseinander, erreichbar über eine kurvige Straße hinauf von der Küste bei Taormina."
+      },
+      "philadelphia": {
+        "blurb": "Die Wiege der amerikanischen Unabhängigkeit, und die Außenseiterstadt einer Boxlegende, die ihre Museumstreppe hinauflief. Von der Rocky-Treppe abgesehen, machen die Altstadt und ihre Märkte einen kompakten, zu Fuß erschließbaren Besuch aus."
+      },
+      "etretat": {
+        "blurb": "Die dramatischsten Kreidefelsen der normannischen Küste und ein natürlicher Felsbogen, lange ein Anziehungspunkt für Maler und neuerdings für eine Gentleman-Dieb-Serie. Die Klippenwege über dem kleinen Badeort sind kostenlos und erfrischend."
+      },
+      "corfu": {
+        "blurb": "Eine grüne Ionische Insel aus venezianischen Forts, Olivenhainen und türkisfarbenen Buchten, die Idylle einer beliebten Serie über eine Auswandererfamilie. Die Altstadt und die ruhigen Buchten im Nordosten sind mit einer kurzen Fähre oder einem Flug vom Festland aus erreichbar."
+      },
+      "new-york": {
+        "blurb": "Die meistgefilmte Stadt der Welt, in der eine Brownstone-Vortreppe und eine Cupcake-Theke für eine Generation von Fans zu Pilgerstätten wurden. Dicht und endlos zu Fuß erschließbar, liegen ihre Filmwahrzeichen eine U-Bahn-Fahrt auseinander."
       }
     },
     "locations": {
@@ -989,6 +1132,310 @@
         "nearbyTips": [
           "Die weiteren Phi-Phi-Inseln bieten Schnorcheln und Kalksteinlagunen.",
           "Nehmen Sie eine frühe Tour, um die Bucht am ruhigsten zu erleben."
+        ]
+      },
+      "cafe-des-deux-moulins": {
+        "sceneContext": "Die Brasserie in Montmartre, in der Amélie kellnert, ist ein echtes, noch in Betrieb befindliches Café, dessen lange Zinktheke und Spiegel weitgehend so aussehen wie auf der Leinwand.",
+        "howToVisit": "Ein ganz gewöhnliches Café im Alltagsbetrieb, täglich geöffnet für einen Kaffee und einen Happen, kommen Sie also auf einen Drink und einen Blick statt auf eine Führung. Am Wochenende füllt es sich mit Fans. Es liegt einen kurzen Anstieg von der Metro Blanche entfernt.",
+        "nearbyTips": [
+          "Die Mühle des Moulin Rouge steht ein Stück die Rue Lepic hinunter.",
+          "Steigen Sie weiter hinauf nach Montmartre zur Sacré-Cœur."
+        ]
+      },
+      "canal-saint-martin": {
+        "sceneContext": "Der von Bäumen gesäumte Kanal mit seinen Eisenstegen ist der Ort, an dem Amélie Steine über das Wasser flitschen lässt, in einer der stillen Schlüsselaufnahmen des Films.",
+        "howToVisit": "Ein kostenloser, grüner Abschnitt Wasserweg, gesäumt von Cafés und Schleusen, herrlich für einen gemächlichen Spaziergang zu jeder Zeit. An sonnigen Abenden ziehen Picknickende an die Ufer. Es sind nur ein paar Minuten von der Metro République.",
+        "nearbyTips": [
+          "Sehen Sie einem Lastkahn zu, wie er sich durch die Schleusen arbeitet.",
+          "Das Kanalufer ist voller Bistros für ein Mittagessen."
+        ]
+      },
+      "griffith-observatory": {
+        "sceneContext": "Die Art-Déco-Sternwarte und ihr Planetarium sind der Ort, an dem die Romanze von Mia und Sebastian abhebt, ganz wörtlich, in einem wirbelnden nächtlichen Tanz.",
+        "howToVisit": "Der Eintritt ist frei, und der Hügel ist ein beliebter Aussichtspunkt für die Stadt und den Hollywood-Schriftzug. Parkplätze sind knapp, kommen Sie also früh oder per Fahrdienst und prüfen Sie die Zeiten der Planetariumsvorführungen. Die Terrassen sind bei Sonnenuntergang am schönsten.",
+        "nearbyTips": [
+          "Die Wiese gibt eine freie Sichtlinie auf den Hollywood-Schriftzug frei.",
+          "Wege führen von hier höher in den Griffith Park hinauf."
+        ]
+      },
+      "angels-flight": {
+        "sceneContext": "Die winzige orangefarbene Standseilbahn, die den Bunker Hill hinaufklettert, taucht bei den Streifzügen des Paares durch Downtown auf.",
+        "howToVisit": "Eine kurze, historische Bahn mit symbolischem Fahrpreis, die tagsüber durch Downtown LA fährt. Es ist eine Einminutenfahrt, mehr für den Charme als für die Strecke. Der Grand Central Market liegt am Fuß.",
+        "nearbyTips": [
+          "Holen Sie sich Tacos im Grand Central Market darunter.",
+          "Das Broad-Museum und die Walt Disney Concert Hall sind einen kurzen Spaziergang entfernt."
+        ]
+      },
+      "fort-point-golden-gate": {
+        "sceneContext": "Das Backsteinfort direkt unter der Golden Gate Bridge ist der Ort, an dem Madeleine in die Bucht stürzt und Scottie sie herauszieht.",
+        "howToVisit": "Eine kostenlose nationale historische Stätte direkt unter dem Südende der Brücke, mit dem gewaltigen Bauwerk über dem Kopf. Es ist windgepeitscht, nehmen Sie also eine Lage mehr mit und prüfen Sie die Öffnungstage. Parkplätze gleich davor sind begrenzt.",
+        "nearbyTips": [
+          "Der Küstenweg führt hinauf zu den Aussichtspunkten an der Brücke.",
+          "Der Strand von Crissy Field liegt einen kurzen Spaziergang östlich."
+        ]
+      },
+      "mission-san-juan-bautista": {
+        "sceneContext": "Diese spanische Mission setzte das schwindelerregende Finale am Glockenturm in Szene. Der Turm selbst war ein Trickeffekt, doch die Mission und der Platz sind echt.",
+        "howToVisit": "Eine aktive Mission und ein State Park mit geringem Eintritt, rund 90 Minuten südlich der Stadt. Der stille Platz daneben ist kostenlos. Es ist ein einfacher Stopp auf dem Weg nach Monterey.",
+        "nearbyTips": [
+          "Der alte Platz und die Stallungen gehören zum State Park.",
+          "Verbinden Sie es mit einer Fahrt hinunter nach Monterey oder Carmel."
+        ]
+      },
+      "marina-bay-sands": {
+        "sceneContext": "Das weitläufige Dach des Hotels und sein auskragender Infinity-Pool krönen die Welt des Reichtums im Film, mit der Stadt darunter ausgebreitet.",
+        "howToVisit": "Die Aussichtsplattform SkyPark ist kostenpflichtig und allen zugänglich. Der berühmte Infinity-Pool ist allein den Hotelgästen vorbehalten, buchen Sie für diese Aufnahme also ein Zimmer. Die Buchtpromenade darunter ist kostenlos.",
+        "nearbyTips": [
+          "Erleben Sie die kostenlose Licht-und-Wasser-Show Spectra an der Bucht.",
+          "Das ArtScience Museum in Lotusform steht gleich daneben."
+        ]
+      },
+      "gardens-by-the-bay": {
+        "sceneContext": "Der leuchtende Supertree Grove mit seinen aufragenden Stahlkronen ist reines Zukunftsstadt-Spektakel, direkt aus dem Film.",
+        "howToVisit": "Die Außengärten und die abendliche Supertree-Lichtshow sind kostenlos. Die gekühlten Glaskuppeln und der Baumwipfelpfad sind kostenpflichtig. Die Abende sind kühler und am zauberhaftesten.",
+        "nearbyTips": [
+          "Legen Sie Ihren Besuch auf die abendliche Show Garden Rhapsody.",
+          "Die Kuppel Cloud Forest birgt einen Wasserfall im Inneren."
+        ]
+      },
+      "park-hyatt-tokyo": {
+        "sceneContext": "Die stille New York Bar im obersten Stock des Hotels, mit ihrer Glaswand zur Skyline, ist der Ort, an dem sich die beiden Hauptfiguren bei Whisky und Schlaflosigkeit begegnen.",
+        "howToVisit": "Ein Luxushotel im laufenden Betrieb. Die Bar empfängt auch Nicht-Gäste auf einen Drink (mit abendlichem Eintrittsgeld und Kleiderordnung), gehen Sie also hinauf für den Blick und die Stimmung. Es ragt über dem Westen von Shinjuku auf.",
+        "nearbyTips": [
+          "An den meisten Abenden spielt Live-Jazz in der Bar.",
+          "Die nahen Aussichtsplattformen des Rathauses sind kostenlos."
+        ]
+      },
+      "shibuya-crossing": {
+        "sceneContext": "Die riesige Kreuzung, ein Meer von Menschen unter gewaltigen Bildschirmen, fängt die schöne Orientierungslosigkeit des Films ein.",
+        "howToVisit": "Eine kostenlose, öffentliche Kreuzung, die Sie einfach überqueren. Für den Blick von oben steigen Sie auf die Plattform Shibuya Sky oder an ein Caféfenster darüber. Sie ist nach Einbruch der Dunkelheit am belebtesten und filmreifsten.",
+        "nearbyTips": [
+          "Die Statue des Hundes Hachiko wartet auf der Bahnhofsseite.",
+          "Das Dach von Shibuya Sky bietet die Sicht aus der Vogelperspektive."
+        ]
+      },
+      "val-d-orcia": {
+        "sceneContext": "Die sanft gewellten Weizenfelder und einzelnen Zypressen sind Maximus' sonnendurchflutete Erinnerung an die Heimat, das Elysium, in das er zurückzukehren ersehnt.",
+        "howToVisit": "Eine UNESCO-Landschaft aus öffentlichen Straßen und Bergstädten südlich von Siena, frei zu befahren und zu fotografieren. Frühling und Frühsommer sind am grünsten. Quartieren Sie sich in Pienza oder Montalcino ein und streifen Sie durch die Nebenstraßen.",
+        "nearbyTips": [
+          "Die Kapelle von Vitaleta ist der meistfotografierte Anblick der Gegend.",
+          "Die Weinberge von Montalcino schenken den berühmten Brunello aus."
+        ]
+      },
+      "ait-benhaddou": {
+        "sceneContext": "Der befestigte Lehmziegel-Ksar, der aus der Wüste aufsteigt, ist die Sklavenstadt Zucchabar, in der Maximus seinen ersten Kampf bestreitet.",
+        "howToVisit": "Ein UNESCO-Dorf, erreichbar über einen kurzen Fußweg und die Durchquerung eines Bachs von der Straße aus. Ortskundige Führer bieten gegen Trinkgeld an, die Kasbah zu zeigen. Es liegt ein paar Stunden über den Atlas von Marrakesch entfernt.",
+        "nearbyTips": [
+          "Steigen Sie zum Speicher ganz oben hinauf für den Blick über die Wüste.",
+          "Die Filmstudios von Ouarzazate liegen in der Nähe."
+        ]
+      },
+      "lars-homestead-chott-el-djerid": {
+        "sceneContext": "Die weiße Kuppelhütte auf der Salzpfanne ist Luke Skywalkers Elternhaus, die Außenkulisse des Lars-Hofs.",
+        "howToVisit": "Die erhaltene Kulisse steht in der offenen Wüste nahe Nefta und ist kostenlos per Geländewagen oder geführter Tour von Tozeur aus erreichbar. Es gibt keinerlei Einrichtungen, nehmen Sie also Wasser und einen Hut mit. Brechen Sie früh auf, um der Hitze zu entgehen.",
+        "nearbyTips": [
+          "Die Oasenstadt Tozeur ist der Stützpunkt der Region.",
+          "Weitere Star-Wars-Kulissen verstreuen sich in den Dünen rund um Nefta und Matmata."
+        ]
+      },
+      "skellig-michael": {
+        "sceneContext": "Die zackige Klosterinsel, die aus dem Atlantik aufsteigt, ist die abgelegene Zuflucht, in der Rey in der Sequel-Trilogie Luke findet.",
+        "howToVisit": "Erreichbar nur über ein wetterabhängiges Boot ab Portmagee, mit begrenzten Anlandegenehmigungen im Sommer, die weit im Voraus ausverkauft sind. Der Aufstieg über uralte Stufen ist steil und ungesichert. Buchen Sie früh und hoffen Sie auf ruhige See.",
+        "nearbyTips": [
+          "Bienenkorbhütten von Mönchen aus dem sechsten Jahrhundert krönen den Gipfel.",
+          "Im Frühsommer nisten Papageitaucher auf der Insel."
+        ]
+      },
+      "villa-del-balbianello": {
+        "sceneContext": "Die terrassierten Gärten dieser Villa am See sind der Ort, an dem ein verwundeter Bond sich erholt und an dem eine andere Saga eine heimliche Hochzeit inszenierte.",
+        "howToVisit": "Ein Anwesen des FAI (Italiens nationaler Denkmalstiftung), an festgelegten Tagen mit Ticket geöffnet. Erreichen Sie es per kurzer Bootsfahrt ab Lenno oder über einen Uferweg. Garten- und Villenführungen werden getrennt verkauft.",
+        "nearbyTips": [
+          "Lenno und Bellagio sind bequeme Fährsprünge entfernt.",
+          "Allein die Gärten sind den Besuch wert."
+        ]
+      },
+      "venice-grand-canal": {
+        "sceneContext": "Das Finale des Films spielt sich ab, während ein prächtiger Palazzo in den Canal Grande einstürzt, die Stadt selbst die letzte Kulisse.",
+        "howToVisit": "Den Kanal befährt man kostengünstig per Vaporetto-Wasserbus oder, teurer, per Gondel. Die Brücken Rialto und Accademia geben die klassischen Blicke frei. Mittags ist er am belebtesten, früh am ruhigsten.",
+        "nearbyTips": [
+          "Fahren Sie mit dem Vaporetto der Linie 1 den ganzen Kanal entlang.",
+          "Der Markusplatz liegt einen kurzen Spaziergang vom Rialto entfernt."
+        ]
+      },
+      "piazza-della-signoria": {
+        "sceneContext": "Florenz' großer Bürgerplatz, mit seinem Palazzo und seinen Statuen, ist der Ort, an dem ein schockierender Moment die Heldin in die Arme des Schicksals wirft.",
+        "howToVisit": "Ein kostenloser, offener Platz im Herzen der Stadt, umringt vom Palazzo Vecchio und einer offenen Skulpturenloggia. Den ganzen Tag über ist viel los. Die Uffizien öffnen sich an einer Ecke.",
+        "nearbyTips": [
+          "Eine Kopie von Michelangelos David steht vor dem Palazzo.",
+          "Die Meisterwerke der Uffizien sind gleich nebenan."
+        ]
+      },
+      "basilica-di-santa-croce": {
+        "sceneContext": "Die große Franziskanerbasilika, Grabstätte von Michelangelo und Galilei, kommt vor, während die Heldin die Stadt erkundet.",
+        "howToVisit": "Eine aktive Kirche und Gedenkstätte mit Eintritt. Angemessene Kleidung ist erforderlich, und der Platz davor ist kostenlos und voller Leben. Es liegt einen kurzen Spaziergang von der Signoria entfernt.",
+        "nearbyTips": [
+          "Die Gräber von Michelangelo und Galilei liegen im Inneren.",
+          "Die Lederschule hinter der Kirche ist eine örtliche Tradition."
+        ]
+      },
+      "dunkirk-beach": {
+        "sceneContext": "Der breite, flache Strand und die lange Mole sind der Ort, an dem die gestrandeten Soldaten des Films unter Beschuss auf Rettung warten, auf genau dem Sand der Evakuierung von 1940.",
+        "howToVisit": "Ein kostenloser öffentlicher Strand und eine Promenade in Malo-les-Bains, ganzjährig geöffnet und in jeder Jahreszeit erfrischend. Das nahe Museum Dünkirchen 1940 erzählt die Geschichte. Es liegt einen kurzen Spaziergang vom Stadtzentrum entfernt.",
+        "nearbyTips": [
+          "Das Museum Dünkirchen 1940 zur Operation Dynamo ist in der Nähe.",
+          "Die Promenade hat Cafés mit Blick aufs Meer."
+        ]
+      },
+      "glen-nevis": {
+        "sceneContext": "Das grüne Tal unter dem Ben Nevis ist Wallaces Highland-Heimat, sein Fluss und seine Hänge füllen die ruhigeren Momente des Films.",
+        "howToVisit": "Ein kostenloses, landschaftlich reizvolles Tal, über die Straße von Fort William aus erreichbar, mit Parkplätzen, Wanderwegen und einem Besucherzentrum. Es ist der Zugangsweg zu Britanniens höchstem Gipfel. Wasserfälle und Schluchten säumen den oberen Talabschnitt.",
+        "nearbyTips": [
+          "Die Wanderung zu den Steall Falls beginnt am Ende der Straße.",
+          "Fort William ist der Stützpunkt für die West Highland Line."
+        ]
+      },
+      "trim-castle": {
+        "sceneContext": "Irlands größte normannische Burg verkörperte die mittelalterlichen Städte des Films, ihr großer Bergfried hergerichtet als York und London.",
+        "howToVisit": "Eine Stätte des Office of Public Works mit geringer Gebühr für die Bergfried-Führung und freiem Zugang zum Gelände. Die Führungen sind begleitet und saisonal. Trim liegt etwa eine Stunde von Dublin entfernt.",
+        "nearbyTips": [
+          "Der Uferweg rahmt die Burg schön ein.",
+          "Der zerfallene Yellow Steeple steht auf der anderen Flussseite."
+        ]
+      },
+      "kualoa-ranch": {
+        "sceneContext": "Das aufragende grüne Tal ist der Ort, an dem die Dinosaurier des Films erstmals umherstreifen, eine Kulisse, die seither unzählige Produktionen wiederverwendet haben.",
+        "howToVisit": "Eine private Ranch, täglich geöffnet. Das berühmte Tal sieht man auf kostenpflichtigen Drehort-Touren per Bus, ATV oder zu Pferd, buchen Sie also vorab. Es liegt etwa eine Stunde Fahrt von Waikiki entfernt.",
+        "nearbyTips": [
+          "Die Touren weisen auf Stellen aus den vielen hier gedrehten Filmen hin.",
+          "Die Fahrt entlang der Luvküste ist für sich schon sehenswert."
+        ]
+      },
+      "chhatrapati-shivaji-terminus": {
+        "sceneContext": "Der riesige viktorianisch-gotische Bahnhof ist die Bühne für die überschwängliche Schlusstanznummer des Films.",
+        "howToVisit": "Ein zum UNESCO-Erbe zählender, in Betrieb befindlicher Bahnhof, den Sie jederzeit von außen bewundern können. Führungen durch das Innere finden an wenigen Tagen statt. Er liegt im geschäftigen Festungsviertel Fort.",
+        "nearbyTips": [
+          "Das Fort-Viertel ist voller prächtiger Kolonialarchitektur.",
+          "Der nahe Crawford Market ist ein lebhafter Halt."
+        ]
+      },
+      "taj-mahal-palace-hotel": {
+        "sceneContext": "Das Grandhotel an der Uferpromenade und das Gateway of India daneben rahmen die Vision des Films von einem glitzernden, unerreichbaren Mumbai.",
+        "howToVisit": "Ein berühmtes Luxushotel. Nicht-Gäste können einen Afternoon Tea oder einen Drink buchen, um das Innere zu sehen, und der Triumphbogen Gateway an der Uferpromenade ist kostenlos. Die Cafés von Colaba sind einen kurzen Spaziergang entfernt.",
+        "nearbyTips": [
+          "Das Gateway of India steht direkt gegenüber.",
+          "Vom Kai legen Boote zur Insel Elephanta ab."
+        ]
+      },
+      "wadi-rum": {
+        "sceneContext": "Die unermessliche rote Wüste und ihre Sandsteinmassive sind die Kulisse für den opulenten Ritt des Films quer durch Arabien.",
+        "howToVisit": "Eine geschützte Wüste, die man per Ticket betritt und dann auf beduinengeführten Geländewagentouren oder in Übernachtungscamps erkundet. Die Tage sind glühend heiß, die Nächte kalt, planen Sie also mit einem örtlichen Anbieter. Aqaba liegt etwa eine Stunde entfernt.",
+        "nearbyTips": [
+          "Übernachten Sie in einem Wüstencamp für den sternenübersäten Himmel.",
+          "Petra liegt ein paar Stunden nördlich."
+        ]
+      },
+      "plaza-de-espana-seville": {
+        "sceneContext": "Sevillas prächtiger halbrunder Platz verkörperte das britische Militärhauptquartier in Kairo, seine Arkaden und Brücken sofort wiederzuerkennen.",
+        "howToVisit": "Ein kostenloser, offener öffentlicher Platz im Park María Luisa, weitläufig und jederzeit zu Fuß erschließbar. Rudern Sie für ein paar Euro ein kleines Boot in seinem Wassergraben. Morgens ist es am ruhigsten für Fotos.",
+        "nearbyTips": [
+          "Die gekachelten Nischen stellen die Provinzen Spaniens dar.",
+          "Der Park ringsum ist schattig und voller Brunnen."
+        ]
+      },
+      "bar-vitelli-savoca": {
+        "sceneContext": "In dieser Dorfbar bittet Michael Corleone einen misstrauischen Vater um die Erlaubnis, dessen Tochter Apollonia den Hof zu machen.",
+        "howToVisit": "Eine echte, noch geöffnete Bar und ein winziges Pate-Museum im Bergdorf Savoca. Halten Sie auf eine Granita und einen Blick auf die Fotos. Das Dorf erreicht man über eine kurvige Fahrt hinauf von der Küste bei Taormina.",
+        "nearbyTips": [
+          "Die Bar bewahrt Filmstills und Requisiten an ihren Wänden auf.",
+          "Die Kirche des Dorfes auf der Klippe ist ein kurzer Anstieg."
+        ]
+      },
+      "church-san-nicolo-savoca": {
+        "sceneContext": "Die kleine Kirche auf der Anhöhe ist der Ort, an dem Michael und Apollonia im sizilianischen Zwischenspiel des Films heiraten.",
+        "howToVisit": "Eine kleine Kirche am höchsten Punkt des Dorfes, kostenlos zu besuchen, wenn geöffnet, mit weitem Blick über das Tal. Der Aufstieg durch Savoca ist der Reiz. Verbinden Sie es mit der Bar darunter.",
+        "nearbyTips": [
+          "Die Terrasse gibt einen weiten Blick auf das Ionische Meer frei.",
+          "Forza d'Agrò, ein weiteres Pate-Dorf, liegt in der Nähe."
+        ]
+      },
+      "rocky-steps": {
+        "sceneContext": "Die breite Museumstreppe ist der Ort, an dem Rockys Trainingslauf im Triumph endet, die Arme über der Stadt gen Himmel gereckt.",
+        "howToVisit": "Kostenlos und rund um die Uhr zugänglich. Laufen Sie sie selbst hinauf und finden Sie die bronzene Rocky-Statue am Fuß zur Rechten. Das Museum selbst ist ein kostenpflichtiger Besuch.",
+        "nearbyTips": [
+          "Posieren Sie mit der Rocky-Statue neben der Treppe.",
+          "Der Blick die Parkway-Achse hinunter rahmt die City Hall ein."
+        ]
+      },
+      "italian-market-philadelphia": {
+        "sceneContext": "Der alte Freiluftmarkt, mit seinen Markisen und Ständen, kommt in Rockys Trainingsmontage auf Straßenebene vor.",
+        "howToVisit": "Ein kostenloser, lebendiger Markt entlang der 9th Street, morgens am belebtesten, mit Feinkostläden, Käsegeschäften und Gemüse. Montags ist er geschlossen. Er liegt im historischen italienischen Viertel von South Philly.",
+        "nearbyTips": [
+          "Holen Sie sich ein Cheesesteak von einer Eckbude.",
+          "Die Käse- und Gewürzläden sind örtliche Institutionen."
+        ]
+      },
+      "louvre-pyramid": {
+        "sceneContext": "Die Glaspyramide und die Galerien darunter sind der Ort, an dem Assane Diop seinen kühnen Eröffnungscoup gelingen lässt.",
+        "howToVisit": "Der Hof und die Pyramide sind jederzeit kostenlos zu umrunden. Der Eintritt ins Museum braucht ein im Voraus gebuchtes Zeitfenster-Ticket, und dienstags ist geschlossen. Kommen Sie früh oder spät, um dem Andrang auszuweichen.",
+        "nearbyTips": [
+          "Der Jardin des Tuileries erstreckt sich westlich von der Pyramide.",
+          "Die Glaspyramide ist nachts wunderschön angestrahlt."
+        ]
+      },
+      "falaise-etretat": {
+        "sceneContext": "Die weißen Kreidefelsen und ihr natürlicher Bogen sind der Ort, an dem die Serie für eine angespannte Abrechnung an die normannische Küste schwenkt.",
+        "howToVisit": "Kostenlose Klippenwege steigen von beiden Enden des Strands auf für die berühmten Blicke auf Bogen und Nadel. Sie sind steil und ungeschützt, tragen Sie also festes Schuhwerk. Der kleine Badeort darunter hat Cafés und Parkplätze.",
+        "nearbyTips": [
+          "Steigen Sie den Weg hinauf für den Blick auf die Felsnadel Aiguille.",
+          "Der Maler Monet arbeitete an genau diesen Klippen."
+        ]
+      },
+      "corfu-old-town": {
+        "sceneContext": "Die venezianischen Festungen, verschatteten Gassen und Arkadenstraßen der Altstadt kommen über das ganze Inselleben der Familie hinweg vor.",
+        "howToVisit": "Eine kostenlose, zum UNESCO-Erbe zählende Altstadt zum Erkunden zu Fuß, mit zwei alten Forts, die man gegen eine kleine Gebühr erklimmen kann. Sie ist kompakt und zu Fuß erschließbar. Hafen und Flughafen liegen nah.",
+        "nearbyTips": [
+          "Erklimmen Sie die Alte Festung für den Blick über den Hafen.",
+          "Die Liston-Arkade ist der Ort für einen Frappé."
+        ]
+      },
+      "kalami-bay": {
+        "sceneContext": "Die klare Bucht im Nordosten, überragt vom Weißen Haus, das die Familie Durrell kannte, ist die sonnendurchflutete Küste der Serie.",
+        "howToVisit": "Eine kostenlose Kiesbucht mit Tavernen und Bademöglichkeit von den Felsen aus, geschützt und ruhig. Die Küstenstraße dorthin ist kurvig, planen Sie also Zeit ein. Boote lassen sich mieten, um die Buchten zu erkunden.",
+        "nearbyTips": [
+          "Die Taverne Weißes Haus liegt direkt am Wasser.",
+          "Albaniens Küste ragt jenseits der Meerenge auf."
+        ]
+      },
+      "richmond-green": {
+        "sceneContext": "Der grüne Anger und der Pub daneben verkörpern das Stammlokal des Teams, das Herz des Richmond der Serie.",
+        "howToVisit": "Ein kostenloser, offener Anger, umringt von Pubs und georgianischen Häusern. Der für die Außenaufnahmen genutzte Pub ist ein echter, in Betrieb befindlicher, nehmen Sie also Rücksicht auf das Personal. Richmond ist eine schnelle Zug- oder U-Bahn-Fahrt vom Zentrum Londons entfernt.",
+        "nearbyTips": [
+          "Das Flussufer ist einen Zweiminutenspaziergang entfernt.",
+          "Die Rotwildherden des Richmond Park sind den Hügel hinauf."
+        ]
+      },
+      "richmond-bridge": {
+        "sceneContext": "Die hübsche georgianische Steinbrücke über die Themse taucht bei den Spaziergängen der Serie am Fluss entlang auf.",
+        "howToVisit": "Eine kostenlose, historische Brücke, die Sie zu Fuß überqueren können, die älteste erhaltene Themsebrücke Londons. Die Treidelpfade auf beiden Seiten sind angenehme Spaziergänge. In der Nähe drängen sich Pubs am Fluss.",
+        "nearbyTips": [
+          "Mieten Sie im Sommer ein Ruderboot vom Ufer aus.",
+          "Wandern Sie den Treidelpfad in Richtung der Wiesen von Petersham."
+        ]
+      },
+      "carrie-stoop-perry-street": {
+        "sceneContext": "Diese Brownstone-Vortreppe in Greenwich Village ist Carrie Bradshaws Hauseingang, die meistfotografierte Adresse der Serie.",
+        "howToVisit": "Ein privates Wohnhaus in einer ruhigen Straße, bewundern und fotografieren Sie also vom öffentlichen Gehweg aus und halten Sie sich leise. Eine Kette über den Stufen markiert, wo man stehen bleibt. Es liegt einen kurzen Spaziergang von der Christopher Street entfernt.",
+        "nearbyTips": [
+          "Die Cafés und Läden des West Village sind ringsum.",
+          "Die Boutiquen der Bleecker Street sind einen Block entfernt."
+        ]
+      },
+      "magnolia-bakery": {
+        "sceneContext": "Die kleine Eckbäckerei, deren Cupcakes sich die Freundinnen teilen, half nach der Serie, einen weltweiten Hype auszulösen.",
+        "howToVisit": "Eine echte, gut besuchte Bäckerei, täglich geöffnet. Stellen Sie sich für einen Cupcake zum Mitnehmen an und essen Sie ihn in den grünen Straßen in der Nähe. Sie liegt ein paar Blocks von Carries Vortreppe entfernt.",
+        "nearbyTips": [
+          "Nehmen Sie Ihren Cupcake mit zum nahen Bleecker Playground.",
+          "Verbinden Sie es mit einem Streifzug durch das West Village."
         ]
       }
     }
