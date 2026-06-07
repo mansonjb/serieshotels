@@ -753,4 +753,127 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "The most filmed city on the planet, where a brownstone stoop and a cupcake counter became pilgrimage sites for a generation of fans. Dense and endlessly walkable, its screen landmarks are a subway ride apart.",
   },
+
+  // ===================== Added in the v4 expansion =====================
+  {
+    slug: "rosslyn",
+    name: "Rosslyn",
+    country: "Scotland",
+    region: "Midlothian",
+    lat: 55.8556,
+    lng: -3.1606,
+    accent: "7f1d1d",
+    blurb:
+      "A village just south of Edinburgh wrapped around one of Europe's most intricately carved medieval chapels, a place of stone green men and conspiracy theories. Rosslyn Chapel is a short, scenic trip out from the capital.",
+  },
+  {
+    slug: "savannah",
+    name: "Savannah",
+    country: "United States",
+    region: "Georgia",
+    lat: 32.0809,
+    lng: -81.0912,
+    accent: "166534",
+    blurb:
+      "A graceful old Southern city of moss-draped oaks and leafy squares, one of which gave a beloved film its storytelling bench. Flat and walkable, the historic district is made for slow afternoons in the shade.",
+  },
+  {
+    slug: "mansfield",
+    name: "Mansfield",
+    country: "United States",
+    region: "Ohio",
+    lat: 40.7584,
+    lng: -82.5154,
+    accent: "374151",
+    blurb:
+      "A small Ohio city whose vast Gothic former prison became the backdrop for a much-loved drama of patience and hope. The reformatory now runs tours and has a life of its own as a screen landmark.",
+  },
+  {
+    slug: "mount-hood",
+    name: "Mount Hood",
+    country: "United States",
+    region: "Oregon",
+    lat: 45.3736,
+    lng: -121.696,
+    accent: "0c4a6e",
+    blurb:
+      "Oregon's snow-capped volcano, crowned by a historic timber lodge that played a haunted hotel in one of cinema's great chillers. It's a ski-and-hike base about 90 minutes from Portland.",
+  },
+  {
+    slug: "wyoming",
+    name: "Wyoming",
+    country: "United States",
+    region: "Wyoming",
+    lat: 44.5902,
+    lng: -104.7146,
+    accent: "92400e",
+    blurb:
+      "Big-sky plains and a single, unmistakable volcanic monolith that drew the dreamers of a science-fiction classic. Devils Tower rises alone from the grassland in the state's north-east corner.",
+  },
+  {
+    slug: "moab",
+    name: "Moab",
+    country: "United States",
+    region: "Utah",
+    lat: 38.5733,
+    lng: -109.5498,
+    accent: "9a3412",
+    blurb:
+      "Red-rock canyon country in the Utah desert, all sheer overlooks and twisting river gorges, the setting of a famous road-trip finale. Moab is the base for Arches and Canyonlands national parks.",
+  },
+  {
+    slug: "kenya",
+    name: "Kenya",
+    country: "Kenya",
+    region: "Nairobi",
+    lat: -1.3521,
+    lng: 36.715,
+    accent: "b45309",
+    blurb:
+      "Rolling highlands and savannah at the foot of the Ngong Hills, where a sweeping colonial-era romance unfolded. A real coffee-farm house outside Nairobi is now a museum to the story behind it.",
+  },
+  {
+    slug: "edinburgh",
+    name: "Edinburgh",
+    country: "Scotland",
+    region: "Lothian",
+    lat: 55.9533,
+    lng: -3.1883,
+    accent: "1d4ed8",
+    blurb:
+      "Scotland's dramatic capital of crags, closes and a hilltop skyline, the backdrop to a breathless cult chase down its main street. Compact and walkable, with monuments stacked above the old and new towns.",
+  },
+  {
+    slug: "st-andrews",
+    name: "St Andrews",
+    country: "Scotland",
+    region: "Fife",
+    lat: 56.3398,
+    lng: -2.7967,
+    accent: "0284c7",
+    blurb:
+      "The Fife coastal town of golf, gowns and a long flat beach that carried a film's most famous run. Its West Sands stretch for miles beside the dunes, an hour and a half from Edinburgh.",
+  },
+  {
+    slug: "dyersville",
+    name: "Dyersville",
+    country: "United States",
+    region: "Iowa",
+    lat: 42.4842,
+    lng: -91.1224,
+    accent: "15803d",
+    blurb:
+      "A quiet farming town in eastern Iowa, home to a baseball diamond carved into a cornfield that became a byword for chasing a dream. The field still stands, a working visitor attraction in the corn.",
+  },
+  {
+    slug: "canadian-rockies",
+    name: "Canadian Rockies",
+    country: "Canada",
+    region: "Alberta",
+    lat: 51.0,
+    lng: -115.1,
+    accent: "1e40af",
+    blurb:
+      "The soaring peaks and alpine meadows of Alberta's Kananaskis Country, which stood in for a Wyoming mountain in a landmark romance. It's wild, high country an hour west of Calgary.",
+  },
 ];

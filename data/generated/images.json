@@ -543,6 +543,94 @@
         "/destinations/new-york/photo-3.jpg",
         "/destinations/new-york/photo-4.jpg"
       ]
+    },
+    "rosslyn": {
+      "hero": "/destinations/rosslyn/hero.jpg",
+      "gallery": [
+        "/destinations/rosslyn/photo-2.jpg",
+        "/destinations/rosslyn/photo-3.jpg",
+        "/destinations/rosslyn/photo-4.jpg"
+      ]
+    },
+    "savannah": {
+      "hero": "/destinations/savannah/hero.jpg",
+      "gallery": [
+        "/destinations/savannah/photo-2.jpg",
+        "/destinations/savannah/photo-3.jpg",
+        "/destinations/savannah/photo-4.jpg"
+      ]
+    },
+    "mansfield": {
+      "hero": "/destinations/mansfield/hero.jpg",
+      "gallery": [
+        "/destinations/mansfield/photo-2.jpg",
+        "/destinations/mansfield/photo-3.jpg",
+        "/destinations/mansfield/photo-4.jpg"
+      ]
+    },
+    "mount-hood": {
+      "hero": "/destinations/mount-hood/hero.jpg",
+      "gallery": [
+        "/destinations/mount-hood/photo-2.jpg",
+        "/destinations/mount-hood/photo-3.jpg",
+        "/destinations/mount-hood/photo-4.jpg"
+      ]
+    },
+    "wyoming": {
+      "hero": "/destinations/wyoming/hero.jpg",
+      "gallery": [
+        "/destinations/wyoming/photo-2.jpg",
+        "/destinations/wyoming/photo-3.jpg",
+        "/destinations/wyoming/photo-4.jpg"
+      ]
+    },
+    "moab": {
+      "hero": "/destinations/moab/hero.jpg",
+      "gallery": [
+        "/destinations/moab/photo-2.jpg",
+        "/destinations/moab/photo-3.jpg",
+        "/destinations/moab/photo-4.jpg"
+      ]
+    },
+    "kenya": {
+      "hero": "/destinations/kenya/hero.jpg",
+      "gallery": [
+        "/destinations/kenya/photo-2.jpg",
+        "/destinations/kenya/photo-3.jpg",
+        "/destinations/kenya/photo-4.jpg"
+      ]
+    },
+    "edinburgh": {
+      "hero": "/destinations/edinburgh/hero.jpg",
+      "gallery": [
+        "/destinations/edinburgh/photo-2.jpg",
+        "/destinations/edinburgh/photo-3.jpg",
+        "/destinations/edinburgh/photo-4.jpg"
+      ]
+    },
+    "st-andrews": {
+      "hero": "/destinations/st-andrews/hero.jpg",
+      "gallery": [
+        "/destinations/st-andrews/photo-2.jpg",
+        "/destinations/st-andrews/photo-3.jpg",
+        "/destinations/st-andrews/photo-4.jpg"
+      ]
+    },
+    "dyersville": {
+      "hero": "/destinations/dyersville/hero.jpg",
+      "gallery": [
+        "/destinations/dyersville/photo-2.jpg",
+        "/destinations/dyersville/photo-3.jpg",
+        "/destinations/dyersville/photo-4.jpg"
+      ]
+    },
+    "canadian-rockies": {
+      "hero": "/destinations/canadian-rockies/hero.jpg",
+      "gallery": [
+        "/destinations/canadian-rockies/photo-2.jpg",
+        "/destinations/canadian-rockies/photo-3.jpg",
+        "/destinations/canadian-rockies/photo-4.jpg"
+      ]
     }
   },
   "locations": {
@@ -1198,6 +1286,180 @@
       "hero": "/locations/magnolia-bakery/hero.jpg",
       "gallery": [
         "/locations/magnolia-bakery/photo-2.jpg"
+      ]
+    },
+    "trevi-fountain": {
+      "hero": "/locations/trevi-fountain/hero.jpg",
+      "gallery": [
+        "/locations/trevi-fountain/photo-2.jpg"
+      ]
+    },
+    "via-veneto": {
+      "hero": "/locations/via-veneto/hero.jpg",
+      "gallery": [
+        "/locations/via-veneto/photo-2.jpg"
+      ]
+    },
+    "saint-etienne-du-mont": {
+      "hero": "/locations/saint-etienne-du-mont/hero.jpg",
+      "gallery": [
+        "/locations/saint-etienne-du-mont/photo-2.jpg"
+      ]
+    },
+    "musee-rodin": {
+      "hero": "/locations/musee-rodin/hero.jpg",
+      "gallery": [
+        "/locations/musee-rodin/photo-2.jpg"
+      ]
+    },
+    "beverly-wilshire-hotel": {
+      "hero": "/locations/beverly-wilshire-hotel/hero.jpg",
+      "gallery": [
+        "/locations/beverly-wilshire-hotel/photo-2.jpg"
+      ]
+    },
+    "rodeo-drive": {
+      "hero": "/locations/rodeo-drive/hero.jpg",
+      "gallery": [
+        "/locations/rodeo-drive/photo-2.jpg"
+      ]
+    },
+    "mrs-doubtfire-house": {
+      "hero": "/locations/mrs-doubtfire-house/hero.jpg",
+      "gallery": [
+        "/locations/mrs-doubtfire-house/photo-2.jpg"
+      ]
+    },
+    "tiffany-flagship-5th-ave": {
+      "hero": "/locations/tiffany-flagship-5th-ave/hero.jpg",
+      "gallery": [
+        "/locations/tiffany-flagship-5th-ave/photo-2.jpg"
+      ]
+    },
+    "hook-and-ladder-8": {
+      "hero": "/locations/hook-and-ladder-8/hero.jpg",
+      "gallery": [
+        "/locations/hook-and-ladder-8/photo-2.jpg"
+      ]
+    },
+    "new-york-public-library": {
+      "hero": "/locations/new-york-public-library/hero.jpg",
+      "gallery": [
+        "/locations/new-york-public-library/photo-2.jpg"
+      ]
+    },
+    "katz-delicatessen": {
+      "hero": "/locations/katz-delicatessen/hero.jpg",
+      "gallery": [
+        "/locations/katz-delicatessen/photo-2.jpg"
+      ]
+    },
+    "paddington-station": {
+      "hero": "/locations/paddington-station/hero.jpg",
+      "gallery": [
+        "/locations/paddington-station/photo-2.jpg"
+      ]
+    },
+    "primrose-hill": {
+      "hero": "/locations/primrose-hill/hero.jpg",
+      "gallery": [
+        "/locations/primrose-hill/photo-2.jpg"
+      ]
+    },
+    "temple-church-london": {
+      "hero": "/locations/temple-church-london/hero.jpg",
+      "gallery": [
+        "/locations/temple-church-london/photo-2.jpg"
+      ]
+    },
+    "rosslyn-chapel": {
+      "hero": "/locations/rosslyn-chapel/hero.jpg",
+      "gallery": [
+        "/locations/rosslyn-chapel/photo-2.jpg"
+      ]
+    },
+    "borough-market": {
+      "hero": "/locations/borough-market/hero.jpg",
+      "gallery": [
+        "/locations/borough-market/photo-2.jpg"
+      ]
+    },
+    "the-globe-tavern-borough": {
+      "hero": "/locations/the-globe-tavern-borough/hero.jpg",
+      "gallery": [
+        "/locations/the-globe-tavern-borough/photo-2.jpg"
+      ]
+    },
+    "chippewa-square-savannah": {
+      "hero": "/locations/chippewa-square-savannah/hero.jpg",
+      "gallery": [
+        "/locations/chippewa-square-savannah/photo-2.jpg"
+      ]
+    },
+    "ohio-state-reformatory": {
+      "hero": "/locations/ohio-state-reformatory/hero.jpg",
+      "gallery": [
+        "/locations/ohio-state-reformatory/photo-2.jpg"
+      ]
+    },
+    "timberline-lodge": {
+      "hero": "/locations/timberline-lodge/hero.jpg",
+      "gallery": [
+        "/locations/timberline-lodge/photo-2.jpg"
+      ]
+    },
+    "devils-tower": {
+      "hero": "/locations/devils-tower/hero.jpg",
+      "gallery": [
+        "/locations/devils-tower/photo-2.jpg"
+      ]
+    },
+    "dead-horse-point": {
+      "hero": "/locations/dead-horse-point/hero.jpg",
+      "gallery": [
+        "/locations/dead-horse-point/photo-2.jpg"
+      ]
+    },
+    "ngong-hills": {
+      "hero": "/locations/ngong-hills/hero.jpg",
+      "gallery": [
+        "/locations/ngong-hills/photo-2.jpg"
+      ]
+    },
+    "karen-blixen-museum": {
+      "hero": "/locations/karen-blixen-museum/hero.jpg",
+      "gallery": [
+        "/locations/karen-blixen-museum/photo-2.jpg"
+      ]
+    },
+    "princes-street-edinburgh": {
+      "hero": "/locations/princes-street-edinburgh/hero.jpg",
+      "gallery": [
+        "/locations/princes-street-edinburgh/photo-2.jpg"
+      ]
+    },
+    "calton-hill": {
+      "hero": "/locations/calton-hill/hero.jpg",
+      "gallery": [
+        "/locations/calton-hill/photo-2.jpg"
+      ]
+    },
+    "west-sands-st-andrews": {
+      "hero": "/locations/west-sands-st-andrews/hero.jpg",
+      "gallery": [
+        "/locations/west-sands-st-andrews/photo-2.jpg"
+      ]
+    },
+    "field-of-dreams": {
+      "hero": "/locations/field-of-dreams/hero.jpg",
+      "gallery": [
+        "/locations/field-of-dreams/photo-2.jpg"
+      ]
+    },
+    "kananaskis-country": {
+      "hero": "/locations/kananaskis-country/hero.jpg",
+      "gallery": [
+        "/locations/kananaskis-country/photo-2.jpg"
       ]
     }
   }

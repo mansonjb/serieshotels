@@ -2063,4 +2063,566 @@ export const LOCATIONS: Location[] = [
       "Combine it with a West Village wander.",
     ],
   },
+
+  // ===================== La Dolce Vita =====================
+  {
+    slug: "trevi-fountain",
+    name: "Trevi Fountain",
+    titleSlug: "la-dolce-vita",
+    destinationSlug: "rome",
+    lat: 41.9009,
+    lng: 12.4833,
+    kind: "landmark",
+    address: "Piazza di Trevi, 00187 Roma RM, Italy",
+    sceneContext:
+      "Anita Ekberg wades into the great baroque fountain at night in cinema's most famous midnight bathe.",
+    howToVisit:
+      "The fountain is free and open around the clock; paddling is firmly banned and fined now, so toss a coin from the edge instead. It's mobbed by day, far calmer at dawn.",
+    nearbyTips: [
+      "Come at first light for the fountain almost to yourself.",
+      "The Spanish Steps are a ten-minute walk away.",
+    ],
+  },
+  {
+    slug: "via-veneto",
+    name: "Via Veneto",
+    titleSlug: "la-dolce-vita",
+    destinationSlug: "rome",
+    lat: 41.9069,
+    lng: 12.4889,
+    kind: "street",
+    address: "Via Vittorio Veneto, 00187 Roma RM, Italy",
+    sceneContext:
+      "The sweeping, café-lined boulevard was the heart of the film's nightlife and gave rise to the word paparazzi.",
+    howToVisit:
+      "A free public street to stroll, still grand if quieter than in its heyday; settle into one of the historic café terraces for the full dolce-vita pose. It climbs from Piazza Barberini.",
+    nearbyTips: [
+      "The Capuchin Crypt nearby is a curious detour.",
+      "The Villa Borghese gardens sit at the top of the hill.",
+    ],
+  },
+
+  // ===================== Midnight in Paris =====================
+  {
+    slug: "saint-etienne-du-mont",
+    name: "Église Saint-Étienne-du-Mont",
+    titleSlug: "midnight-in-paris",
+    destinationSlug: "paris",
+    lat: 48.8465,
+    lng: 2.3479,
+    kind: "landmark",
+    address: "Place Sainte-Geneviève, 75005 Paris, France",
+    sceneContext:
+      "The stone steps beside this church are where, on the stroke of midnight, a vintage car spirits the hero back to the 1920s.",
+    howToVisit:
+      "A working church free to enter when open, with the famous steps on its flank always accessible; the Latin Quarter around it is made for wandering. It's near the Panthéon.",
+    nearbyTips: [
+      "The Panthéon and its crypt are next door.",
+      "The Jardin du Luxembourg is a short walk west.",
+    ],
+  },
+  {
+    slug: "musee-rodin",
+    name: "Musée Rodin",
+    titleSlug: "midnight-in-paris",
+    destinationSlug: "paris",
+    lat: 48.8553,
+    lng: 2.3158,
+    kind: "building",
+    address: "77 Rue de Varenne, 75007 Paris, France",
+    sceneContext:
+      "The sculptor's mansion and its garden of bronzes are one of the couple's strolls through a romanticized Paris.",
+    howToVisit:
+      "A ticketed museum with a famous sculpture garden you can visit on a cheaper garden-only ticket; it's closed on Mondays. The Thinker broods among the roses.",
+    nearbyTips: [
+      "Les Invalides and Napoleon's tomb are next door.",
+      "The Eiffel Tower is a fifteen-minute walk.",
+    ],
+  },
+
+  // ===================== Pretty Woman =====================
+  {
+    slug: "beverly-wilshire-hotel",
+    name: "Beverly Wilshire",
+    titleSlug: "pretty-woman",
+    destinationSlug: "los-angeles",
+    lat: 34.0669,
+    lng: -118.4003,
+    kind: "hotel",
+    address: "9500 Wilshire Blvd, Beverly Hills, CA 90212, United States",
+    sceneContext:
+      "The grand hotel where Edward stays, and where the fairy-tale romance plays out, is a real Beverly Hills landmark.",
+    howToVisit:
+      "A working luxury hotel; non-guests can book a drink or afternoon tea to see the lobby, or simply admire the facade at the foot of Rodeo Drive. It sits on Wilshire Boulevard.",
+    nearbyTips: [
+      "Rodeo Drive begins right outside the door.",
+      "The cafés of Beverly Hills are all around.",
+    ],
+  },
+  {
+    slug: "rodeo-drive",
+    name: "Rodeo Drive",
+    titleSlug: "pretty-woman",
+    destinationSlug: "los-angeles",
+    lat: 34.0676,
+    lng: -118.4015,
+    kind: "street",
+    address: "Rodeo Dr, Beverly Hills, CA 90210, United States",
+    sceneContext:
+      "The famous luxury shopping street is where Vivian's big-spree transformation montage unfolds.",
+    howToVisit:
+      "A free, walkable strip of designer boutiques; window-shopping and people-watching cost nothing, and the cobbled Two Rodeo lane is the photo spot. Valet and meters cover parking.",
+    nearbyTips: [
+      "The stepped Two Rodeo lane looks like a film set.",
+      "Beverly Gardens Park and its sign are a short walk.",
+    ],
+  },
+
+  // ===================== Mrs. Doubtfire =====================
+  {
+    slug: "mrs-doubtfire-house",
+    name: "Mrs. Doubtfire House",
+    titleSlug: "mrs-doubtfire",
+    destinationSlug: "san-francisco",
+    lat: 37.7967,
+    lng: -122.4393,
+    kind: "building",
+    address: "2640 Steiner St, San Francisco, CA 94115, United States",
+    sceneContext:
+      "This handsome Pacific Heights townhouse is the family home at the centre of the comedy.",
+    howToVisit:
+      "A private residence on a quiet street, so admire and photograph from the public sidewalk and respect the residents. It's a short walk from the Lyon Street steps.",
+    nearbyTips: [
+      "The Lyon Street steps and Alta Plaza Park are nearby.",
+      "Fillmore Street's cafés are a few blocks away.",
+    ],
+  },
+
+  // ===================== Breakfast at Tiffany's =====================
+  {
+    slug: "tiffany-flagship-5th-ave",
+    name: "Tiffany & Co Fifth Avenue",
+    titleSlug: "breakfast-at-tiffanys",
+    destinationSlug: "new-york",
+    lat: 40.7625,
+    lng: -73.9737,
+    kind: "building",
+    address: "727 5th Ave, New York, NY 10022, United States",
+    sceneContext:
+      "Holly Golightly gazes into the windows of the Tiffany flagship over coffee and a pastry in the film's opening.",
+    howToVisit:
+      "The recently restored flagship store is free to enter and browse, with a café upstairs if you really want breakfast at Tiffany's. It's on the corner of 57th Street.",
+    nearbyTips: [
+      "Central Park's southern edge is two blocks north.",
+      "The shops of Fifth Avenue run south from here.",
+    ],
+  },
+
+  // ===================== Ghostbusters =====================
+  {
+    slug: "hook-and-ladder-8",
+    name: "Hook & Ladder 8",
+    titleSlug: "ghostbusters",
+    destinationSlug: "new-york",
+    lat: 40.7194,
+    lng: -74.0066,
+    kind: "building",
+    address: "14 N Moore St, New York, NY 10013, United States",
+    sceneContext:
+      "This working Tribeca firehouse is the Ghostbusters' headquarters, its red doors instantly recognisable.",
+    howToVisit:
+      "A real, active fire station, so admire the exterior from the sidewalk without blocking the doors; there's a small Ghostbusters plaque and sign. It's in the heart of Tribeca.",
+    nearbyTips: [
+      "Tribeca's cobbled streets and cafés surround it.",
+      "The Hudson River greenway is a short walk west.",
+    ],
+  },
+  {
+    slug: "new-york-public-library",
+    name: "New York Public Library",
+    titleSlug: "ghostbusters",
+    destinationSlug: "new-york",
+    lat: 40.7532,
+    lng: -73.9822,
+    kind: "building",
+    address: "476 5th Ave, New York, NY 10018, United States",
+    sceneContext:
+      "The library's marble halls and lion-flanked steps open the film with its very first ghost.",
+    howToVisit:
+      "The landmark Stephen A. Schwarzman Building is free to enter and wander, including the grand Rose Reading Room; the lions out front guard the Fifth Avenue steps. It's by Bryant Park.",
+    nearbyTips: [
+      "Bryant Park sits directly behind the library.",
+      "Grand Central Terminal is a few blocks east.",
+    ],
+  },
+
+  // ===================== When Harry Met Sally =====================
+  {
+    slug: "katz-delicatessen",
+    name: "Katz's Delicatessen",
+    titleSlug: "when-harry-met-sally",
+    destinationSlug: "new-york",
+    lat: 40.7223,
+    lng: -73.9874,
+    kind: "venue",
+    address: "205 E Houston St, New York, NY 10002, United States",
+    sceneContext:
+      "The bustling Lower East Side deli is the scene of the film's most quoted moment, over a pastrami sandwich.",
+    howToVisit:
+      "A real, famously busy deli open daily; grab a ticket at the door, order pastrami at the counter, and a sign marks the very table from the scene. Cash and card both work.",
+    nearbyTips: [
+      "The Lower East Side's bars and galleries are all around.",
+      "The Tenement Museum nearby tells the neighbourhood's story.",
+    ],
+  },
+
+  // ===================== Paddington =====================
+  {
+    slug: "paddington-station",
+    name: "Paddington Station",
+    titleSlug: "paddington",
+    destinationSlug: "london",
+    lat: 51.517,
+    lng: -0.1769,
+    kind: "building",
+    address: "Paddington Station, London W2 1HB, United Kingdom",
+    sceneContext:
+      "The great Victorian terminus gives the little bear his name and his first bewildered arrival in London.",
+    howToVisit:
+      "A working railway station free to walk through; find the bronze Paddington Bear statue on platform 1 and the shop nearby. It's a major Tube interchange.",
+    nearbyTips: [
+      "Pose with the Paddington statue on platform 1.",
+      "Little Venice's canals are a short walk north.",
+    ],
+  },
+  {
+    slug: "primrose-hill",
+    name: "Primrose Hill",
+    titleSlug: "paddington",
+    destinationSlug: "london",
+    lat: 51.5388,
+    lng: -0.1606,
+    kind: "nature",
+    address: "Primrose Hill, London NW3 3NA, United Kingdom",
+    sceneContext:
+      "The pastel terraces below this green hill are the Brown family's neighbourhood, and the summit gives the film its London views.",
+    howToVisit:
+      "A free public park open all hours, with one of the best skyline panoramas in the city from the top; the streets below are a pretty wander. It adjoins Regent's Park.",
+    nearbyTips: [
+      "The summit has a protected view across the skyline.",
+      "Regent's Park and London Zoo are next door.",
+    ],
+  },
+
+  // ===================== The Da Vinci Code =====================
+  {
+    slug: "temple-church-london",
+    name: "Temple Church",
+    titleSlug: "the-da-vinci-code",
+    destinationSlug: "london",
+    lat: 51.5125,
+    lng: -0.1106,
+    kind: "building",
+    address: "Temple, London EC4Y 7BB, United Kingdom",
+    sceneContext:
+      "The round 12th-century Templar church is a key stop on the film's London treasure hunt.",
+    howToVisit:
+      "A historic church with a small admission on open days; it's tucked inside the quiet legal quarter of the Inns of Court, worth exploring around it. Check opening times, which vary.",
+    nearbyTips: [
+      "Wander the hidden courtyards of the Inns of Court.",
+      "Fleet Street and the Royal Courts of Justice are close.",
+    ],
+  },
+  {
+    slug: "rosslyn-chapel",
+    name: "Rosslyn Chapel",
+    titleSlug: "the-da-vinci-code",
+    destinationSlug: "rosslyn",
+    lat: 55.8556,
+    lng: -3.1606,
+    kind: "building",
+    address: "Chapel Loan, Roslin EH25 9PU, United Kingdom",
+    sceneContext:
+      "The intricately carved medieval chapel provides the film's climactic resting place for its secret.",
+    howToVisit:
+      "A working chapel and visitor attraction with timed paid entry; the carvings reward a guided talk, and photography inside is restricted. It's about 30 minutes from Edinburgh.",
+    nearbyTips: [
+      "The wooded Roslin Glen is a walk below the chapel.",
+      "Edinburgh's old town is a short drive north.",
+    ],
+  },
+
+  // ===================== Bridget Jones's Diary =====================
+  {
+    slug: "borough-market",
+    name: "Borough Market",
+    titleSlug: "bridget-joness-diary",
+    destinationSlug: "london",
+    lat: 51.5055,
+    lng: -0.0909,
+    kind: "street",
+    address: "8 Southwark St, London SE1 1TL, United Kingdom",
+    sceneContext:
+      "The food market beneath the railway arches is the neighbourhood of Bridget's famous flat.",
+    howToVisit:
+      "A free, bustling food market open most days, best mid-week for the stalls and street food; it gets very busy at weekend lunchtimes. It's beside London Bridge station.",
+    nearbyTips: [
+      "Southwark Cathedral sits right beside the market.",
+      "The Thames path and the Globe theatre are a short walk.",
+    ],
+  },
+  {
+    slug: "the-globe-tavern-borough",
+    name: "The Globe Tavern",
+    titleSlug: "bridget-joness-diary",
+    destinationSlug: "london",
+    lat: 51.5052,
+    lng: -0.0903,
+    kind: "building",
+    address: "8 Bedale St, London SE1 9AL, United Kingdom",
+    sceneContext:
+      "Bridget's flat sits above this corner pub on the edge of Borough Market.",
+    howToVisit:
+      "A real, working pub at the market's edge, so come for a drink and a look at the flat above; it's busy when the market is. The exterior is the recognisable bit.",
+    nearbyTips: [
+      "The market stalls are right outside the door.",
+      "London Bridge and the river are a couple of minutes away.",
+    ],
+  },
+
+  // ===================== Forrest Gump =====================
+  {
+    slug: "chippewa-square-savannah",
+    name: "Chippewa Square",
+    titleSlug: "forrest-gump",
+    destinationSlug: "savannah",
+    lat: 32.076,
+    lng: -81.0934,
+    kind: "landmark",
+    address: "Chippewa Square, Savannah, GA 31401, United States",
+    sceneContext:
+      "The leafy, oak-shaded square is where Forrest sits on a bench and tells his life story to passers-by.",
+    howToVisit:
+      "A free public square to stroll, though the film bench was a prop and now lives in a local history museum, so the square is the spot rather than a bench. The historic district spreads out from here.",
+    nearbyTips: [
+      "The original prop bench is in the Savannah History Museum.",
+      "Savannah's other oak-lined squares are an easy walk.",
+    ],
+  },
+
+  // ===================== The Shawshank Redemption =====================
+  {
+    slug: "ohio-state-reformatory",
+    name: "Ohio State Reformatory",
+    titleSlug: "the-shawshank-redemption",
+    destinationSlug: "mansfield",
+    lat: 40.7791,
+    lng: -82.5026,
+    kind: "building",
+    address: "100 Reformatory Rd, Mansfield, OH 44905, United States",
+    sceneContext:
+      "The vast Gothic former prison is Shawshank itself, its cell blocks and the warden's office used throughout the film.",
+    howToVisit:
+      "A preserved historic prison open for ticketed self-guided and guided tours, including Shawshank-specific routes; allow a couple of hours. It's just outside Mansfield.",
+    nearbyTips: [
+      "Shawshank-themed tours point out the film's spots.",
+      "A wider Shawshank trail links other sites around Mansfield.",
+    ],
+  },
+
+  // ===================== The Shining =====================
+  {
+    slug: "timberline-lodge",
+    name: "Timberline Lodge",
+    titleSlug: "the-shining",
+    destinationSlug: "mount-hood",
+    lat: 45.3311,
+    lng: -121.711,
+    kind: "hotel",
+    address: "27500 E Timberline Rd, Government Camp, OR 97028, United States",
+    sceneContext:
+      "The lodge's exterior is the snowbound Overlook Hotel, seen in the film's chilling aerial approach.",
+    howToVisit:
+      "A working mountain lodge and ski hub open year-round; non-guests can visit the day lodge, eat, or just photograph the exterior. It's near the top of the Mount Hood road.",
+    nearbyTips: [
+      "The lodge sits on a year-round ski slope.",
+      "Trails fan out across Mount Hood from the car park.",
+    ],
+  },
+
+  // ===================== Close Encounters of the Third Kind =====================
+  {
+    slug: "devils-tower",
+    name: "Devils Tower",
+    titleSlug: "close-encounters",
+    destinationSlug: "wyoming",
+    lat: 44.5902,
+    lng: -104.7146,
+    kind: "nature",
+    address: "Devils Tower National Monument, WY 82714, United States",
+    sceneContext:
+      "The flat-topped volcanic monolith is the mountain the characters are compelled to reach for the alien rendezvous.",
+    howToVisit:
+      "America's first national monument, entered by vehicle pass; an easy paved loop circles the base, and climbers tackle the columns. It's a remote drive in Wyoming's north-east.",
+    nearbyTips: [
+      "The 1.3-mile Tower Trail loops right around the base.",
+      "A prairie-dog town sits near the entrance road.",
+    ],
+  },
+
+  // ===================== Thelma & Louise =====================
+  {
+    slug: "dead-horse-point",
+    name: "Dead Horse Point",
+    titleSlug: "thelma-and-louise",
+    destinationSlug: "moab",
+    lat: 38.4783,
+    lng: -109.7401,
+    kind: "nature",
+    address: "Dead Horse Point State Park, UT 84532, United States",
+    sceneContext:
+      "The sheer canyon overlook stood in for the Grand Canyon in the film's unforgettable final scene.",
+    howToVisit:
+      "A Utah state park with a vehicle fee, a short walk from the car park to the dramatic overlook; sunrise and sunset are spectacular. It's about 40 minutes from Moab.",
+    nearbyTips: [
+      "Canyonlands National Park adjoins the park.",
+      "Arches National Park is a short drive from Moab.",
+    ],
+  },
+
+  // ===================== Out of Africa =====================
+  {
+    slug: "ngong-hills",
+    name: "Ngong Hills",
+    titleSlug: "out-of-africa",
+    destinationSlug: "kenya",
+    lat: -1.396,
+    lng: 36.648,
+    kind: "nature",
+    address: "Ngong Hills, Kajiado County, Kenya",
+    sceneContext:
+      "The rolling ridgeline is the film's emotional horizon, where Denys is laid to rest above the plains.",
+    howToVisit:
+      "A breezy ridge walk along the hilltops, usually done with a local guide or ranger for safety; it's a short drive from Nairobi. Mornings are clearest before the haze.",
+    nearbyTips: [
+      "Wind turbines now line part of the ridge.",
+      "Nairobi National Park is on the way back to the city.",
+    ],
+  },
+  {
+    slug: "karen-blixen-museum",
+    name: "Karen Blixen Museum",
+    titleSlug: "out-of-africa",
+    destinationSlug: "kenya",
+    lat: -1.3517,
+    lng: 36.7117,
+    kind: "building",
+    address: "Karen Rd, Nairobi, Kenya",
+    sceneContext:
+      "The author's real farmhouse at the foot of the hills is now a museum to the African years behind the story.",
+    howToVisit:
+      "A ticketed museum in the leafy Karen suburb, with guided tours of the house and gardens; allow an hour. It's about 30 minutes from central Nairobi.",
+    nearbyTips: [
+      "The Giraffe Centre is a short drive away.",
+      "The suburb of Karen takes its name from her.",
+    ],
+  },
+
+  // ===================== Trainspotting =====================
+  {
+    slug: "princes-street-edinburgh",
+    name: "Princes Street",
+    titleSlug: "trainspotting",
+    destinationSlug: "edinburgh",
+    lat: 55.9519,
+    lng: -3.199,
+    kind: "street",
+    address: "Princes St, Edinburgh EH2, United Kingdom",
+    sceneContext:
+      "The city's main shopping street is where the film's breathless opening chase begins.",
+    howToVisit:
+      "A free, busy public street with the castle and gardens along one side; walk it for the views up to the old town. Trams and buses run its length.",
+    nearbyTips: [
+      "Princes Street Gardens sit below the castle.",
+      "The Scott Monument rises from the street's edge.",
+    ],
+  },
+  {
+    slug: "calton-hill",
+    name: "Calton Hill",
+    titleSlug: "trainspotting",
+    destinationSlug: "edinburgh",
+    lat: 55.9549,
+    lng: -3.1825,
+    kind: "nature",
+    address: "Calton Hill, Edinburgh EH7 5AA, United Kingdom",
+    sceneContext:
+      "The monument-topped hill gives the film its sweeping views over the characters' Edinburgh.",
+    howToVisit:
+      "A free, short climb from the city centre to a cluster of monuments and one of the best views in Scotland; it's a favourite for sunset. Steps lead up from Waterloo Place.",
+    nearbyTips: [
+      "The unfinished National Monument crowns the top.",
+      "The view takes in the castle, Arthur's Seat and the sea.",
+    ],
+  },
+
+  // ===================== Chariots of Fire =====================
+  {
+    slug: "west-sands-st-andrews",
+    name: "West Sands",
+    titleSlug: "chariots-of-fire",
+    destinationSlug: "st-andrews",
+    lat: 56.3434,
+    lng: -2.806,
+    kind: "nature",
+    address: "West Sands, St Andrews KY16 9XL, United Kingdom",
+    sceneContext:
+      "The long, flat beach is where the athletes run in the film's iconic slow-motion title sequence.",
+    howToVisit:
+      "A free, vast beach beside the famous golf links, open at all times and bracing in any weather; it stretches for nearly two miles. Park at the Old Course end.",
+    nearbyTips: [
+      "The Old Course clubhouse stands at the beach's edge.",
+      "St Andrews' old town and cathedral ruins are close.",
+    ],
+  },
+
+  // ===================== Field of Dreams =====================
+  {
+    slug: "field-of-dreams",
+    name: "Field of Dreams",
+    titleSlug: "field-of-dreams",
+    destinationSlug: "dyersville",
+    lat: 42.198,
+    lng: -91.0654,
+    kind: "venue",
+    address: "28995 Lansing Rd, Dyersville, IA 52040, United States",
+    sceneContext:
+      "The baseball diamond carved into an Iowa cornfield still stands exactly as it was built for the film.",
+    howToVisit:
+      "The field and farmhouse are a free visitor site (donations welcome) open seasonally; you can play catch on the diamond and walk into the corn. It's a few minutes from Dyersville.",
+    nearbyTips: [
+      "Bring a glove and play catch on the diamond.",
+      "The town of Dyersville has a basilica worth a look.",
+    ],
+  },
+
+  // ===================== Brokeback Mountain =====================
+  {
+    slug: "kananaskis-country",
+    name: "Kananaskis Country",
+    titleSlug: "brokeback-mountain",
+    destinationSlug: "canadian-rockies",
+    lat: 50.9,
+    lng: -115.1,
+    kind: "nature",
+    address: "Kananaskis Country, Alberta, Canada",
+    sceneContext:
+      "The peaks and meadows of the Canadian Rockies stood in for the Wyoming mountain that gives the film its name.",
+    howToVisit:
+      "A vast area of provincial parks with a conservation pass for vehicles, laced with trails and viewpoints; it's quieter than nearby Banff. About an hour west of Calgary.",
+    nearbyTips: [
+      "Mount Lougheed is the peak that played Brokeback.",
+      "Banff National Park is a short drive on.",
+    ],
+  },
 ];
