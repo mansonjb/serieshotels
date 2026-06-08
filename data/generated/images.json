@@ -631,6 +631,134 @@
         "/destinations/canadian-rockies/photo-3.jpg",
         "/destinations/canadian-rockies/photo-4.jpg"
       ]
+    },
+    "albuquerque": {
+      "hero": "/destinations/albuquerque/hero.jpg",
+      "gallery": [
+        "/destinations/albuquerque/photo-2.jpg",
+        "/destinations/albuquerque/photo-3.jpg",
+        "/destinations/albuquerque/photo-4.jpg"
+      ]
+    },
+    "dubai": {
+      "hero": "/destinations/dubai/hero.jpg",
+      "gallery": [
+        "/destinations/dubai/photo-2.jpg",
+        "/destinations/dubai/photo-3.jpg",
+        "/destinations/dubai/photo-4.jpg"
+      ]
+    },
+    "istanbul": {
+      "hero": "/destinations/istanbul/hero.jpg",
+      "gallery": [
+        "/destinations/istanbul/photo-2.jpg",
+        "/destinations/istanbul/photo-3.jpg",
+        "/destinations/istanbul/photo-4.jpg"
+      ]
+    },
+    "interlaken": {
+      "hero": "/destinations/interlaken/hero.jpg",
+      "gallery": [
+        "/destinations/interlaken/photo-2.jpg",
+        "/destinations/interlaken/photo-3.jpg",
+        "/destinations/interlaken/photo-4.jpg"
+      ]
+    },
+    "seoul": {
+      "hero": "/destinations/seoul/hero.jpg",
+      "gallery": [
+        "/destinations/seoul/photo-2.jpg",
+        "/destinations/seoul/photo-3.jpg",
+        "/destinations/seoul/photo-4.jpg"
+      ]
+    },
+    "vienna": {
+      "hero": "/destinations/vienna/hero.jpg",
+      "gallery": [
+        "/destinations/vienna/photo-2.jpg",
+        "/destinations/vienna/photo-3.jpg",
+        "/destinations/vienna/photo-4.jpg"
+      ]
+    },
+    "krakow": {
+      "hero": "/destinations/krakow/hero.jpg",
+      "gallery": [
+        "/destinations/krakow/photo-2.jpg",
+        "/destinations/krakow/photo-3.jpg",
+        "/destinations/krakow/photo-4.jpg"
+      ]
+    },
+    "north-carolina": {
+      "hero": "/destinations/north-carolina/hero.jpg",
+      "gallery": [
+        "/destinations/north-carolina/photo-2.jpg",
+        "/destinations/north-carolina/photo-3.jpg",
+        "/destinations/north-carolina/photo-4.jpg"
+      ]
+    },
+    "forks": {
+      "hero": "/destinations/forks/hero.jpg",
+      "gallery": [
+        "/destinations/forks/photo-2.jpg",
+        "/destinations/forks/photo-3.jpg",
+        "/destinations/forks/photo-4.jpg"
+      ]
+    },
+    "cefalu": {
+      "hero": "/destinations/cefalu/hero.jpg",
+      "gallery": [
+        "/destinations/cefalu/photo-2.jpg",
+        "/destinations/cefalu/photo-3.jpg",
+        "/destinations/cefalu/photo-4.jpg"
+      ]
+    },
+    "new-jersey": {
+      "hero": "/destinations/new-jersey/hero.jpg",
+      "gallery": [
+        "/destinations/new-jersey/photo-2.jpg",
+        "/destinations/new-jersey/photo-3.jpg",
+        "/destinations/new-jersey/photo-4.jpg"
+      ]
+    },
+    "abu-dhabi": {
+      "hero": "/destinations/abu-dhabi/hero.jpg",
+      "gallery": [
+        "/destinations/abu-dhabi/photo-2.jpg",
+        "/destinations/abu-dhabi/photo-3.jpg",
+        "/destinations/abu-dhabi/photo-4.jpg"
+      ]
+    },
+    "vatnajokull": {
+      "hero": "/destinations/vatnajokull/hero.jpg",
+      "gallery": [
+        "/destinations/vatnajokull/photo-2.jpg",
+        "/destinations/vatnajokull/photo-3.jpg",
+        "/destinations/vatnajokull/photo-4.jpg"
+      ]
+    },
+    "atlanta": {
+      "hero": "/destinations/atlanta/hero.jpg",
+      "gallery": [
+        "/destinations/atlanta/photo-2.jpg",
+        "/destinations/atlanta/photo-3.jpg",
+        "/destinations/atlanta/photo-4.jpg"
+      ]
+    },
+    "montana": {
+      "hero": "/destinations/montana/hero.jpg",
+      "gallery": [
+        "/destinations/montana/photo-2.jpg",
+        "/destinations/montana/photo-3.jpg",
+        "/destinations/montana/photo-4.jpg"
+      ]
+    },
+    "bali": {
+      "hero": "/destinations/bali/hero.jpg",
+      "gallery": [
+        "/destinations/bali/photo-2.jpg",
+        "/destinations/bali/photo-3.jpg",
+        "/destinations/bali/photo-4.jpg"
+      ]
     }
   },
   "locations": {
@@ -1460,6 +1588,198 @@
       "hero": "/locations/kananaskis-country/hero.jpg",
       "gallery": [
         "/locations/kananaskis-country/photo-2.jpg"
+      ]
+    },
+    "walter-white-house": {
+      "hero": "/locations/walter-white-house/hero.jpg",
+      "gallery": [
+        "/locations/walter-white-house/photo-2.jpg"
+      ]
+    },
+    "los-pollos-twisters": {
+      "hero": "/locations/los-pollos-twisters/hero.jpg",
+      "gallery": [
+        "/locations/los-pollos-twisters/photo-2.jpg"
+      ]
+    },
+    "burj-khalifa": {
+      "hero": "/locations/burj-khalifa/hero.jpg",
+      "gallery": [
+        "/locations/burj-khalifa/photo-2.jpg"
+      ]
+    },
+    "vienna-state-opera": {
+      "hero": "/locations/vienna-state-opera/hero.jpg",
+      "gallery": [
+        "/locations/vienna-state-opera/photo-2.jpg"
+      ]
+    },
+    "glen-etive": {
+      "hero": "/locations/glen-etive/hero.jpg",
+      "gallery": [
+        "/locations/glen-etive/photo-2.jpg"
+      ]
+    },
+    "grand-bazaar-istanbul": {
+      "hero": "/locations/grand-bazaar-istanbul/hero.jpg",
+      "gallery": [
+        "/locations/grand-bazaar-istanbul/photo-2.jpg"
+      ]
+    },
+    "iseltwald-jetty": {
+      "hero": "/locations/iseltwald-jetty/hero.jpg",
+      "gallery": [
+        "/locations/iseltwald-jetty/photo-2.jpg"
+      ]
+    },
+    "sigriswil-panorama-bridge": {
+      "hero": "/locations/sigriswil-panorama-bridge/hero.jpg",
+      "gallery": [
+        "/locations/sigriswil-panorama-bridge/photo-2.jpg"
+      ]
+    },
+    "woori-supermarket": {
+      "hero": "/locations/woori-supermarket/hero.jpg",
+      "gallery": [
+        "/locations/woori-supermarket/photo-2.jpg"
+      ]
+    },
+    "wiener-riesenrad": {
+      "hero": "/locations/wiener-riesenrad/hero.jpg",
+      "gallery": [
+        "/locations/wiener-riesenrad/photo-2.jpg"
+      ]
+    },
+    "schreyvogelgasse-doorway": {
+      "hero": "/locations/schreyvogelgasse-doorway/hero.jpg",
+      "gallery": [
+        "/locations/schreyvogelgasse-doorway/photo-2.jpg"
+      ]
+    },
+    "schindler-factory-krakow": {
+      "hero": "/locations/schindler-factory-krakow/hero.jpg",
+      "gallery": [
+        "/locations/schindler-factory-krakow/photo-2.jpg"
+      ]
+    },
+    "kazimierz-district": {
+      "hero": "/locations/kazimierz-district/hero.jpg",
+      "gallery": [
+        "/locations/kazimierz-district/photo-2.jpg"
+      ]
+    },
+    "dupont-state-forest": {
+      "hero": "/locations/dupont-state-forest/hero.jpg",
+      "gallery": [
+        "/locations/dupont-state-forest/photo-2.jpg"
+      ]
+    },
+    "henry-river-mill-village": {
+      "hero": "/locations/henry-river-mill-village/hero.jpg",
+      "gallery": [
+        "/locations/henry-river-mill-village/photo-2.jpg"
+      ]
+    },
+    "forks-washington": {
+      "hero": "/locations/forks-washington/hero.jpg",
+      "gallery": [
+        "/locations/forks-washington/photo-2.jpg"
+      ]
+    },
+    "la-push-beach": {
+      "hero": "/locations/la-push-beach/hero.jpg",
+      "gallery": [
+        "/locations/la-push-beach/photo-2.jpg"
+      ]
+    },
+    "palazzo-adriano-square": {
+      "hero": "/locations/palazzo-adriano-square/hero.jpg",
+      "gallery": [
+        "/locations/palazzo-adriano-square/photo-2.jpg"
+      ]
+    },
+    "cefalu-old-town": {
+      "hero": "/locations/cefalu-old-town/hero.jpg",
+      "gallery": [
+        "/locations/cefalu-old-town/photo-2.jpg"
+      ]
+    },
+    "holstens-bloomfield": {
+      "hero": "/locations/holstens-bloomfield/hero.jpg",
+      "gallery": [
+        "/locations/holstens-bloomfield/photo-2.jpg"
+      ]
+    },
+    "pizzaland-north-arlington": {
+      "hero": "/locations/pizzaland-north-arlington/hero.jpg",
+      "gallery": [
+        "/locations/pizzaland-north-arlington/photo-2.jpg"
+      ]
+    },
+    "hudson-yards-nyc": {
+      "hero": "/locations/hudson-yards-nyc/hero.jpg",
+      "gallery": [
+        "/locations/hudson-yards-nyc/photo-2.jpg"
+      ]
+    },
+    "castello-di-celsa": {
+      "hero": "/locations/castello-di-celsa/hero.jpg",
+      "gallery": [
+        "/locations/castello-di-celsa/photo-2.jpg"
+      ]
+    },
+    "wadi-rum-dune": {
+      "hero": "/locations/wadi-rum-dune/hero.jpg",
+      "gallery": [
+        "/locations/wadi-rum-dune/photo-2.jpg"
+      ]
+    },
+    "liwa-desert": {
+      "hero": "/locations/liwa-desert/hero.jpg",
+      "gallery": [
+        "/locations/liwa-desert/photo-2.jpg"
+      ]
+    },
+    "svinafellsjokull-glacier": {
+      "hero": "/locations/svinafellsjokull-glacier/hero.jpg",
+      "gallery": [
+        "/locations/svinafellsjokull-glacier/photo-2.jpg"
+      ]
+    },
+    "downtown-jackson-georgia": {
+      "hero": "/locations/downtown-jackson-georgia/hero.jpg",
+      "gallery": [
+        "/locations/downtown-jackson-georgia/photo-2.jpg"
+      ]
+    },
+    "gwinnett-place-mall": {
+      "hero": "/locations/gwinnett-place-mall/hero.jpg",
+      "gallery": [
+        "/locations/gwinnett-place-mall/photo-2.jpg"
+      ]
+    },
+    "chief-joseph-ranch": {
+      "hero": "/locations/chief-joseph-ranch/hero.jpg",
+      "gallery": [
+        "/locations/chief-joseph-ranch/photo-2.jpg"
+      ]
+    },
+    "padang-padang-beach": {
+      "hero": "/locations/padang-padang-beach/hero.jpg",
+      "gallery": [
+        "/locations/padang-padang-beach/photo-2.jpg"
+      ]
+    },
+    "tegallalang-rice-terraces": {
+      "hero": "/locations/tegallalang-rice-terraces/hero.jpg",
+      "gallery": [
+        "/locations/tegallalang-rice-terraces/photo-2.jpg"
+      ]
+    },
+    "joker-stairs-bronx": {
+      "hero": "/locations/joker-stairs-bronx/hero.jpg",
+      "gallery": [
+        "/locations/joker-stairs-bronx/photo-2.jpg"
       ]
     }
   }

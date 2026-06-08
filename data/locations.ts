@@ -2625,4 +2625,634 @@ export const LOCATIONS: Location[] = [
       "Banff National Park is a short drive on.",
     ],
   },
+
+  // ===================== Breaking Bad =====================
+  {
+    slug: "walter-white-house",
+    name: "Walter White's House",
+    titleSlug: "breaking-bad",
+    destinationSlug: "albuquerque",
+    lat: 35.1264,
+    lng: -106.5364,
+    kind: "building",
+    address: "3828 Piermont Dr NE, Albuquerque, NM 87111, United States",
+    sceneContext:
+      "The modest ranch house is the White family home throughout the series, including its famous pizza-on-the-roof moment.",
+    howToVisit:
+      "A private residence on an ordinary street, so view it only from the public road, keep quiet and do not throw anything; the owners have asked fans to be respectful. Drive-by photos from the curb only.",
+    nearbyTips: [
+      "Many other Breaking Bad spots are scattered across the city.",
+      "Old Town Albuquerque is a good central base.",
+    ],
+  },
+  {
+    slug: "los-pollos-twisters",
+    name: "Los Pollos Hermanos (Twisters)",
+    titleSlug: "breaking-bad",
+    destinationSlug: "albuquerque",
+    lat: 35.0826,
+    lng: -106.5564,
+    kind: "venue",
+    address: "4257 Isleta Blvd SW, Albuquerque, NM 87105, United States",
+    sceneContext:
+      "This working Twisters restaurant is Gus Fring's fried-chicken chain Los Pollos Hermanos, the front for his empire.",
+    howToVisit:
+      "A real, open fast-food spot, so go in, order, and snap a photo of the unmistakable interior; staff are used to fans. It's on the city's south-west side.",
+    nearbyTips: [
+      "The dining room is dressed with nods to the show.",
+      "Pair it with a self-drive tour of other filming spots.",
+    ],
+  },
+
+  // ===================== Mission: Impossible =====================
+  {
+    slug: "burj-khalifa",
+    name: "Burj Khalifa",
+    titleSlug: "mission-impossible",
+    destinationSlug: "dubai",
+    lat: 25.1972,
+    lng: 55.2744,
+    kind: "landmark",
+    address: "1 Sheikh Mohammed bin Rashid Blvd, Dubai, United Arab Emirates",
+    sceneContext:
+      "Ethan Hunt scales the glass face of the world's tallest building in the franchise's most vertiginous stunt.",
+    howToVisit:
+      "The At the Top observation decks are ticketed and best booked ahead for sunset; the tower soars above the Dubai Mall and its fountains. No climbing required.",
+    nearbyTips: [
+      "The Dubai Fountain show runs below the tower each evening.",
+      "The Dubai Mall is one of the world's largest.",
+    ],
+  },
+  {
+    slug: "vienna-state-opera",
+    name: "Vienna State Opera",
+    titleSlug: "mission-impossible",
+    destinationSlug: "vienna",
+    lat: 48.203,
+    lng: 16.369,
+    kind: "building",
+    address: "Opernring 2, 1010 Wien, Austria",
+    sceneContext:
+      "A performance at the grand opera house is the stage for a tense assassination set piece.",
+    howToVisit:
+      "A working opera house; catch a performance, take a guided backstage tour, or grab cheap standing-room tickets on the night. It sits on the Ringstrasse in the heart of the city.",
+    nearbyTips: [
+      "Standing-room tickets are sold cheaply before shows.",
+      "The Sachertorte at the nearby Hotel Sacher is a ritual.",
+    ],
+  },
+
+  // ===================== Skyfall =====================
+  {
+    slug: "glen-etive",
+    name: "Glen Etive",
+    titleSlug: "skyfall",
+    destinationSlug: "scottish-highlands",
+    lat: 56.6149,
+    lng: -5.008,
+    kind: "nature",
+    address: "Glen Etive, Glencoe, Scotland, United Kingdom",
+    sceneContext:
+      "The winding single-track road into this remote glen is where Bond drives his Aston Martin home to Skyfall.",
+    howToVisit:
+      "A free public single-track road off the A82 through Glencoe, with passing places and stunning views; drive slowly and use the laybys for photos. It dead-ends at a loch.",
+    nearbyTips: [
+      "The Glencoe valley itself is a few minutes back up the road.",
+      "Fort William and Glenfinnan are a short drive on.",
+    ],
+  },
+  {
+    slug: "grand-bazaar-istanbul",
+    name: "Grand Bazaar",
+    titleSlug: "skyfall",
+    destinationSlug: "istanbul",
+    lat: 41.0106,
+    lng: 28.968,
+    kind: "landmark",
+    address: "Kalpakçılar Cd. No:22, Fatih, İstanbul, Turkey",
+    sceneContext:
+      "The film's breathless opening chase tears across the rooftops and through the covered lanes of the great market.",
+    howToVisit:
+      "One of the world's oldest covered markets, free to enter and open daily except Sundays; haggling is expected and it is busiest midday. Mind your bearings in the maze of lanes.",
+    nearbyTips: [
+      "The Spice Bazaar is a short walk downhill.",
+      "Hagia Sophia and the Blue Mosque are nearby.",
+    ],
+  },
+
+  // ===================== Crash Landing on You =====================
+  {
+    slug: "iseltwald-jetty",
+    name: "Iseltwald Jetty",
+    titleSlug: "crash-landing-on-you",
+    destinationSlug: "interlaken",
+    lat: 46.7236,
+    lng: 7.956,
+    kind: "nature",
+    address: "Iseltwald, Lake Brienz, Switzerland",
+    sceneContext:
+      "The little wooden jetty on turquoise Lake Brienz is where the drama's lovers share a fateful piano scene.",
+    howToVisit:
+      "So many fans come that the village now charges a small fee to step onto the jetty; reach Iseltwald by boat or bus from Interlaken. Go early for calm water and fewer queues.",
+    nearbyTips: [
+      "Lake Brienz boats stop right at the village.",
+      "The Giessbach Falls are across the lake.",
+    ],
+  },
+  {
+    slug: "sigriswil-panorama-bridge",
+    name: "Sigriswil Panorama Bridge",
+    titleSlug: "crash-landing-on-you",
+    destinationSlug: "interlaken",
+    lat: 46.7167,
+    lng: 7.71,
+    kind: "landmark",
+    address: "Panoramabrücke Sigriswil, 3655 Sigriswil, Switzerland",
+    sceneContext:
+      "The slender footbridge spanning a deep gorge features in the couple's Swiss idyll.",
+    howToVisit:
+      "A suspension footbridge with a small crossing fee, part of a scenic walk above Lake Thun; it's an easy drive or bus ride from Interlaken. Not for the faint of heart.",
+    nearbyTips: [
+      "The bridge links to a lakeside panorama trail.",
+      "Thun's castle and old town are close.",
+    ],
+  },
+
+  // ===================== Parasite =====================
+  {
+    slug: "ahyeon-dong-stairs",
+    name: "Ahyeon-dong Stairs",
+    titleSlug: "parasite",
+    destinationSlug: "seoul",
+    lat: 37.5519,
+    lng: 126.953,
+    kind: "street",
+    address: "Ahyeon-dong, Mapo-gu, Seoul, South Korea",
+    sceneContext:
+      "The steep stair-street the Kim family hurries down in the rain captures the film's upstairs-downstairs geography.",
+    howToVisit:
+      "A real, lived-in residential staircase, free to walk but home to actual residents, so visit quietly and by day. It's near Ahyeon and Gongdeok stations.",
+    nearbyTips: [
+      "The corner shop from the film is at the foot of the stairs.",
+      "Mapo's pojangmacha food tents are a local night out.",
+    ],
+  },
+  {
+    slug: "woori-supermarket",
+    name: "Woori Supermarket",
+    titleSlug: "parasite",
+    destinationSlug: "seoul",
+    lat: 37.5503,
+    lng: 126.9525,
+    kind: "venue",
+    address: "Ahyeon-dong, Mapo-gu, Seoul, South Korea",
+    sceneContext:
+      "The neighbourhood grocery at the bottom of the stairs is the corner shop seen throughout the family's scenes.",
+    howToVisit:
+      "A working local shop, so buy something and be considerate of the owners and residents; it sits right by the famous stairs. Combine the two in one short stop.",
+    nearbyTips: [
+      "It pairs naturally with the stair-street above.",
+      "Hongdae's buzz is a couple of stops away.",
+    ],
+  },
+
+  // ===================== The Third Man =====================
+  {
+    slug: "wiener-riesenrad",
+    name: "Wiener Riesenrad",
+    titleSlug: "the-third-man",
+    destinationSlug: "vienna",
+    lat: 48.2167,
+    lng: 16.3958,
+    kind: "landmark",
+    address: "Riesenradplatz 1, 1020 Wien, Austria",
+    sceneContext:
+      "The giant Ferris wheel at the Prater is where Harry Lime delivers his chilling cuckoo-clock speech.",
+    howToVisit:
+      "A historic Ferris wheel with a ticketed ride in roomy cabins, open daily in the Prater funfair; it's a short metro ride from the centre. Dusk gives the best city light.",
+    nearbyTips: [
+      "The Prater's old funfair sprawls around the wheel.",
+      "The green Prater park is good for a walk or cycle.",
+    ],
+  },
+  {
+    slug: "schreyvogelgasse-doorway",
+    name: "Schreyvogelgasse Doorway",
+    titleSlug: "the-third-man",
+    destinationSlug: "vienna",
+    lat: 48.2103,
+    lng: 16.3625,
+    kind: "street",
+    address: "Schreyvogelgasse 8, 1010 Wien, Austria",
+    sceneContext:
+      "A shadowed doorway on this quiet lane is where Harry Lime is first revealed by a sudden shaft of light.",
+    howToVisit:
+      "A real doorway on a public street near the Mölker Bastei, free to find and photograph at any time; it is unmarked, so look for the address. The old-town lanes around it reward a wander.",
+    nearbyTips: [
+      "Beethoven once lived on the Mölker Bastei nearby.",
+      "The university and Ringstrasse are a short walk.",
+    ],
+  },
+
+  // ===================== Schindler's List =====================
+  {
+    slug: "schindler-factory-krakow",
+    name: "Schindler's Factory",
+    titleSlug: "schindlers-list",
+    destinationSlug: "krakow",
+    lat: 50.0476,
+    lng: 19.9617,
+    kind: "building",
+    address: "Lipowa 4, 30-702 Kraków, Poland",
+    sceneContext:
+      "Oskar Schindler's real enamel factory, now a museum of wartime Kraków, sits at the heart of the true story.",
+    howToVisit:
+      "A ticketed museum in the Zabłocie district, best booked ahead as it sells out; allow a couple of sobering hours. It's across the river from the old town.",
+    nearbyTips: [
+      "The MOCAK contemporary-art museum is next door.",
+      "The Podgórze ghetto memorial square is nearby.",
+    ],
+  },
+  {
+    slug: "kazimierz-district",
+    name: "Kazimierz",
+    titleSlug: "schindlers-list",
+    destinationSlug: "krakow",
+    lat: 50.0517,
+    lng: 19.9447,
+    kind: "landmark",
+    address: "Kazimierz, Kraków, Poland",
+    sceneContext:
+      "The historic Jewish quarter, with its old synagogues and squares, stands in for wartime Kraków throughout the film.",
+    howToVisit:
+      "A free, atmospheric district to wander on foot, now full of cafés and bars alongside its synagogues and memorials. It's a short walk from the main market square.",
+    nearbyTips: [
+      "Plac Nowy is the heart of Kazimierz nightlife.",
+      "Several historic synagogues are open to visit.",
+    ],
+  },
+
+  // ===================== The Hunger Games =====================
+  {
+    slug: "dupont-state-forest",
+    name: "DuPont State Forest",
+    titleSlug: "the-hunger-games",
+    destinationSlug: "north-carolina",
+    lat: 35.2008,
+    lng: -82.6259,
+    kind: "nature",
+    address: "DuPont State Recreational Forest, Cedar Mountain, NC 28718, United States",
+    sceneContext:
+      "The waterfalls and woods of this forest are the arena where Katniss survives the Games.",
+    howToVisit:
+      "A free state forest with marked trails to several big waterfalls; Triple Falls and Hooker Falls are the headline hikes, busy on summer weekends. Bring sturdy shoes.",
+    nearbyTips: [
+      "Triple Falls appears in the arena scenes.",
+      "Brevard and Asheville are nearby bases.",
+    ],
+  },
+  {
+    slug: "henry-river-mill-village",
+    name: "Henry River Mill Village",
+    titleSlug: "the-hunger-games",
+    destinationSlug: "north-carolina",
+    lat: 35.7026,
+    lng: -81.403,
+    kind: "building",
+    address: "Henry River Mill Village, Hildebran, NC 28637, United States",
+    sceneContext:
+      "This abandoned cotton-mill village is District 12, Katniss's run-down home district.",
+    howToVisit:
+      "A preserved historic village offering ticketed tours; check the schedule as access is managed and it is private property. It's off Interstate 40 west of Hickory.",
+    nearbyTips: [
+      "Tours point out Katniss's house and the Mellark bakery.",
+      "It's an easy detour between Asheville and Charlotte.",
+    ],
+  },
+
+  // ===================== Twilight =====================
+  {
+    slug: "forks-washington",
+    name: "Forks",
+    titleSlug: "twilight",
+    destinationSlug: "forks",
+    lat: 47.9504,
+    lng: -124.3855,
+    kind: "street",
+    address: "Forks, WA 98331, United States",
+    sceneContext:
+      "The rainy logging town is the saga's setting, and the town now embraces its fame with Twilight signs and tours.",
+    howToVisit:
+      "A real working town you can drive around freely; the visitor centre runs Twilight maps and a 'Bella's truck' photo op. Much of the films were actually shot in Oregon, so this is the spiritual home.",
+    nearbyTips: [
+      "The visitor centre has a Twilight photo spot.",
+      "The Hoh Rain Forest is a scenic drive away.",
+    ],
+  },
+  {
+    slug: "la-push-beach",
+    name: "La Push (First Beach)",
+    titleSlug: "twilight",
+    destinationSlug: "forks",
+    lat: 47.907,
+    lng: -124.6357,
+    kind: "nature",
+    address: "First Beach, La Push, WA 98350, United States",
+    sceneContext:
+      "The wild, driftwood-strewn beach of the Quileute lands features through the series.",
+    howToVisit:
+      "A free, dramatic Pacific beach on the Quileute Reservation, open to visitors who respect the community; it's about 20 minutes from Forks. Watch the tides and the weather.",
+    nearbyTips: [
+      "Sea stacks rise offshore at low tide.",
+      "Rialto Beach nearby is another wild strand.",
+    ],
+  },
+
+  // ===================== Cinema Paradiso =====================
+  {
+    slug: "palazzo-adriano-square",
+    name: "Piazza Umberto I, Palazzo Adriano",
+    titleSlug: "cinema-paradiso",
+    destinationSlug: "cefalu",
+    lat: 37.6736,
+    lng: 13.3897,
+    kind: "landmark",
+    address: "Piazza Umberto I, 90030 Palazzo Adriano PA, Sicily, Italy",
+    sceneContext:
+      "The village square, with its fountain and twin churches, was the site of the open-air cinema at the film's heart.",
+    howToVisit:
+      "A free, sleepy mountain-village square about an hour and a half inland from the coast; there is a small Cinema Paradiso exhibition in the village. Best paired with a drive through the Sicani hills.",
+    nearbyTips: [
+      "A small museum recalls the film's shoot here.",
+      "The Sicani mountains make a scenic drive.",
+    ],
+  },
+  {
+    slug: "cefalu-old-town",
+    name: "Cefalù Old Town",
+    titleSlug: "cinema-paradiso",
+    destinationSlug: "cefalu",
+    lat: 38.0397,
+    lng: 14.0233,
+    kind: "landmark",
+    address: "Cefalù, 90015 PA, Sicily, Italy",
+    sceneContext:
+      "The seaside town's old lanes, beach and great Norman cathedral also feature in the beloved film.",
+    howToVisit:
+      "A free, walkable old town beneath a huge rock; the cathedral is free to enter and the beach is right there. It's an easy train ride east of Palermo.",
+    nearbyTips: [
+      "Climb La Rocca above town for the view.",
+      "The Norman cathedral's mosaics are remarkable.",
+    ],
+  },
+
+  // ===================== The Sopranos =====================
+  {
+    slug: "holstens-bloomfield",
+    name: "Holsten's",
+    titleSlug: "the-sopranos",
+    destinationSlug: "new-jersey",
+    lat: 40.7855,
+    lng: -74.164,
+    kind: "venue",
+    address: "1063 Broad St, Bloomfield, NJ 07003, United States",
+    sceneContext:
+      "This old-fashioned ice-cream parlour and sweet shop is where the series famously cuts to black in its final scene.",
+    howToVisit:
+      "A real, beloved diner open daily; sit in the booth, order onion rings and a sundae, and a plaque marks the moment. It's in Bloomfield, north-west of Newark.",
+    nearbyTips: [
+      "Ask to sit at the booth from the finale.",
+      "The chocolate counter is a Jersey institution.",
+    ],
+  },
+  {
+    slug: "pizzaland-north-arlington",
+    name: "Pizzaland",
+    titleSlug: "the-sopranos",
+    destinationSlug: "new-jersey",
+    lat: 40.7889,
+    lng: -74.133,
+    kind: "venue",
+    address: "260 Belleville Tpke, North Arlington, NJ 07031, United States",
+    sceneContext:
+      "The tiny roadside pizzeria flashes by in the show's famous opening-credits drive home.",
+    howToVisit:
+      "A real, still-open slice shop, so stop in for a classic New Jersey slice; it's a quick photo of the unchanged storefront. It sits on the Belleville Turnpike.",
+    nearbyTips: [
+      "The storefront looks just as it did in the credits.",
+      "It's an easy stop on a wider Sopranos drive.",
+    ],
+  },
+
+  // ===================== Succession =====================
+  {
+    slug: "hudson-yards-nyc",
+    name: "Hudson Yards",
+    titleSlug: "succession",
+    destinationSlug: "new-york",
+    lat: 40.7539,
+    lng: -74.0021,
+    kind: "landmark",
+    address: "Hudson Yards, New York, NY 10001, United States",
+    sceneContext:
+      "The gleaming glass towers of this development stand in for the Roy family's media empire.",
+    howToVisit:
+      "A public plaza free to wander, with the climbable Vessel sculpture and the ticketed Edge sky deck above; it's at the end of the High Line. Go for the architecture and the river views.",
+    nearbyTips: [
+      "Walk the High Line straight to Hudson Yards.",
+      "The Edge observation deck juts out overhead.",
+    ],
+  },
+  {
+    slug: "castello-di-celsa",
+    name: "Castello di Celsa",
+    titleSlug: "succession",
+    destinationSlug: "tuscany",
+    lat: 43.2356,
+    lng: 11.1817,
+    kind: "building",
+    address: "Castello di Celsa, 53018 Sovicille SI, Tuscany, Italy",
+    sceneContext:
+      "This Tuscan castle and its gardens host the lavish family wedding of the show's third-season finale.",
+    howToVisit:
+      "A private castle whose Italianate gardens open on selected days with a ticket; check ahead before visiting. It's in the wooded hills west of Siena.",
+    nearbyTips: [
+      "Siena's shell-shaped Piazza del Campo is close.",
+      "The hill towns of the Montagnola spread around it.",
+    ],
+  },
+
+  // ===================== Dune =====================
+  {
+    slug: "wadi-rum-dune",
+    name: "Wadi Rum Dunes (Arrakis)",
+    titleSlug: "dune",
+    destinationSlug: "wadi-rum",
+    lat: 29.55,
+    lng: 35.42,
+    kind: "nature",
+    address: "Wadi Rum Protected Area, Jordan",
+    sceneContext:
+      "The red dunes and towering canyons of Wadi Rum are the desert planet Arrakis, home of the spice.",
+    howToVisit:
+      "Entered by ticket and explored on Bedouin-run 4x4 trips or overnight desert camps; book with a local operator and bring sun protection. Aqaba is about an hour away.",
+    nearbyTips: [
+      "Overnight camps offer huge, clear night skies.",
+      "Petra is a couple of hours to the north.",
+    ],
+  },
+  {
+    slug: "liwa-desert",
+    name: "Liwa Desert",
+    titleSlug: "dune",
+    destinationSlug: "abu-dhabi",
+    lat: 23.1333,
+    lng: 53.7833,
+    kind: "nature",
+    address: "Liwa Oasis, Empty Quarter, Abu Dhabi, United Arab Emirates",
+    sceneContext:
+      "The colossal dunes of the Empty Quarter near Liwa also stand in for the sands of Arrakis.",
+    howToVisit:
+      "A remote desert region reached by a long drive from Abu Dhabi; go with a desert-tour operator for dune drives, and consider the dramatic Qasr Al Sarab resort. Summers are punishingly hot.",
+    nearbyTips: [
+      "The Tal Moreeb dune is among the world's tallest.",
+      "Desert resorts offer guided dune excursions.",
+    ],
+  },
+
+  // ===================== Interstellar =====================
+  {
+    slug: "svinafellsjokull-glacier",
+    name: "Svínafellsjökull Glacier",
+    titleSlug: "interstellar",
+    destinationSlug: "vatnajokull",
+    lat: 64.0167,
+    lng: -16.875,
+    kind: "nature",
+    address: "Svínafellsjökull, Skaftafell, Iceland",
+    sceneContext:
+      "This blue glacier tongue is the icy, frozen-cloud world the crew explores beyond the wormhole.",
+    howToVisit:
+      "A glacier outlet near Skaftafell in Vatnajökull National Park; admire it from the car park and marked path, or go onto the ice only with a guided group, as crevasses are dangerous. It's just off the ring road.",
+    nearbyTips: [
+      "The Jökulsárlón ice lagoon is a short drive east.",
+      "Skaftafell has waterfalls and longer hikes.",
+    ],
+  },
+
+  // ===================== Stranger Things =====================
+  {
+    slug: "downtown-jackson-georgia",
+    name: "Downtown Jackson",
+    titleSlug: "stranger-things",
+    destinationSlug: "atlanta",
+    lat: 33.2935,
+    lng: -83.9663,
+    kind: "street",
+    address: "Downtown Jackson, GA 30233, United States",
+    sceneContext:
+      "The old town square of this small Georgia town stands in for the centre of fictional Hawkins, Indiana.",
+    howToVisit:
+      "A free, real town square you can walk around; shops and the cinema facade are recognisable from the show. It's about an hour south of Atlanta.",
+    nearbyTips: [
+      "The square's storefronts feature in the show.",
+      "Atlanta's film-tour operators cover more spots.",
+    ],
+  },
+  {
+    slug: "gwinnett-place-mall",
+    name: "Gwinnett Place Mall (Starcourt)",
+    titleSlug: "stranger-things",
+    destinationSlug: "atlanta",
+    lat: 33.9601,
+    lng: -84.133,
+    kind: "building",
+    address: "2100 Pleasant Hill Rd, Duluth, GA 30096, United States",
+    sceneContext:
+      "This faded shopping mall was transformed into the gleaming Starcourt Mall of the show's third season.",
+    howToVisit:
+      "A largely closed mall in Duluth whose access varies, so check before visiting; the exterior is easy to see from the road. It sits in Atlanta's northern suburbs.",
+    nearbyTips: [
+      "The mall's sign became a fan landmark.",
+      "Central Atlanta's attractions are a short drive.",
+    ],
+  },
+
+  // ===================== Yellowstone =====================
+  {
+    slug: "chief-joseph-ranch",
+    name: "Chief Joseph Ranch",
+    titleSlug: "yellowstone",
+    destinationSlug: "montana",
+    lat: 46.1497,
+    lng: -114.133,
+    kind: "building",
+    address: "501 Eastside Hwy, Darby, MT 59829, United States",
+    sceneContext:
+      "This historic log-and-stone ranch in the Bitterroot Valley is the Dutton family's Yellowstone home.",
+    howToVisit:
+      "A working guest ranch and private home; the main lodge cabins are rented to guests in the off-season, but it is not a drop-in attraction, so admire from the highway. Book a cabin far ahead if you want to stay.",
+    nearbyTips: [
+      "The Bitterroot Valley drive is spectacular.",
+      "Darby and Hamilton are the nearest towns.",
+    ],
+  },
+
+  // ===================== Eat Pray Love =====================
+  {
+    slug: "padang-padang-beach",
+    name: "Padang Padang Beach",
+    titleSlug: "eat-pray-love",
+    destinationSlug: "bali",
+    lat: -8.811,
+    lng: 115.1028,
+    kind: "nature",
+    address: "Padang Padang Beach, Pecatu, Bali, Indonesia",
+    sceneContext:
+      "The cliff-framed cove, reached through a cleft in the rock, is where the heroine finds calm on her Bali journey.",
+    howToVisit:
+      "A small beach with a modest entry fee, reached down a staircase through a rock crevice; it's popular with surfers and busy at midday. It's on the Bukit Peninsula.",
+    nearbyTips: [
+      "The Uluwatu temple and its sunset dance are close.",
+      "The Bukit's surf breaks draw boarders worldwide.",
+    ],
+  },
+  {
+    slug: "tegallalang-rice-terraces",
+    name: "Tegallalang Rice Terraces",
+    titleSlug: "eat-pray-love",
+    destinationSlug: "bali",
+    lat: -8.4312,
+    lng: 115.2792,
+    kind: "nature",
+    address: "Tegallalang, Gianyar, Bali, Indonesia",
+    sceneContext:
+      "The sculpted emerald rice terraces around Ubud frame the film's Balinese reawakening.",
+    howToVisit:
+      "A working farming valley with a small entry and donation points along the paths; go early to beat the tour buses and heat. It's a short drive north of Ubud.",
+    nearbyTips: [
+      "Ubud's monkey forest and markets are nearby.",
+      "Sunrise gives the softest light on the terraces.",
+    ],
+  },
+
+  // ===================== Joker =====================
+  {
+    slug: "joker-stairs-bronx",
+    name: "The Joker Stairs",
+    titleSlug: "joker",
+    destinationSlug: "new-york",
+    lat: 40.8369,
+    lng: -73.929,
+    kind: "landmark",
+    address: "Shakespeare Ave & W 167th St, Bronx, NY 10452, United States",
+    sceneContext:
+      "The long public staircase where Arthur Fleck dances in full costume became an instant pop-culture landmark.",
+    howToVisit:
+      "A real, free public stairway between two Bronx streets, used daily by residents, so visit respectfully and by day. It's a subway ride from Manhattan.",
+    nearbyTips: [
+      "The steps link Shakespeare and Anderson Avenues.",
+      "Yankee Stadium is not far south.",
+    ],
+  },
 ];

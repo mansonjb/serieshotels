@@ -46,6 +46,7 @@ const LOC_QUERY: Record<string, string> = {
   thingvellir: "Þingvellir National Park Almannagjá gorge Iceland",
   "castle-ward": "Castle Ward estate Strangford Northern Ireland",
   "kalami-bay": "Kalami beach Corfu Greece",
+  "ahyeon-dong-stairs": "Parasite Stairs Ahyeon Seoul",
 };
 
 type Place = {

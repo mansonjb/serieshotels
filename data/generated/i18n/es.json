@@ -437,6 +437,78 @@
       "brokeback-mountain": {
         "tagline": "Un romance de montaña rodado en las Montañas Rocosas canadienses.",
         "synopsis": "Dos peones de rancho inician un amor secreto que durará décadas y que nunca podrán vivir del todo. La montaña de Wyoming del título es en realidad Kananaskis Country, en la provincia de Alberta, dentro de las Rocosas canadienses."
+      },
+      "breaking-bad": {
+        "tagline": "El Albuquerque de Walter White: la casa, el túnel de lavado y Los Pollos.",
+        "synopsis": "Un profesor de química de instituto se pasa a cocinar metanfetamina y se hunde poco a poco en el mundo de un capo por el desierto de Nuevo México. La casa familiar, el despacho del abogado en un centro comercial de paso y la pollería que sirve de tapadera son todos rincones reales de Albuquerque que los fans siguen buscando."
+      },
+      "mission-impossible": {
+        "tagline": "Las acrobacias planetarias de Ethan Hunt, del Burj Khalifa a la Ópera de Viena.",
+        "synopsis": "Un agente de élite corre para evitar la catástrofe en una saga construida sobre acrobacias reales que desafían a la muerte. Sus grandes secuencias se ruedan en monumentos auténticos, escalando la torre más alta del mundo en Dubái o acechando una función en la Ópera Estatal de Viena."
+      },
+      "skyfall": {
+        "tagline": "Bond vuelve a casa, a un valle de las Highlands, pasando por los tejados de Estambul.",
+        "synopsis": "Un 007 herido se enfrenta a un fantasma del pasado del MI6 y se refugia en la casa de su infancia, en las Tierras Altas de Escocia. La película arranca con una persecución sin aliento por los tejados de Estambul y termina entre las brumas de Glen Etive."
+      },
+      "crash-landing-on-you": {
+        "tagline": "El K-drama que convirtió un embarcadero junto a un lago suizo en lugar de peregrinación.",
+        "synopsis": "Una heredera surcoreana se desvía en parapente y acaba en Corea del Norte, y en brazos de un oficial del ejército, en un romance que arrasó. Sus interludios de ensueño se rodaron en Suiza, donde el pequeño embarcadero de Iseltwald atrae ahora a los fans a autobús lleno."
+      },
+      "parasite": {
+        "tagline": "El Seúl de la ganadora del Óscar, de la calle escalonada al semisótano.",
+        "synopsis": "Una familia pobre se cuela con astucia en un hogar adinerado en una fábula afiladísima sobre la lucha de clases. Las empinadas calles escalonadas y las tiendas de esquina del barrio seulés de Ahyeon trazan el mundo de arriba y de abajo de la película."
+      },
+      "the-third-man": {
+        "tagline": "Cine negro en la Viena de posguerra, de la noria al alcantarillado.",
+        "synopsis": "Un escritor llega a una Viena ocupada y se encuentra con que su viejo amigo ha muerto, y con que la verdad es aún más turbia. La gigantesca noria del Prater y un portal en sombra ofrecen las revelaciones más inolvidables de la película."
+      },
+      "schindlers-list": {
+        "tagline": "La historia real detrás de una fábrica de Cracovia, hoy convertida en museo.",
+        "synopsis": "Un industrial alemán salva a más de mil trabajadores judíos en la Polonia ocupada. La auténtica fábrica de esmaltes de Oskar Schindler, hoy un museo conmovedor, y el viejo barrio de Kazimierz anclan la historia en Cracovia."
+      },
+      "the-hunger-games": {
+        "tagline": "La arena de Panem y el Distrito 12, escondidos en los bosques de Carolina.",
+        "synopsis": "En un futuro distópico, unos adolescentes se ven obligados a luchar a muerte en un espectáculo televisado. La arena son las cascadas del bosque de DuPont, y el Distrito 12 es una aldea fabril abandonada, ambos en Carolina del Norte."
+      },
+      "twilight": {
+        "tagline": "El lluvioso Noroeste del Pacífico de un romance de vampiros.",
+        "synopsis": "Una adolescente se enamora de un vampiro taciturno en un pueblo maderero siempre encapotado. El Forks real abraza por completo su fama, y la salvaje playa de troncos de La Push aparece a lo largo de toda la saga."
+      },
+      "cinema-paradiso": {
+        "tagline": "Una carta de amor al cine, rodada en la plaza de un pueblo siciliano.",
+        "synopsis": "Un cineasta recuerda al proyeccionista que marcó su infancia en un pequeño pueblo de Sicilia. El cine al aire libre de la plaza de Palazzo Adriano y las calles junto al mar de Cefalú son el cálido corazón de la película."
+      },
+      "the-sopranos": {
+        "tagline": "El Nueva Jersey de la saga de mafiosos que definió la televisión, heladería incluida.",
+        "synopsis": "Un capo de la mafia de Nueva Jersey hace malabares entre su familia y 'la familia', mientras va al psicólogo, en la serie que cambió la televisión. La heladería de su célebre corte a negro y la pizzería de su cabecera son rincones reales de Jersey."
+      },
+      "succession": {
+        "tagline": "Juegos de poder en una dinastía mediática, de las torres de Manhattan a un castillo toscano.",
+        "synopsis": "El envejecido patriarca de un imperio mediático enfrenta a sus hijos entre sí por el trono. Las relucientes torres de Hudson Yards hacen de imperio familiar, y un castillo toscano acoge una boda decisiva."
+      },
+      "dune": {
+        "tagline": "Arrakis son los desiertos del Wadi Rum y de Abu Dabi.",
+        "synopsis": "Un joven heredero se ve arrastrado a una guerra por un planeta desértico y su preciada especia. Las dunas del Wadi Rum jordano y las imponentes arenas cercanas a Liwa, en Abu Dabi, se convierten en el mundo de Arrakis."
+      },
+      "interstellar": {
+        "tagline": "Un planeta de hielo conjurado a partir de un glaciar islandés.",
+        "synopsis": "Unos exploradores atraviesan un agujero de gusano en busca de un nuevo hogar para la humanidad entre las estrellas. El mundo helado que recorren es la lengua azul del glaciar Svínafellsjökull, en el sureste de Islandia."
+      },
+      "stranger-things": {
+        "tagline": "Hawkins es un pueblo de Georgia, centro comercial incluido.",
+        "synopsis": "Un grupo de chavales de la Indiana de los años ochenta se enfrenta a un monstruo de una dimensión paralela. Su pueblo de Hawkins es en realidad la pequeña localidad de Jackson, en Georgia, y el centro comercial Starcourt es un mall de verdad de la zona de Atlanta."
+      },
+      "yellowstone": {
+        "tagline": "El rancho de los Dutton es una finca de verdad en Montana.",
+        "synopsis": "Una dinastía ganadera de Montana lucha por conservar sus tierras frente a todo el que se acerca. El Yellowstone de los Dutton es el auténtico Chief Joseph Ranch, en el valle de Bitterroot, recortado contra las Rocosas."
+      },
+      "eat-pray-love": {
+        "tagline": "Un viaje de renovación, anclado en los arrozales de Bali.",
+        "synopsis": "Una mujer deja atrás su vida para viajar en busca de placer, devoción y equilibrio. Su capítulo indonesio transcurre en torno a Ubud, entre los arrozales esmeralda de Bali y una cala del sur enmarcada por acantilados."
+      },
+      "joker": {
+        "tagline": "La escalera del Bronx que se convirtió en icono al instante.",
+        "synopsis": "El lento desmoronamiento de un cómico fracasado lo convierte en el villano más infame de Gotham. La larga escalera pública del Bronx donde baila se ha convertido en un auténtico lugar de peregrinación."
       }
     },
     "destinations": {
@@ -676,6 +748,54 @@
       },
       "canadian-rockies": {
         "blurb": "Las cumbres imponentes y los prados alpinos de Kananaskis Country, en Alberta, que hicieron de montaña de Wyoming en un romance emblemático. Es alta montaña salvaje, a una hora al oeste de Calgary."
+      },
+      "albuquerque": {
+        "blurb": "La ciudad de alta meseta desértica de Nuevo México que se convirtió en la inesperada capital de la televisión de prestigio, un mar de adobe, centros comerciales de paso y cielos inmensos. La casa familiar, el despacho del abogado y la pollería que sirve de tapadera son todos reales, repartidos por la ciudad a varios trayectos en coche unos de otros."
+      },
+      "dubai": {
+        "blurb": "Un skyline de torres que baten récords alzándose del desierto del Golfo, hecho a medida para acrobacias de superproducción y espectáculo de revista. El edificio más alto del mundo ancla una ciudad calurosa, moderna y fácil de recorrer."
+      },
+      "istanbul": {
+        "blurb": "La ciudad que abraza dos continentes, todo cúpulas, bazares y barcos cruzando el Bósforo, una de las favoritas para persecuciones por los tejados e intrigas de espías. Su gran mercado y sus mezquitas se concentran en un casco antiguo que se recorre a pie."
+      },
+      "interlaken": {
+        "blurb": "El corazón de lagos y montañas del Oberland bernés, donde el embarcadero de un lago turquesa se convirtió en lugar de peregrinación para los fans de un exitoso romance coreano. Iseltwald, Brienz y los puentes en altura forman un cómodo bucle en barco, tren y autobús."
+      },
+      "seoul": {
+        "blurb": "La eléctrica capital de Corea del Sur, hecha de calles escalonadas, palacios y neón, y telón de fondo de un estudio sobre la lucha de clases premiado con el Óscar. Sus barrios en ladera y sus tiendas de esquina son la geografía real que hay detrás de la pantalla."
+      },
+      "vienna": {
+        "blurb": "La capital imperial de Austria, de óperas, cafés y una noria gigante, una ciudad tanto de cine negro de posguerra como de modernos thrillers de espías. Su grandioso centro es compacto y está hecho para caminar."
+      },
+      "krakow": {
+        "blurb": "La antigua capital real de Polonia, magníficamente conservada, con su plaza del mercado y el histórico barrio judío de Kazimierz cargados de historia. Una fábrica real de tiempos de la guerra, hoy un museo conmovedor, se encuentra al otro lado del río."
+      },
+      "north-carolina": {
+        "blurb": "Las cascadas y los bosques de las montañas Blue Ridge, junto a una aldea fabril abandonada e inquietantemente conservada, hicieron de arena y distrito natal de una saga distópica. Asheville es la frondosa base para verlo todo."
+      },
+      "forks": {
+        "blurb": "Un lluvioso pueblo maderero de la península Olympic, en el estado de Washington, que un romance de vampiros hizo famoso y que ahora lo abraza por completo. Playas salvajes de troncos y bosque lluvioso quedan a un corto trayecto en coche."
+      },
+      "cefalu": {
+        "blurb": "Un pueblo costero siciliano de piedra dorada bajo un gran peñasco, emparejado aquí con la localidad de interior de Palazzo Adriano, cuya plaza acogió el cine de pueblo más querido del cine. Ambos son excursiones de un día fáciles desde Palermo."
+      },
+      "new-jersey": {
+        "blurb": "Los suburbios y las autopistas de peaje al otro lado del río frente a Nueva York, el telón de fondo curtido de la saga de mafiosos que definió la televisión. Una heladería y una pizzería de carretera de la serie siguen abiertas hoy en día."
+      },
+      "abu-dhabi": {
+        "blurb": "La capital emiratí y las inmensas dunas del Cuarto Vacío en Liwa, cuyas arenas imponentes han hecho de mundo desértico alienígena. Las dunas quedan a unas horas tierra adentro desde la costa."
+      },
+      "vatnajokull": {
+        "blurb": "El país de los glaciares del sureste de Islandia, donde una lengua de hielo azul hizo de planeta helado al otro lado de un agujero de gusano. Skaftafell y la laguna glaciar son las paradas estrella a lo largo de la carretera de circunvalación."
+      },
+      "atlanta": {
+        "blurb": "El polo de la industria del cine en Georgia y sus pequeños pueblos de alrededor, uno de los cuales se convirtió en la Indiana de los años ochenta de un éxito sobrenatural. Una plaza, un centro comercial y un bosque hacen del Hawkins de ficción."
+      },
+      "montana": {
+        "blurb": "Tierra de ranchos y cielos inmensos en el valle de Bitterroot, al pie de las Rocosas, hogar de la finca real que hace del rancho asediado de una dinastía ganadera. Amplia, salvaje y a un mundo de distancia de la ciudad."
+      },
+      "bali": {
+        "blurb": "La isla indonesia de arrozales, templos y playas de surf, el capítulo final de búsqueda interior del viaje de unas memorias superventas. Ubud es su corazón verde y espiritual, con calas enmarcadas por acantilados hacia el sur."
       }
     },
     "locations": {
@@ -1781,6 +1901,270 @@
         "nearbyTips": [
           "El monte Lougheed es la cumbre que hizo de Brokeback.",
           "El Parque Nacional de Banff queda a poca distancia en coche."
+        ]
+      },
+      "walter-white-house": {
+        "sceneContext": "La modesta casa de una sola planta es el hogar de la familia White a lo largo de toda la serie, incluido su célebre momento de la pizza en el tejado.",
+        "howToVisit": "Es una vivienda particular en una calle de lo más normal, así que admírala solo desde la vía pública, guarda silencio y no lances nada: los dueños han pedido a los fans que sean respetuosos. Fotos desde la acera y nada más.",
+        "nearbyTips": [
+          "Muchos otros lugares de Breaking Bad están repartidos por la ciudad.",
+          "El casco antiguo de Albuquerque (Old Town) es una buena base céntrica."
+        ]
+      },
+      "los-pollos-twisters": {
+        "sceneContext": "Este restaurante Twisters en activo es la cadena de pollo frito de Gus Fring, Los Pollos Hermanos, la tapadera de su imperio.",
+        "howToVisit": "Es un local de comida rápida real y abierto, así que entra, pide algo y haz una foto del inconfundible interior: el personal está acostumbrado a los fans. Queda en la zona suroeste de la ciudad.",
+        "nearbyTips": [
+          "El comedor está decorado con guiños a la serie.",
+          "Combínalo con una ruta por libre en coche por otros lugares de rodaje."
+        ]
+      },
+      "burj-khalifa": {
+        "sceneContext": "Ethan Hunt escala la fachada de cristal del edificio más alto del mundo en la acrobacia más vertiginosa de la saga.",
+        "howToVisit": "Los miradores At the Top son de pago y conviene reservarlos con antelación para el atardecer; la torre se alza sobre el Dubai Mall y sus fuentes. No hace falta escalar nada.",
+        "nearbyTips": [
+          "El espectáculo de la Fuente de Dubái se celebra cada tarde al pie de la torre.",
+          "El Dubai Mall es uno de los más grandes del mundo."
+        ]
+      },
+      "vienna-state-opera": {
+        "sceneContext": "Una función en la gran ópera es el escenario de una tensa secuencia de asesinato.",
+        "howToVisit": "Es una ópera en activo; asiste a una función, haz una visita guiada entre bambalinas o consigue entradas baratas de pie la misma noche. Está en la Ringstrasse, en pleno corazón de la ciudad.",
+        "nearbyTips": [
+          "Las entradas de pie se venden muy baratas antes de las funciones.",
+          "La Sachertorte del cercano Hotel Sacher es todo un ritual."
+        ]
+      },
+      "glen-etive": {
+        "sceneContext": "La sinuosa carretera de un solo carril que se adentra en este valle remoto es por donde Bond conduce su Aston Martin de vuelta a Skyfall.",
+        "howToVisit": "Es una carretera pública y gratuita de un solo carril que sale de la A82 a través de Glencoe, con apartaderos y vistas espectaculares; conduce despacio y usa las áreas de descanso para las fotos. Termina sin salida en un lago.",
+        "nearbyTips": [
+          "El propio valle de Glencoe queda a unos minutos de vuelta por la carretera.",
+          "Fort William y Glenfinnan quedan a un corto trayecto en coche."
+        ]
+      },
+      "grand-bazaar-istanbul": {
+        "sceneContext": "La trepidante secuencia de apertura de la película recorre los tejados y las callejuelas cubiertas del gran mercado.",
+        "howToVisit": "Es uno de los mercados cubiertos más antiguos del mundo, de entrada gratuita y abierto a diario salvo los domingos; se da por hecho que vas a regatear y a mediodía está a tope. Ten cuidado de no perderte en el laberinto de callejuelas.",
+        "nearbyTips": [
+          "El Bazar de las Especias queda a un corto paseo cuesta abajo.",
+          "Santa Sofía y la Mezquita Azul están cerca."
+        ]
+      },
+      "iseltwald-jetty": {
+        "sceneContext": "El pequeño embarcadero de madera sobre el turquesa lago de Brienz es donde los enamorados de la serie comparten una escena decisiva al piano.",
+        "howToVisit": "Vienen tantos fans que el pueblo cobra ahora una pequeña tasa por pisar el embarcadero; llega a Iseltwald en barco o en autobús desde Interlaken. Ve temprano para tener el agua en calma y menos cola.",
+        "nearbyTips": [
+          "Los barcos del lago de Brienz paran justo en el pueblo.",
+          "Las cascadas de Giessbach quedan al otro lado del lago."
+        ]
+      },
+      "sigriswil-panorama-bridge": {
+        "sceneContext": "El esbelto puente peatonal que salva un profundo desfiladero aparece en el idilio suizo de la pareja.",
+        "howToVisit": "Es un puente colgante peatonal con una pequeña tasa de paso, parte de un bonito paseo sobre el lago de Thun; queda a un corto trayecto en coche o en autobús desde Interlaken. No apto para quien sufra de vértigo.",
+        "nearbyTips": [
+          "El puente enlaza con un sendero panorámico junto al lago.",
+          "El castillo y el casco antiguo de Thun quedan cerca."
+        ]
+      },
+      "ahyeon-dong-stairs": {
+        "sceneContext": "La empinada calle escalonada por la que la familia Kim baja a toda prisa bajo la lluvia resume la geografía de arriba y de abajo de la película.",
+        "howToVisit": "Es una escalera residencial real y habitada, gratuita para subir pero llena de vecinos de verdad, así que visítala en silencio y de día. Queda cerca de las estaciones de Ahyeon y Gongdeok.",
+        "nearbyTips": [
+          "La tienda de la esquina de la película está al pie de la escalera.",
+          "Los puestos de comida (pojangmacha) de Mapo son un plan local de noche."
+        ]
+      },
+      "woori-supermarket": {
+        "sceneContext": "El colmado de barrio al pie de la escalera es la tienda de esquina que se ve a lo largo de las escenas de la familia.",
+        "howToVisit": "Es una tienda local en activo, así que compra algo y ten consideración con los dueños y los vecinos; está justo al lado de la famosa escalera. Combina las dos cosas en una sola parada rápida.",
+        "nearbyTips": [
+          "Encaja de forma natural con la calle escalonada de arriba.",
+          "El bullicio de Hongdae queda a un par de paradas."
+        ]
+      },
+      "wiener-riesenrad": {
+        "sceneContext": "La gigantesca noria del Prater es donde Harry Lime suelta su escalofriante discurso del reloj de cuco.",
+        "howToVisit": "Es una noria histórica con trayecto de pago en amplias cabinas, abierta a diario en el parque de atracciones del Prater; queda a un corto trayecto en metro desde el centro. El atardecer da la mejor luz sobre la ciudad.",
+        "nearbyTips": [
+          "El viejo parque de atracciones del Prater se extiende alrededor de la noria.",
+          "El verde parque del Prater es ideal para pasear o ir en bici."
+        ]
+      },
+      "schreyvogelgasse-doorway": {
+        "sceneContext": "Un portal en sombra de esta callejuela tranquila es donde a Harry Lime lo descubre por primera vez un súbito haz de luz.",
+        "howToVisit": "Es un portal real en una calle pública cerca del Mölker Bastei, gratuito de encontrar y fotografiar a cualquier hora; no está señalizado, así que busca la dirección. Las callejuelas del casco antiguo de alrededor invitan a pasear.",
+        "nearbyTips": [
+          "Beethoven vivió en su día en el Mölker Bastei, aquí al lado.",
+          "La universidad y la Ringstrasse quedan a un corto paseo."
+        ]
+      },
+      "schindler-factory-krakow": {
+        "sceneContext": "La auténtica fábrica de esmaltes de Oskar Schindler, hoy un museo sobre la Cracovia de la guerra, está en el centro mismo de la historia real.",
+        "howToVisit": "Es un museo de pago en el barrio de Zabłocie, conviene reservar con antelación porque se agota; calcula un par de horas conmovedoras. Queda al otro lado del río desde el casco antiguo.",
+        "nearbyTips": [
+          "El museo de arte contemporáneo MOCAK está al lado.",
+          "La plaza memorial del gueto de Podgórze queda cerca."
+        ]
+      },
+      "kazimierz-district": {
+        "sceneContext": "El histórico barrio judío, con sus viejas sinagogas y plazas, hace de Cracovia de la guerra a lo largo de toda la película.",
+        "howToVisit": "Es un barrio gratuito y lleno de ambiente para recorrer a pie, hoy repleto de cafés y bares junto a sus sinagogas y monumentos. Queda a un corto paseo de la plaza del mercado principal.",
+        "nearbyTips": [
+          "La plaza Nowy es el corazón de la vida nocturna de Kazimierz.",
+          "Varias sinagogas históricas están abiertas a la visita."
+        ]
+      },
+      "dupont-state-forest": {
+        "sceneContext": "Las cascadas y los bosques de este parque forestal son la arena donde Katniss sobrevive a los Juegos.",
+        "howToVisit": "Es un bosque estatal gratuito con senderos señalizados hasta varias grandes cascadas; Triple Falls y Hooker Falls son las caminatas estrella, muy concurridas los fines de semana de verano. Lleva calzado resistente.",
+        "nearbyTips": [
+          "Triple Falls aparece en las escenas de la arena.",
+          "Brevard y Asheville son bases cercanas."
+        ]
+      },
+      "henry-river-mill-village": {
+        "sceneContext": "Esta aldea fabril de algodón abandonada es el Distrito 12, el ruinoso distrito natal de Katniss.",
+        "howToVisit": "Es una aldea histórica conservada que ofrece visitas con entrada; consulta el horario, porque el acceso está regulado y es propiedad privada. Queda junto a la interestatal 40, al oeste de Hickory.",
+        "nearbyTips": [
+          "Las visitas señalan la casa de Katniss y la panadería de los Mellark.",
+          "Es un desvío fácil entre Asheville y Charlotte."
+        ]
+      },
+      "forks-washington": {
+        "sceneContext": "El lluvioso pueblo maderero es el escenario de la saga, y la localidad abraza ahora su fama con carteles y rutas de Crepúsculo.",
+        "howToVisit": "Es un pueblo real y en activo por el que puedes circular libremente; la oficina de turismo ofrece mapas de Crepúsculo y un photocall con 'la camioneta de Bella'. Buena parte de las películas se rodó en realidad en Oregón, así que este es el hogar espiritual.",
+        "nearbyTips": [
+          "La oficina de turismo tiene un rincón fotográfico de Crepúsculo.",
+          "El bosque lluvioso de Hoh queda a un bonito trayecto en coche."
+        ]
+      },
+      "la-push-beach": {
+        "sceneContext": "La salvaje playa sembrada de troncos de las tierras quileute aparece a lo largo de toda la serie.",
+        "howToVisit": "Es una espectacular playa del Pacífico, gratuita, en la Reserva Quileute, abierta a los visitantes que respetan a la comunidad; queda a unos 20 minutos de Forks. Vigila las mareas y el tiempo.",
+        "nearbyTips": [
+          "Con la marea baja, emergen islotes de roca mar adentro.",
+          "La cercana playa de Rialto es otra orilla salvaje."
+        ]
+      },
+      "palazzo-adriano-square": {
+        "sceneContext": "La plaza del pueblo, con su fuente y sus dos iglesias gemelas, fue el escenario del cine al aire libre que late en el corazón de la película.",
+        "howToVisit": "Es la plaza gratuita y adormecida de un pueblo de montaña, a hora y media tierra adentro desde la costa; hay una pequeña exposición de Cinema Paradiso en el pueblo. Lo mejor es combinarla con una ruta en coche por las colinas Sicani.",
+        "nearbyTips": [
+          "Un pequeño museo recuerda el rodaje de la película aquí.",
+          "Las montañas Sicani hacen una bonita ruta en coche."
+        ]
+      },
+      "cefalu-old-town": {
+        "sceneContext": "Las viejas callejuelas, la playa y la gran catedral normanda de este pueblo costero también aparecen en la querida película.",
+        "howToVisit": "Es un casco antiguo gratuito y paseable bajo un enorme peñasco; la catedral es de entrada libre y la playa está justo ahí. Queda a un cómodo trayecto en tren al este de Palermo.",
+        "nearbyTips": [
+          "Sube a La Rocca, sobre el pueblo, por las vistas.",
+          "Los mosaicos de la catedral normanda son extraordinarios."
+        ]
+      },
+      "holstens-bloomfield": {
+        "sceneContext": "Esta heladería y confitería a la antigua usanza es donde la serie hace su célebre corte a negro en la escena final.",
+        "howToVisit": "Es una querida heladería real, abierta a diario; siéntate en el reservado, pide aros de cebolla y una copa de helado, y una placa marca el momento. Está en Bloomfield, al noroeste de Newark.",
+        "nearbyTips": [
+          "Pide que te sienten en el reservado del final de la serie.",
+          "El mostrador de bombones es toda una institución de Jersey."
+        ]
+      },
+      "pizzaland-north-arlington": {
+        "sceneContext": "La diminuta pizzería de carretera pasa fugazmente en el célebre trayecto de vuelta a casa de la cabecera de la serie.",
+        "howToVisit": "Es una pizzería al corte real y todavía abierta, así que párate a por una porción clásica de Nueva Jersey; basta una foto rápida del escaparate, que no ha cambiado. Está en la Belleville Turnpike.",
+        "nearbyTips": [
+          "El escaparate tiene exactamente el mismo aspecto que en la cabecera.",
+          "Es una parada fácil dentro de una ruta más amplia de Los Soprano."
+        ]
+      },
+      "hudson-yards-nyc": {
+        "sceneContext": "Las relucientes torres de cristal de esta urbanización hacen del imperio mediático de la familia Roy.",
+        "howToVisit": "Es una plaza pública gratuita para pasear, con la escultura escalable del Vessel y, en lo alto, el mirador de pago Edge; queda al final del High Line. Ve por la arquitectura y las vistas al río.",
+        "nearbyTips": [
+          "Recorre el High Line directo hasta Hudson Yards.",
+          "El mirador Edge sobresale en voladizo justo por encima."
+        ]
+      },
+      "castello-di-celsa": {
+        "sceneContext": "Este castillo toscano y sus jardines acogen la fastuosa boda familiar del final de la tercera temporada de la serie.",
+        "howToVisit": "Es un castillo privado cuyos jardines a la italiana abren en días señalados con entrada; consúltalo antes de ir. Queda en las colinas boscosas al oeste de Siena.",
+        "nearbyTips": [
+          "La Piazza del Campo de Siena, con forma de concha, queda cerca.",
+          "Los pueblos de la Montagnola se reparten a su alrededor."
+        ]
+      },
+      "wadi-rum-dune": {
+        "sceneContext": "Las dunas rojas y los imponentes cañones del Wadi Rum son el planeta desértico Arrakis, hogar de la especia.",
+        "howToVisit": "Se entra con entrada y se explora en excursiones en todoterreno guiadas por beduinos o en campamentos de una noche en el desierto; reserva con un operador local y lleva protección solar. Áqaba queda a una hora aproximadamente.",
+        "nearbyTips": [
+          "Los campamentos de una noche ofrecen cielos nocturnos inmensos y despejados.",
+          "Petra queda a un par de horas al norte."
+        ]
+      },
+      "liwa-desert": {
+        "sceneContext": "Las colosales dunas del Cuarto Vacío cercanas a Liwa también hacen de arenas de Arrakis.",
+        "howToVisit": "Es una remota región desértica a la que se llega tras un largo trayecto en coche desde Abu Dabi; ve con un operador de excursiones por el desierto para las rutas sobre las dunas, y plantéate el espectacular resort Qasr Al Sarab. Los veranos son de un calor implacable.",
+        "nearbyTips": [
+          "La duna de Tal Moreeb es de las más altas del mundo.",
+          "Los resorts del desierto ofrecen excursiones guiadas por las dunas."
+        ]
+      },
+      "svinafellsjokull-glacier": {
+        "sceneContext": "Esta lengua de glaciar azul es el mundo gélido, de nubes congeladas, que la tripulación explora al otro lado del agujero de gusano.",
+        "howToVisit": "Es una lengua glaciar cerca de Skaftafell, en el Parque Nacional de Vatnajökull; admírala desde el aparcamiento y el sendero señalizado, o adéntrate en el hielo solo con un grupo guiado, ya que las grietas son peligrosas. Queda justo al lado de la carretera de circunvalación.",
+        "nearbyTips": [
+          "La laguna glaciar de Jökulsárlón queda a un corto trayecto en coche hacia el este.",
+          "Skaftafell tiene cascadas y caminatas más largas."
+        ]
+      },
+      "downtown-jackson-georgia": {
+        "sceneContext": "La vieja plaza de este pequeño pueblo de Georgia hace del centro de la Hawkins de ficción, en Indiana.",
+        "howToVisit": "Es una plaza de pueblo real y gratuita por la que puedes pasear; las tiendas y la fachada del cine se reconocen de la serie. Queda a una hora aproximadamente al sur de Atlanta.",
+        "nearbyTips": [
+          "Los escaparates de la plaza aparecen en la serie.",
+          "Los operadores de rutas de cine de Atlanta cubren más lugares."
+        ]
+      },
+      "gwinnett-place-mall": {
+        "sceneContext": "Este centro comercial venido a menos se transformó en el reluciente Starcourt Mall de la tercera temporada de la serie.",
+        "howToVisit": "Es un mall en buena parte cerrado, en Duluth, cuyo acceso varía, así que infórmate antes de ir; el exterior se ve fácilmente desde la carretera. Está en los suburbios del norte de Atlanta.",
+        "nearbyTips": [
+          "El rótulo del centro comercial se convirtió en un hito para los fans.",
+          "Las atracciones del centro de Atlanta quedan a un corto trayecto en coche."
+        ]
+      },
+      "chief-joseph-ranch": {
+        "sceneContext": "Este histórico rancho de troncos y piedra en el valle de Bitterroot es el hogar Yellowstone de la familia Dutton.",
+        "howToVisit": "Es un rancho de huéspedes en activo y vivienda particular; las cabañas del pabellón principal se alquilan fuera de temporada, pero no es una atracción a la que llegar sin más, así que admíralo desde la carretera. Reserva una cabaña con mucha antelación si quieres alojarte.",
+        "nearbyTips": [
+          "La ruta en coche por el valle de Bitterroot es espectacular.",
+          "Darby y Hamilton son los pueblos más cercanos."
+        ]
+      },
+      "padang-padang-beach": {
+        "sceneContext": "La cala enmarcada por acantilados, a la que se llega por una grieta en la roca, es donde la protagonista encuentra la calma en su viaje por Bali.",
+        "howToVisit": "Es una pequeña playa con una modesta entrada, a la que se baja por una escalera a través de una hendidura en la roca; es popular entre surfistas y se llena a mediodía. Está en la península de Bukit.",
+        "nearbyTips": [
+          "El templo de Uluwatu y su danza al atardecer quedan cerca.",
+          "Las olas del Bukit atraen a surfistas de todo el mundo."
+        ]
+      },
+      "tegallalang-rice-terraces": {
+        "sceneContext": "Los esculpidos arrozales esmeralda en torno a Ubud enmarcan el despertar balinés de la película.",
+        "howToVisit": "Es un valle agrícola en activo con una pequeña entrada y puntos de donación a lo largo de los senderos; ve temprano para adelantarte a los autobuses de turistas y al calor. Queda a un corto trayecto en coche al norte de Ubud.",
+        "nearbyTips": [
+          "El bosque de los monos y los mercados de Ubud quedan cerca.",
+          "El amanecer regala la luz más suave sobre los arrozales."
+        ]
+      },
+      "joker-stairs-bronx": {
+        "sceneContext": "La larga escalera pública donde Arthur Fleck baila completamente caracterizado se convirtió al instante en un hito de la cultura pop.",
+        "howToVisit": "Es una escalera pública real y gratuita entre dos calles del Bronx, usada a diario por los vecinos, así que visítala con respeto y de día. Queda a un trayecto en metro desde Manhattan.",
+        "nearbyTips": [
+          "Los escalones unen las avenidas Shakespeare y Anderson.",
+          "El Yankee Stadium no queda lejos hacia el sur."
         ]
       }
     }

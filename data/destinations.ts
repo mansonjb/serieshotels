@@ -876,4 +876,182 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "The soaring peaks and alpine meadows of Alberta's Kananaskis Country, which stood in for a Wyoming mountain in a landmark romance. It's wild, high country an hour west of Calgary.",
   },
+
+  // ===================== Added in the v5 expansion =====================
+  {
+    slug: "albuquerque",
+    name: "Albuquerque",
+    country: "United States",
+    region: "New Mexico",
+    lat: 35.0844,
+    lng: -106.6504,
+    accent: "15803d",
+    blurb:
+      "The high-desert New Mexico city that became the unlikely capital of prestige television, a sprawl of adobe, strip malls and big skies. The family house, the lawyer's office and the fried-chicken front are all real, scattered drives apart across town.",
+  },
+  {
+    slug: "dubai",
+    name: "Dubai",
+    country: "United Arab Emirates",
+    region: "Dubai",
+    lat: 25.2048,
+    lng: 55.2708,
+    accent: "991b1b",
+    blurb:
+      "A skyline of record-breaking towers rising from the Gulf desert, made for blockbuster stunts and glossy spectacle. The world's tallest building anchors a city that is hot, modern and easy to get around.",
+  },
+  {
+    slug: "istanbul",
+    name: "Istanbul",
+    country: "Turkey",
+    region: "Marmara",
+    lat: 41.0082,
+    lng: 28.9784,
+    accent: "0c4a6e",
+    blurb:
+      "The city that straddles two continents, all domes, bazaars and ferries across the Bosphorus, a favourite for rooftop chases and spy intrigue. Its great market and mosques cluster in a walkable old core.",
+  },
+  {
+    slug: "interlaken",
+    name: "Interlaken",
+    country: "Switzerland",
+    region: "Bern",
+    lat: 46.6863,
+    lng: 7.8632,
+    accent: "0284c7",
+    blurb:
+      "The lake-and-mountain heart of the Bernese Oberland, where a turquoise lake jetty became a pilgrimage for fans of a hit Korean romance. Iseltwald, Brienz and the high bridges are an easy loop by boat, train and bus.",
+  },
+  {
+    slug: "seoul",
+    name: "Seoul",
+    country: "South Korea",
+    region: "Seoul Capital Area",
+    lat: 37.5665,
+    lng: 126.978,
+    accent: "374151",
+    blurb:
+      "South Korea's electric capital of stair-streets, palaces and neon, and the backdrop to an Oscar-winning study of class. Its hillside neighbourhoods and corner shops are the real geography behind the screen.",
+  },
+  {
+    slug: "vienna",
+    name: "Vienna",
+    country: "Austria",
+    region: "Vienna",
+    lat: 48.2082,
+    lng: 16.3738,
+    accent: "4b5563",
+    blurb:
+      "The imperial Austrian capital of opera houses, coffee houses and a giant Ferris wheel, a city of postwar noir and modern spy thrillers alike. Its grand core is compact and made for walking.",
+  },
+  {
+    slug: "krakow",
+    name: "Kraków",
+    country: "Poland",
+    region: "Lesser Poland",
+    lat: 50.0647,
+    lng: 19.945,
+    accent: "334155",
+    blurb:
+      "Poland's beautifully preserved old royal capital, its market square and the historic Jewish quarter of Kazimierz steeped in history. A real wartime factory, now a moving museum, sits across the river.",
+  },
+  {
+    slug: "north-carolina",
+    name: "North Carolina",
+    country: "United States",
+    region: "Blue Ridge",
+    lat: 35.5951,
+    lng: -82.5515,
+    accent: "9a3412",
+    blurb:
+      "The waterfalls and forests of the Blue Ridge mountains, plus an eerily preserved abandoned mill village, made this the arena and home district of a dystopian saga. Asheville is the leafy base for it all.",
+  },
+  {
+    slug: "forks",
+    name: "Forks",
+    country: "United States",
+    region: "Washington",
+    lat: 47.9504,
+    lng: -124.3855,
+    accent: "1e3a8a",
+    blurb:
+      "A rainy logging town on Washington's Olympic Peninsula that a vampire romance made famous, and that now leans fully into it. Wild driftwood beaches and rainforest are a short drive away.",
+  },
+  {
+    slug: "cefalu",
+    name: "Cefalù",
+    country: "Italy",
+    region: "Sicily",
+    lat: 38.0397,
+    lng: 14.0233,
+    accent: "be123c",
+    blurb:
+      "A golden-stone Sicilian seaside town beneath a great rock, paired here with the inland village of Palazzo Adriano whose square hosted cinema's most beloved village picture-house. Both are easy day trips from Palermo.",
+  },
+  {
+    slug: "new-jersey",
+    name: "New Jersey",
+    country: "United States",
+    region: "New Jersey",
+    lat: 40.7968,
+    lng: -74.1857,
+    accent: "7f1d1d",
+    blurb:
+      "The suburbs and turnpikes across the river from New York, the lived-in backdrop of television's defining mob saga. An ice-cream parlour and a roadside pizzeria from the show still trade today.",
+  },
+  {
+    slug: "abu-dhabi",
+    name: "Abu Dhabi",
+    country: "United Arab Emirates",
+    region: "Abu Dhabi",
+    lat: 24.4539,
+    lng: 54.3773,
+    accent: "a16207",
+    blurb:
+      "The Emirati capital and the vast dunes of the Empty Quarter at Liwa, whose towering sands have stood in for an alien desert world. The dunes are a few hours inland from the coast.",
+  },
+  {
+    slug: "vatnajokull",
+    name: "Vatnajökull",
+    country: "Iceland",
+    region: "Austurland",
+    lat: 64.0167,
+    lng: -16.9167,
+    accent: "0c4a6e",
+    blurb:
+      "The glacier country of south-east Iceland, where a blue glacier tongue played a frozen planet on the far side of a wormhole. Skaftafell and the ice lagoon are the headline stops along the ring road.",
+  },
+  {
+    slug: "atlanta",
+    name: "Atlanta & Georgia",
+    country: "United States",
+    region: "Georgia",
+    lat: 33.749,
+    lng: -84.388,
+    accent: "991b1b",
+    blurb:
+      "Georgia's film-industry hub and its small surrounding towns, one of which became the 1980s Indiana of a supernatural hit. A square, a mall and a forest stand in for the fictional Hawkins.",
+  },
+  {
+    slug: "montana",
+    name: "Montana",
+    country: "United States",
+    region: "Montana",
+    lat: 46.0167,
+    lng: -114.1818,
+    accent: "92400e",
+    blurb:
+      "Big-sky ranch country in the Bitterroot Valley beneath the Rockies, home to the real spread that plays a cattle dynasty's embattled ranch. Wide, wild and a world away from the city.",
+  },
+  {
+    slug: "bali",
+    name: "Bali",
+    country: "Indonesia",
+    region: "Bali",
+    lat: -8.4095,
+    lng: 115.1889,
+    accent: "0d9488",
+    blurb:
+      "The Indonesian island of rice terraces, temples and surf beaches, the soul-searching final chapter of a best-selling memoir's journey. Ubud is the green, spiritual heart, with cliff-framed coves to the south.",
+  },
 ];
