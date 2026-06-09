@@ -509,6 +509,46 @@
       "joker": {
         "tagline": "La scalinata del Bronx diventata un'icona all'istante.",
         "synopsis": "Il lento sgretolarsi di un comico fallito lo trasforma nel più famigerato dei criminali di Gotham. La lunga scalinata pubblica del Bronx dove balla è diventata una vera meta di pellegrinaggio."
+      },
+      "in-bruges": {
+        "tagline": "Due sicari in fuga in una cittadina belga da fiaba.",
+        "synopsis": "Due sicari irlandesi si tengono alla larga nella Bruges medievale dopo un colpo finito male: uno rapito dall'incanto del posto, l'altro annoiato a morte. Il campanile, i canali e le piazze acciottolate della vera Bruges accompagnano il film dalla commedia nera fino alla tragedia."
+      },
+      "oceans-eleven": {
+        "tagline": "Un colpo di classe a Las Vegas, fontane del Bellagio comprese.",
+        "synopsis": "Un ex galeotto dal fascino irresistibile mette insieme una squadra di undici uomini per svaligiare tre casinò di Las Vegas in una sola notte. Il Bellagio e le sue fontane danzanti sono il cuore glamour dell'intera impresa."
+      },
+      "the-hangover": {
+        "tagline": "Un addio al celibato finito malissimo sulla Strip di Las Vegas.",
+        "synopsis": "Quattro amici si svegliano dopo un addio al celibato di cui non ricordano nulla, con lo sposo sparito, e provano a ricostruire una notte folle in giro per Las Vegas. Il Caesars Palace e la Strip al neon sono il parco giochi del disastro."
+      },
+      "spectre": {
+        "tagline": "Bond si apre con una parata del Giorno dei Morti a Città del Messico.",
+        "synopsis": "James Bond segue un messaggio cifrato per smascherare un'organizzazione sinistra, in un inseguimento che fa il giro del mondo. L'apertura mozzafiato attraversa una parata del Giorno dei Morti sullo Zócalo di Città del Messico, un evento che il film ha di fatto inventato e che oggi la città mette in scena per davvero."
+      },
+      "letters-to-juliet": {
+        "tagline": "Una storia d'amore alla ricerca di un amore perduto tra le vie di Verona.",
+        "synopsis": "Una giovane donna risponde a una lettera d'amore lasciata decenni prima alla casa di Giulietta, a Verona, e poi aiuta chi l'aveva scritta a ritrovare il suo grande amore di un tempo. Il balcone di Giulietta e le piazze affrescate danno al film il suo tono da favola."
+      },
+      "a-good-year": {
+        "tagline": "Un banchiere londinese eredita una tenuta vinicola baciata dal sole in Provenza.",
+        "synopsis": "Un banchiere di Londra dai modi spicci eredita la tenuta vinicola dello zio defunto, in Provenza, e riscopre piano piano ciò che conta davvero. Il castello in pietra color miele e il borgo arroccato tutt'intorno sono il vero Luberon."
+      },
+      "captain-corellis-mandolin": {
+        "tagline": "Una storia d'amore in tempo di guerra su un'isola greca abbagliante.",
+        "synopsis": "Nella Cefalonia occupata, un ufficiale italiano e una donna del posto si innamorano nel pieno della Seconda guerra mondiale. Le insenature turchesi e le spiagge di ciottoli bianchi dell'isola sono lo sfondo rigoglioso del film."
+      },
+      "the-goonies": {
+        "tagline": "Una caccia al tesoro per ragazzini lungo la costa nebbiosa dell'Oregon.",
+        "synopsis": "Una banda di ragazzini di provincia segue una mappa dei pirati in un'ultima avventura per salvare le proprie case. La casa dei Goonies in cima alla collina e la costa avvolta nella nebbia di Astoria, in Oregon, sono il vero campo di gioco del film."
+      },
+      "jaws": {
+        "tagline": "Lo squalo che svuotò le spiagge di un'isola del New England.",
+        "synopsis": "Un capo della polizia, uno scienziato e un vecchio pescatore danno la caccia a un grande squalo bianco che terrorizza un'isola turistica in piena estate. L'immaginaria Amity è in realtà Martha's Vineyard, le cui spiagge e il cui ponte levatoio sono inconfondibili."
+      },
+      "dirty-dancing": {
+        "tagline": "Un amore estivo in un resort, con tanto di presa sul lago.",
+        "synopsis": "In un resort estivo degli anni Sessanta, un'adolescente cresciuta nella bambagia si innamora del maestro di ballo di umili origini. La celebre presa nel lago è stata girata a Lake Lure, in Carolina del Nord, mentre il resort è in realtà uno chalet di pietra tra le montagne della Virginia."
       }
     },
     "destinations": {
@@ -796,6 +836,33 @@
       },
       "bali": {
         "blurb": "L'isola indonesiana delle risaie, dei templi e delle spiagge da surf, il capitolo finale, alla ricerca di sé, del viaggio di un memoir da record di vendite. Ubud è il cuore verde e spirituale, con cale incorniciate dalle scogliere a sud."
+      },
+      "bruges": {
+        "blurb": "Una città medievale perfettamente conservata, fatta di canali, case dai tetti a gradoni e un campanile che svetta, talmente da cartolina da diventare il rifugio a malincuore di un classico della commedia nera. Compatta e tutta percorribile a piedi, è a un comodo treno da Bruxelles."
+      },
+      "las-vegas": {
+        "blurb": "La città del deserto fatta di neon, fontane e casinò sfarzosi, palcoscenico naturale tanto per colpi di classe quanto per addii al celibato fuori controllo. La Strip mette quasi tutti i luoghi visti sullo schermo in un'unica, lunga e scintillante passeggiata."
+      },
+      "mexico-city": {
+        "blurb": "Una capitale immensa e vibrante, di grandi piazze e interni Art Nouveau, dove un film di spionaggio si apre con una parata del Giorno dei Morti che oggi la città inscena per davvero. Il centro storico raccoglie i luoghi più celebri uno accanto all'altro."
+      },
+      "verona": {
+        "blurb": "La città dai mattoni rosati di Romeo e Giulietta, di un'arena romana e di piazze affrescate, calamita per i romantici sullo schermo e nella vita. Il balcone di Giulietta e la piazza del mercato sono a due passi l'uno dall'altra."
+      },
+      "provence": {
+        "blurb": "Terra di lavanda fatta di borghi arroccati, vigneti e luce dorata, nel sud della Francia, dove un banchiere londinese ha riscoperto la belle vie. I paesi di pietra del Luberon si raccolgono nel raggio di una breve guidata."
+      },
+      "kefalonia": {
+        "blurb": "La più grande delle Isole Ionie, fatta di spettacolari spiagge di ciottoli bianchi e acque turchesi, scenario di un'ampia storia d'amore in tempo di guerra. Myrtos e Antisamos sono le baie da cartolina, raggiungibili lungo strade costiere tutte curve."
+      },
+      "astoria": {
+        "blurb": "Un vecchio porto avvolto nella nebbia, alla foce del fiume Columbia, le cui case vittoriane sulla collina sono protagoniste di un'amatissima avventura per ragazzi. Compatta e fuori dagli schemi, è la porta d'accesso alla costa selvaggia dell'Oregon."
+      },
+      "marthas-vineyard": {
+        "blurb": "Una signorile isola del New England, fatta di cittadine dalle case in legno bianco e di lunghe spiagge, per sempre l'Amity di un blockbuster estivo sugli squali. Raggiungibile in traghetto da Cape Cod, è tutta biciclette, spiagge e fari."
+      },
+      "virginia": {
+        "blurb": "Le Blue Ridge Mountains della Virginia occidentale, dove uno chalet in riva a un lago ha fatto da resort estivo a un amore nato sulla pista da ballo. Il Mountain Lake Lodge accoglie ancora oggi i fan tra le colline boscose."
       }
     },
     "locations": {
@@ -2165,6 +2232,150 @@
         "nearbyTips": [
           "I gradini collegano Shakespeare Avenue e Anderson Avenue.",
           "Lo Yankee Stadium non è lontano, verso sud."
+        ]
+      },
+      "belfry-of-bruges": {
+        "sceneContext": "La torre campanaria medievale che domina la piazza del mercato è il teatro del finale vertiginoso del film.",
+        "howToVisit": "Una salita a pagamento di 366 stretti gradini fino in cima, per la vista sulla città; in estate prenota una fascia oraria per saltare la fila. La piazza del Markt, in basso, è gratuita e piena di vita.",
+        "nearbyTips": [
+          "La piazza è cinta da case delle corporazioni dai tetti a gradoni e da caffè.",
+          "I giri in carrozza trainata dai cavalli partono dal Markt."
+        ]
+      },
+      "rozenhoedkaai": {
+        "sceneContext": "Questo angolo di canale, lo scorcio più fotografato di Bruges, compare nei vagabondaggi dei due sicari per la città vecchia.",
+        "howToVisit": "Un punto panoramico sulla banchina, gratuito e sempre aperto; vieni all'alba o al tramonto per la luce e la minore folla. I battelli sui canali partono dai pontili lì vicino.",
+        "nearbyTips": [
+          "Prendi un battello per vedere la città dall'acqua.",
+          "La piazza del Burg e la sua basilica sono a un minuto."
+        ]
+      },
+      "bellagio-fountains": {
+        "sceneContext": "Le fontane coreografate del Bellagio fanno da sfondo all'ultimo, malinconico ritrovo della banda dopo il colpo.",
+        "howToVisit": "Spettacoli gratuiti ogni 15-30 minuti sul lago davanti all'hotel, più frequenti dopo il tramonto; il marciapiede della Strip è il punto giusto. La sera è il momento migliore.",
+        "nearbyTips": [
+          "Il conservatorio all'interno del Bellagio è gratuito da visitare.",
+          "I casinò a tema della Strip si susseguono lì accanto."
+        ]
+      },
+      "caesars-palace": {
+        "sceneContext": "L'opulento resort-casinò è il posto in cui l'addio al celibato destinato al disastro fa il check-in, prima che la notte deragli del tutto.",
+        "howToVisit": "Un casinò-hotel in piena attività in cui si può girare liberamente, con i Forum Shops e le fontane all'interno; non serve alloggiarci per fare un giro. È centrale, sulla Strip.",
+        "nearbyTips": [
+          "I Forum Shops hanno un cielo finto e delle fontane.",
+          "Le fontane del Bellagio sono dall'altra parte della strada."
+        ]
+      },
+      "zocalo-mexico-city": {
+        "sceneContext": "Bond insegue un bersaglio in mezzo a un'enorme parata del Giorno dei Morti che attraversa la piazza principale della città, nell'apertura mozzafiato del film.",
+        "howToVisit": "Una delle piazze cittadine più grandi al mondo, gratuita e sempre aperta; la parata del Giorno dei Morti ispirata dal film va ora in scena ogni fine ottobre. La cattedrale e il palazzo nazionale la incorniciano.",
+        "nearbyTips": [
+          "Un bar con terrazza sui tetti regala la vista completa sulla piazza.",
+          "Le rovine del Templo Mayor sorgono appena fuori dalla piazza."
+        ]
+      },
+      "gran-hotel-ciudad-de-mexico": {
+        "sceneContext": "Lo spettacolare soffitto in vetrate Art Nouveau dell'hotel compare nella sequenza d'apertura del film.",
+        "howToVisit": "Un hotel in piena attività a due passi dallo Zócalo; chi non alloggia può visitare la hall o il ristorante panoramico sul tetto per vedere il celebre soffitto in stile Tiffany. Sii discreto, oppure ordina qualcosa al bar.",
+        "nearbyTips": [
+          "La terrazza sul tetto si affaccia sullo Zócalo.",
+          "Si trova a pochi passi dalla cattedrale."
+        ]
+      },
+      "juliet-balcony-verona": {
+        "sceneContext": "Il balcone nel cortile della casa di Giulietta è il punto in cui ha inizio la storia d'amore epistolare del film.",
+        "howToVisit": "Il cortile è gratuito; con un biglietto si sale sul balcone e si entra nella casa museo. Mettiti in conto la folla e pareti intere ricoperte di bigliettini d'amore.",
+        "nearbyTips": [
+          "Aggiungi un bigliettino al muro, o tocca la statua di Giulietta per buon auspicio.",
+          "Piazza delle Erbe è a due minuti."
+        ]
+      },
+      "piazza-delle-erbe-verona": {
+        "sceneContext": "La piazza del mercato affrescata, sull'antico foro romano, è l'immagine della Verona romantica del film.",
+        "howToVisit": "Una piazza gratuita e animata, con un mercato e i tavolini dei caffè, aperta tutto il giorno; sali sulla torre dei Lamberti, lì accanto, per la vista. È il cuore mondano della città.",
+        "nearbyTips": [
+          "Sali sulla Torre dei Lamberti per la vista dall'alto sui tetti.",
+          "L'Arena romana è a una breve passeggiata verso sud."
+        ]
+      },
+      "chateau-la-canorgue": {
+        "sceneContext": "Questa cantina del Luberon, ancora in attività, è la tenuta vinicola che il protagonista eredita e impara ad amare.",
+        "howToVisit": "Un'azienda vinicola vera, a conduzione familiare, vicino a Bonnieux; è proprietà privata, quindi acquista e degusta il vino in cantina invece di aggirarti tra i filari. Telefona prima per gli orari di apertura.",
+        "nearbyTips": [
+          "Il ponte romano Pont Julien è lì vicino.",
+          "Bonnieux, arroccata in cima, è a una breve guidata in salita."
+        ]
+      },
+      "gordes-village": {
+        "sceneContext": "Il borgo di pietra a terrazze fa da sfondo alla Provenza inondata di sole di cui il film si innamora.",
+        "howToVisit": "Un borgo arroccato e gratuito da girare a piedi, con un celebre punto panoramico sulla strada d'accesso; i parcheggi sono pochi, quindi arriva presto. I vicoli sono ripidi e acciottolati.",
+        "nearbyTips": [
+          "L'abbazia di Sénanque e la sua lavanda sono lì vicino.",
+          "Il punto panoramico sulla strada D15 è la foto classica."
+        ]
+      },
+      "myrtos-beach": {
+        "sceneContext": "L'abbagliante baia di ciottoli bianchi incastonata tra scogliere a picco è la visione del film di un'idilliaca isola greca.",
+        "howToVisit": "Una spiaggia gratuita raggiungibile lungo una strada a tornanti, con un punto panoramico in cima alla scogliera lungo la discesa; ci sono un paio di chioschi stagionali ma poca ombra. Vacci di mattina.",
+        "nearbyTips": [
+          "Fermati al belvedere in cima alla scogliera per lo scatto da cartolina.",
+          "Il borgo di Assos è una deviazione panoramica."
+        ]
+      },
+      "antisamos-beach": {
+        "sceneContext": "Questa insenatura di ciottoli circondata dal verde, vicino a Sami, è stata una delle spiagge chiave per le riprese della storia d'amore in tempo di guerra.",
+        "howToVisit": "Una spiaggia gratuita con lettini e taverne, alle spalle colline boscose; è a una breve guidata oltre il promontorio da Sami. L'acqua è limpida e profonda.",
+        "nearbyTips": [
+          "Il porto di Sami è lì vicino per i traghetti.",
+          "Il lago nella grotta di Melissani è poco distante."
+        ]
+      },
+      "goonies-house-astoria": {
+        "sceneContext": "La casa vittoriana in cima alla collina è il punto da cui la banda dei Goonies parte per la sua caccia al tesoro.",
+        "howToVisit": "Un'abitazione privata, quindi guardala dalla strada pubblica più in basso e non entrare nel vialetto; rispetta chi ci abita. Domina il fiume dall'alto della collina.",
+        "nearbyTips": [
+          "L'Astoria Column è a una breve guidata su per la collina.",
+          "L'Oregon Film Museum in città ha esposizioni dedicate ai Goonies."
+        ]
+      },
+      "astoria-column": {
+        "sceneContext": "La colonna dipinta in cima alla collina regala le ampie vedute sulla città e sul fiume che si vedono nel film.",
+        "howToVisit": "Una piccola tariffa per il parcheggio copre l'accesso al sito; sali le scale a chiocciola all'interno per il panorama e, per tradizione, lancia dall'alto un aliante di balsa. È aperta tutti i giorni.",
+        "nearbyTips": [
+          "Compra un aliante di balsa al negozio di souvenir per lanciarlo dalla cima.",
+          "La vista abbraccia la foce del fiume Columbia."
+        ]
+      },
+      "jaws-bridge-marthas-vineyard": {
+        "sceneContext": "Questo ponte levatoio tra Edgartown e Oak Bluffs è il ponte sotto cui passa lo squalo; per tutta l'estate la gente del posto ci si tuffa.",
+        "howToVisit": "Un ponte pubblico e gratuito che si può attraversare a piedi e da cui, come fanno i locali, ci si tuffa d'estate a proprio rischio; le spiagge ai due lati sono aperte. Si trova sulla costa orientale dell'isola.",
+        "nearbyTips": [
+          "La State Beach corre lungo il ponte.",
+          "Oak Bluffs e i suoi villini in stile pan di zenzero sono lì vicino."
+        ]
+      },
+      "edgartown": {
+        "sceneContext": "La cittadina dalle case in legno bianco ha fatto da porto e da via principale di Amity nel film.",
+        "howToVisit": "Una cittadina signorile e gratuita da girare a piedi, con un faro, un porto e ville dell'epoca della caccia alle balene; è più affollata in piena estate. Si raggiunge l'isola in traghetto da Cape Cod.",
+        "nearbyTips": [
+          "Fai una passeggiata fino al faro di Edgartown.",
+          "Chappaquiddick è a un breve salto in traghetto."
+        ]
+      },
+      "lake-lure": {
+        "sceneContext": "Il lago di montagna è il punto in cui Johnny e Baby provano la celebre presa, con l'acqua alla vita.",
+        "howToVisit": "Un lago pubblico con una spiaggia, giri in barca e gli scorci sul lago del film; la spiaggia ha una tariffa stagionale. Si trova ai piedi delle Blue Ridge Mountains, vicino a Chimney Rock.",
+        "nearbyTips": [
+          "Il Chimney Rock State Park svetta sopra il lago.",
+          "I giri in barca indicano i luoghi delle riprese del film."
+        ]
+      },
+      "mountain-lake-lodge-virginia": {
+        "sceneContext": "Questo chalet di montagna in pietra era il Kellerman's, il resort estivo al centro del film.",
+        "howToVisit": "Un resort-hotel in piena attività che gioca sulla sua fama legata a Dirty Dancing, con weekend a tema e tour; chi viene in giornata può pranzare e passeggiare per la tenuta. Si trova in alto, tra le montagne della Virginia.",
+        "nearbyTips": [
+          "Lo chalet organizza eventi a tema Dirty Dancing.",
+          "Nella tenuta ci sono sentieri e il vecchio letto del lago."
         ]
       }
     }

@@ -3255,4 +3255,348 @@ export const LOCATIONS: Location[] = [
       "Yankee Stadium is not far south.",
     ],
   },
+
+  // ===================== In Bruges =====================
+  {
+    slug: "belfry-of-bruges",
+    name: "Belfry of Bruges",
+    titleSlug: "in-bruges",
+    destinationSlug: "bruges",
+    lat: 51.2085,
+    lng: 3.2247,
+    kind: "landmark",
+    address: "Markt 7, 8000 Brugge, Belgium",
+    sceneContext:
+      "The medieval bell tower over the market square is the site of the film's vertiginous final showdown.",
+    howToVisit:
+      "A ticketed climb of 366 narrow steps to the top for views over the city; book a time slot in summer to skip the queue. The Markt square below is free and lively.",
+    nearbyTips: [
+      "The square is ringed by gabled guild houses and cafés.",
+      "Horse-drawn carriage tours start from the Markt.",
+    ],
+  },
+  {
+    slug: "rozenhoedkaai",
+    name: "Rozenhoedkaai",
+    titleSlug: "in-bruges",
+    destinationSlug: "bruges",
+    lat: 51.2076,
+    lng: 3.2278,
+    kind: "landmark",
+    address: "Rozenhoedkaai, 8000 Brugge, Belgium",
+    sceneContext:
+      "This canal corner, the most photographed view in Bruges, features in the hitmen's wanderings through the old town.",
+    howToVisit:
+      "A free, always-open quayside viewpoint; come at dawn or dusk for the light and fewer crowds. Canal boat tours leave from nearby jetties.",
+    nearbyTips: [
+      "Take a canal boat to see the city from the water.",
+      "The Burg square and its basilica are a minute away.",
+    ],
+  },
+
+  // ===================== Ocean's Eleven =====================
+  {
+    slug: "bellagio-fountains",
+    name: "Fountains of Bellagio",
+    titleSlug: "oceans-eleven",
+    destinationSlug: "las-vegas",
+    lat: 36.1126,
+    lng: -115.1767,
+    kind: "landmark",
+    address: "3600 S Las Vegas Blvd, Las Vegas, NV 89109, United States",
+    sceneContext:
+      "The Bellagio's choreographed fountains are the backdrop to the heist crew's final, wistful gathering.",
+    howToVisit:
+      "Free shows run every 15 to 30 minutes on the lake in front of the hotel, more often after dark; the Strip sidewalk is the spot. Evenings are best.",
+    nearbyTips: [
+      "The Bellagio conservatory inside is free to visit.",
+      "The Strip's themed casinos line up nearby.",
+    ],
+  },
+
+  // ===================== The Hangover =====================
+  {
+    slug: "caesars-palace",
+    name: "Caesars Palace",
+    titleSlug: "the-hangover",
+    destinationSlug: "las-vegas",
+    lat: 36.1162,
+    lng: -115.1745,
+    kind: "hotel",
+    address: "3570 S Las Vegas Blvd, Las Vegas, NV 89109, United States",
+    sceneContext:
+      "The opulent casino resort is where the doomed bachelor party checks in before the night goes off the rails.",
+    howToVisit:
+      "A working casino-hotel free to walk through, with the Forum Shops and fountains inside; you don't need to stay to wander. It's central on the Strip.",
+    nearbyTips: [
+      "The Forum Shops have a faux sky and fountains.",
+      "The Bellagio fountains are across the road.",
+    ],
+  },
+
+  // ===================== Spectre =====================
+  {
+    slug: "zocalo-mexico-city",
+    name: "Zócalo",
+    titleSlug: "spectre",
+    destinationSlug: "mexico-city",
+    lat: 19.4326,
+    lng: -99.1332,
+    kind: "landmark",
+    address: "Plaza de la Constitución, Centro, 06000 Ciudad de México, Mexico",
+    sceneContext:
+      "Bond chases a target through a vast Day of the Dead parade across the city's main square in the film's bravura opening.",
+    howToVisit:
+      "One of the world's largest city squares, free and open; the Day of the Dead parade the film inspired now runs each late October. The cathedral and national palace frame it.",
+    nearbyTips: [
+      "A rooftop terrace bar gives the square's full sweep.",
+      "The Templo Mayor ruins sit just off the plaza.",
+    ],
+  },
+  {
+    slug: "gran-hotel-ciudad-de-mexico",
+    name: "Gran Hotel Ciudad de México",
+    titleSlug: "spectre",
+    destinationSlug: "mexico-city",
+    lat: 19.4316,
+    lng: -99.1339,
+    kind: "hotel",
+    address: "Av. 16 de Septiembre 82, Centro, 06000 Ciudad de México, Mexico",
+    sceneContext:
+      "The hotel's spectacular stained-glass Art Nouveau ceiling appears in the film's opening sequence.",
+    howToVisit:
+      "A working hotel just off the Zócalo; non-guests can visit the lobby or the rooftop restaurant to see the famous Tiffany-style ceiling. Be discreet, or book a drink.",
+    nearbyTips: [
+      "The rooftop terrace overlooks the Zócalo.",
+      "It sits steps from the cathedral.",
+    ],
+  },
+
+  // ===================== Letters to Juliet =====================
+  {
+    slug: "juliet-balcony-verona",
+    name: "Casa di Giulietta",
+    titleSlug: "letters-to-juliet",
+    destinationSlug: "verona",
+    lat: 45.4419,
+    lng: 10.9985,
+    kind: "landmark",
+    address: "Via Cappello 23, 37121 Verona VR, Italy",
+    sceneContext:
+      "The courtyard balcony of Juliet's house is where the film's letter-writing romance begins.",
+    howToVisit:
+      "The courtyard is free to enter; a ticket gets you onto the balcony and into the house museum. Expect crowds and walls of love notes.",
+    nearbyTips: [
+      "Add a note to the wall, or rub the Juliet statue for luck.",
+      "Piazza delle Erbe is two minutes away.",
+    ],
+  },
+  {
+    slug: "piazza-delle-erbe-verona",
+    name: "Piazza delle Erbe",
+    titleSlug: "letters-to-juliet",
+    destinationSlug: "verona",
+    lat: 45.443,
+    lng: 10.9976,
+    kind: "landmark",
+    address: "Piazza delle Erbe, 37121 Verona VR, Italy",
+    sceneContext:
+      "The frescoed market square, on the old Roman forum, is the film's picture of romantic Verona.",
+    howToVisit:
+      "A free, lively square with a market and café terraces, open all day; climb the Lamberti tower beside it for the view. It's the city's social heart.",
+    nearbyTips: [
+      "Climb the Torre dei Lamberti for rooftop views.",
+      "The Roman Arena is a short walk south.",
+    ],
+  },
+
+  // ===================== A Good Year =====================
+  {
+    slug: "chateau-la-canorgue",
+    name: "Château la Canorgue",
+    titleSlug: "a-good-year",
+    destinationSlug: "provence",
+    lat: 43.8264,
+    lng: 5.2569,
+    kind: "building",
+    address: "Route du Pont Julien, 84480 Bonnieux, France",
+    sceneContext:
+      "This working Luberon winery is the vineyard estate the hero inherits and learns to love.",
+    howToVisit:
+      "A real, family-run wine domaine near Bonnieux; it's private land, so buy and taste wine at the cellar rather than wandering the vines. Call ahead for opening hours.",
+    nearbyTips: [
+      "The Roman Pont Julien bridge is nearby.",
+      "Hilltop Bonnieux is a short drive up.",
+    ],
+  },
+  {
+    slug: "gordes-village",
+    name: "Gordes",
+    titleSlug: "a-good-year",
+    destinationSlug: "provence",
+    lat: 43.9114,
+    lng: 5.2003,
+    kind: "landmark",
+    address: "Gordes, 84220, France",
+    sceneContext:
+      "The tiered stone village stands in for the sun-drenched Provence the film falls for.",
+    howToVisit:
+      "A free hilltop village to wander, with a famous viewpoint on the approach road; parking is limited, so arrive early. The lanes are steep and cobbled.",
+    nearbyTips: [
+      "The Sénanque Abbey and its lavender are close by.",
+      "The viewpoint on the D15 road is the classic photo.",
+    ],
+  },
+
+  // ===================== Captain Corelli's Mandolin =====================
+  {
+    slug: "myrtos-beach",
+    name: "Myrtos Beach",
+    titleSlug: "captain-corellis-mandolin",
+    destinationSlug: "kefalonia",
+    lat: 38.3447,
+    lng: 20.5353,
+    kind: "nature",
+    address: "Myrtos Beach, Kefalonia 280 84, Greece",
+    sceneContext:
+      "The dazzling white-pebble bay between sheer cliffs is the film's vision of an idyllic Greek island.",
+    howToVisit:
+      "A free beach reached by a winding switchback road, with a clifftop viewpoint on the way down; there are a couple of seasonal kiosks but little shade. Go in the morning.",
+    nearbyTips: [
+      "Stop at the clifftop overlook for the postcard shot.",
+      "The village of Assos is a scenic detour.",
+    ],
+  },
+  {
+    slug: "antisamos-beach",
+    name: "Antisamos Beach",
+    titleSlug: "captain-corellis-mandolin",
+    destinationSlug: "kefalonia",
+    lat: 38.2719,
+    lng: 20.6486,
+    kind: "nature",
+    address: "Antisamos Beach, Sami 280 80, Kefalonia, Greece",
+    sceneContext:
+      "This green-backed pebble cove near Sami was a key filming beach for the wartime romance.",
+    howToVisit:
+      "A free beach with sunbeds and tavernas, backed by forested hills; it's a short drive over the headland from Sami. The water is clear and deep.",
+    nearbyTips: [
+      "The port of Sami is nearby for ferries.",
+      "The Melissani cave lake is close by.",
+    ],
+  },
+
+  // ===================== The Goonies =====================
+  {
+    slug: "goonies-house-astoria",
+    name: "The Goonies House",
+    titleSlug: "the-goonies",
+    destinationSlug: "astoria",
+    lat: 46.1856,
+    lng: -123.829,
+    kind: "building",
+    address: "368 38th St, Astoria, OR 97103, United States",
+    sceneContext:
+      "The hilltop Victorian house is where the Goonies gang sets off on its treasure hunt.",
+    howToVisit:
+      "A private home, so view it from the public road below and do not enter the driveway; respect the residents. It overlooks the river from the hill.",
+    nearbyTips: [
+      "The Astoria Column is a short drive up the hill.",
+      "The Oregon Film Museum in town has Goonies exhibits.",
+    ],
+  },
+  {
+    slug: "astoria-column",
+    name: "Astoria Column",
+    titleSlug: "the-goonies",
+    destinationSlug: "astoria",
+    lat: 46.1876,
+    lng: -123.8163,
+    kind: "landmark",
+    address: "1 Coxcomb Dr, Astoria, OR 97103, United States",
+    sceneContext:
+      "The painted hilltop column gives the sweeping views over town and river seen in the film.",
+    howToVisit:
+      "A small parking fee covers the site; climb the spiral stairs inside for the panorama, and launch a balsa glider from the top by tradition. It's open daily.",
+    nearbyTips: [
+      "Buy a balsa glider at the gift shop to fly from the top.",
+      "The view spans the mouth of the Columbia River.",
+    ],
+  },
+
+  // ===================== Jaws =====================
+  {
+    slug: "jaws-bridge-marthas-vineyard",
+    name: "Jaws Bridge",
+    titleSlug: "jaws",
+    destinationSlug: "marthas-vineyard",
+    lat: 41.4022,
+    lng: -70.553,
+    kind: "landmark",
+    address: "American Legion Memorial Bridge, Edgartown, MA 02539, United States",
+    sceneContext:
+      "This drawbridge between Edgartown and Oak Bluffs is the bridge the shark swims under; locals leap from it all summer.",
+    howToVisit:
+      "A free public bridge you can walk across and, as locals do, jump from in summer at your own risk; the beaches either side are open. It's on the island's east shore.",
+    nearbyTips: [
+      "State Beach runs alongside the bridge.",
+      "Oak Bluffs and its gingerbread cottages are close.",
+    ],
+  },
+  {
+    slug: "edgartown",
+    name: "Edgartown",
+    titleSlug: "jaws",
+    destinationSlug: "marthas-vineyard",
+    lat: 41.389,
+    lng: -70.5134,
+    kind: "landmark",
+    address: "Edgartown, MA 02539, United States",
+    sceneContext:
+      "The white-clapboard town stood in for Amity's harbour and main street in the film.",
+    howToVisit:
+      "A free, genteel town to wander, with a lighthouse, harbour and whaling-era mansions; it's busiest in high summer. Reach the island by ferry from Cape Cod.",
+    nearbyTips: [
+      "Walk out to the Edgartown lighthouse.",
+      "Chappaquiddick is a tiny ferry hop away.",
+    ],
+  },
+
+  // ===================== Dirty Dancing =====================
+  {
+    slug: "lake-lure",
+    name: "Lake Lure",
+    titleSlug: "dirty-dancing",
+    destinationSlug: "north-carolina",
+    lat: 35.4332,
+    lng: -82.2018,
+    kind: "nature",
+    address: "Lake Lure, NC 28746, United States",
+    sceneContext:
+      "The mountain lake is where Johnny and Baby practise the famous lift, waist-deep in the water.",
+    howToVisit:
+      "A public lake with a beach, boat tours and the lakeside spots from the film; the beach charges a seasonal fee. It's in the Blue Ridge foothills near Chimney Rock.",
+    nearbyTips: [
+      "Chimney Rock State Park towers above the lake.",
+      "Boat tours point out the film's locations.",
+    ],
+  },
+  {
+    slug: "mountain-lake-lodge-virginia",
+    name: "Mountain Lake Lodge",
+    titleSlug: "dirty-dancing",
+    destinationSlug: "virginia",
+    lat: 37.3565,
+    lng: -80.534,
+    kind: "hotel",
+    address: "115 Hotel Cir, Pembroke, VA 24136, United States",
+    sceneContext:
+      "This stone mountain lodge was Kellerman's, the summer resort at the centre of the film.",
+    howToVisit:
+      "A working resort hotel that leans into its Dirty Dancing fame with themed weekends and tours; day visitors can dine and walk the grounds. It's high in the Virginia mountains.",
+    nearbyTips: [
+      "The lodge runs Dirty Dancing themed events.",
+      "Trails and the old lake bed are on the grounds.",
+    ],
+  },
 ];

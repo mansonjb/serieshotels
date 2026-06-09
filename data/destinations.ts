@@ -1054,4 +1054,105 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "The Indonesian island of rice terraces, temples and surf beaches, the soul-searching final chapter of a best-selling memoir's journey. Ubud is the green, spiritual heart, with cliff-framed coves to the south.",
   },
+
+  // ===================== Added in the v6 expansion =====================
+  {
+    slug: "bruges",
+    name: "Bruges",
+    country: "Belgium",
+    region: "West Flanders",
+    lat: 51.2093,
+    lng: 3.2247,
+    accent: "7c2d12",
+    blurb:
+      "A perfectly preserved medieval city of canals, gabled houses and a soaring belfry, so picture-book it became the reluctant hideaway of a black-comedy classic. Compact and entirely walkable, it's an easy train from Brussels.",
+  },
+  {
+    slug: "las-vegas",
+    name: "Las Vegas",
+    country: "United States",
+    region: "Nevada",
+    lat: 36.1147,
+    lng: -115.1728,
+    accent: "1f2937",
+    blurb:
+      "The desert city of neon, fountains and casino palaces, the natural stage for slick heist capers and bachelor-party chaos alike. The Strip puts most of the screen landmarks within one long, dazzling walk.",
+  },
+  {
+    slug: "mexico-city",
+    name: "Mexico City",
+    country: "Mexico",
+    region: "CDMX",
+    lat: 19.4326,
+    lng: -99.1332,
+    accent: "991b1b",
+    blurb:
+      "A vast, vibrant capital of grand plazas and Art Nouveau interiors, where a spy film opened with a Day of the Dead parade the city now stages for real. The historic centre packs the headline spots together.",
+  },
+  {
+    slug: "verona",
+    name: "Verona",
+    country: "Italy",
+    region: "Veneto",
+    lat: 45.4384,
+    lng: 10.9916,
+    accent: "db2777",
+    blurb:
+      "The rose-bricked city of Romeo and Juliet, of a Roman arena and frescoed squares, a magnet for romantics on screen and off. Juliet's balcony and the market square are a short stroll apart.",
+  },
+  {
+    slug: "provence",
+    name: "Provence",
+    country: "France",
+    region: "Provence",
+    lat: 43.9114,
+    lng: 5.2003,
+    accent: "a16207",
+    blurb:
+      "Lavender country of hilltop villages, vineyards and golden light in the south of France, where a London banker rediscovered la belle vie. The Luberon's stone villages cluster within an easy drive.",
+  },
+  {
+    slug: "kefalonia",
+    name: "Kefalonia",
+    country: "Greece",
+    region: "Ionian Islands",
+    lat: 38.175,
+    lng: 20.5685,
+    accent: "0284c7",
+    blurb:
+      "The largest Ionian island, of dramatic white-pebble beaches and turquoise water, the setting of a sweeping wartime romance. Myrtos and Antisamos are the postcard bays, reached by winding coast roads.",
+  },
+  {
+    slug: "astoria",
+    name: "Astoria",
+    country: "United States",
+    region: "Oregon",
+    lat: 46.1879,
+    lng: -123.8313,
+    accent: "92400e",
+    blurb:
+      "A misty old port at the mouth of the Columbia River, whose hillside Victorian houses starred in a beloved kids' adventure. Compact and quirky, it's the gateway to the wild Oregon coast.",
+  },
+  {
+    slug: "marthas-vineyard",
+    name: "Martha's Vineyard",
+    country: "United States",
+    region: "Massachusetts",
+    lat: 41.3805,
+    lng: -70.6456,
+    accent: "0c4a6e",
+    blurb:
+      "A genteel New England island of clapboard towns and long beaches, forever the Amity of a summer-blockbuster shark. Reached by ferry from Cape Cod, it's all bikes, beaches and lighthouses.",
+  },
+  {
+    slug: "virginia",
+    name: "Virginia",
+    country: "United States",
+    region: "Virginia",
+    lat: 37.3565,
+    lng: -80.534,
+    accent: "166534",
+    blurb:
+      "The Blue Ridge Mountains of western Virginia, where a lakeside lodge played the summer resort of a dance-floor romance. Mountain Lake Lodge still welcomes fans amid forested hills.",
+  },
 ];

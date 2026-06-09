@@ -759,6 +759,78 @@
         "/destinations/bali/photo-3.jpg",
         "/destinations/bali/photo-4.jpg"
       ]
+    },
+    "bruges": {
+      "hero": "/destinations/bruges/hero.jpg",
+      "gallery": [
+        "/destinations/bruges/photo-2.jpg",
+        "/destinations/bruges/photo-3.jpg",
+        "/destinations/bruges/photo-4.jpg"
+      ]
+    },
+    "las-vegas": {
+      "hero": "/destinations/las-vegas/hero.jpg",
+      "gallery": [
+        "/destinations/las-vegas/photo-2.jpg",
+        "/destinations/las-vegas/photo-3.jpg",
+        "/destinations/las-vegas/photo-4.jpg"
+      ]
+    },
+    "mexico-city": {
+      "hero": "/destinations/mexico-city/hero.jpg",
+      "gallery": [
+        "/destinations/mexico-city/photo-2.jpg",
+        "/destinations/mexico-city/photo-3.jpg",
+        "/destinations/mexico-city/photo-4.jpg"
+      ]
+    },
+    "verona": {
+      "hero": "/destinations/verona/hero.jpg",
+      "gallery": [
+        "/destinations/verona/photo-2.jpg",
+        "/destinations/verona/photo-3.jpg",
+        "/destinations/verona/photo-4.jpg"
+      ]
+    },
+    "provence": {
+      "hero": "/destinations/provence/hero.jpg",
+      "gallery": [
+        "/destinations/provence/photo-2.jpg",
+        "/destinations/provence/photo-3.jpg",
+        "/destinations/provence/photo-4.jpg"
+      ]
+    },
+    "kefalonia": {
+      "hero": "/destinations/kefalonia/hero.jpg",
+      "gallery": [
+        "/destinations/kefalonia/photo-2.jpg",
+        "/destinations/kefalonia/photo-3.jpg",
+        "/destinations/kefalonia/photo-4.jpg"
+      ]
+    },
+    "astoria": {
+      "hero": "/destinations/astoria/hero.jpg",
+      "gallery": [
+        "/destinations/astoria/photo-2.jpg",
+        "/destinations/astoria/photo-3.jpg",
+        "/destinations/astoria/photo-4.jpg"
+      ]
+    },
+    "marthas-vineyard": {
+      "hero": "/destinations/marthas-vineyard/hero.jpg",
+      "gallery": [
+        "/destinations/marthas-vineyard/photo-2.jpg",
+        "/destinations/marthas-vineyard/photo-3.jpg",
+        "/destinations/marthas-vineyard/photo-4.jpg"
+      ]
+    },
+    "virginia": {
+      "hero": "/destinations/virginia/hero.jpg",
+      "gallery": [
+        "/destinations/virginia/photo-2.jpg",
+        "/destinations/virginia/photo-3.jpg",
+        "/destinations/virginia/photo-4.jpg"
+      ]
     }
   },
   "locations": {
@@ -1780,6 +1852,114 @@
       "hero": "/locations/joker-stairs-bronx/hero.jpg",
       "gallery": [
         "/locations/joker-stairs-bronx/photo-2.jpg"
+      ]
+    },
+    "belfry-of-bruges": {
+      "hero": "/locations/belfry-of-bruges/hero.jpg",
+      "gallery": [
+        "/locations/belfry-of-bruges/photo-2.jpg"
+      ]
+    },
+    "rozenhoedkaai": {
+      "hero": "/locations/rozenhoedkaai/hero.jpg",
+      "gallery": [
+        "/locations/rozenhoedkaai/photo-2.jpg"
+      ]
+    },
+    "bellagio-fountains": {
+      "hero": "/locations/bellagio-fountains/hero.jpg",
+      "gallery": [
+        "/locations/bellagio-fountains/photo-2.jpg"
+      ]
+    },
+    "caesars-palace": {
+      "hero": "/locations/caesars-palace/hero.jpg",
+      "gallery": [
+        "/locations/caesars-palace/photo-2.jpg"
+      ]
+    },
+    "zocalo-mexico-city": {
+      "hero": "/locations/zocalo-mexico-city/hero.jpg",
+      "gallery": [
+        "/locations/zocalo-mexico-city/photo-2.jpg"
+      ]
+    },
+    "gran-hotel-ciudad-de-mexico": {
+      "hero": "/locations/gran-hotel-ciudad-de-mexico/hero.jpg",
+      "gallery": [
+        "/locations/gran-hotel-ciudad-de-mexico/photo-2.jpg"
+      ]
+    },
+    "juliet-balcony-verona": {
+      "hero": "/locations/juliet-balcony-verona/hero.jpg",
+      "gallery": [
+        "/locations/juliet-balcony-verona/photo-2.jpg"
+      ]
+    },
+    "piazza-delle-erbe-verona": {
+      "hero": "/locations/piazza-delle-erbe-verona/hero.jpg",
+      "gallery": [
+        "/locations/piazza-delle-erbe-verona/photo-2.jpg"
+      ]
+    },
+    "chateau-la-canorgue": {
+      "hero": "/locations/chateau-la-canorgue/hero.jpg",
+      "gallery": [
+        "/locations/chateau-la-canorgue/photo-2.jpg"
+      ]
+    },
+    "gordes-village": {
+      "hero": "/locations/gordes-village/hero.jpg",
+      "gallery": [
+        "/locations/gordes-village/photo-2.jpg"
+      ]
+    },
+    "myrtos-beach": {
+      "hero": "/locations/myrtos-beach/hero.jpg",
+      "gallery": [
+        "/locations/myrtos-beach/photo-2.jpg"
+      ]
+    },
+    "antisamos-beach": {
+      "hero": "/locations/antisamos-beach/hero.jpg",
+      "gallery": [
+        "/locations/antisamos-beach/photo-2.jpg"
+      ]
+    },
+    "goonies-house-astoria": {
+      "hero": "/locations/goonies-house-astoria/hero.jpg",
+      "gallery": [
+        "/locations/goonies-house-astoria/photo-2.jpg"
+      ]
+    },
+    "astoria-column": {
+      "hero": "/locations/astoria-column/hero.jpg",
+      "gallery": [
+        "/locations/astoria-column/photo-2.jpg"
+      ]
+    },
+    "jaws-bridge-marthas-vineyard": {
+      "hero": "/locations/jaws-bridge-marthas-vineyard/hero.jpg",
+      "gallery": [
+        "/locations/jaws-bridge-marthas-vineyard/photo-2.jpg"
+      ]
+    },
+    "edgartown": {
+      "hero": "/locations/edgartown/hero.jpg",
+      "gallery": [
+        "/locations/edgartown/photo-2.jpg"
+      ]
+    },
+    "lake-lure": {
+      "hero": "/locations/lake-lure/hero.jpg",
+      "gallery": [
+        "/locations/lake-lure/photo-2.jpg"
+      ]
+    },
+    "mountain-lake-lodge-virginia": {
+      "hero": "/locations/mountain-lake-lodge-virginia/hero.jpg",
+      "gallery": [
+        "/locations/mountain-lake-lodge-virginia/photo-2.jpg"
       ]
     }
   }
