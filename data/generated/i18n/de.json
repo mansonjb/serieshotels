@@ -549,6 +549,14 @@
       "dirty-dancing": {
         "tagline": "Eine Romanze im Ferienresort, samt der berühmten Hebefigur im See.",
         "synopsis": "In einem Sommerresort der 1960er verliebt sich eine behütete Jugendliche in den Tanzlehrer aus einfachen Verhältnissen. Die berühmte Hebefigur im See wurde am Lake Lure in North Carolina gedreht, während das Resort selbst eine steinerne Lodge in den Bergen Virginias war."
+      },
+      "cast-away": {
+        "tagline": "Die Insel des Schiffbrüchigen ist ein echtes, unbewohntes Fidschi-Eiland.",
+        "synopsis": "Ein FedEx-Manager überlebt einen Flugzeugabsturz und strandet jahrelang allein auf einer Pazifikinsel, mit einem Volleyball als einziger Gesellschaft. Diese Insel ist das echte, unbewohnte Monuriki in der Mamanuca-Gruppe von Fidschi, heute per Boot erreichbar."
+      },
+      "mad-max-fury-road": {
+        "tagline": "Ein Verfolgungsepos durch die Wüste, gedreht in den Dünen Namibias.",
+        "synopsis": "Auf einem postapokalyptischen Wüstenhighway fliehen ein Einzelgänger und eine rebellische Kommandantin in einer einzigen, langen und erbarmungslosen Jagd vor einem Tyrannen. Nachdem Regen das australische Outback ergrünen ließ, zog die Produktion in die kargen Dünen und Schotterebenen Namibias."
       }
     },
     "destinations": {
@@ -863,6 +871,12 @@
       },
       "virginia": {
         "blurb": "Die Blue Ridge Mountains im Westen Virginias, wo eine Lodge am See das Sommerresort einer Tanzromanze spielte. Die Mountain Lake Lodge empfängt inmitten bewaldeter Hügel noch immer ihre Fans."
+      },
+      "fiji": {
+        "blurb": "Eine Südseenation aus türkisfarbenen Lagunen und palmengesäumten Inselchen, von denen eines das Inselgefängnis eines berühmten Schiffbrüchigen spielte. Die Mamanuca-Gruppe, in der Monuriki liegt, ist eine kurze Bootsfahrt von der Hauptinsel Viti Levu entfernt."
+      },
+      "namibia": {
+        "blurb": "Ein weites, fremdartiges Land aus roten Dünen, Schotterebenen und einer wilden Atlantikküste, dessen Leere ein postapokalyptisches Ödland verkörperte. Die Dünen um Swakopmund und der Dorob-Park sind der zugänglichste Teil."
       }
     },
     "locations": {
@@ -2376,6 +2390,22 @@
         "nearbyTips": [
           "Die Lodge veranstaltet thematische Dirty-Dancing-Events.",
           "Wanderwege und das alte Seebett liegen auf dem Gelände."
+        ]
+      },
+      "monuriki-island": {
+        "sceneContext": "Dieses winzige unbewohnte Eiland ist der Ort, an dem Chuck strandet und allein überlebt, die echte Schiffbruchinsel des Films.",
+        "howToVisit": "Unbewohnt und nur per Boot erreichbar, auf Tagesausflügen und Schnorcheltouren von Nadi oder den nahen Mamanuca-Resorts; es gibt keine Einrichtungen, bringen Sie alles mit. Die Anlandung hängt vom Wetter ab.",
+        "nearbyTips": [
+          "Schnorcheln Sie auf derselben Tour am Riff vor der Küste.",
+          "Die Mamanuca-Resorts sind die nächstgelegene Basis."
+        ]
+      },
+      "namib-desert": {
+        "sceneContext": "Die hoch aufragenden Dünen und endlosen Schotterebenen sind das Ödland, durch das die furiose Verfolgungsjagd des Films rast.",
+        "howToVisit": "Die Dünen um Swakopmund erkundet man per 4x4, Quad oder Rundflug mit Guide; die Wüste steht unter Schutz, nutzen Sie daher Anbieter und Genehmigungen. Swakopmund ist der Ausgangsort.",
+        "nearbyTips": [
+          "Sandwich Harbour, wo die Dünen ins Meer stürzen, ist eine klassische 4x4-Tour.",
+          "Die nahe Lagune von Walvis Bay ist voller Flamingos."
         ]
       }
     }

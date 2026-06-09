@@ -831,6 +831,21 @@
         "/destinations/virginia/photo-3.jpg",
         "/destinations/virginia/photo-4.jpg"
       ]
+    },
+    "fiji": {
+      "hero": "/destinations/fiji/hero.jpg",
+      "gallery": [
+        "/destinations/fiji/photo-2.jpg",
+        "/destinations/fiji/photo-3.jpg"
+      ]
+    },
+    "namibia": {
+      "hero": "/destinations/namibia/hero.jpg",
+      "gallery": [
+        "/destinations/namibia/photo-2.jpg",
+        "/destinations/namibia/photo-3.jpg",
+        "/destinations/namibia/photo-4.jpg"
+      ]
     }
   },
   "locations": {
@@ -1960,6 +1975,18 @@
       "hero": "/locations/mountain-lake-lodge-virginia/hero.jpg",
       "gallery": [
         "/locations/mountain-lake-lodge-virginia/photo-2.jpg"
+      ]
+    },
+    "monuriki-island": {
+      "hero": "/locations/monuriki-island/hero.jpg",
+      "gallery": [
+        "/locations/monuriki-island/photo-2.jpg"
+      ]
+    },
+    "namib-desert": {
+      "hero": "/locations/namib-desert/hero.jpg",
+      "gallery": [
+        "/locations/namib-desert/photo-2.jpg"
       ]
     }
   }

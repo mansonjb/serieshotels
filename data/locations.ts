@@ -3599,4 +3599,44 @@ export const LOCATIONS: Location[] = [
       "Trails and the old lake bed are on the grounds.",
     ],
   },
+
+  // ===================== Cast Away =====================
+  {
+    slug: "monuriki-island",
+    name: "Monuriki Island",
+    titleSlug: "cast-away",
+    destinationSlug: "fiji",
+    lat: -17.608,
+    lng: 177.043,
+    kind: "nature",
+    address: "Monuriki, Mamanuca Islands, Fiji",
+    sceneContext:
+      "This tiny uninhabited island is where Chuck washes ashore and survives alone, the real Pacific castaway isle of the film.",
+    howToVisit:
+      "Uninhabited and reached only by boat, on day trips and snorkelling tours from Nadi or the nearby Mamanuca resorts; there are no facilities, so bring everything. Landings are weather-dependent.",
+    nearbyTips: [
+      "Snorkel the reef offshore on the same trip.",
+      "The Mamanuca resorts make the closest base.",
+    ],
+  },
+
+  // ===================== Mad Max: Fury Road =====================
+  {
+    slug: "namib-desert",
+    name: "Namib Desert",
+    titleSlug: "mad-max-fury-road",
+    destinationSlug: "namibia",
+    lat: -22.9,
+    lng: 14.7,
+    kind: "nature",
+    address: "Dorob National Park, near Swakopmund, Namibia",
+    sceneContext:
+      "The towering dunes and endless gravel plains here are the wasteland the film's ferocious chase tears across.",
+    howToVisit:
+      "The dunes around Swakopmund are reached on guided 4x4, quad or scenic-flight tours; the desert is protected, so stick to operators and permits. Swakopmund is the base town.",
+    nearbyTips: [
+      "Sandwich Harbour, where dunes meet the sea, is a classic 4x4 trip.",
+      "Walvis Bay's lagoon nearby is full of flamingos.",
+    ],
+  },
 ];

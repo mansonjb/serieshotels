@@ -1155,4 +1155,28 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "The Blue Ridge Mountains of western Virginia, where a lakeside lodge played the summer resort of a dance-floor romance. Mountain Lake Lodge still welcomes fans amid forested hills.",
   },
+
+  // ===================== Added in the v7 expansion (round 100) =====================
+  {
+    slug: "fiji",
+    name: "Fiji",
+    country: "Fiji",
+    region: "Mamanuca Islands",
+    lat: -17.608,
+    lng: 177.043,
+    accent: "0c4a6e",
+    blurb:
+      "A South Pacific nation of turquoise lagoons and palm-fringed islets, one of which played the desert-island prison of a famous castaway. The Mamanuca group, where Monuriki sits, is a short boat hop from the main island of Viti Levu.",
+  },
+  {
+    slug: "namibia",
+    name: "Namibia",
+    country: "Namibia",
+    region: "Erongo",
+    lat: -22.6792,
+    lng: 14.5272,
+    accent: "9a3412",
+    blurb:
+      "A vast, otherworldly land of red dunes, gravel plains and a wild Atlantic coast, whose emptiness stood in for a post-apocalyptic wasteland. The dunes around Swakopmund and the Dorob park are the most accessible stretch.",
+  },
 ];

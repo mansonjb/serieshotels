@@ -1244,4 +1244,30 @@ export const TITLES: Title[] = [
       "At a 1960s summer resort, a sheltered teenager falls for the working-class dance instructor. The famous lake-lift was filmed at Lake Lure in North Carolina, with the resort itself a stone lodge in the Virginia mountains.",
     locationSlugs: ["lake-lure", "mountain-lake-lodge-virginia"],
   },
+
+  // ===================== Added in the v7 expansion (round 100) =====================
+  {
+    slug: "cast-away",
+    name: "Cast Away",
+    type: "movie",
+    year: 2000,
+    accent: "0c4a6e",
+    genres: ["Adventure", "Drama"],
+    tagline: "A castaway's island is a real, uninhabited Fijian isle.",
+    synopsis:
+      "A FedEx executive survives a plane crash and is marooned alone on a Pacific island for years, with only a volleyball for company. That island is the real, uninhabited Monuriki in Fiji's Mamanuca group, reachable today by boat.",
+    locationSlugs: ["monuriki-island"],
+  },
+  {
+    slug: "mad-max-fury-road",
+    name: "Mad Max: Fury Road",
+    type: "movie",
+    year: 2015,
+    accent: "9a3412",
+    genres: ["Action", "Adventure", "Sci-Fi"],
+    tagline: "A desert chase epic, filmed across the dunes of Namibia.",
+    synopsis:
+      "On a post-apocalyptic desert highway, a drifter and a rebel commander flee a tyrant in one long, ferocious chase. After rains greened the Australian outback, the production moved to the stark dunes and gravel plains of Namibia.",
+    locationSlugs: ["namib-desert"],
+  },
 ];

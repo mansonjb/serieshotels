@@ -549,6 +549,14 @@
       "dirty-dancing": {
         "tagline": "Un amore estivo in un resort, con tanto di presa sul lago.",
         "synopsis": "In un resort estivo degli anni Sessanta, un'adolescente cresciuta nella bambagia si innamora del maestro di ballo di umili origini. La celebre presa nel lago è stata girata a Lake Lure, in Carolina del Nord, mentre il resort è in realtà uno chalet di pietra tra le montagne della Virginia."
+      },
+      "cast-away": {
+        "tagline": "L'isola del naufrago è un vero isolotto deserto delle Figi.",
+        "synopsis": "Un dirigente FedEx sopravvive a un disastro aereo e resta anni, da solo, su un'isola del Pacifico, con un pallone da pallavolo come unica compagnia. Quell'isola è la vera Monuriki, disabitata, nell'arcipelago delle Mamanuca alle Figi, oggi raggiungibile in barca."
+      },
+      "mad-max-fury-road": {
+        "tagline": "Un'epopea di inseguimento nel deserto, girata tra le dune della Namibia.",
+        "synopsis": "Su un'autostrada del deserto post-apocalittico, un solitario e una comandante ribelle fuggono da un tiranno in un unico, lungo e feroce inseguimento. Dopo che le piogge avevano fatto rinverdire l'entroterra australiano, la produzione si è spostata sulle dune spoglie e le distese di ghiaia della Namibia."
       }
     },
     "destinations": {
@@ -863,6 +871,12 @@
       },
       "virginia": {
         "blurb": "Le Blue Ridge Mountains della Virginia occidentale, dove uno chalet in riva a un lago ha fatto da resort estivo a un amore nato sulla pista da ballo. Il Mountain Lake Lodge accoglie ancora oggi i fan tra le colline boscose."
+      },
+      "fiji": {
+        "blurb": "Una nazione del Pacifico meridionale fatta di lagune turchesi e isolotti orlati di palme, uno dei quali ha interpretato la prigione-isola di un celebre naufrago. L'arcipelago delle Mamanuca, dove si trova Monuriki, è a una breve traversata in barca dall'isola principale di Viti Levu."
+      },
+      "namibia": {
+        "blurb": "Una terra immensa e surreale di dune rosse, distese di ghiaia e una costa atlantica selvaggia, il cui vuoto ha incarnato una landa post-apocalittica. Le dune intorno a Swakopmund e il parco di Dorob sono il tratto più accessibile."
       }
     },
     "locations": {
@@ -2376,6 +2390,22 @@
         "nearbyTips": [
           "Lo chalet organizza eventi a tema Dirty Dancing.",
           "Nella tenuta ci sono sentieri e il vecchio letto del lago."
+        ]
+      },
+      "monuriki-island": {
+        "sceneContext": "Questo minuscolo isolotto disabitato è il luogo in cui Chuck approda e sopravvive da solo, la vera isola del naufrago del film.",
+        "howToVisit": "Disabitata e raggiungibile solo in barca, con gite giornaliere e uscite di snorkeling da Nadi o dai vicini resort delle Mamanuca; non ci sono servizi, porta tutto con te. Lo sbarco dipende dal meteo.",
+        "nearbyTips": [
+          "Fai snorkeling sulla barriera al largo nella stessa uscita.",
+          "I resort delle Mamanuca sono la base più vicina."
+        ]
+      },
+      "namib-desert": {
+        "sceneContext": "Le dune imponenti e le infinite distese di ghiaia sono la landa che il feroce inseguimento del film attraversa.",
+        "howToVisit": "Le dune intorno a Swakopmund si esplorano in 4x4, quad o volo panoramico con una guida; il deserto è protetto, quindi affidati a operatori e permessi. Swakopmund è la cittadina base.",
+        "nearbyTips": [
+          "Sandwich Harbour, dove le dune precipitano nel mare, è una classica gita in 4x4.",
+          "La vicina laguna di Walvis Bay è piena di fenicotteri."
         ]
       }
     }
