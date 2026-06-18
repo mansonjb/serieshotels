@@ -169,6 +169,23 @@ export const UI_EN = {
     stay: "Where should I stay to visit the {name} locations?",
     stayAnswer: "Use the map above to compare hotels right next to the filming spots, at the same prices you would pay anyway.",
   },
+  consent: {
+    message: "We use cookies and third-party embeds (a hotel map and video) to run the site and power affiliate features.",
+    accept: "Accept",
+    decline: "Decline",
+    loadEmbed: "Load content",
+    loadNote: "This loads a third-party widget that may set cookies.",
+  },
+  privacyPage: {
+    title: "Privacy & cookies",
+    blocks: [
+      { body: "{site} is a reader-supported travel guide. We keep data to a minimum: you can browse without an account, and we never sell personal data." },
+      { heading: "Cookies", body: "We use one essential cookie to remember your language and your cookie choice. We set no advertising or tracking cookies." },
+      { heading: "Third-party embeds", body: "Some pages embed a Stay22 hotel map and YouTube video (in privacy-enhanced mode). These load only after you accept cookies or click to load them, and may then set their own cookies under their own policies." },
+      { heading: "Affiliate links", body: "Some outbound links are affiliate links. If you book through one we may earn a commission at no extra cost to you. See the affiliate disclosure for details." },
+      { heading: "Your rights", body: "Under the GDPR you can ask to access, correct or delete any personal data we hold. As we store no account data, this usually just means clearing your browser cookies." },
+    ],
+  },
 } as const;
 
 export type UI = typeof UI_EN;

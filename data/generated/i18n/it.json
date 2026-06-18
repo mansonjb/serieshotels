@@ -165,6 +165,37 @@
       "whatFilmedDestAnswer": "{name} fa da scenario a scene di {titles}.",
       "stay": "Dove alloggiare per visitare i luoghi di {name}?",
       "stayAnswer": "Usa la mappa qui sopra per confrontare hotel proprio accanto ai luoghi delle riprese, agli stessi prezzi di sempre."
+    },
+    "consent": {
+      "message": "Usiamo cookie e contenuti di terze parti (una mappa di hotel e video) per far funzionare il sito e le funzioni di affiliazione.",
+      "accept": "Accetta",
+      "decline": "Rifiuta",
+      "loadEmbed": "Carica contenuto",
+      "loadNote": "Carica un widget di terze parti che può impostare cookie."
+    },
+    "privacyPage": {
+      "title": "Privacy e cookie",
+      "blocks": [
+        {
+          "body": "{site} è una guida di viaggio sostenuta dai lettori. Raccogliamo dati al minimo: navighi senza account e non vendiamo mai dati personali."
+        },
+        {
+          "heading": "Cookie",
+          "body": "Usiamo un solo cookie essenziale per ricordare la lingua e la tua scelta sui cookie. Non impostiamo cookie pubblicitari o di tracciamento."
+        },
+        {
+          "heading": "Contenuti di terze parti",
+          "body": "Alcune pagine incorporano una mappa di hotel Stay22 e video YouTube (in modalità rispettosa della privacy). Si caricano solo dopo il tuo consenso o un clic e possono poi impostare i propri cookie secondo le loro policy."
+        },
+        {
+          "heading": "Link di affiliazione",
+          "body": "Alcuni link in uscita sono di affiliazione. Se prenoti tramite uno di essi, possiamo ricevere una commissione senza costi aggiuntivi per te. Vedi la pagina sulla trasparenza dell'affiliazione."
+        },
+        {
+          "heading": "I tuoi diritti",
+          "body": "In base al GDPR puoi chiedere di accedere, correggere o cancellare i dati personali. Poiché non memorizziamo dati di account, di solito basta cancellare i cookie del browser."
+        }
+      ]
     }
   },
   "content": {

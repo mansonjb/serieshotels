@@ -1,4 +1,5 @@
 import { AffiliateLink } from "@/components/AffiliateLink";
+import { EmbedGate } from "@/components/consent";
 import type { UI } from "@/data/i18n/ui";
 import { t } from "@/lib/i18n";
 import { stay22MapSrc, stay22Url } from "@/lib/affiliates/stay22";
@@ -44,15 +45,21 @@ export function Stay22Map({
       </div>
 
       <div className="overflow-hidden rounded-xl border border-line bg-paper">
-        <iframe
-          src={src}
-          title={t(dict.stay22.hotelsNear, { name: label })}
-          loading="lazy"
-          referrerPolicy="no-referrer-when-downgrade"
-          allowFullScreen
-          className="block w-full"
-          style={{ height: 480, border: 0 }}
-        />
+        <EmbedGate
+          loadLabel={dict.consent.loadEmbed}
+          note={dict.consent.loadNote}
+          minHeight={480}
+        >
+          <iframe
+            src={src}
+            title={t(dict.stay22.hotelsNear, { name: label })}
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            allowFullScreen
+            className="block w-full"
+            style={{ height: 480, border: 0 }}
+          />
+        </EmbedGate>
       </div>
 
       <div className="mt-4 flex flex-wrap items-center justify-between gap-3">

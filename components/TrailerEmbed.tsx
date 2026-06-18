@@ -1,3 +1,4 @@
+import { EmbedGate } from "@/components/consent";
 import type { UI } from "@/data/i18n/ui";
 
 /**
@@ -24,15 +25,17 @@ export function TrailerEmbed({
         {dict.trailer.title}
       </h3>
       <div className="mt-4 aspect-video overflow-hidden rounded-xl border border-line bg-ink">
-        <iframe
-          src={src}
-          title={dict.trailer.title}
-          loading="lazy"
-          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
-          className="h-full w-full"
-          style={{ border: 0 }}
-        />
+        <EmbedGate loadLabel={dict.consent.loadEmbed} note={dict.consent.loadNote}>
+          <iframe
+            src={src}
+            title={dict.trailer.title}
+            loading="lazy"
+            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            className="h-full w-full"
+            style={{ border: 0 }}
+          />
+        </EmbedGate>
       </div>
       <p className="mt-3 text-xs leading-relaxed text-muted">{dict.trailer.note}</p>
     </section>

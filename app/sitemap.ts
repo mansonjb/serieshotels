@@ -14,6 +14,7 @@ function paths(): [path: string, priority: number][] {
     ["/guides", 0.6],
     ["/about", 0.3],
     ["/affiliate-disclosure", 0.2],
+    ["/privacy", 0.2],
     ...TITLES.map((t) => [`/titles/${t.slug}`, 0.9] as [string, number]),
     ...DESTINATIONS.map((d) => [`/destinations/${d.slug}`, 0.9] as [string, number]),
     ...LOCATIONS.map((l) => [`/locations/${l.slug}`, 0.7] as [string, number]),

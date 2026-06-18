@@ -165,6 +165,37 @@
       "whatFilmedDestAnswer": "{name} sirve de escenario para escenas de {titles}.",
       "stay": "¿Dónde alojarse para visitar las localizaciones de {name}?",
       "stayAnswer": "Usa el mapa de arriba para comparar hoteles justo al lado de los lugares de rodaje, a los mismos precios de siempre."
+    },
+    "consent": {
+      "message": "Usamos cookies y contenidos de terceros (un mapa de hoteles y vídeo) para que el sitio funcione y para las funciones de afiliación.",
+      "accept": "Aceptar",
+      "decline": "Rechazar",
+      "loadEmbed": "Cargar contenido",
+      "loadNote": "Carga un widget de terceros que puede instalar cookies."
+    },
+    "privacyPage": {
+      "title": "Privacidad y cookies",
+      "blocks": [
+        {
+          "body": "{site} es una guía de viajes financiada por sus lectores. Reducimos los datos al mínimo: puedes navegar sin cuenta y nunca vendemos datos personales."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Usamos una sola cookie esencial para recordar tu idioma y tu elección de cookies. No instalamos cookies publicitarias ni de seguimiento."
+        },
+        {
+          "heading": "Contenidos de terceros",
+          "body": "Algunas páginas incrustan un mapa de hoteles de Stay22 y vídeos de YouTube (en modo de privacidad mejorada). Solo se cargan tras tu aceptación o un clic, y entonces pueden instalar sus propias cookies según sus políticas."
+        },
+        {
+          "heading": "Enlaces de afiliados",
+          "body": "Algunos enlaces salientes son de afiliados. Si reservas a través de uno, podemos llevarnos una comisión sin coste adicional para ti. Consulta la página de divulgación de afiliados."
+        },
+        {
+          "heading": "Tus derechos",
+          "body": "Según el RGPD puedes solicitar acceder, corregir o eliminar cualquier dato personal. Como no almacenamos datos de cuenta, normalmente basta con borrar las cookies del navegador."
+        }
+      ]
     }
   },
   "content": {

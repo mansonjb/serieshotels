@@ -18,6 +18,7 @@ export function Footer({ locale, dict }: { locale: Locale; dict: UI }) {
       links: [
         { href: "/about", label: dict.nav.about },
         { href: "/affiliate-disclosure", label: dict.footer.affiliateDisclosure },
+        { href: "/privacy", label: dict.privacyPage.title },
       ],
     },
   ];

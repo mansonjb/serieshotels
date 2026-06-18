@@ -165,6 +165,37 @@
       "whatFilmedDestAnswer": "{name} steht für Szenen aus {titles}.",
       "stay": "Wo übernachten, um die Drehorte von {name} zu besuchen?",
       "stayAnswer": "Vergleichen Sie über die Karte oben Hotels direkt neben den Drehorten, zu denselben Preisen wie überall."
+    },
+    "consent": {
+      "message": "Wir verwenden Cookies und Drittinhalte (eine Hotelkarte und Video), um die Seite zu betreiben und Affiliate-Funktionen zu ermöglichen.",
+      "accept": "Akzeptieren",
+      "decline": "Ablehnen",
+      "loadEmbed": "Inhalt laden",
+      "loadNote": "Lädt ein Drittanbieter-Widget, das Cookies setzen kann."
+    },
+    "privacyPage": {
+      "title": "Datenschutz und Cookies",
+      "blocks": [
+        {
+          "body": "{site} ist ein leserfinanzierter Reiseführer. Wir erheben so wenig Daten wie möglich: Sie surfen ohne Konto, und wir verkaufen niemals personenbezogene Daten."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Wir verwenden ein einziges notwendiges Cookie, um Ihre Sprache und Ihre Cookie-Wahl zu speichern. Wir setzen keine Werbe- oder Tracking-Cookies."
+        },
+        {
+          "heading": "Drittinhalte",
+          "body": "Manche Seiten binden eine Stay22-Hotelkarte und YouTube-Videos (im datenschutzfreundlichen Modus) ein. Sie laden erst nach Ihrer Zustimmung oder einem Klick und können dann eigene Cookies gemäß ihren Richtlinien setzen."
+        },
+        {
+          "heading": "Affiliate-Links",
+          "body": "Einige ausgehende Links sind Affiliate-Links. Wenn Sie darüber buchen, erhalten wir womöglich eine Provision, ohne Mehrkosten für Sie. Siehe den Affiliate-Hinweis."
+        },
+        {
+          "heading": "Ihre Rechte",
+          "body": "Nach der DSGVO können Sie Auskunft, Berichtigung oder Löschung Ihrer personenbezogenen Daten verlangen. Da wir keine Kontodaten speichern, genügt dafür meist das Löschen der Cookies im Browser."
+        }
+      ]
     }
   },
   "content": {

@@ -165,6 +165,37 @@
       "whatFilmedDestAnswer": "{name} sert de décor à des scènes de {titles}.",
       "stay": "Où dormir pour visiter les lieux de {name} ?",
       "stayAnswer": "Utilisez la carte ci-dessus pour comparer les hôtels juste à côté des lieux de tournage, aux mêmes prix qu'ailleurs."
+    },
+    "consent": {
+      "message": "Nous utilisons des cookies et des contenus tiers (carte d'hôtels et vidéo) pour faire fonctionner le site et nos liens affiliés.",
+      "accept": "Accepter",
+      "decline": "Refuser",
+      "loadEmbed": "Charger le contenu",
+      "loadNote": "Charge un widget tiers susceptible de déposer des cookies."
+    },
+    "privacyPage": {
+      "title": "Confidentialité et cookies",
+      "blocks": [
+        {
+          "body": "{site} est un guide de voyage soutenu par ses lecteurs. Nous limitons les données au strict minimum : vous naviguez sans compte, et nous ne vendons jamais de données personnelles."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Nous utilisons un seul cookie essentiel pour mémoriser votre langue et votre choix de cookies. Nous ne déposons aucun cookie publicitaire ou de pistage."
+        },
+        {
+          "heading": "Contenus tiers",
+          "body": "Certaines pages intègrent une carte d'hôtels Stay22 et des vidéos YouTube (en mode renforcé pour la vie privée). Ils ne se chargent qu'après votre acceptation ou un clic, et peuvent alors déposer leurs propres cookies selon leurs politiques."
+        },
+        {
+          "heading": "Liens affiliés",
+          "body": "Certains liens sortants sont affiliés. Si vous réservez via l'un d'eux, nous pouvons toucher une commission sans surcoût pour vous. Voir la page de transparence sur l'affiliation."
+        },
+        {
+          "heading": "Vos droits",
+          "body": "Conformément au RGPD, vous pouvez demander l'accès, la rectification ou la suppression de toute donnée personnelle. Comme nous ne stockons aucune donnée de compte, cela revient en général à effacer les cookies de votre navigateur."
+        }
+      ]
     }
   },
   "content": {
