@@ -2407,6 +2407,14 @@
           "Sandwich Harbour, donde las dunas caen al mar, es una clásica excursión en 4x4.",
           "La cercana laguna de Walvis Bay está llena de flamencos."
         ]
+      },
+      "cafe-de-flore": {
+        "sceneContext": "El mítico café de Saint-Germain, de banquetas rojas y latón, es una de las instituciones parisinas por las que Emily pasa entre el trabajo y los romances.",
+        "howToVisit": "Un café de verdad, siempre lleno, abierto a diario; los precios van acorde con la dirección, así que ven a tomar un café en la terraza y a ver pasar a la gente más que a buscar una ganga. Está en el bulevar Saint-Germain.",
+        "nearbyTips": [
+          "Les Deux Magots, al lado, es su viejo rival literario.",
+          "La iglesia de Saint-Germain-des-Prés está al otro lado del bulevar."
+        ]
       }
     }
   }

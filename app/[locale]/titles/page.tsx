@@ -12,6 +12,7 @@ import {
   type Locale,
 } from "@/lib/i18n";
 import { SITE_URL } from "@/lib/site";
+import { alternates, ogImages } from "@/lib/seo";
 
 export async function generateMetadata({
   params,
@@ -19,11 +20,14 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const dict = getDict(isLocale(locale) ? locale : DEFAULT_LOCALE);
+  const loc = isLocale(locale) ? locale : DEFAULT_LOCALE;
+  const dict = getDict(loc);
   return {
     title: dict.titlesIndex.heading,
     description: dict.titlesIndex.intro,
-    alternates: { canonical: `/${locale}/titles` },
+    alternates: alternates(loc, "/titles"),
+    openGraph: { images: ogImages(undefined, dict.titlesIndex.heading) },
+    twitter: { card: "summary_large_image", images: ogImages(undefined, dict.titlesIndex.heading) },
   };
 }
 

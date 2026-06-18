@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
-import { GUIDES, getGuide, loadGuide } from "@/content/guides";
+import { GUIDES, getGuide, loadGuide, localizeGuide } from "@/content/guides";
 import {
   DEFAULT_LOCALE,
   getDict,
@@ -10,7 +10,8 @@ import {
   localePath,
   type Locale,
 } from "@/lib/i18n";
-import { SITE_NAME, SITE_URL } from "@/lib/site";
+import { SITE_URL } from "@/lib/site";
+import { abs, alternates, clip, CONTENT_UPDATED, ogImages, OG_FALLBACK, orgNode } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const revalidate = 86400;
@@ -25,18 +26,22 @@ export async function generateMetadata({
   params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
   const { locale, slug } = await params;
+  const loc: Locale = isLocale(locale) ? locale : DEFAULT_LOCALE;
   const guide = getGuide(slug);
   if (!guide) return {};
+  const g = localizeGuide(guide, loc);
   return {
-    title: guide.title,
-    description: guide.description,
-    alternates: { canonical: `/${locale}/guides/${slug}` },
+    title: g.title,
+    description: clip(g.description),
+    alternates: alternates(loc, `/guides/${slug}`),
     openGraph: {
-      title: guide.title,
-      description: guide.description,
+      title: g.title,
+      description: clip(g.description),
       type: "article",
-      url: `${SITE_URL}/${locale}/guides/${slug}`,
+      url: `${SITE_URL}/${loc}/guides/${slug}`,
+      images: ogImages(undefined, g.title),
     },
+    twitter: { card: "summary_large_image", images: ogImages(undefined, g.title) },
   };
 }
 
@@ -51,6 +56,7 @@ export default async function GuidePage({
   const guide = getGuide(slug);
   if (!guide) notFound();
 
+  const g = localizeGuide(guide, loc);
   const { default: Content } = await loadGuide(guide, loc);
   const url = `${SITE_URL}/${loc}/guides/${slug}`;
 
@@ -60,11 +66,15 @@ export default async function GuidePage({
         data={{
           "@context": "https://schema.org",
           "@type": "Article",
-          headline: guide.title,
-          description: guide.description,
+          headline: g.title,
+          description: g.description,
           inLanguage: loc,
+          image: abs(OG_FALLBACK),
+          datePublished: guide.datePublished,
+          dateModified: CONTENT_UPDATED,
+          author: orgNode(),
+          publisher: orgNode(),
           mainEntityOfPage: url,
-          publisher: { "@type": "Organization", name: SITE_NAME },
         }}
       />
 
@@ -72,7 +82,7 @@ export default async function GuidePage({
         items={[
           { name: dict.breadcrumb.home, href: localePath(loc, "/") },
           { name: dict.guidesIndex.heading, href: localePath(loc, "/guides") },
-          { name: guide.title },
+          { name: g.title },
         ]}
       />
 
@@ -81,10 +91,10 @@ export default async function GuidePage({
           {dict.labels.guide} · {guide.readingMinutes} {dict.labels.minRead}
         </p>
         <h1 className="mt-3 font-display text-4xl font-bold leading-tight text-ink">
-          {guide.title}
+          {g.title}
         </h1>
         <p className="mt-4 text-lg leading-relaxed text-muted">
-          {guide.description}
+          {g.description}
         </p>
       </header>
 

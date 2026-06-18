@@ -28,6 +28,7 @@ import {
   type Locale,
 } from "@/lib/i18n";
 import { SITE_URL } from "@/lib/site";
+import { abs, alternates, clip, ogImages } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const revalidate = 86400;
@@ -48,16 +49,20 @@ export async function generateMetadata({
   const location = localizeLocation(base, loc);
   const dest = destinationForLocation(base);
   const name = `${location.name}${dest ? ` · ${dest.name}` : ""}`;
+  const heroImg = locationImage(slug);
+  const desc = clip(location.sceneContext);
   return {
     title: name,
-    description: location.sceneContext.slice(0, 155),
-    alternates: { canonical: `/${loc}/locations/${slug}` },
+    description: desc,
+    alternates: alternates(loc, `/locations/${slug}`),
     openGraph: {
       title: name,
-      description: location.sceneContext.slice(0, 155),
+      description: desc,
       type: "article",
       url: `${SITE_URL}/${loc}/locations/${slug}`,
+      images: ogImages(heroImg, location.name),
     },
+    twitter: { card: "summary_large_image", images: ogImages(heroImg, location.name) },
   };
 }
 
@@ -96,11 +101,22 @@ export default async function LocationPage({
           "@type": "TouristAttraction",
           name: location.name,
           url,
+          inLanguage: loc,
           description: location.sceneContext,
+          ...(heroImg
+            ? {
+                image: [heroImg, sceneImg]
+                  .filter((p): p is string => Boolean(p))
+                  .map((p) => abs(p)),
+              }
+            : {}),
           ...(location.address && {
             address: {
               "@type": "PostalAddress",
               streetAddress: location.address,
+              addressLocality: dest.name,
+              ...(dest.region ? { addressRegion: dest.region } : {}),
+              addressCountry: dest.country,
             },
           }),
           geo: {
@@ -110,6 +126,7 @@ export default async function LocationPage({
           },
           isPartOf: {
             "@type": "TouristDestination",
+            "@id": `${SITE_URL}/${loc}/destinations/${dest.slug}#destination`,
             name: dest.name,
             url: `${SITE_URL}/${loc}/destinations/${dest.slug}`,
           },

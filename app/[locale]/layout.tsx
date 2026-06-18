@@ -6,6 +6,8 @@ import { Footer } from "@/components/Footer";
 import { Stay22LetMeAllez } from "@/components/Stay22LetMeAllez";
 import { DEFAULT_LOCALE, LOCALES, getDict, isLocale, type Locale } from "@/lib/i18n";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
+import { JsonLd } from "@/components/JsonLd";
+import { ogImages, orgNode } from "@/lib/seo";
 import "../globals.css";
 
 const display = Space_Grotesk({
@@ -50,8 +52,13 @@ export async function generateMetadata({
       template: `%s · ${SITE_NAME}`,
     },
     description: dict.hero.subtitle,
-    openGraph: { type: "website", siteName: SITE_NAME, locale: OG_LOCALE[l] },
-    twitter: { card: "summary_large_image" },
+    openGraph: {
+      type: "website",
+      siteName: SITE_NAME,
+      locale: OG_LOCALE[l],
+      images: ogImages(undefined, SITE_NAME),
+    },
+    twitter: { card: "summary_large_image", images: ogImages(undefined, SITE_NAME) },
     alternates: {
       canonical: `/${l}`,
       languages: { ...languages, "x-default": "/en" },
@@ -76,6 +83,7 @@ export default async function LocaleLayout({
       className={`${display.variable} ${body.variable} ${mono.variable}`}
     >
       <body className="min-h-screen bg-paper text-ink antialiased">
+        <JsonLd data={{ "@context": "https://schema.org", ...orgNode() }} />
         <Header locale={locale} dict={dict} />
         {children}
         <Footer locale={locale} dict={dict} />

@@ -3,6 +3,7 @@ import { SITE_URL } from "@/lib/site";
 import { DESTINATIONS, LOCATIONS, TITLES } from "@/lib/data";
 import { GUIDES } from "@/content/guides";
 import { LOCALES } from "@/lib/i18n";
+import { CONTENT_UPDATED } from "@/lib/seo";
 
 /** Root-relative paths (without the locale prefix) and their priority. */
 function paths(): [path: string, priority: number][] {
@@ -21,7 +22,6 @@ function paths(): [path: string, priority: number][] {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date();
   const entries: MetadataRoute.Sitemap = [];
 
   for (const [path, priority] of paths()) {
@@ -31,7 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const l of LOCALES) {
       entries.push({
         url: `${SITE_URL}/${l}${path}`,
-        lastModified: now,
+        lastModified: CONTENT_UPDATED,
         priority,
         alternates: { languages },
       });

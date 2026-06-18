@@ -27,6 +27,7 @@ import {
   type Locale,
 } from "@/lib/i18n";
 import { SITE_URL } from "@/lib/site";
+import { abs, alternates, clip, ogImages } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const revalidate = 86400;
@@ -47,16 +48,20 @@ export async function generateMetadata({
   const dest = localizeDestination(base, loc);
   const dict = getDict(loc);
   const title = t(dict.destinationPage.filmingLocationsIn, { name: dest.name });
+  const heroImg = destinationImage(slug);
+  const desc = clip(dest.blurb);
   return {
     title,
-    description: dest.blurb.slice(0, 155),
-    alternates: { canonical: `/${loc}/destinations/${slug}` },
+    description: desc,
+    alternates: alternates(loc, `/destinations/${slug}`),
     openGraph: {
       title,
-      description: dest.blurb.slice(0, 155),
+      description: desc,
       type: "article",
       url: `${SITE_URL}/${loc}/destinations/${slug}`,
+      images: ogImages(heroImg, dest.name),
     },
+    twitter: { card: "summary_large_image", images: ogImages(heroImg, dest.name) },
   };
 }
 
@@ -84,10 +89,12 @@ export default async function DestinationPage({
         data={{
           "@context": "https://schema.org",
           "@type": "TouristDestination",
+          "@id": `${url}#destination`,
           name: dest.name,
           url,
+          inLanguage: loc,
           description: dest.blurb,
-          ...(dest.region && { addressRegion: dest.region }),
+          ...(heroImg ? { image: [heroImg, ...gallery].map((p) => abs(p)) } : {}),
           address: {
             "@type": "PostalAddress",
             addressCountry: dest.country,

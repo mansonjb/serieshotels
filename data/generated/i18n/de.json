@@ -2407,6 +2407,14 @@
           "Sandwich Harbour, wo die Dünen ins Meer stürzen, ist eine klassische 4x4-Tour.",
           "Die nahe Lagune von Walvis Bay ist voller Flamingos."
         ]
+      },
+      "cafe-de-flore": {
+        "sceneContext": "Das legendäre Café in Saint-Germain, mit roten Bänken und Messing, ist eine der Pariser Institutionen, durch die Emily zwischen Job und Liebesleben treibt.",
+        "howToVisit": "Ein echtes, stets gut besuchtes Café, täglich geöffnet; die Preise passen zur Adresse, kommen Sie also eher für einen Kaffee auf der Terrasse und zum Leutebeobachten als für ein Schnäppchen. Es liegt am Boulevard Saint-Germain.",
+        "nearbyTips": [
+          "Les Deux Magots nebenan ist der alte literarische Rivale.",
+          "Die Kirche Saint-Germain-des-Prés steht gegenüber am Boulevard."
+        ]
       }
     }
   }

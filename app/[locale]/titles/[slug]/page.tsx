@@ -29,6 +29,7 @@ import {
   type Locale,
 } from "@/lib/i18n";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
+import { abs, alternates, clip, ogImages, trailerVideo } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const revalidate = 86400;
@@ -49,16 +50,20 @@ export async function generateMetadata({
   const title = localizeTitle(base, loc);
   const dict = getDict(loc);
   const name = t(dict.titlePage.whereFilmed, { name: title.name });
+  const heroImg = titleImage(base);
+  const desc = clip(title.synopsis);
   return {
     title: name,
-    description: title.synopsis.slice(0, 155),
-    alternates: { canonical: `/${loc}/titles/${slug}` },
+    description: desc,
+    alternates: alternates(loc, `/titles/${slug}`),
     openGraph: {
       title: `${name} · ${SITE_NAME}`,
-      description: title.synopsis.slice(0, 155),
+      description: desc,
       type: "article",
       url: `${SITE_URL}/${loc}/titles/${slug}`,
+      images: ogImages(heroImg, title.name),
     },
+    twitter: { card: "summary_large_image", images: ogImages(heroImg, title.name) },
   };
 }
 
@@ -92,11 +97,19 @@ export default async function TitlePage({
           "@context": "https://schema.org",
           "@type": title.type === "series" ? "TVSeries" : "Movie",
           name: title.name,
+          description: title.synopsis,
           genre: title.genres,
           inLanguage: loc,
+          ...(heroImg ? { image: abs(heroImg) } : {}),
           ...(title.type === "movie"
             ? { datePublished: String(title.year) }
-            : { startDate: String(title.year) }),
+            : {
+                startDate: String(title.year),
+                ...(title.endYear ? { endDate: String(title.endYear) } : {}),
+              }),
+          ...(trailer
+            ? { trailer: trailerVideo(trailer, `${title.name} — trailer`) }
+            : {}),
           url,
           contentLocation: locations.map((l) => ({
             "@type": "Place",

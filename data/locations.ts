@@ -3639,4 +3639,24 @@ export const LOCATIONS: Location[] = [
       "Walvis Bay's lagoon nearby is full of flamingos.",
     ],
   },
+
+  // ===================== Emily in Paris (added in the pre-launch audit) =====================
+  {
+    slug: "cafe-de-flore",
+    name: "Café de Flore",
+    titleSlug: "emily-in-paris",
+    destinationSlug: "paris",
+    lat: 48.8542,
+    lng: 2.332,
+    kind: "venue",
+    address: "172 Bd Saint-Germain, 75006 Paris, France",
+    sceneContext:
+      "The storied Saint-Germain café, all red banquettes and brass, is one of the Paris institutions Emily drifts through between work and romance.",
+    howToVisit:
+      "A real, always-busy café open daily; prices match the address, so come for a coffee on the terrace and the people-watching rather than a bargain. It's on Boulevard Saint-Germain.",
+    nearbyTips: [
+      "Les Deux Magots next door is its old literary rival.",
+      "The Saint-Germain-des-Prés church is across the boulevard.",
+    ],
+  },
 ];

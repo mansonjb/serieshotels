@@ -61,6 +61,7 @@ export const TITLES: Title[] = [
       "cafe-de-flore",
       "jardin-du-palais-royal",
     ],
+    // NOTE: cafe-de-flore Location is defined in data/locations.ts (added in the pre-launch audit).
   },
   {
     slug: "outlander",

@@ -2407,6 +2407,14 @@
           "Sandwich Harbour, où les dunes plongent dans la mer, est une sortie 4x4 classique.",
           "La lagune de Walvis Bay, tout près, est pleine de flamants roses."
         ]
+      },
+      "cafe-de-flore": {
+        "sceneContext": "Ce café mythique de Saint-Germain, banquettes rouges et cuivres, est l'une des institutions parisiennes où Emily passe entre boulot et histoires de cœur.",
+        "howToVisit": "Un vrai café, toujours plein, ouvert tous les jours; les prix sont à la hauteur de l'adresse, alors venez pour un café en terrasse et observer les passants plutôt que pour faire une affaire. C'est sur le boulevard Saint-Germain.",
+        "nearbyTips": [
+          "Les Deux Magots, juste à côté, sont son vieux rival littéraire.",
+          "L'église de Saint-Germain-des-Prés est de l'autre côté du boulevard."
+        ]
       }
     }
   }

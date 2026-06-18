@@ -1988,6 +1988,12 @@
       "gallery": [
         "/locations/namib-desert/photo-2.jpg"
       ]
+    },
+    "cafe-de-flore": {
+      "hero": "/locations/cafe-de-flore/hero.jpg",
+      "gallery": [
+        "/locations/cafe-de-flore/photo-2.jpg"
+      ]
     }
   }
 }
