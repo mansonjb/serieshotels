@@ -154,6 +154,17 @@
           "body": "Las relaciones de afiliado nunca deciden qué lugares destacamos ni lo que decimos de ellos. Listamos un lugar porque es un sitio de rodaje real que merece la pena, punto. La comisión no influye en las descripciones de escenas, los consejos de visita ni el orden en que aparecen."
         }
       ]
+    },
+    "faq": {
+      "heading": "Conviene saber",
+      "whatFilmedLoc": "¿Qué se rodó en {name}?",
+      "canVisit": "¿Se puede visitar {name}?",
+      "whereLoc": "¿Dónde está {name}?",
+      "whereLocAnswer": "{name} es una localización de rodaje real en {destination}.",
+      "whatFilmedDest": "¿Qué se rodó en {name}?",
+      "whatFilmedDestAnswer": "{name} sirve de escenario para escenas de {titles}.",
+      "stay": "¿Dónde alojarse para visitar las localizaciones de {name}?",
+      "stayAnswer": "Usa el mapa de arriba para comparar hoteles justo al lado de los lugares de rodaje, a los mismos precios de siempre."
     }
   },
   "content": {

@@ -7,6 +7,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
+import { Faq } from "@/components/Faq";
 import {
   LOCATIONS,
   destinationForLocation,
@@ -92,6 +93,14 @@ export default async function LocationPage({
   );
   const heroImg = locationImage(slug);
   const sceneImg = locationGallery(slug)[0];
+  const faqItems = [
+    { q: t(dict.faq.whatFilmedLoc, { name: location.name }), a: location.sceneContext },
+    { q: t(dict.faq.canVisit, { name: location.name }), a: location.howToVisit },
+    {
+      q: t(dict.faq.whereLoc, { name: location.name }),
+      a: `${t(dict.faq.whereLocAnswer, { name: location.name, destination: dest.name })}${location.address ? ` ${location.address}` : ""}`,
+    },
+  ];
 
   return (
     <main className="mx-auto max-w-5xl px-5 py-12">
@@ -271,6 +280,8 @@ export default async function LocationPage({
           dict={dict}
         />
       </div>
+
+      <Faq heading={dict.faq.heading} items={faqItems} />
 
       {nearby.length > 0 && (
         <section className="mt-14">

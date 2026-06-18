@@ -154,6 +154,17 @@
           "body": "Les liens affiliés ne décident jamais des lieux qu'on met en avant ni de ce qu'on en dit. Si un lieu figure ici, c'est qu'il vaut vraiment le détour, point. La commission n'a aucune influence sur les descriptions, les conseils, ou l'ordre d'affichage."
         }
       ]
+    },
+    "faq": {
+      "heading": "Bon à savoir",
+      "whatFilmedLoc": "Qu'a-t-on tourné à {name} ?",
+      "canVisit": "Peut-on visiter {name} ?",
+      "whereLoc": "Où se trouve {name} ?",
+      "whereLocAnswer": "{name} est un véritable lieu de tournage situé à {destination}.",
+      "whatFilmedDest": "Qu'a-t-on tourné à {name} ?",
+      "whatFilmedDestAnswer": "{name} sert de décor à des scènes de {titles}.",
+      "stay": "Où dormir pour visiter les lieux de {name} ?",
+      "stayAnswer": "Utilisez la carte ci-dessus pour comparer les hôtels juste à côté des lieux de tournage, aux mêmes prix qu'ailleurs."
     }
   },
   "content": {

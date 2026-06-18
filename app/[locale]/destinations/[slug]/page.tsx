@@ -7,6 +7,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
+import { Faq } from "@/components/Faq";
 import {
   DESTINATIONS,
   getDestination,
@@ -82,6 +83,16 @@ export default async function DestinationPage({
   const url = `${SITE_URL}/${loc}/destinations/${slug}`;
   const heroImg = destinationImage(slug);
   const gallery = destinationGallery(slug);
+  const faqItems = [
+    {
+      q: t(dict.faq.whatFilmedDest, { name: dest.name }),
+      a: t(dict.faq.whatFilmedDestAnswer, {
+        name: dest.name,
+        titles: titles.map((tb) => localizeTitle(tb, loc).name).join(", "),
+      }),
+    },
+    { q: t(dict.faq.stay, { name: dest.name }), a: dict.faq.stayAnswer },
+  ];
 
   return (
     <main className="mx-auto max-w-6xl px-5 py-12">
@@ -206,6 +217,8 @@ export default async function DestinationPage({
           </section>
         );
       })}
+
+      <Faq heading={dict.faq.heading} items={faqItems} />
     </main>
   );
 }

@@ -154,6 +154,17 @@
           "body": "Le relazioni di affiliazione non decidono mai quali luoghi mettiamo in evidenza né ciò che ne diciamo. Elenchiamo un luogo perché è un vero set che vale la pena, punto. La commissione non ha alcuna influenza sulle descrizioni delle scene, sui consigli di visita o sull'ordine in cui compaiono."
         }
       ]
+    },
+    "faq": {
+      "heading": "Da sapere",
+      "whatFilmedLoc": "Che cosa è stato girato a {name}?",
+      "canVisit": "Si può visitare {name}?",
+      "whereLoc": "Dove si trova {name}?",
+      "whereLocAnswer": "{name} è un vero luogo delle riprese a {destination}.",
+      "whatFilmedDest": "Che cosa è stato girato a {name}?",
+      "whatFilmedDestAnswer": "{name} fa da scenario a scene di {titles}.",
+      "stay": "Dove alloggiare per visitare i luoghi di {name}?",
+      "stayAnswer": "Usa la mappa qui sopra per confrontare hotel proprio accanto ai luoghi delle riprese, agli stessi prezzi di sempre."
     }
   },
   "content": {

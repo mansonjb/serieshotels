@@ -158,6 +158,17 @@ export const UI_EN = {
       },
     ],
   },
+  faq: {
+    heading: "Good to know",
+    whatFilmedLoc: "What was filmed at {name}?",
+    canVisit: "Can you visit {name}?",
+    whereLoc: "Where is {name}?",
+    whereLocAnswer: "{name} is a real filming location in {destination}.",
+    whatFilmedDest: "What was filmed in {name}?",
+    whatFilmedDestAnswer: "{name} stands in for scenes from {titles}.",
+    stay: "Where should I stay to visit the {name} locations?",
+    stayAnswer: "Use the map above to compare hotels right next to the filming spots, at the same prices you would pay anyway.",
+  },
 } as const;
 
 export type UI = typeof UI_EN;

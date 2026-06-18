@@ -154,6 +154,17 @@
           "body": "Affiliate-Beziehungen entscheiden nie darüber, welche Orte wir zeigen oder was wir über sie sagen. Wir listen einen Ort, weil er ein echter, lohnender Drehort ist, Punkt. Die Provision hat keinen Einfluss auf die Szenenbeschreibungen, die Besuchstipps oder die Reihenfolge."
         }
       ]
+    },
+    "faq": {
+      "heading": "Gut zu wissen",
+      "whatFilmedLoc": "Was wurde an {name} gedreht?",
+      "canVisit": "Kann man {name} besuchen?",
+      "whereLoc": "Wo liegt {name}?",
+      "whereLocAnswer": "{name} ist ein echter Drehort in {destination}.",
+      "whatFilmedDest": "Was wurde in {name} gedreht?",
+      "whatFilmedDestAnswer": "{name} steht für Szenen aus {titles}.",
+      "stay": "Wo übernachten, um die Drehorte von {name} zu besuchen?",
+      "stayAnswer": "Vergleichen Sie über die Karte oben Hotels direkt neben den Drehorten, zu denselben Preisen wie überall."
     }
   },
   "content": {
