@@ -196,6 +196,13 @@
           "body": "Según el RGPD puedes solicitar acceder, corregir o eliminar cualquier dato personal. Como no almacenamos datos de cuenta, normalmente basta con borrar las cookies del navegador."
         }
       ]
+    },
+    "hotels": {
+      "heading": "Mejores hoteles en {name}",
+      "intro": "Una selección de alojamientos bien valorados junto a las localizaciones de rodaje.",
+      "check": "Ver disponibilidad",
+      "reviews": "opiniones",
+      "sponsored": "Afiliado · Stay22"
     }
   },
   "content": {

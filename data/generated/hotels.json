@@ -1,0 +1,1071 @@
+{
+  "dubrovnik": [
+    {
+      "name": "Rixos Premium Dubrovnik",
+      "slug": "rixos-premium-dubrovnik",
+      "rating": 4.5,
+      "reviewCount": 4628,
+      "stars": "5-star hotel",
+      "address": "Liechtensteinov put 3, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/rixos-premium-dubrovnik.jpg"
+    },
+    {
+      "name": "President Hotel, Valamar Collection",
+      "slug": "president-hotel-valamar-collection",
+      "rating": 4.7,
+      "reviewCount": 2774,
+      "stars": "5-star hotel",
+      "address": "Ul. Iva Dulčića 142, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/president-hotel-valamar-collection.jpg"
+    },
+    {
+      "name": "Hotel Dubrovnik Palace",
+      "slug": "hotel-dubrovnik-palace",
+      "rating": 4.7,
+      "reviewCount": 2513,
+      "stars": "5-star hotel",
+      "address": "Masarykov put 20, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/hotel-dubrovnik-palace.jpg"
+    },
+    {
+      "name": "Hilton Imperial Dubrovnik",
+      "slug": "hilton-imperial-dubrovnik",
+      "rating": 4.7,
+      "reviewCount": 2127,
+      "stars": "5-star hotel",
+      "address": "Ul. Marijana Blažića 2, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/hilton-imperial-dubrovnik.jpg"
+    },
+    {
+      "name": "Hotel Lero",
+      "slug": "hotel-lero",
+      "rating": 4.5,
+      "reviewCount": 2823,
+      "stars": "4-star hotel",
+      "address": "Ul. Iva Vojnovića 14, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/hotel-lero.jpg"
+    },
+    {
+      "name": "Hotel Adria",
+      "slug": "hotel-adria",
+      "rating": 4.5,
+      "reviewCount": 2339,
+      "stars": "4-star hotel",
+      "address": "Radnička ul. 46, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/hotel-adria.jpg"
+    },
+    {
+      "name": "Hotel Excelsior",
+      "slug": "hotel-excelsior",
+      "rating": 4.8,
+      "reviewCount": 1317,
+      "stars": "5-star hotel",
+      "address": "Ul. Frana Supila 12, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/hotel-excelsior.jpg"
+    },
+    {
+      "name": "Hotel L a p a d",
+      "slug": "hotel-l-a-p-a-d",
+      "rating": 4.5,
+      "reviewCount": 1369,
+      "stars": "4-star hotel",
+      "address": "Lapadska obala 37, 20000, Dubrovnik, Croatia",
+      "photo": "/hotels/dubrovnik/hotel-l-a-p-a-d.jpg"
+    }
+  ],
+  "south-iceland": [
+    {
+      "name": "ION Adventure Hotel, Nesjavellir, a Member of Design Hotels",
+      "slug": "ion-adventure-hotel-nesjavellir-a-member-of-design-hotels",
+      "rating": 4.1,
+      "reviewCount": 673,
+      "stars": "4-star hotel",
+      "address": "Nesjavallaleið, 805 Selfoss, Iceland",
+      "photo": "/hotels/south-iceland/ion-adventure-hotel-nesjavellir-a-member-of-design-hotels.jpg"
+    }
+  ],
+  "county-down": [
+    {
+      "name": "Slieve Donard",
+      "slug": "slieve-donard",
+      "rating": 4.5,
+      "reviewCount": 3260,
+      "stars": "5-star hotel",
+      "address": "Downs Rd, Newcastle BT33 0AH, United Kingdom",
+      "photo": "/hotels/county-down/slieve-donard.jpg"
+    },
+    {
+      "name": "The Cuan Restaurant & Hotel",
+      "slug": "the-cuan-restaurant-hotel",
+      "rating": 4.5,
+      "reviewCount": 1147,
+      "stars": "4-star hotel",
+      "address": "6-12 The Square, Strangford, Downpatrick BT30 7ND, United Kingdom",
+      "photo": "/hotels/county-down/the-cuan-restaurant-hotel.jpg"
+    },
+    {
+      "name": "Harbour House Newcastle",
+      "slug": "harbour-house-newcastle",
+      "rating": 4.5,
+      "reviewCount": 1122,
+      "stars": "Hotel",
+      "address": "4 South Promenade, Newcastle BT33 0EX, United Kingdom",
+      "photo": "/hotels/county-down/harbour-house-newcastle.jpg"
+    },
+    {
+      "name": "Denvirs Hotel",
+      "slug": "denvirs-hotel",
+      "rating": 4.5,
+      "reviewCount": 462,
+      "stars": "2-star hotel",
+      "address": "14 English St, Downpatrick BT30 6AB, United Kingdom",
+      "photo": "/hotels/county-down/denvirs-hotel.jpg"
+    },
+    {
+      "name": "The Portaferry Hotel",
+      "slug": "the-portaferry-hotel",
+      "rating": 4.3,
+      "reviewCount": 598,
+      "stars": "3-star hotel",
+      "address": "6, 10 The Strand, Portaferry, Newtownards BT22 1PE, United Kingdom",
+      "photo": "/hotels/county-down/the-portaferry-hotel.jpg"
+    },
+    {
+      "name": "Enniskeen Country House Hotel",
+      "slug": "enniskeen-country-house-hotel",
+      "rating": 4.5,
+      "reviewCount": 190,
+      "stars": "3-star hotel",
+      "address": "Enniskeen Country House Hotel, 98 Bryansford Rd, Newcastle BT33 0LF, United Kingdom",
+      "photo": "/hotels/county-down/enniskeen-country-house-hotel.jpg"
+    }
+  ],
+  "taormina": [
+    {
+      "name": "La Plage Resort",
+      "slug": "la-plage-resort",
+      "rating": 4.5,
+      "reviewCount": 2944,
+      "stars": "5-star hotel",
+      "address": "Via Nazionale, 107/A, 98039 Isola Bella, ME, Italy",
+      "photo": "/hotels/taormina/la-plage-resort.jpg"
+    },
+    {
+      "name": "UNAHOTELS Capotaormina",
+      "slug": "unahotels-capotaormina",
+      "rating": 4.6,
+      "reviewCount": 1904,
+      "stars": "4-star hotel",
+      "address": "Via Nazionale, 105, 98039 Taormina ME, Italy",
+      "photo": "/hotels/taormina/unahotels-capotaormina.jpg"
+    },
+    {
+      "name": "Grand Hotel Timeo, A Belmond Hotel, Taormina",
+      "slug": "grand-hotel-timeo-a-belmond-hotel-taormina",
+      "rating": 4.7,
+      "reviewCount": 1022,
+      "stars": "5-star hotel",
+      "address": "Via Teatro Greco, 59, 98039 Taormina ME, Italy",
+      "photo": "/hotels/taormina/grand-hotel-timeo-a-belmond-hotel-taormina.jpg"
+    },
+    {
+      "name": "Atlantis Bay",
+      "slug": "atlantis-bay",
+      "rating": 4.7,
+      "reviewCount": 737,
+      "stars": "5-star hotel",
+      "address": "Via Nazionale, 161, 98030 Taormina ME, Italy",
+      "photo": "/hotels/taormina/atlantis-bay.jpg"
+    },
+    {
+      "name": "San Domenico Palace, Taormina, A Four Seasons Hotel",
+      "slug": "san-domenico-palace-taormina-a-four-seasons-hotel",
+      "rating": 4.6,
+      "reviewCount": 749,
+      "stars": "5-star hotel",
+      "address": "Via S. Domenico, 5, 98039 Taormina ME, Italy",
+      "photo": "/hotels/taormina/san-domenico-palace-taormina-a-four-seasons-hotel.jpg"
+    },
+    {
+      "name": "Hotel Villa Belvedere",
+      "slug": "hotel-villa-belvedere",
+      "rating": 4.8,
+      "reviewCount": 497,
+      "stars": "4-star hotel",
+      "address": "Via Bagnoli Croci, 79, 98039 Taormina ME, Italy",
+      "photo": "/hotels/taormina/hotel-villa-belvedere.jpg"
+    },
+    {
+      "name": "Hotel Metropole Taormina",
+      "slug": "hotel-metropole-taormina",
+      "rating": 4.4,
+      "reviewCount": 876,
+      "stars": "5-star hotel",
+      "address": "Corso Umberto, 154, 98039 Taormina ME, Italy",
+      "photo": "/hotels/taormina/hotel-metropole-taormina.jpg"
+    },
+    {
+      "name": "Mazzarò Sea Palace",
+      "slug": "mazzaro-sea-palace",
+      "rating": 4.7,
+      "reviewCount": 539,
+      "stars": "5-star hotel",
+      "address": "Via Nazionale, 147, 98030 Taormina ME, Italy",
+      "photo": "/hotels/taormina/mazzaro-sea-palace.jpg"
+    }
+  ],
+  "paris": [
+    {
+      "name": "Pullman Paris Tour Eiffel",
+      "slug": "pullman-paris-tour-eiffel",
+      "rating": 4.6,
+      "reviewCount": 15749,
+      "stars": "4-star tourist hotel",
+      "address": "18 Avenue De Suffren, 22 Rue Jean Rey Entrée Au, 75015 Paris, France",
+      "photo": "/hotels/paris/pullman-paris-tour-eiffel.jpg"
+    },
+    {
+      "name": "Paris France Hotel",
+      "slug": "paris-france-hotel",
+      "rating": 4.7,
+      "reviewCount": 1544,
+      "stars": "3-star tourist hotel",
+      "address": "72 R. de Turbigo, 75003 Paris, France",
+      "photo": "/hotels/paris/paris-france-hotel.jpg"
+    },
+    {
+      "name": "Hôtel d'Orsay",
+      "slug": "hotel-d-orsay",
+      "rating": 4.8,
+      "reviewCount": 863,
+      "stars": "4-star tourist hotel",
+      "address": "93 Rue de Lille, 75007 Paris, France",
+      "photo": "/hotels/paris/hotel-d-orsay.jpg"
+    },
+    {
+      "name": "Hôtel Europe Saint-Séverin",
+      "slug": "hotel-europe-saint-severin",
+      "rating": 4.4,
+      "reviewCount": 1422,
+      "stars": "3-star tourist hotel",
+      "address": "38-40 Rue Saint-Séverin, 75005 Paris, France",
+      "photo": "/hotels/paris/hotel-europe-saint-severin.jpg"
+    },
+    {
+      "name": "La Bourdonnais",
+      "slug": "la-bourdonnais",
+      "rating": 4.6,
+      "reviewCount": 965,
+      "stars": "4-star tourist hotel",
+      "address": "111-113 Av. de la Bourdonnais, 75007 Paris, France",
+      "photo": "/hotels/paris/la-bourdonnais.jpg"
+    },
+    {
+      "name": "Hôtel Le Relais Saint Charles",
+      "slug": "hotel-le-relais-saint-charles",
+      "rating": 4.4,
+      "reviewCount": 1136,
+      "stars": "4-star tourist hotel",
+      "address": "72 Bd de Grenelle, 75015 Paris, France",
+      "photo": "/hotels/paris/hotel-le-relais-saint-charles.jpg"
+    },
+    {
+      "name": "The People",
+      "slug": "the-people",
+      "rating": 4,
+      "reviewCount": 1804,
+      "stars": "Hostel",
+      "address": "17 Bd Morland, 75004 Paris, France",
+      "photo": "/hotels/paris/the-people.jpg"
+    },
+    {
+      "name": "Hôtel Duquesne Eiffel",
+      "slug": "hotel-duquesne-eiffel",
+      "rating": 4.4,
+      "reviewCount": 776,
+      "stars": "4-star tourist hotel",
+      "address": "23 Av. Duquesne, 75007 Paris, France",
+      "photo": "/hotels/paris/hotel-duquesne-eiffel.jpg"
+    }
+  ],
+  "seville": [
+    {
+      "name": "Hotel Alfonso XIII, a Luxury Collection Hotel, Seville",
+      "slug": "hotel-alfonso-xiii-a-luxury-collection-hotel-seville",
+      "rating": 4.6,
+      "reviewCount": 7042,
+      "stars": "5-star hotel",
+      "address": "C. San Fernando, 2, Casco Antiguo, 41004 Sevilla, Spain",
+      "photo": "/hotels/seville/hotel-alfonso-xiii-a-luxury-collection-hotel-seville.jpg"
+    },
+    {
+      "name": "Eurostars Al-Ándalus",
+      "slug": "eurostars-al-andalus",
+      "rating": 4.3,
+      "reviewCount": 11493,
+      "stars": "4-star hotel",
+      "address": "Av. de la Palmera, s/n, 41012 Sevilla, Spain",
+      "photo": "/hotels/seville/eurostars-al-andalus.jpg"
+    },
+    {
+      "name": "Meliá Sevilla",
+      "slug": "melia-sevilla",
+      "rating": 4.4,
+      "reviewCount": 6576,
+      "stars": "4-star hotel",
+      "address": "Calle Dr. Pedro de Castro, 1, 41004 Sevilla, Spain",
+      "photo": "/hotels/seville/melia-sevilla.jpg"
+    },
+    {
+      "name": "Hotel Sevilla Center",
+      "slug": "hotel-sevilla-center",
+      "rating": 4.4,
+      "reviewCount": 4968,
+      "stars": "4-star hotel",
+      "address": "Av. de la Buhaira, 24, 41018 Sevilla, Spain",
+      "photo": "/hotels/seville/hotel-sevilla-center.jpg"
+    },
+    {
+      "name": "Hilton Garden Inn Sevilla",
+      "slug": "hilton-garden-inn-sevilla",
+      "rating": 4.4,
+      "reviewCount": 3352,
+      "stars": "4-star hotel",
+      "address": "Torneo Parque Empresarial, Av. Ingeniería, 11, Norte, 41015 Sevilla, Spain",
+      "photo": "/hotels/seville/hilton-garden-inn-sevilla.jpg"
+    },
+    {
+      "name": "Hotel Las Casas de La Judería",
+      "slug": "hotel-las-casas-de-la-juderia",
+      "rating": 4.5,
+      "reviewCount": 2351,
+      "stars": "4-star hotel",
+      "address": "C. Sta. María la Blanca, 5, Casco Antiguo, 41004 Sevilla, Spain",
+      "photo": "/hotels/seville/hotel-las-casas-de-la-juderia.jpg"
+    },
+    {
+      "name": "CoolRooms Palacio Villapanés 5 GL",
+      "slug": "coolrooms-palacio-villapanes-5-gl",
+      "rating": 4.8,
+      "reviewCount": 1084,
+      "stars": "5-star hotel",
+      "address": "C. Santiago, 31, Casco Antiguo, 41003 Sevilla, Spain",
+      "photo": "/hotels/seville/coolrooms-palacio-villapanes-5-gl.jpg"
+    },
+    {
+      "name": "HOTEL GIRALDA CENTER",
+      "slug": "hotel-giralda-center",
+      "rating": 4.6,
+      "reviewCount": 1434,
+      "stars": "4-star hotel",
+      "address": "C. Juan de Mata Carriazo, 7, 41018 Sevilla, Spain",
+      "photo": "/hotels/seville/hotel-giralda-center.jpg"
+    }
+  ],
+  "girona": [
+    {
+      "name": "Hotels Ultonia Girona",
+      "slug": "hotels-ultonia-girona",
+      "rating": 4.4,
+      "reviewCount": 4077,
+      "stars": "4-star hotel",
+      "address": "Gran Via de Jaume I, 22, 17001 Girona, Spain",
+      "photo": "/hotels/girona/hotels-ultonia-girona.jpg"
+    },
+    {
+      "name": "Hotel Carlemany Girona",
+      "slug": "hotel-carlemany-girona",
+      "rating": 4.3,
+      "reviewCount": 3120,
+      "stars": "4-star hotel",
+      "address": "Plaça Miquel Santaló i Pavor, 1, 17002 Girona, Spain",
+      "photo": "/hotels/girona/hotel-carlemany-girona.jpg"
+    },
+    {
+      "name": "Hotel Costabella Girona",
+      "slug": "hotel-costabella-girona",
+      "rating": 4.5,
+      "reviewCount": 1412,
+      "stars": "3-star hotel",
+      "address": "Avinguda de França, 61, 17007 Girona, Spain",
+      "photo": "/hotels/girona/hotel-costabella-girona.jpg"
+    },
+    {
+      "name": "Palau de Bellavista by URH",
+      "slug": "palau-de-bellavista-by-urh",
+      "rating": 4.2,
+      "reviewCount": 2349,
+      "stars": "4-star hotel",
+      "address": "Pujada dels Polvorins, 1, 17004 Girona, Spain",
+      "photo": "/hotels/girona/palau-de-bellavista-by-urh.jpg"
+    },
+    {
+      "name": "DoubleTree by Hilton Girona",
+      "slug": "doubletree-by-hilton-girona",
+      "rating": 4.1,
+      "reviewCount": 2579,
+      "stars": "4-star hotel",
+      "address": "Carrer Mossèn Joan Pons, 1, 17001 Girona, Spain",
+      "photo": "/hotels/girona/doubletree-by-hilton-girona.jpg"
+    },
+    {
+      "name": "Nord 1901 Hotel",
+      "slug": "nord-1901-hotel",
+      "rating": 4.6,
+      "reviewCount": 815,
+      "stars": "4-star hotel",
+      "address": "Carrer del Nord, 7, 9, 17001 Girona, Spain",
+      "photo": "/hotels/girona/nord-1901-hotel.jpg"
+    },
+    {
+      "name": "Hotel Ciutat de Girona",
+      "slug": "hotel-ciutat-de-girona",
+      "rating": 4.3,
+      "reviewCount": 982,
+      "stars": "4-star hotel",
+      "address": "Carrer del Nord, 2, 17001 Girona, Spain",
+      "photo": "/hotels/girona/hotel-ciutat-de-girona.jpg"
+    },
+    {
+      "name": "Hotel Peninsular",
+      "slug": "hotel-peninsular",
+      "rating": 4.1,
+      "reviewCount": 846,
+      "stars": "3-star hotel",
+      "address": "Av. de Sant Francesc, 6, 17001 Girona, Spain",
+      "photo": "/hotels/girona/hotel-peninsular.jpg"
+    }
+  ],
+  "basque-country": [
+    {
+      "name": "Silken Gran Hotel Durango",
+      "slug": "silken-gran-hotel-durango",
+      "rating": 4.4,
+      "reviewCount": 1851,
+      "stars": "4-star hotel",
+      "address": "Gasteiz Bidea, 2, 48200 Durango, Biscay, Spain",
+      "photo": "/hotels/basque-country/silken-gran-hotel-durango.jpg"
+    }
+  ],
+  "maui": [
+    {
+      "name": "Wailea Beach Resort - Marriott, Maui",
+      "slug": "wailea-beach-resort-marriott-maui",
+      "rating": 4.6,
+      "reviewCount": 4158,
+      "stars": "4-star hotel",
+      "address": "3700 Wailea Alanui Dr, Wailea, HI 96753",
+      "photo": "/hotels/maui/wailea-beach-resort-marriott-maui.jpg"
+    },
+    {
+      "name": "Maui Coast Hotel",
+      "slug": "maui-coast-hotel",
+      "rating": 4.5,
+      "reviewCount": 2090,
+      "stars": "3-star hotel",
+      "address": "2259 S Kihei Rd, Kihei, HI 96753",
+      "photo": "/hotels/maui/maui-coast-hotel.jpg"
+    },
+    {
+      "name": "Courtyard by Marriott Maui Kahului Airport",
+      "slug": "courtyard-by-marriott-maui-kahului-airport",
+      "rating": 4.3,
+      "reviewCount": 1107,
+      "stars": "3-star hotel",
+      "address": "532 Keolani Pl, Kahului, HI 96732",
+      "photo": "/hotels/maui/courtyard-by-marriott-maui-kahului-airport.jpg"
+    },
+    {
+      "name": "Maui Seaside Hotel",
+      "slug": "maui-seaside-hotel",
+      "rating": 3.9,
+      "reviewCount": 1654,
+      "stars": "3-star hotel",
+      "address": "100 W Kaahumanu Ave, Kahului, HI 96732",
+      "photo": "/hotels/maui/maui-seaside-hotel.jpg"
+    },
+    {
+      "name": "Maui Beach Hotel",
+      "slug": "maui-beach-hotel",
+      "rating": 3.6,
+      "reviewCount": 2040,
+      "stars": "3-star hotel",
+      "address": "170 W Kaahumanu Ave, Kahului, HI 96732",
+      "photo": "/hotels/maui/maui-beach-hotel.jpg"
+    },
+    {
+      "name": "Days Inn by Wyndham Maui Oceanfront",
+      "slug": "days-inn-by-wyndham-maui-oceanfront",
+      "rating": 3.9,
+      "reviewCount": 786,
+      "stars": "2-star hotel",
+      "address": "2980 S Kihei Rd, Kihei, HI 96753",
+      "photo": "/hotels/maui/days-inn-by-wyndham-maui-oceanfront.jpg"
+    }
+  ],
+  "koh-samui": [
+    {
+      "name": "Silavadee Pool Spa Resort",
+      "slug": "silavadee-pool-spa-resort",
+      "rating": 4.7,
+      "reviewCount": 1566,
+      "stars": "5-star hotel",
+      "address": "208/66 Maret, Ko Samui District, Surat Thani 84310, Thailand",
+      "photo": "/hotels/koh-samui/silavadee-pool-spa-resort.jpg"
+    },
+    {
+      "name": "Anantara Bophut Koh Samui Resort",
+      "slug": "anantara-bophut-koh-samui-resort",
+      "rating": 4.7,
+      "reviewCount": 1511,
+      "stars": "5-star hotel",
+      "address": "99/9 Bophut Bay Samui Island, Surat Thani 84320, Thailand",
+      "photo": "/hotels/koh-samui/anantara-bophut-koh-samui-resort.jpg"
+    },
+    {
+      "name": "Amari Koh Samui",
+      "slug": "amari-koh-samui",
+      "rating": 4.5,
+      "reviewCount": 2091,
+      "stars": "5-star hotel",
+      "address": "14, 3 Chaweng Beach Rd, Bo Put, Amphoe Ko Samui, Surat Thani 84320, Thailand",
+      "photo": "/hotels/koh-samui/amari-koh-samui.jpg"
+    },
+    {
+      "name": "Meliá Koh Samui",
+      "slug": "melia-koh-samui",
+      "rating": 4.6,
+      "reviewCount": 1762,
+      "stars": "5-star hotel",
+      "address": "H3CM+PJ9, 4171, Bo Put, Ko Samui District, Surat Thani 84320, Thailand",
+      "photo": "/hotels/koh-samui/melia-koh-samui.jpg"
+    },
+    {
+      "name": "Anantara Lawana Koh Samui Resort",
+      "slug": "anantara-lawana-koh-samui-resort",
+      "rating": 4.6,
+      "reviewCount": 1377,
+      "stars": "5-star hotel",
+      "address": "92 1, Tambon Bo Put, Ko Samui District, Surat Thani 84320, Thailand",
+      "photo": "/hotels/koh-samui/anantara-lawana-koh-samui-resort.jpg"
+    },
+    {
+      "name": "Four Seasons Resort Koh Samui",
+      "slug": "four-seasons-resort-koh-samui",
+      "rating": 4.8,
+      "reviewCount": 1010,
+      "stars": "5-star hotel",
+      "address": "219, Tambon Mae Nam, Angthong, Chang Wat Surat Thani 84140, Thailand",
+      "photo": "/hotels/koh-samui/four-seasons-resort-koh-samui.jpg"
+    },
+    {
+      "name": "Vana Belle, a Luxury Collection Resort, Koh Samui",
+      "slug": "vana-belle-a-luxury-collection-resort-koh-samui",
+      "rating": 4.8,
+      "reviewCount": 933,
+      "stars": "5-star hotel",
+      "address": "9 Noi Beach, 99 Chaweng Beach Rd, Tambon Bo Put, Amphoe Ko Samui, Surat Thani 84320, Thailand",
+      "photo": "/hotels/koh-samui/vana-belle-a-luxury-collection-resort-koh-samui.jpg"
+    },
+    {
+      "name": "Coral Cliff Beach Resort",
+      "slug": "coral-cliff-beach-resort",
+      "rating": 4.4,
+      "reviewCount": 1419,
+      "stars": "4-star hotel",
+      "address": "210 หมู่ที่ 4 ตําบล, Tambon Bo Put, Ko Samui District, Surat Thani 84310, Thailand",
+      "photo": "/hotels/koh-samui/coral-cliff-beach-resort.jpg"
+    }
+  ],
+  "scottish-highlands": [
+    {
+      "name": "Inverlochy Castle, an SLH Hotel",
+      "slug": "inverlochy-castle-an-slh-hotel",
+      "rating": 4.6,
+      "reviewCount": 507,
+      "stars": "5-star hotel",
+      "address": "Torlundy, Fort William PH33 6SN, United Kingdom",
+      "photo": "/hotels/scottish-highlands/inverlochy-castle-an-slh-hotel.jpg"
+    },
+    {
+      "name": "Glencoe House",
+      "slug": "glencoe-house",
+      "rating": 4.8,
+      "reviewCount": 240,
+      "stars": "5-star hotel",
+      "address": "Glencoe PH49 4HT, United Kingdom",
+      "photo": "/hotels/scottish-highlands/glencoe-house.jpg"
+    }
+  ],
+  "central-scotland": [
+    {
+      "name": "Crieff Hydro Hotel",
+      "slug": "crieff-hydro-hotel",
+      "rating": 4.4,
+      "reviewCount": 3446,
+      "stars": "4-star hotel",
+      "address": "strathearn house, Ferntower Rd, Crieff PH7 3LQ, United Kingdom",
+      "photo": "/hotels/central-scotland/crieff-hydro-hotel.jpg"
+    },
+    {
+      "name": "Inglewood House & Spa",
+      "slug": "inglewood-house-spa",
+      "rating": 4.5,
+      "reviewCount": 862,
+      "stars": "4-star hotel",
+      "address": "Clackmannanshire Scotland, Tullibody Rd, Alloa FK10 2HU, United Kingdom",
+      "photo": "/hotels/central-scotland/inglewood-house-spa.jpg"
+    }
+  ],
+  "northumberland": [
+    {
+      "name": "The Victoria Hotel, Bamburgh",
+      "slug": "the-victoria-hotel-bamburgh",
+      "rating": 4.4,
+      "reviewCount": 1406,
+      "stars": "3-star hotel",
+      "address": "1 Front St, Bamburgh NE69 7BP, United Kingdom",
+      "photo": "/hotels/northumberland/the-victoria-hotel-bamburgh.jpg"
+    },
+    {
+      "name": "The Bamburgh Castle Inn",
+      "slug": "the-bamburgh-castle-inn",
+      "rating": 4.1,
+      "reviewCount": 2236,
+      "stars": "3-star hotel",
+      "address": "Bamburgh Castle Inn, Seahouses NE68 7SQ, United Kingdom",
+      "photo": "/hotels/northumberland/the-bamburgh-castle-inn.jpg"
+    },
+    {
+      "name": "Clennell Hall Country House",
+      "slug": "clennell-hall-country-house",
+      "rating": 4.6,
+      "reviewCount": 319,
+      "stars": "3-star hotel",
+      "address": "9V5V+JH, Clennell, Morpeth NE65 7BG, United Kingdom",
+      "photo": "/hotels/northumberland/clennell-hall-country-house.jpg"
+    },
+    {
+      "name": "Warkworth House Hotel",
+      "slug": "warkworth-house-hotel",
+      "rating": 4.6,
+      "reviewCount": 318,
+      "stars": "3-star hotel",
+      "address": "16 Bridge St, Warkworth, Morpeth NE65 0XB, United Kingdom",
+      "photo": "/hotels/northumberland/warkworth-house-hotel.jpg"
+    }
+  ],
+  "oxford": [
+    {
+      "name": "The Head of the River, Oxford",
+      "slug": "the-head-of-the-river-oxford",
+      "rating": 4.2,
+      "reviewCount": 3494,
+      "stars": "4-star hotel",
+      "address": "Folly Brg, St Aldate's, Oxford OX1 4LB, United Kingdom",
+      "photo": "/hotels/oxford/the-head-of-the-river-oxford.jpg"
+    },
+    {
+      "name": "voco Oxford Spires by IHG",
+      "slug": "voco-oxford-spires-by-ihg",
+      "rating": 4.4,
+      "reviewCount": 2337,
+      "stars": "4-star hotel",
+      "address": "Abingdon Rd, Oxford OX1 4PS, United Kingdom",
+      "photo": "/hotels/oxford/voco-oxford-spires-by-ihg.jpg"
+    },
+    {
+      "name": "Malmaison Oxford",
+      "slug": "malmaison-oxford",
+      "rating": 4.4,
+      "reviewCount": 1951,
+      "stars": "4-star hotel",
+      "address": "3 New Rd, Oxford OX1 1AY, United Kingdom",
+      "photo": "/hotels/oxford/malmaison-oxford.jpg"
+    },
+    {
+      "name": "The Randolph Hotel Oxford, a Graduate by Hilton",
+      "slug": "the-randolph-hotel-oxford-a-graduate-by-hilton",
+      "rating": 4.2,
+      "reviewCount": 1679,
+      "stars": "5-star hotel",
+      "address": "Beaumont St, Oxford OX1 2LN, United Kingdom",
+      "photo": "/hotels/oxford/the-randolph-hotel-oxford-a-graduate-by-hilton.jpg"
+    },
+    {
+      "name": "Holiday Inn Oxford by IHG",
+      "slug": "holiday-inn-oxford-by-ihg",
+      "rating": 4.2,
+      "reviewCount": 1649,
+      "stars": "4-star hotel",
+      "address": "Peartree Roundabout, Woodstock Rd, Oxford OX2 8JD, United Kingdom",
+      "photo": "/hotels/oxford/holiday-inn-oxford-by-ihg.jpg"
+    },
+    {
+      "name": "Courtyard by Marriott Oxford City Centre",
+      "slug": "courtyard-by-marriott-oxford-city-centre",
+      "rating": 4.5,
+      "reviewCount": 691,
+      "stars": "4-star hotel",
+      "address": "15 Paradise St, Oxford OX1 1LD, United Kingdom",
+      "photo": "/hotels/oxford/courtyard-by-marriott-oxford-city-centre.jpg"
+    },
+    {
+      "name": "Old Bank Hotel",
+      "slug": "old-bank-hotel",
+      "rating": 4.6,
+      "reviewCount": 582,
+      "stars": "5-star hotel",
+      "address": "92-94 High St, Oxford OX1 4BJ, United Kingdom",
+      "photo": "/hotels/oxford/old-bank-hotel.jpg"
+    },
+    {
+      "name": "Mercure Oxford Eastgate Hotel",
+      "slug": "mercure-oxford-eastgate-hotel",
+      "rating": 4,
+      "reviewCount": 800,
+      "stars": "4-star hotel",
+      "address": "73 High St, Oxford OX1 4BE, United Kingdom",
+      "photo": "/hotels/oxford/mercure-oxford-eastgate-hotel.jpg"
+    }
+  ],
+  "north-york-moors": [
+    {
+      "name": "The Mallyan Spout Hotel | Goathland | Whitby",
+      "slug": "the-mallyan-spout-hotel-goathland-whitby",
+      "rating": 4.6,
+      "reviewCount": 1431,
+      "stars": "3-star hotel",
+      "address": "Goathland, Whitby YO22 5AN, United Kingdom",
+      "photo": "/hotels/north-york-moors/the-mallyan-spout-hotel-goathland-whitby.jpg"
+    },
+    {
+      "name": "Horseshoe Hotel",
+      "slug": "horseshoe-hotel",
+      "rating": 4.5,
+      "reviewCount": 691,
+      "stars": "Hotel",
+      "address": "Egton Bridge, Whitby YO21 1XE, United Kingdom",
+      "photo": "/hotels/north-york-moors/horseshoe-hotel.jpg"
+    },
+    {
+      "name": "Royal Oak Inn",
+      "slug": "royal-oak-inn",
+      "rating": 4.6,
+      "reviewCount": 425,
+      "stars": "3-star hotel",
+      "address": "1 Main St, Gillamoor, York YO62 7HX, United Kingdom",
+      "photo": "/hotels/north-york-moors/royal-oak-inn.jpg"
+    },
+    {
+      "name": "The Fox & Hounds Inn & Glamping Pods",
+      "slug": "the-fox-hounds-inn-glamping-pods",
+      "rating": 4.5,
+      "reviewCount": 438,
+      "stars": "4-star hotel",
+      "address": "45 Brook Ln, Ainthorpe, Whitby YO21 2LD, United Kingdom",
+      "photo": "/hotels/north-york-moors/the-fox-hounds-inn-glamping-pods.jpg"
+    },
+    {
+      "name": "White Horse Farm Hotel",
+      "slug": "white-horse-farm-hotel",
+      "rating": 4.4,
+      "reviewCount": 371,
+      "stars": "2-star hotel",
+      "address": "Rosedale Abbey, Pickering YO18 8SE, United Kingdom",
+      "photo": "/hotels/north-york-moors/white-horse-farm-hotel.jpg"
+    },
+    {
+      "name": "Downe Arms Inn",
+      "slug": "downe-arms-inn",
+      "rating": 4.6,
+      "reviewCount": 280,
+      "stars": "4-star hotel",
+      "address": "3 High St, Castleton, Whitby YO21 2EE, United Kingdom",
+      "photo": "/hotels/north-york-moors/downe-arms-inn.jpg"
+    },
+    {
+      "name": "The Jack and Jill Coaching Inn",
+      "slug": "the-jack-and-jill-coaching-inn",
+      "rating": 4.4,
+      "reviewCount": 362,
+      "stars": "4-star hotel",
+      "address": "North York Moors National Park, Scaling Dam, Saltburn-by-the-Sea TS13 4TP, United Kingdom",
+      "photo": "/hotels/north-york-moors/the-jack-and-jill-coaching-inn.jpg"
+    },
+    {
+      "name": "Fairhaven Country Guest House",
+      "slug": "fairhaven-country-guest-house",
+      "rating": 4.9,
+      "reviewCount": 122,
+      "stars": "4-star hotel",
+      "address": "The Common, Goathland, Whitby YO22 5AN, United Kingdom",
+      "photo": "/hotels/north-york-moors/fairhaven-country-guest-house.jpg"
+    }
+  ],
+  "matamata": [
+    {
+      "name": "Okoroire Hot Springs Hotel",
+      "slug": "okoroire-hot-springs-hotel",
+      "rating": 4,
+      "reviewCount": 1258,
+      "stars": "3-star hotel",
+      "address": "18 Somerville Road, Okoroire 3485, New Zealand",
+      "photo": "/hotels/matamata/okoroire-hot-springs-hotel.jpg"
+    },
+    {
+      "name": "Lake Karapiro Lodge",
+      "slug": "lake-karapiro-lodge",
+      "rating": 4.8,
+      "reviewCount": 51,
+      "stars": "5-star hotel",
+      "address": "1829F Tirau Road RD1 Tirau, Karapiro 3484, New Zealand",
+      "photo": "/hotels/matamata/lake-karapiro-lodge.jpg"
+    },
+    {
+      "name": "Matamata Lodge",
+      "slug": "matamata-lodge",
+      "rating": 4.9,
+      "reviewCount": 39,
+      "stars": "Bed & breakfast",
+      "address": "608 Old Te Aroha Road, Matamata 3471, New Zealand",
+      "photo": "/hotels/matamata/matamata-lodge.jpg"
+    },
+    {
+      "name": "Lakeview Lodge, Karapiro Waikato New Zealand",
+      "slug": "lakeview-lodge-karapiro-waikato-new-zealand",
+      "rating": 4.7,
+      "reviewCount": 41,
+      "stars": "5-star hotel",
+      "address": "2400 Maungatautari Road, Karapiro, Cambridge 3494, New Zealand",
+      "photo": "/hotels/matamata/lakeview-lodge-karapiro-waikato-new-zealand.jpg"
+    },
+    {
+      "name": "Denchys B&B",
+      "slug": "denchys-b-b",
+      "rating": 4.8,
+      "reviewCount": 36,
+      "stars": "Bed & breakfast",
+      "address": "7 Odlum Drive, Matamata 3472, New Zealand",
+      "photo": "/hotels/matamata/denchys-b-b.jpg"
+    },
+    {
+      "name": "Hills Vista Lodge",
+      "slug": "hills-vista-lodge",
+      "rating": 5,
+      "reviewCount": 13,
+      "stars": "Bed & breakfast",
+      "address": "887 Buckland Road, RD2, Matamata 3472, New Zealand",
+      "photo": "/hotels/matamata/hills-vista-lodge.jpg"
+    }
+  ],
+  "tongariro": [
+    {
+      "name": "Chateau Tongariro",
+      "slug": "chateau-tongariro",
+      "rating": 4.1,
+      "reviewCount": 2648,
+      "stars": "4-star hotel",
+      "address": "State Highway 48, Mt Ruapehu 3951, New Zealand",
+      "photo": "/hotels/tongariro/chateau-tongariro.jpg"
+    },
+    {
+      "name": "Skotel Alpine Resort",
+      "slug": "skotel-alpine-resort",
+      "rating": 4.1,
+      "reviewCount": 1130,
+      "stars": "3-star hotel",
+      "address": "Tongariro National Park 1 Ngauruhoe Terrace, Mt Ruapehu, Whakapapa 3951, New Zealand",
+      "photo": "/hotels/tongariro/skotel-alpine-resort.jpg"
+    },
+    {
+      "name": "The Park Hotel Ruapehu",
+      "slug": "the-park-hotel-ruapehu",
+      "rating": 4,
+      "reviewCount": 876,
+      "stars": "3-star hotel",
+      "address": "2/6 Millar Street, Ruapehu, Waimarino 3948, New Zealand",
+      "photo": "/hotels/tongariro/the-park-hotel-ruapehu.jpg"
+    },
+    {
+      "name": "Plateau Lodge- Kids Stay Free",
+      "slug": "plateau-lodge-kids-stay-free",
+      "rating": 4.3,
+      "reviewCount": 436,
+      "stars": "3-star hotel",
+      "address": "17 Carroll Street, National Park Village, Waimarino 3948, New Zealand",
+      "photo": "/hotels/tongariro/plateau-lodge-kids-stay-free.jpg"
+    },
+    {
+      "name": "Tongariro Crossing Lodge",
+      "slug": "tongariro-crossing-lodge",
+      "rating": 4.8,
+      "reviewCount": 175,
+      "stars": "4-star hotel",
+      "address": "27 Carroll Street, Waimarino 3989, New Zealand",
+      "photo": "/hotels/tongariro/tongariro-crossing-lodge.jpg"
+    }
+  ],
+  "skopelos": [
+    {
+      "name": "ADRINA BEACH HOTEL",
+      "slug": "adrina-beach-hotel",
+      "rating": 4.7,
+      "reviewCount": 539,
+      "stars": "4-star hotel",
+      "address": "Skopelos Street, Panormos 370 03, Greece",
+      "photo": "/hotels/skopelos/adrina-beach-hotel.jpg"
+    },
+    {
+      "name": "Skopelos Holidays Hotel",
+      "slug": "skopelos-holidays-hotel",
+      "rating": 4.4,
+      "reviewCount": 665,
+      "stars": "5-star hotel",
+      "address": "Επαρχιακή Οδός Σκοπέλου - Λουτρακίου Γυφτόλακας, Skopelos 370 03, Greece",
+      "photo": "/hotels/skopelos/skopelos-holidays-hotel.jpg"
+    },
+    {
+      "name": "Rigas Hotel Skopelos",
+      "slug": "rigas-hotel-skopelos",
+      "rating": 4,
+      "reviewCount": 1144,
+      "stars": "3-star hotel",
+      "address": "Epar.Od. Skopelou-Loutrakiou, Skopelos 370 03, Greece",
+      "photo": "/hotels/skopelos/rigas-hotel-skopelos.jpg"
+    },
+    {
+      "name": "Adrina Hotels",
+      "slug": "adrina-hotels",
+      "rating": 4.8,
+      "reviewCount": 246,
+      "stars": "4-star hotel",
+      "address": "Πάνορμος 370 03, Greece",
+      "photo": "/hotels/skopelos/adrina-hotels.jpg"
+    },
+    {
+      "name": "Blue Green Bay",
+      "slug": "blue-green-bay",
+      "rating": 4.3,
+      "reviewCount": 407,
+      "stars": "3-star hotel",
+      "address": "Epar.Od. Skopelou-Loutrakiou, Panormos 370 03, Greece",
+      "photo": "/hotels/skopelos/blue-green-bay.jpg"
+    },
+    {
+      "name": "Mando Beachfront",
+      "slug": "mando-beachfront",
+      "rating": 4.9,
+      "reviewCount": 189,
+      "stars": "3-star hotel",
+      "address": "Beach, Stafilos 370 03, Greece",
+      "photo": "/hotels/skopelos/mando-beachfront.jpg"
+    },
+    {
+      "name": "SKOPELOS VILLAGE HOTEL",
+      "slug": "skopelos-village-hotel",
+      "rating": 4.7,
+      "reviewCount": 219,
+      "stars": "5-star hotel",
+      "address": "Skopelos 370 03, Greece",
+      "photo": "/hotels/skopelos/skopelos-village-hotel.jpg"
+    },
+    {
+      "name": "Minnŏ Boutique Hotel & Spa",
+      "slug": "minno-boutique-hotel-spa",
+      "rating": 4.9,
+      "reviewCount": 99,
+      "stars": "5-star hotel",
+      "address": "Ampeliki, Skopelos 370 03, Greece",
+      "photo": "/hotels/skopelos/minno-boutique-hotel-spa.jpg"
+    }
+  ],
+  "bath": [],
+  "greenwich": [],
+  "madrid": [],
+  "extremadura": [],
+  "hampshire": [],
+  "cotswolds": [],
+  "ely": [],
+  "london": [],
+  "birmingham": [],
+  "liverpool": [],
+  "carpathians": [],
+  "southern-poland": [],
+  "canary-islands": [],
+  "wicklow": [],
+  "cornwall": [],
+  "dorset": [],
+  "dublin": [],
+  "sligo": [],
+  "salzburg": [],
+  "rome": [],
+  "amalfi-coast": [],
+  "bay-of-naples": [],
+  "lombardy": [],
+  "gorlitz": [],
+  "peak-district": [],
+  "matera": [],
+  "atlantic-road": [],
+  "petra": [],
+  "krabi": [],
+  "los-angeles": [],
+  "san-francisco": [],
+  "singapore": [],
+  "tokyo": [],
+  "tuscany": [],
+  "ouarzazate": [],
+  "southern-tunisia": [],
+  "kerry": [],
+  "lake-como": [],
+  "venice": [],
+  "florence": [],
+  "dunkirk": [],
+  "county-meath": [],
+  "oahu": [],
+  "mumbai": [],
+  "wadi-rum": [],
+  "savoca": [],
+  "philadelphia": [],
+  "etretat": [],
+  "corfu": [],
+  "new-york": [],
+  "rosslyn": [],
+  "savannah": [],
+  "mansfield": [],
+  "mount-hood": [],
+  "wyoming": [],
+  "moab": [],
+  "kenya": [],
+  "edinburgh": [],
+  "st-andrews": [],
+  "dyersville": [],
+  "canadian-rockies": [],
+  "albuquerque": [],
+  "dubai": [],
+  "istanbul": [],
+  "interlaken": [],
+  "seoul": [],
+  "vienna": [],
+  "krakow": [],
+  "north-carolina": [],
+  "forks": [],
+  "cefalu": [],
+  "new-jersey": [],
+  "abu-dhabi": [],
+  "vatnajokull": [],
+  "atlanta": [],
+  "montana": [],
+  "bali": [],
+  "bruges": [],
+  "las-vegas": [],
+  "mexico-city": [],
+  "verona": [],
+  "provence": [],
+  "kefalonia": [],
+  "astoria": [],
+  "marthas-vineyard": [],
+  "virginia": [],
+  "fiji": [],
+  "namibia": []
+}

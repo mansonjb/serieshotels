@@ -186,6 +186,13 @@ export const UI_EN = {
       { heading: "Your rights", body: "Under the GDPR you can ask to access, correct or delete any personal data we hold. As we store no account data, this usually just means clearing your browser cookies." },
     ],
   },
+  hotels: {
+    heading: "Top hotels in {name}",
+    intro: "A handpicked selection of well-rated stays right by the filming locations.",
+    check: "Check availability",
+    reviews: "reviews",
+    sponsored: "Affiliate · Stay22",
+  },
 } as const;
 
 export type UI = typeof UI_EN;

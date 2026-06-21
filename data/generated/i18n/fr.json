@@ -196,6 +196,13 @@
           "body": "Conformément au RGPD, vous pouvez demander l'accès, la rectification ou la suppression de toute donnée personnelle. Comme nous ne stockons aucune donnée de compte, cela revient en général à effacer les cookies de votre navigateur."
         }
       ]
+    },
+    "hotels": {
+      "heading": "Meilleurs hôtels à {name}",
+      "intro": "Une sélection d'hôtels bien notés, à deux pas des lieux de tournage.",
+      "check": "Voir les disponibilités",
+      "reviews": "avis",
+      "sponsored": "Affilié · Stay22"
     }
   },
   "content": {

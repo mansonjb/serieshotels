@@ -196,6 +196,13 @@
           "body": "In base al GDPR puoi chiedere di accedere, correggere o cancellare i dati personali. Poiché non memorizziamo dati di account, di solito basta cancellare i cookie del browser."
         }
       ]
+    },
+    "hotels": {
+      "heading": "Migliori hotel a {name}",
+      "intro": "Una selezione di strutture ben recensite a due passi dai luoghi delle riprese.",
+      "check": "Verifica disponibilità",
+      "reviews": "recensioni",
+      "sponsored": "Affiliazione · Stay22"
     }
   },
   "content": {

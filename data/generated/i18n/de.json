@@ -196,6 +196,13 @@
           "body": "Nach der DSGVO können Sie Auskunft, Berichtigung oder Löschung Ihrer personenbezogenen Daten verlangen. Da wir keine Kontodaten speichern, genügt dafür meist das Löschen der Cookies im Browser."
         }
       ]
+    },
+    "hotels": {
+      "heading": "Top-Hotels in {name}",
+      "intro": "Eine handverlesene Auswahl gut bewerteter Unterkünfte direkt an den Drehorten.",
+      "check": "Verfügbarkeit prüfen",
+      "reviews": "Bewertungen",
+      "sponsored": "Affiliate · Stay22"
     }
   },
   "content": {

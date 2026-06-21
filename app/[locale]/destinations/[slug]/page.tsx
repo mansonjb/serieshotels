@@ -8,6 +8,8 @@ import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
 import { Faq } from "@/components/Faq";
+import { HotelCard } from "@/components/HotelCard";
+import { hotelsForDestination } from "@/lib/hotels";
 import {
   DESTINATIONS,
   getDestination,
@@ -83,6 +85,7 @@ export default async function DestinationPage({
   const url = `${SITE_URL}/${loc}/destinations/${slug}`;
   const heroImg = destinationImage(slug);
   const gallery = destinationGallery(slug);
+  const hotels = hotelsForDestination(slug, 6);
   const faqItems = [
     {
       q: t(dict.faq.whatFilmedDest, { name: dest.name }),
@@ -173,6 +176,31 @@ export default async function DestinationPage({
           dict={dict}
         />
       </div>
+
+      {hotels.length > 0 && (
+        <section className="mt-12">
+          <div className="flex flex-wrap items-baseline justify-between gap-3">
+            <h2 className="font-display text-2xl font-bold text-ink">
+              {t(dict.hotels.heading, { name: dest.name })}
+            </h2>
+            <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted">
+              {dict.hotels.sponsored}
+            </span>
+          </div>
+          <p className="mt-2 max-w-2xl text-muted">{dict.hotels.intro}</p>
+          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {hotels.map((h) => (
+              <HotelCard
+                key={h.slug}
+                hotel={h}
+                destName={dest.name}
+                context={`dest-${slug}-hotel`}
+                dict={dict}
+              />
+            ))}
+          </div>
+        </section>
+      )}
 
       {gallery.length > 0 && (
         <section className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
