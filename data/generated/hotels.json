@@ -4009,15 +4009,518 @@
       "photo": "/hotels/corfu/bella-venezia-historic-boutique-hotel.jpg"
     }
   ],
-  "new-york": [],
-  "rosslyn": [],
-  "savannah": [],
-  "mansfield": [],
-  "mount-hood": [],
+  "new-york": [
+    {
+      "name": "The Jane Hotel",
+      "slug": "the-jane-hotel",
+      "rating": 3.7,
+      "reviewCount": 2089,
+      "stars": "2-star hotel",
+      "address": "113 Jane St, New York, NY 10014",
+      "photo": "/hotels/new-york/the-jane-hotel.jpg"
+    },
+    {
+      "name": "DoubleTree by Hilton Long Island City New York",
+      "slug": "doubletree-by-hilton-long-island-city-new-york",
+      "rating": 4.3,
+      "reviewCount": 698,
+      "stars": "Hotel",
+      "address": "38-15 9th St, Long Island City, NY 11101",
+      "photo": "/hotels/new-york/doubletree-by-hilton-long-island-city-new-york.jpg"
+    },
+    {
+      "name": "The Manhattan at Times Square Hotel",
+      "slug": "the-manhattan-at-times-square-hotel",
+      "rating": 3,
+      "reviewCount": 10073,
+      "stars": "4-star hotel",
+      "address": "790 7th Ave, New York, NY 10019",
+      "photo": "/hotels/new-york/the-manhattan-at-times-square-hotel.jpg"
+    },
+    {
+      "name": "Radio Hotel",
+      "slug": "radio-hotel",
+      "rating": 3.8,
+      "reviewCount": 1252,
+      "stars": "4-star hotel",
+      "address": "2420 Amsterdam Ave, New York, NY 10033",
+      "photo": "/hotels/new-york/radio-hotel.jpg"
+    },
+    {
+      "name": "414 Hotel New York Times Square",
+      "slug": "414-hotel-new-york-times-square",
+      "rating": 4,
+      "reviewCount": 437,
+      "stars": "3-star hotel",
+      "address": "414 W 46th St, New York, NY 10036",
+      "photo": "/hotels/new-york/414-hotel-new-york-times-square.jpg"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham New York City Central Park",
+      "slug": "la-quinta-inn-suites-by-wyndham-new-york-city-central-park",
+      "rating": 3.2,
+      "reviewCount": 1750,
+      "stars": "2-star hotel",
+      "address": "31 W 71st St, New York, NY 10023",
+      "photo": "/hotels/new-york/la-quinta-inn-suites-by-wyndham-new-york-city-central-park.jpg"
+    },
+    {
+      "name": "The Brooklyn Hotel",
+      "slug": "the-brooklyn-hotel",
+      "rating": 3.3,
+      "reviewCount": 915,
+      "stars": "3-star hotel",
+      "address": "1199 Atlantic Ave, Brooklyn, NY 11216",
+      "photo": "/hotels/new-york/the-brooklyn-hotel.jpg"
+    },
+    {
+      "name": "Canal Loft Hotel",
+      "slug": "canal-loft-hotel",
+      "rating": 3.3,
+      "reviewCount": 725,
+      "stars": "2-star hotel",
+      "address": "94 Canal St, New York, NY 10002",
+      "photo": "/hotels/new-york/canal-loft-hotel.jpg"
+    }
+  ],
+  "rosslyn": [
+    {
+      "name": "The Original Rosslyn Inn",
+      "slug": "the-original-rosslyn-inn",
+      "rating": 4.5,
+      "reviewCount": 900,
+      "stars": "4-star hotel",
+      "address": "4 Main St, Roslin EH25 9LE, United Kingdom",
+      "photo": "/hotels/rosslyn/the-original-rosslyn-inn.jpg"
+    },
+    {
+      "name": "Chapel Cross Guesthouse",
+      "slug": "chapel-cross-guesthouse",
+      "rating": 4.3,
+      "reviewCount": 158,
+      "stars": "3-star hotel",
+      "address": "2 Penicuik Rd, Roslin EH25 9LH, United Kingdom",
+      "photo": "/hotels/rosslyn/chapel-cross-guesthouse.jpg"
+    }
+  ],
+  "savannah": [
+    {
+      "name": "JW Marriott Savannah Plant Riverside District",
+      "slug": "jw-marriott-savannah-plant-riverside-district",
+      "rating": 4.6,
+      "reviewCount": 4490,
+      "stars": "Hotel",
+      "address": "500 W River St, Savannah, GA 31401",
+      "photo": "/hotels/savannah/jw-marriott-savannah-plant-riverside-district.jpg"
+    },
+    {
+      "name": "Hyatt Regency Savannah",
+      "slug": "hyatt-regency-savannah",
+      "rating": 4.3,
+      "reviewCount": 5311,
+      "stars": "3-star hotel",
+      "address": "2 W Bay St, Savannah, GA 31401",
+      "photo": "/hotels/savannah/hyatt-regency-savannah.jpg"
+    },
+    {
+      "name": "Andaz Savannah, by Hyatt",
+      "slug": "andaz-savannah-by-hyatt",
+      "rating": 4.5,
+      "reviewCount": 2027,
+      "stars": "4-star hotel",
+      "address": "14 Barnard St, Savannah, GA 31401",
+      "photo": "/hotels/savannah/andaz-savannah-by-hyatt.jpg"
+    },
+    {
+      "name": "The DeSoto Savannah",
+      "slug": "the-desoto-savannah",
+      "rating": 4.1,
+      "reviewCount": 2936,
+      "stars": "4-star hotel",
+      "address": "15 E Liberty, Savannah, GA 31401",
+      "photo": "/hotels/savannah/the-desoto-savannah.jpg"
+    },
+    {
+      "name": "The Bohemian Hotel Savannah Riverfront, Autograph Collection",
+      "slug": "the-bohemian-hotel-savannah-riverfront-autograph-collection",
+      "rating": 4.4,
+      "reviewCount": 1646,
+      "stars": "4-star hotel",
+      "address": "102 W Bay St, Savannah, GA 31401",
+      "photo": "/hotels/savannah/the-bohemian-hotel-savannah-riverfront-autograph-collection.jpg"
+    },
+    {
+      "name": "River Street Inn",
+      "slug": "river-street-inn",
+      "rating": 4.3,
+      "reviewCount": 1914,
+      "stars": "4-star hotel",
+      "address": "124 E Bay St, Savannah, GA 31401",
+      "photo": "/hotels/savannah/river-street-inn.jpg"
+    },
+    {
+      "name": "Hotel Indigo Savannah Historic District by IHG",
+      "slug": "hotel-indigo-savannah-historic-district-by-ihg",
+      "rating": 3.7,
+      "reviewCount": 3554,
+      "stars": "3-star hotel",
+      "address": "201 W Bay St, Savannah, GA 31401",
+      "photo": "/hotels/savannah/hotel-indigo-savannah-historic-district-by-ihg.jpg"
+    },
+    {
+      "name": "Holiday Inn Savannah Historic District by IHG",
+      "slug": "holiday-inn-savannah-historic-district-by-ihg",
+      "rating": 3.8,
+      "reviewCount": 1546,
+      "stars": "3-star hotel",
+      "address": "520 W Bryan St, Savannah, GA 31401",
+      "photo": "/hotels/savannah/holiday-inn-savannah-historic-district-by-ihg.jpg"
+    }
+  ],
+  "mansfield": [
+    {
+      "name": "Hampton Inn & Suites Mansfield-South @ I-71",
+      "slug": "hampton-inn-suites-mansfield-south-i-71",
+      "rating": 4.4,
+      "reviewCount": 776,
+      "stars": "3-star hotel",
+      "address": "2220 S Main St, Mansfield, OH 44907",
+      "photo": "/hotels/mansfield/hampton-inn-suites-mansfield-south-i-71.jpg"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Mansfield OH",
+      "slug": "la-quinta-inn-suites-by-wyndham-mansfield-oh",
+      "rating": 4,
+      "reviewCount": 942,
+      "stars": "2-star hotel",
+      "address": "120 Stander Ave, Mansfield, OH 44903",
+      "photo": "/hotels/mansfield/la-quinta-inn-suites-by-wyndham-mansfield-oh.jpg"
+    },
+    {
+      "name": "TownePlace Suites by Marriott Mansfield Ontario",
+      "slug": "towneplace-suites-by-marriott-mansfield-ontario",
+      "rating": 4.3,
+      "reviewCount": 519,
+      "stars": "2-star hotel",
+      "address": "1125 Guest Ct, Mansfield, OH 44906",
+      "photo": "/hotels/mansfield/towneplace-suites-by-marriott-mansfield-ontario.jpg"
+    },
+    {
+      "name": "Hampton Inn Mansfield/Ontario",
+      "slug": "hampton-inn-mansfield-ontario",
+      "rating": 4.3,
+      "reviewCount": 451,
+      "stars": "3-star hotel",
+      "address": "1051 N Lexington-Springmill Rd, Mansfield, OH 44906",
+      "photo": "/hotels/mansfield/hampton-inn-mansfield-ontario.jpg"
+    },
+    {
+      "name": "Travelodge by Wyndham Mansfield",
+      "slug": "travelodge-by-wyndham-mansfield",
+      "rating": 3.9,
+      "reviewCount": 757,
+      "stars": "2-star hotel",
+      "address": "90 W Hanley Rd, Mansfield, OH 44903",
+      "photo": "/hotels/mansfield/travelodge-by-wyndham-mansfield.jpg"
+    },
+    {
+      "name": "Best Western Mansfield/Bellville",
+      "slug": "best-western-mansfield-bellville",
+      "rating": 3.8,
+      "reviewCount": 693,
+      "stars": "2-star hotel",
+      "address": "180 E Hanley Rd, Mansfield, OH 44903",
+      "photo": "/hotels/mansfield/best-western-mansfield-bellville.jpg"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Mansfield",
+      "slug": "holiday-inn-express-suites-mansfield",
+      "rating": 4.2,
+      "reviewCount": 117,
+      "stars": "Hotel",
+      "address": "1075 Guest Ct, Ontario, OH 44906",
+      "photo": "/hotels/mansfield/holiday-inn-express-suites-mansfield.jpg"
+    },
+    {
+      "name": "M Star Hotel Mansfield",
+      "slug": "m-star-hotel-mansfield",
+      "rating": 3.4,
+      "reviewCount": 260,
+      "stars": "1-star hotel",
+      "address": "137 Park Ave W, Mansfield, OH 44902",
+      "photo": "/hotels/mansfield/m-star-hotel-mansfield.jpg"
+    }
+  ],
+  "mount-hood": [
+    {
+      "name": "Timberline Lodge",
+      "slug": "timberline-lodge",
+      "rating": 4.6,
+      "reviewCount": 10235,
+      "stars": "3-star hotel",
+      "address": "27500 E Timberline Road, Government Camp, OR 97028",
+      "photo": "/hotels/mount-hood/timberline-lodge.jpg"
+    },
+    {
+      "name": "Cooper Spur Mountain Resort",
+      "slug": "cooper-spur-mountain-resort",
+      "rating": 4.6,
+      "reviewCount": 563,
+      "stars": "3-star hotel",
+      "address": "10755 Cooper Spur Rd, Mt Hood, OR 97041",
+      "photo": "/hotels/mount-hood/cooper-spur-mountain-resort.jpg"
+    },
+    {
+      "name": "Mt. Hood Oregon Resort",
+      "slug": "mt-hood-oregon-resort",
+      "rating": 4,
+      "reviewCount": 1373,
+      "stars": "4-star hotel",
+      "address": "68010 E Fairway Ave, Welches, OR 97067",
+      "photo": "/hotels/mount-hood/mt-hood-oregon-resort.jpg"
+    },
+    {
+      "name": "Best Western Mt. Hood Inn",
+      "slug": "best-western-mt-hood-inn",
+      "rating": 4.1,
+      "reviewCount": 750,
+      "stars": "3-star hotel",
+      "address": "87450 Government Camp Loop, Government Camp, OR 97028",
+      "photo": "/hotels/mount-hood/best-western-mt-hood-inn.jpg"
+    },
+    {
+      "name": "Old Parkdale Inn Bed and Breakfast",
+      "slug": "old-parkdale-inn-bed-and-breakfast",
+      "rating": 4.9,
+      "reviewCount": 79,
+      "stars": "Bed & breakfast",
+      "address": "4932 Baseline Dr, Mt Hood, OR 97041",
+      "photo": "/hotels/mount-hood/old-parkdale-inn-bed-and-breakfast.jpg"
+    }
+  ],
   "wyoming": [],
-  "moab": [],
-  "kenya": [],
-  "edinburgh": [],
+  "moab": [
+    {
+      "name": "Aarchway Inn",
+      "slug": "aarchway-inn",
+      "rating": 4.6,
+      "reviewCount": 2187,
+      "stars": "3-star hotel",
+      "address": "1551 N Riverview Dr, Moab, UT 84532",
+      "photo": "/hotels/moab/aarchway-inn.jpg"
+    },
+    {
+      "name": "Wingate by Wyndham Moab",
+      "slug": "wingate-by-wyndham-moab",
+      "rating": 4.6,
+      "reviewCount": 1411,
+      "stars": "3-star hotel",
+      "address": "1260 US-191, Moab, UT 84532",
+      "photo": "/hotels/moab/wingate-by-wyndham-moab.jpg"
+    },
+    {
+      "name": "Kokopelli West",
+      "slug": "kokopelli-west",
+      "rating": 4.9,
+      "reviewCount": 711,
+      "stars": "3-star hotel",
+      "address": "236 N 100 W, Moab, UT 84532",
+      "photo": "/hotels/moab/kokopelli-west.jpg"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Moab by IHG",
+      "slug": "holiday-inn-express-suites-moab-by-ihg",
+      "rating": 4.3,
+      "reviewCount": 1208,
+      "stars": "2-star hotel",
+      "address": "1515 N Hwy 191, Moab, UT 84532",
+      "photo": "/hotels/moab/holiday-inn-express-suites-moab-by-ihg.jpg"
+    },
+    {
+      "name": "Moab Valley Inn",
+      "slug": "moab-valley-inn",
+      "rating": 4.2,
+      "reviewCount": 1037,
+      "stars": "3-star hotel",
+      "address": "711 S Main St, Moab, UT 84532",
+      "photo": "/hotels/moab/moab-valley-inn.jpg"
+    },
+    {
+      "name": "Slackline Moab, Outset Collection by Hilton",
+      "slug": "slackline-moab-outset-collection-by-hilton",
+      "rating": 4.4,
+      "reviewCount": 570,
+      "stars": "3-star hotel",
+      "address": "889 N Main St, Moab, UT 84532",
+      "photo": "/hotels/moab/slackline-moab-outset-collection-by-hilton.jpg"
+    },
+    {
+      "name": "Hotel Moab Downtown",
+      "slug": "hotel-moab-downtown",
+      "rating": 3.8,
+      "reviewCount": 923,
+      "stars": "2-star hotel",
+      "address": "182 S Main St, Moab, UT 84532",
+      "photo": "/hotels/moab/hotel-moab-downtown.jpg"
+    },
+    {
+      "name": "Quality Suites Moab near Arches National Park",
+      "slug": "quality-suites-moab-near-arches-national-park",
+      "rating": 4,
+      "reviewCount": 633,
+      "stars": "3-star hotel",
+      "address": "800 S Main St, Moab, UT 84532",
+      "photo": "/hotels/moab/quality-suites-moab-near-arches-national-park.jpg"
+    }
+  ],
+  "kenya": [
+    {
+      "name": "Radisson Blu Hotel, Nairobi Upper Hill",
+      "slug": "radisson-blu-hotel-nairobi-upper-hill",
+      "rating": 4.8,
+      "reviewCount": 12546,
+      "stars": "5-star hotel",
+      "address": "Elgon Rd, Nairobi, Kenya",
+      "photo": "/hotels/kenya/radisson-blu-hotel-nairobi-upper-hill.jpg"
+    },
+    {
+      "name": "Villa Rosa Kempinski",
+      "slug": "villa-rosa-kempinski",
+      "rating": 4.7,
+      "reviewCount": 10685,
+      "stars": "5-star hotel",
+      "address": "Chiromo Rd, Nairobi, Kenya",
+      "photo": "/hotels/kenya/villa-rosa-kempinski.jpg"
+    },
+    {
+      "name": "Safari Park Hotel & Casino",
+      "slug": "safari-park-hotel-casino",
+      "rating": 4.6,
+      "reviewCount": 12237,
+      "stars": "4-star hotel",
+      "address": "Nairobi, Kenya",
+      "photo": "/hotels/kenya/safari-park-hotel-casino.jpg"
+    },
+    {
+      "name": "Sarova Stanley Hotel, Nairobi",
+      "slug": "sarova-stanley-hotel-nairobi",
+      "rating": 4.6,
+      "reviewCount": 9384,
+      "stars": "5-star hotel",
+      "address": "Junction Of Kenyatta Avenue and, Kimathi St, Nairobi, Kenya",
+      "photo": "/hotels/kenya/sarova-stanley-hotel-nairobi.jpg"
+    },
+    {
+      "name": "Eka Hotel Nairobi",
+      "slug": "eka-hotel-nairobi",
+      "rating": 4.5,
+      "reviewCount": 6672,
+      "stars": "4-star hotel",
+      "address": "Hotel, Mombasa Road, Nairobi, Kenya",
+      "photo": "/hotels/kenya/eka-hotel-nairobi.jpg"
+    },
+    {
+      "name": "Hilton Garden Inn Nairobi Airport",
+      "slug": "hilton-garden-inn-nairobi-airport",
+      "rating": 4.6,
+      "reviewCount": 4652,
+      "stars": "4-star hotel",
+      "address": "Jomo Kenyatta International Airport, Mombasa Road, Nairobi, Kenya",
+      "photo": "/hotels/kenya/hilton-garden-inn-nairobi-airport.jpg"
+    },
+    {
+      "name": "The Boma Nairobi",
+      "slug": "the-boma-nairobi",
+      "rating": 4.5,
+      "reviewCount": 5529,
+      "stars": "5-star hotel",
+      "address": "Bellevue, Red Cross Road Nairobi KE, Off Mombasa Road, Kenya",
+      "photo": "/hotels/kenya/the-boma-nairobi.jpg"
+    },
+    {
+      "name": "Best Western Plus Meridian Hotel",
+      "slug": "best-western-plus-meridian-hotel",
+      "rating": 4.3,
+      "reviewCount": 4268,
+      "stars": "3-star hotel",
+      "address": "6th Muranga Road, Off Moi Ave, Kenya",
+      "photo": "/hotels/kenya/best-western-plus-meridian-hotel.jpg"
+    }
+  ],
+  "edinburgh": [
+    {
+      "name": "The Balmoral, a Rocco Forte hotel",
+      "slug": "the-balmoral-a-rocco-forte-hotel",
+      "rating": 4.7,
+      "reviewCount": 3244,
+      "stars": "5-star hotel",
+      "address": "1 Princes St., Edinburgh EH2 2EQ, United Kingdom",
+      "photo": "/hotels/edinburgh/the-balmoral-a-rocco-forte-hotel.jpg"
+    },
+    {
+      "name": "Novotel Edinburgh Centre",
+      "slug": "novotel-edinburgh-centre",
+      "rating": 4.3,
+      "reviewCount": 3777,
+      "stars": "4-star hotel",
+      "address": "80 Lauriston Pl, Edinburgh EH3 9DE, United Kingdom",
+      "photo": "/hotels/edinburgh/novotel-edinburgh-centre.jpg"
+    },
+    {
+      "name": "InterContinental Edinburgh the George by IHG",
+      "slug": "intercontinental-edinburgh-the-george-by-ihg",
+      "rating": 4.5,
+      "reviewCount": 2197,
+      "stars": "5-star hotel",
+      "address": "19 - 21 George St, Edinburgh EH2 2PB, United Kingdom",
+      "photo": "/hotels/edinburgh/intercontinental-edinburgh-the-george-by-ihg.jpg"
+    },
+    {
+      "name": "hub by Premier Inn Edinburgh City Centre (Rose Street) hotel",
+      "slug": "hub-by-premier-inn-edinburgh-city-centre-rose-street-hotel",
+      "rating": 4.4,
+      "reviewCount": 1947,
+      "stars": "3-star hotel",
+      "address": "Rose St S Ln, Edinburgh EH2 2NN, United Kingdom",
+      "photo": "/hotels/edinburgh/hub-by-premier-inn-edinburgh-city-centre-rose-street-hotel.jpg"
+    },
+    {
+      "name": "Hilton Edinburgh Carlton",
+      "slug": "hilton-edinburgh-carlton",
+      "rating": 4.2,
+      "reviewCount": 2680,
+      "stars": "4-star hotel",
+      "address": "19 North Bridge, Edinburgh EH1 1SD, United Kingdom",
+      "photo": "/hotels/edinburgh/hilton-edinburgh-carlton.jpg"
+    },
+    {
+      "name": "ibis Edinburgh Centre Royal Mile",
+      "slug": "ibis-edinburgh-centre-royal-mile",
+      "rating": 4.3,
+      "reviewCount": 2184,
+      "stars": "3-star hotel",
+      "address": "Off Royal Mile, 6 Hunter Square, Edinburgh EH1 1QW, United Kingdom",
+      "photo": "/hotels/edinburgh/ibis-edinburgh-centre-royal-mile.jpg"
+    },
+    {
+      "name": "The Scotsman Hotel",
+      "slug": "the-scotsman-hotel",
+      "rating": 4.4,
+      "reviewCount": 1689,
+      "stars": "4-star hotel",
+      "address": "20 North Bridge, Edinburgh EH1 1TR, United Kingdom",
+      "photo": "/hotels/edinburgh/the-scotsman-hotel.jpg"
+    },
+    {
+      "name": "Travelodge Edinburgh Central",
+      "slug": "travelodge-edinburgh-central",
+      "rating": 4,
+      "reviewCount": 2712,
+      "stars": "2-star hotel",
+      "address": "33 St Mary's St, Edinburgh EH1 1TA, United Kingdom",
+      "photo": "/hotels/edinburgh/travelodge-edinburgh-central.jpg"
+    }
+  ],
   "st-andrews": [],
   "dyersville": [],
   "canadian-rockies": [],
