@@ -193,6 +193,9 @@ export const UI_EN = {
     reviews: "reviews",
     sponsored: "Affiliate · Stay22",
   },
+  destGuide: {
+    heading: "Visiting {name}: a set-jetting guide",
+  },
 } as const;
 
 export type UI = typeof UI_EN;

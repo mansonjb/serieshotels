@@ -203,6 +203,9 @@
       "check": "Verifica disponibilità",
       "reviews": "recensioni",
       "sponsored": "Affiliazione · Stay22"
+    },
+    "destGuide": {
+      "heading": "Visitare {name}: la guida set-jetting"
     }
   },
   "content": {

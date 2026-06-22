@@ -10,6 +10,7 @@ import { TourBlock } from "@/components/TourBlock";
 import { Faq } from "@/components/Faq";
 import { HotelCard } from "@/components/HotelCard";
 import { hotelsForDestination } from "@/lib/hotels";
+import { destinationGuide } from "@/lib/destinationGuides";
 import {
   DESTINATIONS,
   getDestination,
@@ -86,6 +87,7 @@ export default async function DestinationPage({
   const heroImg = destinationImage(slug);
   const gallery = destinationGallery(slug);
   const hotels = hotelsForDestination(slug, 6);
+  const guide = destinationGuide(slug, loc);
   const faqItems = [
     {
       q: t(dict.faq.whatFilmedDest, { name: dest.name }),
@@ -245,6 +247,19 @@ export default async function DestinationPage({
           </section>
         );
       })}
+
+      {guide.length > 0 && (
+        <section className="mt-14">
+          <h2 className="font-display text-2xl font-bold text-ink">
+            {t(dict.destGuide.heading, { name: dest.name })}
+          </h2>
+          <div className="longform mt-4">
+            {guide.map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </div>
+        </section>
+      )}
 
       <Faq heading={dict.faq.heading} items={faqItems} />
     </main>

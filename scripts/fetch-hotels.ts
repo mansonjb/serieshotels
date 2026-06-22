@@ -10,7 +10,7 @@
  * data/generated/hotels.json keyed by destinationSlug. Writes incrementally and
  * hard-stops before the monthly usage cap so a free-plan run can't blow past it.
  */
-import { writeFileSync, mkdirSync, existsSync } from "node:fs";
+import { writeFileSync, readFileSync, mkdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { DESTINATIONS } from "../data/destinations";
 
@@ -20,7 +20,7 @@ if (!TOKEN) {
   process.exit(1);
 }
 const PER = 11; // places crawled per destination (billed)
-const STOP_AT_USD = 4.8; // hard stop margin under the $5 cap
+const STOP_AT_USD = 30; // runaway backstop (paid plan has headroom)
 const ROOT = process.cwd();
 const IMG_DIR = join(ROOT, "public", "hotels");
 const OUT = join(ROOT, "data", "generated", "hotels.json");
@@ -68,12 +68,18 @@ async function dl(url: string, out: string) {
 }
 
 async function main() {
-const manifest: Record<string, unknown[]> = {};
+const manifest: Record<string, unknown[]> = existsSync(OUT)
+  ? JSON.parse(readFileSync(OUT, "utf8"))
+  : {};
 const start = await usageUsd();
 console.log(`start usage $${start.toFixed(3)} / $5 cap`);
 let i = 0;
 for (const d of DESTINATIONS) {
   i += 1;
+  if ((manifest[d.slug]?.length ?? 0) > 0) {
+    console.log(`${i}/${DESTINATIONS.length} ${d.slug}: skip (cached ${manifest[d.slug].length})`);
+    continue;
+  }
   const u = await usageUsd();
   if (u >= STOP_AT_USD) {
     console.log(`STOP at ${i}/${DESTINATIONS.length}: usage $${u.toFixed(2)} near cap`);
