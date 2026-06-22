@@ -74,7 +74,7 @@ async function search(query: string): Promise<Place | null> {
 }
 
 async function download(photoName: string, dest: string): Promise<void> {
-  const url = `${MEDIA_BASE}/${photoName}/media?key=${API_KEY}&maxHeightPx=1200&maxWidthPx=1600`;
+  const url = `${MEDIA_BASE}/${photoName}/media?key=${API_KEY}&maxHeightPx=1600&maxWidthPx=2400`;
   const res = await fetch(url, { redirect: "follow" });
   if (!res.ok) throw new Error(`media ${res.status}`);
   writeFileSync(dest, Buffer.from(await res.arrayBuffer()));

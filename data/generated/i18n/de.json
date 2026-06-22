@@ -61,7 +61,7 @@
       "intro": "Ausführliche, praktische Lektüre für die Planung einer Reise rund um die Leinwand."
     },
     "titlePage": {
-      "whereFilmed": "Wo {name} gedreht wurde",
+      "whereFilmed": "Wo wurde {name} gedreht?",
       "across": "{n} Orte in {m} Reisezielen"
     },
     "destinationPage": {
@@ -616,7 +616,8 @@
         "blurb": "Die ummauerte Altstadt an der Adria wurde zum meistgefilmten Gesicht von Königsmund. Ihre Gassen aus Kalkstein, die zum Meer hin offenen Wehrgänge und die Forts auf den Klippen lassen sich an einem Nachmittag erlaufen, was Dubrovnik zum einfachsten Set-Jetting-Tag Europas macht, hier zeichnet man zwischen Kaffee und Abendessen eine halbe Staffel nach."
       },
       "south-iceland": {
-        "blurb": "Die Grabenbrüche, Lavafelder und Wasserfälle des Golden Circle vertraten die Wildnis jenseits der Mauer und den Weg zum Hohen Nest. Alles hier liegt innerhalb einer Tagesschleife ab Reykjavík, sodass die Kulisse zugleich Islands beliebteste Selbstfahrer-Route ist."
+        "blurb": "Die Grabenbrüche, Lavafelder und Wasserfälle des Golden Circle vertraten die Wildnis jenseits der Mauer und den Weg zum Hohen Nest. Alles hier liegt innerhalb einer Tagesschleife ab Reykjavík, sodass die Kulisse zugleich Islands beliebteste Selbstfahrer-Route ist.",
+        "name": "Südisland"
       },
       "county-down": {
         "blurb": "Der Strangford Lough und die Anwesen ringsum waren ein Jahrzehnt lang das Hauptquartier der Westeros-Dreharbeiten, und der Innenhof eines National-Trust-Anwesens diente als Winterfell selbst. Von Belfast aus ist man in unter einer Stunde da, und die Studios, in denen die Innenräume gebaut wurden, liegen ganz in der Nähe."
@@ -628,13 +629,15 @@
         "blurb": "Die Stadt, die sich selbst spielt. Von einem stillen Platz im Quartier Latin über ihre prächtigste Brücke bis zum Opernhaus verankern die fotogensten Ecken von Paris eine Romanze aus dem Streaming-Zeitalter, und sie liegen nah genug beieinander, um sie zu einer einzigen Spazierroute über das linke und das rechte Ufer zu verbinden."
       },
       "seville": {
-        "blurb": "Die andalusische Hauptstadt lieh ihre maurischen Paläste und ihre nach Orange duftenden Innenhöfe dem sonnengebackenen Königreich Dorne. Der Real Alcázar ist der Hauptdrehort, doch die ganze Altstadt, gekachelt, schattig und gut zu Fuß, belohnt ein paar ruhige Tage."
+        "blurb": "Die andalusische Hauptstadt lieh ihre maurischen Paläste und ihre nach Orange duftenden Innenhöfe dem sonnengebackenen Königreich Dorne. Der Real Alcázar ist der Hauptdrehort, doch die ganze Altstadt, gekachelt, schattig und gut zu Fuß, belohnt ein paar ruhige Tage.",
+        "name": "Sevilla"
       },
       "girona": {
         "blurb": "Eine Stunde nördlich von Barcelona doubelten Gironas mittelalterliche Gassen und die Stufen der Kathedrale sowohl Braavos als auch Königsmund. Die kompakte Altstadt, die bunten Häuser über dem Fluss und die intakten Stadtmauern machen sie zu einem der am meisten unterschätzten Ziele Kataloniens."
       },
       "basque-country": {
-        "blurb": "Grüne Hügel treffen im baskischen Norden Spaniens auf eine dramatische Atlantikküste, wo ein gewundener Steindamm zu einer Kapelle auf einem Inselchen hinaufsteigt, das Drachenstein spielte. Bilbao und die Pintxo-Bars der Küste sind eine bequeme Basis für den Tagesausflug."
+        "blurb": "Grüne Hügel treffen im baskischen Norden Spaniens auf eine dramatische Atlantikküste, wo ein gewundener Steindamm zu einer Kapelle auf einem Inselchen hinaufsteigt, das Drachenstein spielte. Bilbao und die Pintxo-Bars der Küste sind eine bequeme Basis für den Tagesausflug.",
+        "name": "Baskenland"
       },
       "maui": {
         "blurb": "Die hawaiianische Insel, auf der die Resort-Satire begann, am gepflegten Ufer von Wailea. Jenseits des Hotels bietet Maui die Vulkanstraße nach Hāna, den Sonnenaufgang über den Wolken am Haleakalā und einige der einfachsten Schnorchelreviere im Pazifik."
@@ -643,10 +646,12 @@
         "blurb": "Eine von Dschungel umrahmte Insel im Golf von Thailand, die der dritten Staffel voller schlechtem Benehmen ihre Bühne gab. Kokoshaine, große Buddha-Tempel und eine Ringstraße voller Strände machen sie das ganze Jahr über zu einer einfachen Basis mit warmem Wasser."
       },
       "scottish-highlands": {
-        "blurb": "Glens, Lochs und ein berühmtes Eisenbahnviadukt haben die westlichen Highlands zu einem Magneten für Leinwand-Pilger gemacht, die Eröffnungslandschaften eines Zeitreise-Epos und die Strecke eines gewissen dampfgezogenen Schulzugs. Fort William macht eine praktische Basis für alles."
+        "blurb": "Glens, Lochs und ein berühmtes Eisenbahnviadukt haben die westlichen Highlands zu einem Magneten für Leinwand-Pilger gemacht, die Eröffnungslandschaften eines Zeitreise-Epos und die Strecke eines gewissen dampfgezogenen Schulzugs. Fort William macht eine praktische Basis für alles.",
+        "name": "Schottische Highlands"
       },
       "central-scotland": {
-        "blurb": "Innerhalb einer Stunde von Edinburgh und Glasgow standen eine Handvoll Schlösser und ein perfekt erhaltener Burgflecken aus dem 17. Jahrhundert für die Wohnsitze und Dörfer eines Schottlands des 18. Jahrhunderts. Leicht an einem einzigen Fahrtag aneinanderzureihen."
+        "blurb": "Innerhalb einer Stunde von Edinburgh und Glasgow standen eine Handvoll Schlösser und ein perfekt erhaltener Burgflecken aus dem 17. Jahrhundert für die Wohnsitze und Dörfer eines Schottlands des 18. Jahrhunderts. Leicht an einem einzigen Fahrtag aneinanderzureihen.",
+        "name": "Zentralschottland"
       },
       "northumberland": {
         "blurb": "Englands äußerster Nordosten ist Schlösserland, und sein imposantestes, eine noch immer bewohnte mittelalterliche Festung, brachte einer ganzen Generation von Zauberern das Fliegen bei. Weite, leere Strände und der Hadrianswall liegen nah genug, um die Reise abzurunden."
@@ -697,13 +702,16 @@
         "blurb": "Eine große Hafenstadt, deren viktorianische Docks und Lagerhäuser auf der Leinwand ein rußigeres England von vor einem Jahrhundert vertreten. Das riesige Tobacco Warehouse aus Backstein und die mit Kopfstein gepflasterten Dockstraßen sind die meistgefilmten Ecken, einen kurzen Spaziergang von der Uferpromenade und ihren Galerien entfernt."
       },
       "carpathians": {
-        "blurb": "Bewaldete Berge und Kurorte der Belle Époque in den rumänischen Karpaten, wo ein neugotisches Schloss an einem bewaldeten Hang zu einer gewissen Akademie für Außenseiter wurde. Bușteni und das Prahova-Tal liegen ein paar Stunden von Bukarest entfernt, mit Seilbahnen hinauf zu hohen Almplateaus."
+        "blurb": "Bewaldete Berge und Kurorte der Belle Époque in den rumänischen Karpaten, wo ein neugotisches Schloss an einem bewaldeten Hang zu einer gewissen Akademie für Außenseiter wurde. Bușteni und das Prahova-Tal liegen ein paar Stunden von Bukarest entfernt, mit Seilbahnen hinauf zu hohen Almplateaus.",
+        "name": "Karpaten"
       },
       "southern-poland": {
-        "blurb": "Ein Kalksteinhochland voller Burgruinen zwischen Krakau und Tschenstochau, eine davon, auf einem schroffen Felsvorsprung thronend, war Schauplatz einer entscheidenden Schlacht einer Fantasy-Saga. Der Weg der Adlerhorste verbindet die Ruinen quer durch sanfte Landschaft eine Stunde von Krakau entfernt."
+        "blurb": "Ein Kalksteinhochland voller Burgruinen zwischen Krakau und Tschenstochau, eine davon, auf einem schroffen Felsvorsprung thronend, war Schauplatz einer entscheidenden Schlacht einer Fantasy-Saga. Der Weg der Adlerhorste verbindet die Ruinen quer durch sanfte Landschaft eine Stunde von Krakau entfernt.",
+        "name": "Südpolen"
       },
       "canary-islands": {
-        "blurb": "Vulkaninseln vor der afrikanischen Küste, wo Gipfel aus schwarzem Gestein, Lorbeerwald und Mondkrater fremdartige Landschaften doubeln. Der Basaltmonolith von Gran Canaria und das pinienbewachsene Hochland vertreten Fantasy-Wildnis, alles innerhalb einer Tagesfahrt von den Küstenorten."
+        "blurb": "Vulkaninseln vor der afrikanischen Küste, wo Gipfel aus schwarzem Gestein, Lorbeerwald und Mondkrater fremdartige Landschaften doubeln. Der Basaltmonolith von Gran Canaria und das pinienbewachsene Hochland vertreten Fantasy-Wildnis, alles innerhalb einer Tagesfahrt von den Küstenorten.",
+        "name": "Kanarische Inseln"
       },
       "wicklow": {
         "blurb": "Der Garten Irlands, eine Grafschaft aus dunklen Loughs, Glens und Wasserfällen knapp südlich von Dublin, wo ein teefarbener Bergsee zur nordischen Siedlung Kattegat wurde. Der Großteil der Kulisse liegt im Wicklow Mountains National Park, ein einfacher Tagesausflug aus der Stadt."
@@ -724,16 +732,20 @@
         "blurb": "Die barocke Alpenstadt, in der eine singende Familie die Welt eroberte, ihre Gärten, das Schloss am See und die Abtei auf dem Hügel noch immer als Set-Jetting-Pfad erlaufbar. Mozarts Geburtsstadt ist zugleich das Tor zu den Seen und Bergen des Salzkammerguts."
       },
       "rome": {
-        "blurb": "Die Ewige Stadt, Kulisse für eine ausgerissene Prinzessin auf einer Vespa und für ein Jahrhundert Kino seither. Ihre Brunnen, Plätze und antiken Steine drängen sich dicht im Zentrum, wie geschaffen für ein Schlendern zwischen einem Gelato und der nächsten berühmten Fassade."
+        "blurb": "Die Ewige Stadt, Kulisse für eine ausgerissene Prinzessin auf einer Vespa und für ein Jahrhundert Kino seither. Ihre Brunnen, Plätze und antiken Steine drängen sich dicht im Zentrum, wie geschaffen für ein Schlendern zwischen einem Gelato und der nächsten berühmten Fassade.",
+        "name": "Rom"
       },
       "amalfi-coast": {
-        "blurb": "Ein schwindelerregendes Band aus pastellfarbenen Dörfern, gestapelt über dem Tyrrhenischen Meer, wo ein glamouröser Thriller das mediterrane Licht aufsog. Positano ist der Postkarten-Ankerpunkt, erreichbar über eine nervenaufreibende Küstenstraße oder, gelassener, mit der Fähre."
+        "blurb": "Ein schwindelerregendes Band aus pastellfarbenen Dörfern, gestapelt über dem Tyrrhenischen Meer, wo ein glamouröser Thriller das mediterrane Licht aufsog. Positano ist der Postkarten-Ankerpunkt, erreichbar über eine nervenaufreibende Küstenstraße oder, gelassener, mit der Fähre.",
+        "name": "Amalfiküste"
       },
       "bay-of-naples": {
-        "blurb": "Die Inseln und das Ufer des Golfs von Neapel, sonnengebacken und pastellfarben, wo ein Thriller der 1950er seinen fiktiven Badeort fand. Procidas Fischerhafen ist das fotogene Herz, ein kurzer Tragflächenboot-Sprung von Neapel entfernt."
+        "blurb": "Die Inseln und das Ufer des Golfs von Neapel, sonnengebacken und pastellfarben, wo ein Thriller der 1950er seinen fiktiven Badeort fand. Procidas Fischerhafen ist das fotogene Herz, ein kurzer Tragflächenboot-Sprung von Neapel entfernt.",
+        "name": "Golf von Neapel"
       },
       "lombardy": {
-        "blurb": "Das flache, dunstige Ackerland und die alten Städte Norditaliens, wo sich eine sonnendurchflutete Sommerromanze rund um einen stillen Provinzplatz entfaltete. Crema ist der sanfte Ankerpunkt, mit den Seen und dem Voralpenland eine kurze Fahrt nördlich."
+        "blurb": "Das flache, dunstige Ackerland und die alten Städte Norditaliens, wo sich eine sonnendurchflutete Sommerromanze rund um einen stillen Provinzplatz entfaltete. Crema ist der sanfte Ankerpunkt, mit den Seen und dem Voralpenland eine kurze Fahrt nördlich.",
+        "name": "Lombardei"
       },
       "gorlitz": {
         "blurb": "Eine perfekt erhaltene Stadt an Deutschlands Ostgrenze, vom Krieg so unberührt, dass Filmemacher sie als fertige Historienkulisse nutzen, einschließlich der Lobby eines gewissen rosa Hotels. Görliwood ist kompakt, schön und meilenweit vom Touristenpfad entfernt."
@@ -745,7 +757,8 @@
         "blurb": "Eine uralte Stadt aus Höhlenwohnungen, in eine Schlucht im tiefen Süden Italiens gehauen, so zeitlos, dass sie Jerusalem spielte und zuletzt die Bühne für eine Bond-Verfolgungsjagd war. Die honigfarbenen Sassi sind ein UNESCO-Labyrinth, das man am besten langsam zu Fuß erkundet."
       },
       "atlantic-road": {
-        "blurb": "Ein Band aus Brücken, das entlang von Norwegens sturmgepeitschter Westküste von Schäre zu Schäre springt, kurz eine Hochgeschwindigkeitsjagd in einem Spionagethriller. Die Atlantikstraße ist eine kurze, aber spektakuläre Fahrt, oft von Gischt gepeitscht, nahe der Stadt Kristiansund."
+        "blurb": "Ein Band aus Brücken, das entlang von Norwegens sturmgepeitschter Westküste von Schäre zu Schäre springt, kurz eine Hochgeschwindigkeitsjagd in einem Spionagethriller. Die Atlantikstraße ist eine kurze, aber spektakuläre Fahrt, oft von Gischt gepeitscht, nahe der Stadt Kristiansund.",
+        "name": "Atlantikstraße"
       },
       "petra": {
         "blurb": "Die rosenrote Felsenstadt der Nabatäer, verborgen in den Wüstenschluchten Südjordaniens, deren Tempelfassade die Suche nach dem Heiligen Gral einrahmte. Der Weg hinein durch die enge Klamm bis zum Schatzhaus ist eine der großen Enthüllungen des Reisens."
@@ -760,34 +773,42 @@
         "blurb": "Hügel, Nebel und eine blutrote Brücke haben diese Bay-Stadt zu einer Lieblingskulisse des Kinos gemacht, von schwindelerregenden Thrillern bis zu Verfolgungsjagden ihre Serpentinenstraßen hinab. Stellenweise kompakt und zu Fuß erkundbar, mit Cable Cars, die einem die Anstiege ersparen."
       },
       "singapore": {
-        "blurb": "Ein futuristischer Stadtstaat, in dem ein Dach-Infinity-Pool, leuchtende Supertrees und ein koloniales Grandhotel eine glanzvolle Romanze verankerten. Heiß, grün und tadellos leicht zu bereisen, packt er seine Filmwahrzeichen an einer zu Fuß erschließbaren Bucht zusammen."
+        "blurb": "Ein futuristischer Stadtstaat, in dem ein Dach-Infinity-Pool, leuchtende Supertrees und ein koloniales Grandhotel eine glanzvolle Romanze verankerten. Heiß, grün und tadellos leicht zu bereisen, packt er seine Filmwahrzeichen an einer zu Fuß erschließbaren Bucht zusammen.",
+        "name": "Singapur"
       },
       "tokyo": {
-        "blurb": "Neon, Stille und jetlaggeprägtes Staunen: Die japanische Hauptstadt lieh einer hoch gelegenen Hotelbar und einer Flut von Fußgängern ihren Auftritt in einem der großen Stimmungsfilme des Kinos. Riesig, aber hervorragend vernetzt, belohnt sie das ziellose Schlendern zwischen ihren Stadtvierteln."
+        "blurb": "Neon, Stille und jetlaggeprägtes Staunen: Die japanische Hauptstadt lieh einer hoch gelegenen Hotelbar und einer Flut von Fußgängern ihren Auftritt in einem der großen Stimmungsfilme des Kinos. Riesig, aber hervorragend vernetzt, belohnt sie das ziellose Schlendern zwischen ihren Stadtvierteln.",
+        "name": "Tokio"
       },
       "tuscany": {
-        "blurb": "Goldene Weizenfelder, Zypressenalleen und steinerne Bauernhäuser, die schon das Elysium eines römischen Feldherrn und ein Dutzend anderer Idyllen verkörpert haben. Das Val d'Orcia ist das Herz der Postkarte, eine entspannte Fahrt durch beschauliche Bergstädtchen südlich von Siena."
+        "blurb": "Goldene Weizenfelder, Zypressenalleen und steinerne Bauernhäuser, die schon das Elysium eines römischen Feldherrn und ein Dutzend anderer Idyllen verkörpert haben. Das Val d'Orcia ist das Herz der Postkarte, eine entspannte Fahrt durch beschauliche Bergstädtchen südlich von Siena.",
+        "name": "Toskana"
       },
       "ouarzazate": {
         "blurb": "Das Tor zur marokkanischen Wüste und Afrikas geschäftigstes Filmgelände, wo ein befestigtes Lehmziegeldorf schon das antike Rom, Ägypten und mehr gespielt hat. Aït Benhaddou und die Studios liegen an der Straße über den Atlas von Marrakesch aus."
       },
       "southern-tunisia": {
-        "blurb": "Bleiche Salzpfannen, Wüstenoasen und Höhlendörfer, die zu einer weit, weit entfernten Galaxis wurden. Die Star-Wars-Kulissen rund um Nefta und Matmata stehen noch immer in den Dünen, erreichbar von der Oasenstadt Tozeur aus."
+        "blurb": "Bleiche Salzpfannen, Wüstenoasen und Höhlendörfer, die zu einer weit, weit entfernten Galaxis wurden. Die Star-Wars-Kulissen rund um Nefta und Matmata stehen noch immer in den Dünen, erreichbar von der Oasenstadt Tozeur aus.",
+        "name": "Südtunesien"
       },
       "kerry": {
         "blurb": "Irlands wilder Südwesten, mit Steilküsten, Panoramastraßen und einer zackigen Klosterinsel, die zum Versteck eines Jedi wurde. Skellig Michael ist eine wetterabhängige Bootsfahrt ab Portmagee, mit dem Ring of Kerry, der sich dahinter herumschlingt."
       },
       "lake-como": {
-        "blurb": "Spiegelglattes Wasser, von Bergen und Villengärten umringt, ein Inbegriff für Glamour der alten Welt, der schon Spione und Jedi beherbergt hat. Bellagio und Lenno sind die wichtigsten Stationen, von Fähren unter den Alpen miteinander verwoben."
+        "blurb": "Spiegelglattes Wasser, von Bergen und Villengärten umringt, ein Inbegriff für Glamour der alten Welt, der schon Spione und Jedi beherbergt hat. Bellagio und Lenno sind die wichtigsten Stationen, von Fähren unter den Alpen miteinander verwoben.",
+        "name": "Comer See"
       },
       "venice": {
-        "blurb": "Eine Stadt aus Kanälen und bröckelnden Palazzi, die keinerlei Ausstattung braucht und von allen genutzt wurde, von Bond bis zu den großen Kostümfilmen. Den Fußgängern und dem Wasser vorbehalten, erlebt man sie am besten, indem man sich zwischen den Vaporetto-Stationen zu Fuß verliert."
+        "blurb": "Eine Stadt aus Kanälen und bröckelnden Palazzi, die keinerlei Ausstattung braucht und von allen genutzt wurde, von Bond bis zu den großen Kostümfilmen. Den Fußgängern und dem Wasser vorbehalten, erlebt man sie am besten, indem man sich zwischen den Vaporetto-Stationen zu Fuß verliert.",
+        "name": "Venedig"
       },
       "florence": {
-        "blurb": "Die Renaissancestadt der Kuppeln, Statuen und des Arno, eine fertige Bühne für Kostümdrama und Kriminalfall gleichermaßen. Ihre wichtigsten Plätze und Brücken liegen in einem eng beieinanderliegenden, zu Fuß erschließbaren Zentrum."
+        "blurb": "Die Renaissancestadt der Kuppeln, Statuen und des Arno, eine fertige Bühne für Kostümdrama und Kriminalfall gleichermaßen. Ihre wichtigsten Plätze und Brücken liegen in einem eng beieinanderliegenden, zu Fuß erschließbaren Zentrum.",
+        "name": "Florenz"
       },
       "dunkirk": {
-        "blurb": "Der französische Kanalhafen, dessen weiter Gezeitenstrand eine der großen Evakuierungen des Zweiten Weltkriegs in Szene setzte, und der Kriegsfilm, der seinen Namen trägt. Der breite Sand und die Mole von Malo-les-Bains sind ein nachdenklicher, windgepeitschter Spaziergang."
+        "blurb": "Der französische Kanalhafen, dessen weiter Gezeitenstrand eine der großen Evakuierungen des Zweiten Weltkriegs in Szene setzte, und der Kriegsfilm, der seinen Namen trägt. Der breite Sand und die Mole von Malo-les-Bains sind ein nachdenklicher, windgepeitschter Spaziergang.",
+        "name": "Dünkirchen"
       },
       "county-meath": {
         "blurb": "Irlands Königsgrafschaft nördlich von Dublin, reich an Burgen und uralten Gräbern, darunter die größte normannische Festung des Landes. Trim bildet einen kompakten Ausgangspunkt, eine Stunde von der Hauptstadt entfernt."
@@ -811,10 +832,12 @@
         "blurb": "Die dramatischsten Kreidefelsen der normannischen Küste und ein natürlicher Felsbogen, lange ein Anziehungspunkt für Maler und neuerdings für eine Gentleman-Dieb-Serie. Die Klippenwege über dem kleinen Badeort sind kostenlos und erfrischend."
       },
       "corfu": {
-        "blurb": "Eine grüne Ionische Insel aus venezianischen Forts, Olivenhainen und türkisfarbenen Buchten, die Idylle einer beliebten Serie über eine Auswandererfamilie. Die Altstadt und die ruhigen Buchten im Nordosten sind mit einer kurzen Fähre oder einem Flug vom Festland aus erreichbar."
+        "blurb": "Eine grüne Ionische Insel aus venezianischen Forts, Olivenhainen und türkisfarbenen Buchten, die Idylle einer beliebten Serie über eine Auswandererfamilie. Die Altstadt und die ruhigen Buchten im Nordosten sind mit einer kurzen Fähre oder einem Flug vom Festland aus erreichbar.",
+        "name": "Korfu"
       },
       "new-york": {
-        "blurb": "Die meistgefilmte Stadt der Welt, in der eine Brownstone-Vortreppe und eine Cupcake-Theke für eine Generation von Fans zu Pilgerstätten wurden. Dicht und endlos zu Fuß erschließbar, liegen ihre Filmwahrzeichen eine U-Bahn-Fahrt auseinander."
+        "blurb": "Die meistgefilmte Stadt der Welt, in der eine Brownstone-Vortreppe und eine Cupcake-Theke für eine Generation von Fans zu Pilgerstätten wurden. Dicht und endlos zu Fuß erschließbar, liegen ihre Filmwahrzeichen eine U-Bahn-Fahrt auseinander.",
+        "name": "New York"
       },
       "rosslyn": {
         "blurb": "Ein Dorf knapp südlich von Edinburgh, das sich um eine der kunstvollsten mittelalterlichen Kapellen Europas legt, einen Ort voller steinerner Green Men und Verschwörungstheorien. Die Rosslyn Chapel ist ein kurzer, malerischer Ausflug aus der Hauptstadt heraus."
@@ -835,7 +858,8 @@
         "blurb": "Rotes Schluchtenland in der Wüste Utahs, ganz steile Aussichtskanten und gewundene Flussschluchten, die Kulisse eines berühmten Roadtrip-Finales. Moab ist der Ausgangspunkt für die Nationalparks Arches und Canyonlands."
       },
       "kenya": {
-        "blurb": "Sanftes Hochland und Savanne am Fuß der Ngong-Berge, wo sich eine ausladende Romanze aus der Kolonialzeit entfaltete. Ein echtes Kaffeefarmhaus vor den Toren Nairobis ist heute ein Museum für die Geschichte dahinter."
+        "blurb": "Sanftes Hochland und Savanne am Fuß der Ngong-Berge, wo sich eine ausladende Romanze aus der Kolonialzeit entfaltete. Ein echtes Kaffeefarmhaus vor den Toren Nairobis ist heute ein Museum für die Geschichte dahinter.",
+        "name": "Kenia"
       },
       "edinburgh": {
         "blurb": "Schottlands dramatische Hauptstadt aus Felsklippen, engen Gassen und einer Silhouette auf dem Hügel, die Kulisse einer atemlosen Kultjagd ihre Hauptstraße hinunter. Kompakt und gut zu Fuß, mit Monumenten, die sich über Alt- und Neustadt türmen."
@@ -847,7 +871,8 @@
         "blurb": "Eine stille Farmstadt im Osten Iowas, Heimat eines in ein Maisfeld gehauenen Baseballfelds, das zum Inbegriff für das Jagen eines Traums wurde. Das Feld steht noch immer, eine bespielbare Besucherattraktion mitten im Mais."
       },
       "canadian-rockies": {
-        "blurb": "Die aufragenden Gipfel und Almwiesen des Kananaskis Country in Alberta, das in einer wegweisenden Romanze einen Berg in Wyoming vertrat. Es ist wildes, hoch gelegenes Land, eine Stunde westlich von Calgary."
+        "blurb": "Die aufragenden Gipfel und Almwiesen des Kananaskis Country in Alberta, das in einer wegweisenden Romanze einen Berg in Wyoming vertrat. Es ist wildes, hoch gelegenes Land, eine Stunde westlich von Calgary.",
+        "name": "Kanadische Rocky Mountains"
       },
       "albuquerque": {
         "blurb": "Die Hochwüstenstadt in New Mexico, die zur unwahrscheinlichen Hauptstadt des Prestige-Fernsehens wurde, ein weites Geflecht aus Adobe-Bauten, Einkaufszentren und großem Himmel. Das Familienhaus, die Kanzlei und der Hähnchen-Imbiss sind alle echt, über die ganze Stadt verstreut, jeweils eine Autofahrt voneinander entfernt."
@@ -865,10 +890,12 @@
         "blurb": "Südkoreas elektrische Hauptstadt aus Treppengassen, Palästen und Neonlicht, und Kulisse einer Oscar-prämierten Studie über Klasse. Ihre Hangviertel und Eckläden sind die echte Geografie hinter der Leinwand."
       },
       "vienna": {
-        "blurb": "Die imperiale österreichische Hauptstadt aus Opernhäusern, Kaffeehäusern und einem riesigen Riesenrad, eine Stadt des Nachkriegs-Noir wie der modernen Spionagethriller gleichermaßen. Ihr prächtiger Kern ist kompakt und wie geschaffen zum Spazierengehen."
+        "blurb": "Die imperiale österreichische Hauptstadt aus Opernhäusern, Kaffeehäusern und einem riesigen Riesenrad, eine Stadt des Nachkriegs-Noir wie der modernen Spionagethriller gleichermaßen. Ihr prächtiger Kern ist kompakt und wie geschaffen zum Spazierengehen.",
+        "name": "Wien"
       },
       "krakow": {
-        "blurb": "Polens wunderschön erhaltene alte Königsstadt, deren Marktplatz und das historische jüdische Viertel Kazimierz von Geschichte durchtränkt sind. Eine echte Fabrik aus Kriegszeiten, heute ein bewegendes Museum, liegt jenseits des Flusses."
+        "blurb": "Polens wunderschön erhaltene alte Königsstadt, deren Marktplatz und das historische jüdische Viertel Kazimierz von Geschichte durchtränkt sind. Eine echte Fabrik aus Kriegszeiten, heute ein bewegendes Museum, liegt jenseits des Flusses.",
+        "name": "Krakau"
       },
       "north-carolina": {
         "blurb": "Die Wasserfälle und Wälder der Blue Ridge Mountains, dazu ein gespenstisch erhaltenes verlassenes Fabrikdorf, machten diese Gegend zur Arena und Heimatdistrikt einer dystopischen Saga. Asheville ist die grüne Basis für all das."
@@ -889,7 +916,8 @@
         "blurb": "Das Gletscherland im Südosten Islands, wo eine blaue Gletscherzunge einen gefrorenen Planeten jenseits eines Wurmlochs spielte. Skaftafell und die Eislagune sind die wichtigsten Stopps entlang der Ringstraße."
       },
       "atlanta": {
-        "blurb": "Georgias Filmindustrie-Drehkreuz und seine kleinen umliegenden Städte, von denen eine zum Indiana der 1980er eines übernatürlichen Hits wurde. Ein Platz, ein Einkaufszentrum und ein Wald stehen für das fiktive Hawkins."
+        "blurb": "Georgias Filmindustrie-Drehkreuz und seine kleinen umliegenden Städte, von denen eine zum Indiana der 1980er eines übernatürlichen Hits wurde. Ein Platz, ein Einkaufszentrum und ein Wald stehen für das fiktive Hawkins.",
+        "name": "Atlanta und Georgia"
       },
       "montana": {
         "blurb": "Weites Ranchland unter großem Himmel im Bitterroot Valley am Fuß der Rocky Mountains, Heimat des echten Anwesens, das die umkämpfte Ranch einer Rinderdynastie spielt. Weit, wild und meilenweit von der Stadt entfernt."
@@ -898,13 +926,15 @@
         "blurb": "Die indonesische Insel aus Reisterrassen, Tempeln und Surfstränden, das Kapitel der Sinnsuche am Ende der Reise eines Bestseller-Memoirs. Ubud ist das grüne, spirituelle Herz, mit von Klippen gerahmten Buchten im Süden."
       },
       "bruges": {
-        "blurb": "Eine perfekt erhaltene mittelalterliche Stadt aus Grachten, Giebelhäusern und einem aufragenden Belfried, so wie aus dem Bilderbuch, dass sie zum widerwilligen Versteck eines Klassikers der schwarzen Komödie wurde. Kompakt und komplett zu Fuß erlaufbar, von Brüssel aus bequem mit dem Zug erreichbar."
+        "blurb": "Eine perfekt erhaltene mittelalterliche Stadt aus Grachten, Giebelhäusern und einem aufragenden Belfried, so wie aus dem Bilderbuch, dass sie zum widerwilligen Versteck eines Klassikers der schwarzen Komödie wurde. Kompakt und komplett zu Fuß erlaufbar, von Brüssel aus bequem mit dem Zug erreichbar.",
+        "name": "Brügge"
       },
       "las-vegas": {
         "blurb": "Die Wüstenstadt aus Neon, Fontänen und Casinopalästen, die natürliche Bühne für elegante Coups ebenso wie für das Chaos von Junggesellenabschieden. Der Strip rückt die meisten Drehorte in einen einzigen langen, blendenden Spaziergang."
       },
       "mexico-city": {
-        "blurb": "Eine riesige, pulsierende Hauptstadt aus weiten Plätzen und Jugendstil-Interieurs, in der ein Spionagefilm mit einer Día-de-los-Muertos-Parade eröffnet, die die Stadt heute tatsächlich aufführt. Das historische Zentrum versammelt die wichtigsten Orte dicht beieinander."
+        "blurb": "Eine riesige, pulsierende Hauptstadt aus weiten Plätzen und Jugendstil-Interieurs, in der ein Spionagefilm mit einer Día-de-los-Muertos-Parade eröffnet, die die Stadt heute tatsächlich aufführt. Das historische Zentrum versammelt die wichtigsten Orte dicht beieinander.",
+        "name": "Mexiko-Stadt"
       },
       "verona": {
         "blurb": "Die rosa-backsteinerne Stadt von Romeo und Julia, mit einer römischen Arena und freskengeschmückten Plätzen, ein Magnet für Romantiker auf der Leinwand wie im echten Leben. Julias Balkon und der Marktplatz liegen einen kurzen Spaziergang voneinander entfernt."
@@ -925,7 +955,8 @@
         "blurb": "Die Blue Ridge Mountains im Westen Virginias, wo eine Lodge am See das Sommerresort einer Tanzromanze spielte. Die Mountain Lake Lodge empfängt inmitten bewaldeter Hügel noch immer ihre Fans."
       },
       "fiji": {
-        "blurb": "Eine Südseenation aus türkisfarbenen Lagunen und palmengesäumten Inselchen, von denen eines das Inselgefängnis eines berühmten Schiffbrüchigen spielte. Die Mamanuca-Gruppe, in der Monuriki liegt, ist eine kurze Bootsfahrt von der Hauptinsel Viti Levu entfernt."
+        "blurb": "Eine Südseenation aus türkisfarbenen Lagunen und palmengesäumten Inselchen, von denen eines das Inselgefängnis eines berühmten Schiffbrüchigen spielte. Die Mamanuca-Gruppe, in der Monuriki liegt, ist eine kurze Bootsfahrt von der Hauptinsel Viti Levu entfernt.",
+        "name": "Fidschi"
       },
       "namibia": {
         "blurb": "Ein weites, fremdartiges Land aus roten Dünen, Schotterebenen und einer wilden Atlantikküste, dessen Leere ein postapokalyptisches Ödland verkörperte. Die Dünen um Swakopmund und der Dorob-Park sind der zugänglichste Teil."

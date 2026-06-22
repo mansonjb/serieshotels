@@ -61,7 +61,7 @@
       "intro": "Des lectures de fond, concrètes, pour bâtir un voyage autour de l'écran."
     },
     "titlePage": {
-      "whereFilmed": "Où {name} a été tourné",
+      "whereFilmed": "Où a-t-on tourné {name} ?",
       "across": "{n} lieux dans {m} destinations"
     },
     "destinationPage": {
@@ -616,10 +616,12 @@
         "blurb": "Posée sur l'Adriatique, la vieille ville fortifiée est devenue le visage le plus filmé de Port-Réal. Ruelles de calcaire, remparts ouverts sur la mer, forts accrochés à la falaise : tout se fait à pied en un après-midi. Sans doute la journée de set-jetting la plus simple d'Europe, où l'on rejoue une demi-saison entre un café et un dîner."
       },
       "south-iceland": {
-        "blurb": "Failles, champs de lave et cascades du Cercle d'Or ont prêté leurs paysages aux terres sauvages d'au-delà du Mur et à la route du Val d'Arryn. Tout se boucle en une journée depuis Reykjavík, sur ce qui reste l'itinéraire en voiture le plus parcouru d'Islande."
+        "blurb": "Failles, champs de lave et cascades du Cercle d'Or ont prêté leurs paysages aux terres sauvages d'au-delà du Mur et à la route du Val d'Arryn. Tout se boucle en une journée depuis Reykjavík, sur ce qui reste l'itinéraire en voiture le plus parcouru d'Islande.",
+        "name": "Sud de l'Islande"
       },
       "county-down": {
-        "blurb": "Autour du Strangford Lough, une poignée de domaines ont servi de QG à dix ans de tournage de Westeros, et la cour d'une propriété du National Trust est devenue Winterfell. On y est en moins d'une heure depuis Belfast, et les studios où furent bâtis les intérieurs sont juste à côté."
+        "blurb": "Autour du Strangford Lough, une poignée de domaines ont servi de QG à dix ans de tournage de Westeros, et la cour d'une propriété du National Trust est devenue Winterfell. On y est en moins d'une heure depuis Belfast, et les studios où furent bâtis les intérieurs sont juste à côté.",
+        "name": "Comté de Down"
       },
       "taormina": {
         "blurb": "Accrochée à la côte est de la Sicile, couronnée d'un théâtre grec avec l'Etna en toile de fond, Taormine a campé une saison entière de drame en resort de luxe. L'hôtel-vedette existe pour de vrai, on peut y réserver, et la ville se parcourt entièrement à pied."
@@ -628,13 +630,16 @@
         "blurb": "La ville qui se joue elle-même. D'une place tranquille du Quartier latin au plus beau de ses ponts jusqu'à l'Opéra, les coins les plus photogéniques de Paris portent toute une romance de l'ère du streaming, et tiennent dans une seule balade d'une rive à l'autre."
       },
       "seville": {
-        "blurb": "La capitale andalouse a prêté ses palais mauresques et ses patios parfumés à l'oranger au royaume gorgé de soleil de Dorne. L'Alcázar en est la pièce maîtresse, mais c'est toute la vieille ville, carrelée, ombragée, faite pour la marche, qui mérite qu'on s'y attarde."
+        "blurb": "La capitale andalouse a prêté ses palais mauresques et ses patios parfumés à l'oranger au royaume gorgé de soleil de Dorne. L'Alcázar en est la pièce maîtresse, mais c'est toute la vieille ville, carrelée, ombragée, faite pour la marche, qui mérite qu'on s'y attarde.",
+        "name": "Séville"
       },
       "girona": {
-        "blurb": "À une heure au nord de Barcelone, les ruelles médiévales de Gérone et l'escalier de sa cathédrale ont incarné tour à tour Braavos et Port-Réal. Quartier ancien ramassé, maisons colorées au fil de l'eau, remparts intacts : l'une des plus belles surprises de Catalogne."
+        "blurb": "À une heure au nord de Barcelone, les ruelles médiévales de Gérone et l'escalier de sa cathédrale ont incarné tour à tour Braavos et Port-Réal. Quartier ancien ramassé, maisons colorées au fil de l'eau, remparts intacts : l'une des plus belles surprises de Catalogne.",
+        "name": "Gérone"
       },
       "basque-country": {
-        "blurb": "Dans le nord basque, les collines vertes plongent dans un Atlantique spectaculaire, et une chaussée de pierre serpente jusqu'à une chapelle sur son îlot, devenue Peyredragon. Bilbao et les bars à pintxos de la côte font une base idéale pour la journée."
+        "blurb": "Dans le nord basque, les collines vertes plongent dans un Atlantique spectaculaire, et une chaussée de pierre serpente jusqu'à une chapelle sur son îlot, devenue Peyredragon. Bilbao et les bars à pintxos de la côte font une base idéale pour la journée.",
+        "name": "Pays basque"
       },
       "maui": {
         "blurb": "L'île hawaïenne où a commencé la satire des palaces, sur la plage soignée de Wailea. Au-delà de l'hôtel, Maui aligne la route volcanique de Hāna, le lever de soleil au-dessus des nuages au Haleakalā, et quelques-uns des plus beaux fonds à masque-tuba du Pacifique."
@@ -643,10 +648,12 @@
         "blurb": "Une île tapissée de jungle dans le golfe de Thaïlande, hôte de la troisième saison de mauvaises manières de la série. Cocoteraies, grands Bouddhas et route côtière jalonnée de plages : une base facile, et chaude toute l'année."
       },
       "scottish-highlands": {
-        "blurb": "Glens, lochs et un viaduc ferroviaire mythique font des Highlands de l'Ouest un aimant pour les pèlerins de l'écran : les paysages d'ouverture d'une saga sur le voyage dans le temps, et la voie d'un certain train à vapeur d'école. Fort William fait une base bien pratique."
+        "blurb": "Glens, lochs et un viaduc ferroviaire mythique font des Highlands de l'Ouest un aimant pour les pèlerins de l'écran : les paysages d'ouverture d'une saga sur le voyage dans le temps, et la voie d'un certain train à vapeur d'école. Fort William fait une base bien pratique.",
+        "name": "Highlands écossais"
       },
       "central-scotland": {
-        "blurb": "À moins d'une heure d'Édimbourg et de Glasgow, quelques châteaux et un bourg du XVIIe siècle resté intact ont campé les demeures et les villages de l'Écosse du XVIIIe. De quoi tout enchaîner en une seule journée de route."
+        "blurb": "À moins d'une heure d'Édimbourg et de Glasgow, quelques châteaux et un bourg du XVIIe siècle resté intact ont campé les demeures et les villages de l'Écosse du XVIIIe. De quoi tout enchaîner en une seule journée de route.",
+        "name": "Écosse centrale"
       },
       "northumberland": {
         "blurb": "L'extrême nord-est de l'Angleterre est un pays de châteaux, et le plus imposant, une forteresse médiévale encore habitée, a appris à voler à toute une génération de sorciers. De grandes plages désertes et le mur d'Hadrien complètent le tableau juste à côté."
@@ -676,7 +683,8 @@
         "blurb": "Les grands bâtiments officiels de la capitale espagnole ont campé les cibles du casse le plus regardé de la télé. Leurs vraies façades bordent de larges avenues du quartier des musées, qu'on arpente entre deux arrêts tapas."
       },
       "extremadura": {
-        "blurb": "Une région de l'ouest espagnol, blanchie de soleil, faite de cités fortifiées et de palais de conquistadors, dont les centres médiévaux intacts sont devenus la capitale d'une dynastie chevauche-dragons. Cáceres et Trujillo se rejoignent en un court trajet."
+        "blurb": "Une région de l'ouest espagnol, blanchie de soleil, faite de cités fortifiées et de palais de conquistadors, dont les centres médiévaux intacts sont devenus la capitale d'une dynastie chevauche-dragons. Cáceres et Trujillo se rejoignent en un court trajet.",
+        "name": "Estrémadure"
       },
       "hampshire": {
         "blurb": "Des terres agricoles vallonnées et de grands domaines de campagne à une heure à l'ouest de Londres, couronnés par la demeure jacobéenne devenue Downton Abbey. Highclere est l'aimant, mais les collines du Hampshire et ses bourgs de marché alentour font une escapade verte facile depuis la capitale."
@@ -688,28 +696,34 @@
         "blurb": "Une petite cité épiscopale en bordure des Fens du Cambridgeshire, où l'une des plus spectaculaires églises médiévales d'Angleterre a doublé l'abbaye de Westminster à l'écran. Ely se fait en une demi-journée en train depuis Cambridge ou Londres, sa cathédrale visible à des kilomètres à la ronde sur les plaines."
       },
       "london": {
-        "blurb": "La ville la plus filmée au monde, et un haut lieu du set-jetting à part entière : l'appartement de Baker Street d'un détective, la porte bleue d'une comédie romantique, un intérieur de palais qui en remplace un vrai. Les lieux sont éparpillés, mais chacun se trouve sur une ligne de métro et mérite un après-midi à thème, à pied."
+        "blurb": "La ville la plus filmée au monde, et un haut lieu du set-jetting à part entière : l'appartement de Baker Street d'un détective, la porte bleue d'une comédie romantique, un intérieur de palais qui en remplace un vrai. Les lieux sont éparpillés, mais chacun se trouve sur une ligne de métro et mérite un après-midi à thème, à pied.",
+        "name": "Londres"
       },
       "birmingham": {
-        "blurb": "Le cœur industriel de l'Angleterre, et le berceau spirituel de la famille Shelby, même si une bonne partie des berges crasseuses de la série a été recréée dans un musée vivant du Black Country voisin. Birmingham, elle, a transformé ses vieilles usines et ses canaux en une base de caractère, à parcourir à pied."
+        "blurb": "Le cœur industriel de l'Angleterre, et le berceau spirituel de la famille Shelby, même si une bonne partie des berges crasseuses de la série a été recréée dans un musée vivant du Black Country voisin. Birmingham, elle, a transformé ses vieilles usines et ses canaux en une base de caractère, à parcourir à pied.",
+        "name": "Birmingham et le Black Country"
       },
       "liverpool": {
         "blurb": "Une grande ville portuaire dont les docks et les entrepôts victoriens campent à l'écran une Angleterre plus enfumée, vieille d'un siècle. L'immense Tobacco Warehouse de brique et les quais pavés sont les coins les plus filmés, à deux pas du front de mer et de ses musées."
       },
       "carpathians": {
-        "blurb": "Des montagnes boisées et des villes de villégiature Belle Époque dans les Carpates roumaines, où un château néogothique sur un versant arboré est devenu une certaine académie pour parias. Bușteni et la vallée de Prahova sont à quelques heures de Bucarest, avec des téléphériques vers de hauts plateaux alpins."
+        "blurb": "Des montagnes boisées et des villes de villégiature Belle Époque dans les Carpates roumaines, où un château néogothique sur un versant arboré est devenu une certaine académie pour parias. Bușteni et la vallée de Prahova sont à quelques heures de Bucarest, avec des téléphériques vers de hauts plateaux alpins.",
+        "name": "Carpates"
       },
       "southern-poland": {
-        "blurb": "Un plateau calcaire semé de châteaux en ruine entre Cracovie et Częstochowa, dont l'un, juché sur un éperon rocheux, a accueilli une bataille décisive d'une saga de fantasy. Le Sentier des Nids d'Aigles relie les ruines à travers une campagne vallonnée, à une heure de Cracovie."
+        "blurb": "Un plateau calcaire semé de châteaux en ruine entre Cracovie et Częstochowa, dont l'un, juché sur un éperon rocheux, a accueilli une bataille décisive d'une saga de fantasy. Le Sentier des Nids d'Aigles relie les ruines à travers une campagne vallonnée, à une heure de Cracovie.",
+        "name": "Sud de la Pologne"
       },
       "canary-islands": {
-        "blurb": "Des îles volcaniques au large de l'Afrique, où pics de roche noire, forêt de lauriers et cratères lunaires doublent des paysages d'un autre monde. Le monolithe de basalte de Grande Canarie et les hauts plateaux couverts de pins campent des terres sauvages de fantasy, à une journée de route des stations balnéaires."
+        "blurb": "Des îles volcaniques au large de l'Afrique, où pics de roche noire, forêt de lauriers et cratères lunaires doublent des paysages d'un autre monde. Le monolithe de basalte de Grande Canarie et les hauts plateaux couverts de pins campent des terres sauvages de fantasy, à une journée de route des stations balnéaires.",
+        "name": "Îles Canaries"
       },
       "wicklow": {
         "blurb": "Le Jardin de l'Irlande, un comté de lacs sombres, de vallées et de cascades juste au sud de Dublin, où un lac de montagne couleur de thé est devenu la colonie nordique de Kattegat. L'essentiel des paysages se trouve dans le parc national des montagnes du Wicklow, une escapade facile depuis la ville."
       },
       "cornwall": {
-        "blurb": "La pointe sauvage du sud-ouest de l'Angleterre, tout en maisons de pompe au sommet des falaises, ports de pêche et plages de surf, et décor reconnaissable entre tous d'une romance d'époque ténébreuse. Les lieux filmés s'égrènent le long du sentier côtier, à relier en voiture avec force arrêts pour un pasty cornouaillais."
+        "blurb": "La pointe sauvage du sud-ouest de l'Angleterre, tout en maisons de pompe au sommet des falaises, ports de pêche et plages de surf, et décor reconnaissable entre tous d'une romance d'époque ténébreuse. Les lieux filmés s'égrènent le long du sentier côtier, à relier en voiture avec force arrêts pour un pasty cornouaillais.",
+        "name": "Cornouailles"
       },
       "dorset": {
         "blurb": "Un littoral de falaises de grès doré et de plages de galets sur la côte sud de l'Angleterre, où une petite ville portuaire a porté un polar qui couve à petit feu. West Bay et la Jurassic Coast alentour valent bien un week-end de marches sur les falaises et de chasse aux fossiles."
@@ -721,19 +735,23 @@
         "blurb": "Un comté d'une beauté discrète dans le nord-ouest de l'Irlande, fait de montagnes au sommet plat, de plages de surf et de pays de Yeats, qui a campé à l'écran la petite ville natale des personnages. Des plages comme Streedagh sont larges, sauvages et souvent désertes, à quelques heures au-delà de Galway."
       },
       "salzburg": {
-        "blurb": "La ville baroque des Alpes où une famille chantante a conquis le monde, dont les jardins, le palais au bord du lac et l'abbaye sur la colline se parcourent encore comme un itinéraire de set-jetting. La ville natale de Mozart fait aussi une porte d'entrée vers les lacs et les montagnes du Salzkammergut."
+        "blurb": "La ville baroque des Alpes où une famille chantante a conquis le monde, dont les jardins, le palais au bord du lac et l'abbaye sur la colline se parcourent encore comme un itinéraire de set-jetting. La ville natale de Mozart fait aussi une porte d'entrée vers les lacs et les montagnes du Salzkammergut.",
+        "name": "Salzbourg"
       },
       "rome": {
         "blurb": "La Ville éternelle, décor d'une princesse en fuite à Vespa et d'un siècle de cinéma depuis. Ses fontaines, ses places et ses vieilles pierres se serrent au cœur de la ville, faites pour flâner entre une glace et la façade célèbre suivante."
       },
       "amalfi-coast": {
-        "blurb": "Un ruban vertigineux de villages pastel empilés au-dessus de la mer Tyrrhénienne, où un thriller glamour s'est gorgé de lumière méditerranéenne. Positano en est l'ancrage carte postale, qu'on rejoint par une route côtière à donner le frisson ou, plus tranquillement, en bateau."
+        "blurb": "Un ruban vertigineux de villages pastel empilés au-dessus de la mer Tyrrhénienne, où un thriller glamour s'est gorgé de lumière méditerranéenne. Positano en est l'ancrage carte postale, qu'on rejoint par une route côtière à donner le frisson ou, plus tranquillement, en bateau.",
+        "name": "Côte amalfitaine"
       },
       "bay-of-naples": {
-        "blurb": "Les îles et le rivage du golfe de Naples, gorgés de soleil et tout en pastel, où un thriller des années 1950 a trouvé sa station balnéaire imaginaire. Le port de pêche de Procida en est le cœur photogénique, à un court saut d'hydroglisseur depuis Naples."
+        "blurb": "Les îles et le rivage du golfe de Naples, gorgés de soleil et tout en pastel, où un thriller des années 1950 a trouvé sa station balnéaire imaginaire. Le port de pêche de Procida en est le cœur photogénique, à un court saut d'hydroglisseur depuis Naples.",
+        "name": "Baie de Naples"
       },
       "lombardy": {
-        "blurb": "Les terres agricoles plates et brumeuses et les vieilles villes du nord de l'Italie, où une romance estivale baignée de soleil s'est nouée autour d'une place de province tranquille. Crema en est l'ancrage tout en douceur, avec les lacs et les contreforts à un court trajet vers le nord."
+        "blurb": "Les terres agricoles plates et brumeuses et les vieilles villes du nord de l'Italie, où une romance estivale baignée de soleil s'est nouée autour d'une place de province tranquille. Crema en est l'ancrage tout en douceur, avec les lacs et les contreforts à un court trajet vers le nord.",
+        "name": "Lombardie"
       },
       "gorlitz": {
         "blurb": "Une ville parfaitement préservée à la frontière est de l'Allemagne, si épargnée par la guerre que les cinéastes s'en servent comme d'un décor d'époque clé en main, jusqu'au hall d'un certain hôtel rose. Görliwood est ramassée, élégante, et à mille lieues des sentiers touristiques."
@@ -745,10 +763,12 @@
         "blurb": "Une cité antique d'habitations troglodytes taillées dans un ravin du grand sud de l'Italie, si intemporelle qu'elle a joué Jérusalem, et tout récemment la scène d'une course-poursuite de Bond. Les Sassi couleur de miel forment un dédale classé par l'UNESCO, à explorer lentement, à pied."
       },
       "atlantic-road": {
-        "blurb": "Un ruban de ponts qui saute d'îlot en îlot le long de la côte ouest battue par les tempêtes en Norvège, le temps d'une poursuite à grande vitesse dans un film d'espionnage. La route de l'Atlantique est un trajet court mais spectaculaire, souvent fouetté par les embruns, près de la ville de Kristiansund."
+        "blurb": "Un ruban de ponts qui saute d'îlot en îlot le long de la côte ouest battue par les tempêtes en Norvège, le temps d'une poursuite à grande vitesse dans un film d'espionnage. La route de l'Atlantique est un trajet court mais spectaculaire, souvent fouetté par les embruns, près de la ville de Kristiansund.",
+        "name": "Route de l'Atlantique"
       },
       "petra": {
-        "blurb": "La cité de roche rose des Nabatéens, cachée dans les canyons du désert au sud de la Jordanie, dont la façade-temple a cadré la quête du Saint Graal. La marche d'approche par le canyon en fente jusqu'au Trésor est l'une des grandes révélations du voyage."
+        "blurb": "La cité de roche rose des Nabatéens, cachée dans les canyons du désert au sud de la Jordanie, dont la façade-temple a cadré la quête du Saint Graal. La marche d'approche par le canyon en fente jusqu'au Trésor est l'une des grandes révélations du voyage.",
+        "name": "Pétra"
       },
       "krabi": {
         "blurb": "Une côte de pitons calcaires, de lagons cachés et d'eau turquoise sur la mer d'Andaman, en Thaïlande, où une crique d'une perfection impossible est devenue le paradis secret des routards. Maya Bay se trouve au large, sur une île inhabitée, qu'on rejoint en bateau depuis Krabi ou Phuket."
@@ -760,37 +780,45 @@
         "blurb": "Collines, brouillard et un pont rouge sang ont fait de cette ville de la baie l'un des décors préférés du cinéma, des thrillers vertigineux aux courses-poursuites dans ses rues en lacets. Compacte et arpentable par endroits, avec des cable cars pour épargner vos jambes dans les montées."
       },
       "singapore": {
-        "blurb": "Une cité-État futuriste où une piscine à débordement sur les toits, des supertrees lumineux et un grand hôtel colonial ont ancré une romance glamour. Chaude, verte et d'une facilité de circulation impeccable, elle concentre ses lieux de tournage sur un front de baie arpentable à pied."
+        "blurb": "Une cité-État futuriste où une piscine à débordement sur les toits, des supertrees lumineux et un grand hôtel colonial ont ancré une romance glamour. Chaude, verte et d'une facilité de circulation impeccable, elle concentre ses lieux de tournage sur un front de baie arpentable à pied.",
+        "name": "Singapour"
       },
       "tokyo": {
         "blurb": "Néons, silence et émerveillement décalé : la capitale japonaise a prêté un bar d'hôtel en hauteur et une marée de piétons à l'un des grands films d'ambiance du cinéma. Immense mais superbement desservie, elle se savoure en errances sans but entre ses quartiers."
       },
       "tuscany": {
-        "blurb": "Champs de blé dorés, allées de cyprès et fermes de pierre qui ont campé l'Élysée d'un général romain et une douzaine d'autres idylles. Le Val d'Orcia en est le cœur de carte postale, à parcourir en voiture entre des villes perchées au sud de Sienne."
+        "blurb": "Champs de blé dorés, allées de cyprès et fermes de pierre qui ont campé l'Élysée d'un général romain et une douzaine d'autres idylles. Le Val d'Orcia en est le cœur de carte postale, à parcourir en voiture entre des villes perchées au sud de Sienne.",
+        "name": "Toscane"
       },
       "ouarzazate": {
         "blurb": "La porte du désert marocain et le plus grand plateau de cinéma d'Afrique, où un village fortifié de pisé a joué la Rome antique, l'Égypte et bien d'autres. Aït Benhaddou et les studios bordent la route qui franchit l'Atlas depuis Marrakech."
       },
       "southern-tunisia": {
-        "blurb": "Lacs salés pâles, oasis du désert et villages troglodytes devenus une galaxie lointaine, très lointaine. Les décors de Star Wars autour de Nefta et Matmata se dressent encore dans les dunes, accessibles depuis la ville-oasis de Tozeur."
+        "blurb": "Lacs salés pâles, oasis du désert et villages troglodytes devenus une galaxie lointaine, très lointaine. Les décors de Star Wars autour de Nefta et Matmata se dressent encore dans les dunes, accessibles depuis la ville-oasis de Tozeur.",
+        "name": "Sud de la Tunisie"
       },
       "kerry": {
-        "blurb": "Le sud-ouest sauvage de l'Irlande, fait de falaises maritimes, de routes circulaires et d'une île monastique déchiquetée devenue le refuge d'un Jedi. Skellig Michael se gagne par une sortie en bateau tributaire de la météo depuis Portmagee, avec le Ring of Kerry qui boucle derrière."
+        "blurb": "Le sud-ouest sauvage de l'Irlande, fait de falaises maritimes, de routes circulaires et d'une île monastique déchiquetée devenue le refuge d'un Jedi. Skellig Michael se gagne par une sortie en bateau tributaire de la météo depuis Portmagee, avec le Ring of Kerry qui boucle derrière.",
+        "name": "Comté de Kerry"
       },
       "lake-como": {
-        "blurb": "Une eau immobile comme un miroir, cernée de montagnes et de jardins de villas, synonyme de glamour à l'ancienne, qui a accueilli aussi bien des espions que des Jedi. Bellagio et Lenno sont les étapes vedettes, reliées par des ferries au pied des Alpes."
+        "blurb": "Une eau immobile comme un miroir, cernée de montagnes et de jardins de villas, synonyme de glamour à l'ancienne, qui a accueilli aussi bien des espions que des Jedi. Bellagio et Lenno sont les étapes vedettes, reliées par des ferries au pied des Alpes.",
+        "name": "Lac de Côme"
       },
       "venice": {
-        "blurb": "Une ville de canaux et de palais décrépits qui n'a besoin d'aucun décor, utilisée par tout le monde, de Bond aux grands films en costumes. Piétonne et aquatique, elle se savoure surtout en se perdant à pied entre les arrêts de vaporetto."
+        "blurb": "Une ville de canaux et de palais décrépits qui n'a besoin d'aucun décor, utilisée par tout le monde, de Bond aux grands films en costumes. Piétonne et aquatique, elle se savoure surtout en se perdant à pied entre les arrêts de vaporetto.",
+        "name": "Venise"
       },
       "florence": {
         "blurb": "La ville Renaissance des coupoles, des statues et de l'Arno, une scène toute trouvée pour le film en costumes comme pour l'enquête policière. Ses places et ses ponts emblématiques tiennent dans un centre compact et arpentable à pied."
       },
       "dunkirk": {
-        "blurb": "Le port français de la Manche dont la vaste plage à marée basse a accueilli l'une des grandes évacuations de la Seconde Guerre mondiale, et le film de guerre qui porte son nom. Les étendues de sable et la jetée de Malo-les-Bains se prêtent à une promenade grave et balayée par le vent."
+        "blurb": "Le port français de la Manche dont la vaste plage à marée basse a accueilli l'une des grandes évacuations de la Seconde Guerre mondiale, et le film de guerre qui porte son nom. Les étendues de sable et la jetée de Malo-les-Bains se prêtent à une promenade grave et balayée par le vent.",
+        "name": "Dunkerque"
       },
       "county-meath": {
-        "blurb": "Le comté royal de l'Irlande, au nord de Dublin, riche en châteaux et en tombes anciennes, dont la plus grande forteresse normande du pays. Trim fait une base compacte, à une heure de la capitale."
+        "blurb": "Le comté royal de l'Irlande, au nord de Dublin, riche en châteaux et en tombes anciennes, dont la plus grande forteresse normande du pays. Trim fait une base compacte, à une heure de la capitale.",
+        "name": "Comté de Meath"
       },
       "oahu": {
         "blurb": "L'île hawaïenne où une vallée tapissée de jungle a campé un pays de dinosaures, des îles perdues et bien d'autres. Le ranch de Kualoa propose des circuits sur les lieux de tournage, au bout d'une belle route depuis Waikiki le long de la côte au vent."
@@ -805,16 +833,19 @@
         "blurb": "Un minuscule village perché au-dessus de la côte ionienne de la Sicile, figé dans le temps, qui a joué le berceau sicilien de la plus célèbre saga criminelle du cinéma. Le bar et l'église du film sont à quelques pas l'un de l'autre, au bout d'une route sinueuse qui monte depuis la côte de Taormine."
       },
       "philadelphia": {
-        "blurb": "Le berceau de l'indépendance américaine, et la ville de l'outsider d'une légende de la boxe qui a gravi en courant les marches de son musée. Les marches de Rocky mises à part, la vieille ville et ses marchés font une visite compacte et arpentable à pied."
+        "blurb": "Le berceau de l'indépendance américaine, et la ville de l'outsider d'une légende de la boxe qui a gravi en courant les marches de son musée. Les marches de Rocky mises à part, la vieille ville et ses marchés font une visite compacte et arpentable à pied.",
+        "name": "Philadelphie"
       },
       "etretat": {
         "blurb": "Les falaises de craie les plus spectaculaires de la côte normande et une arche rocheuse naturelle, depuis longtemps un aimant pour les peintres et, plus récemment, pour une série de gentleman cambrioleur. Les promenades au sommet des falaises, au-dessus de la petite station, sont gratuites et vivifiantes."
       },
       "corfu": {
-        "blurb": "Une verdoyante île ionienne de forteresses vénitiennes, d'oliveraies et de criques turquoise, l'idylle d'une série très aimée sur une famille d'expatriés. La vieille ville et les baies tranquilles du nord-est se rejoignent facilement en ferry ou en avion depuis le continent."
+        "blurb": "Une verdoyante île ionienne de forteresses vénitiennes, d'oliveraies et de criques turquoise, l'idylle d'une série très aimée sur une famille d'expatriés. La vieille ville et les baies tranquilles du nord-est se rejoignent facilement en ferry ou en avion depuis le continent.",
+        "name": "Corfou"
       },
       "new-york": {
-        "blurb": "La ville la plus filmée de la planète, où le perron d'un brownstone et un comptoir de cupcakes sont devenus des lieux de pèlerinage pour toute une génération de fans. Dense et arpentable à l'infini, ses lieux de tournage sont à un trajet de métro les uns des autres."
+        "blurb": "La ville la plus filmée de la planète, où le perron d'un brownstone et un comptoir de cupcakes sont devenus des lieux de pèlerinage pour toute une génération de fans. Dense et arpentable à l'infini, ses lieux de tournage sont à un trajet de métro les uns des autres.",
+        "name": "New York"
       },
       "rosslyn": {
         "blurb": "Un village juste au sud d'Édimbourg, blotti autour de l'une des chapelles médiévales les plus minutieusement sculptées d'Europe, peuplée d'hommes verts de pierre et de théories du complot. La chapelle de Rosslyn fait une courte escapade pittoresque depuis la capitale."
@@ -838,7 +869,8 @@
         "blurb": "Des hauts plateaux vallonnés et la savane, au pied des collines de Ngong, où s'est déroulée une ample romance de l'époque coloniale. Une vraie maison de plantation de café près de Nairobi est aujourd'hui un musée consacré à l'histoire qui l'a inspirée."
       },
       "edinburgh": {
-        "blurb": "La capitale écossaise, spectaculaire avec ses crêtes rocheuses, ses ruelles et sa ligne d'horizon perchée, toile de fond d'une course-poursite culte et haletante dans son artère principale. Compacte et arpentable à pied, ses monuments s'étagent au-dessus de la vieille et de la nouvelle ville."
+        "blurb": "La capitale écossaise, spectaculaire avec ses crêtes rocheuses, ses ruelles et sa ligne d'horizon perchée, toile de fond d'une course-poursite culte et haletante dans son artère principale. Compacte et arpentable à pied, ses monuments s'étagent au-dessus de la vieille et de la nouvelle ville.",
+        "name": "Édimbourg"
       },
       "st-andrews": {
         "blurb": "La ville côtière du Fife, faite de golf, de toges universitaires et d'une longue plage plate qui a porté la course la plus célèbre d'un film. Sa plage de West Sands s'étire sur des kilomètres le long des dunes, à une heure et demie d'Édimbourg."
@@ -847,13 +879,15 @@
         "blurb": "Une paisible bourgade agricole de l'est de l'Iowa, qui abrite un losange de base-ball taillé dans un champ de maïs, devenu synonyme de la poursuite d'un rêve. Le terrain existe toujours, attraction touristique en activité au milieu du maïs."
       },
       "canadian-rockies": {
-        "blurb": "Les sommets vertigineux et les prairies alpines du Kananaskis Country, en Alberta, qui ont doublé une montagne du Wyoming dans une romance marquante. C'est une nature haute et sauvage, à une heure à l'ouest de Calgary."
+        "blurb": "Les sommets vertigineux et les prairies alpines du Kananaskis Country, en Alberta, qui ont doublé une montagne du Wyoming dans une romance marquante. C'est une nature haute et sauvage, à une heure à l'ouest de Calgary.",
+        "name": "Rocheuses canadiennes"
       },
       "albuquerque": {
         "blurb": "La ville du Nouveau-Mexique en plein désert d'altitude, devenue capitale improbable des grandes séries, un étalement d'adobe, de centres commerciaux et de ciels immenses. La maison familiale, le cabinet d'avocat et le fast-food qui sert de couverture sont tous bien réels, dispersés aux quatre coins de la ville, chacun à quelques minutes de route."
       },
       "dubai": {
-        "blurb": "Une ligne d'horizon de tours qui battent tous les records, dressées sur le désert du Golfe, taillée pour les cascades de blockbuster et le spectacle clinquant. Le plus haut bâtiment du monde sert de point d'ancrage à une ville chaude, moderne et facile à parcourir."
+        "blurb": "Une ligne d'horizon de tours qui battent tous les records, dressées sur le désert du Golfe, taillée pour les cascades de blockbuster et le spectacle clinquant. Le plus haut bâtiment du monde sert de point d'ancrage à une ville chaude, moderne et facile à parcourir.",
+        "name": "Dubaï"
       },
       "istanbul": {
         "blurb": "La ville à cheval sur deux continents, tout en coupoles, en bazars et en ferries qui filent sur le Bosphore, un terrain de jeu favori des poursuites sur les toits et de l'intrigue d'espionnage. Son grand marché et ses mosquées se serrent dans un vieux centre qui se parcourt à pied."
@@ -862,16 +896,20 @@
         "blurb": "Le cœur de lacs et de montagnes de l'Oberland bernois, où un ponton au bord d'un lac turquoise est devenu un pèlerinage pour les fans d'une romance coréenne à succès. Iseltwald, Brienz et les ponts en hauteur forment une boucle facile, en bateau, en train et en bus."
       },
       "seoul": {
-        "blurb": "La capitale électrique de la Corée du Sud, faite de rues en escalier, de palais et de néons, décor d'une étude des classes sociales primée aux Oscars. Ses quartiers à flanc de colline et ses épiceries de coin sont la vraie géographie derrière l'écran."
+        "blurb": "La capitale électrique de la Corée du Sud, faite de rues en escalier, de palais et de néons, décor d'une étude des classes sociales primée aux Oscars. Ses quartiers à flanc de colline et ses épiceries de coin sont la vraie géographie derrière l'écran.",
+        "name": "Séoul"
       },
       "vienna": {
-        "blurb": "La capitale impériale de l'Autriche, ses opéras, ses cafés et sa grande roue géante, ville de film noir d'après-guerre comme de thrillers d'espionnage modernes. Son centre majestueux est compact et fait pour la marche."
+        "blurb": "La capitale impériale de l'Autriche, ses opéras, ses cafés et sa grande roue géante, ville de film noir d'après-guerre comme de thrillers d'espionnage modernes. Son centre majestueux est compact et fait pour la marche.",
+        "name": "Vienne"
       },
       "krakow": {
-        "blurb": "L'ancienne capitale royale de la Pologne, magnifiquement préservée, sa place du marché et le quartier juif historique de Kazimierz imprégnés d'histoire. Une vraie usine de guerre, devenue un musée poignant, se dresse de l'autre côté de la rivière."
+        "blurb": "L'ancienne capitale royale de la Pologne, magnifiquement préservée, sa place du marché et le quartier juif historique de Kazimierz imprégnés d'histoire. Une vraie usine de guerre, devenue un musée poignant, se dresse de l'autre côté de la rivière.",
+        "name": "Cracovie"
       },
       "north-carolina": {
-        "blurb": "Les cascades et les forêts des montagnes Blue Ridge, plus un village d'usine abandonné d'une conservation troublante, ont fait de ces lieux l'arène et le district d'origine d'une saga dystopique. Asheville est la base verdoyante pour tout explorer."
+        "blurb": "Les cascades et les forêts des montagnes Blue Ridge, plus un village d'usine abandonné d'une conservation troublante, ont fait de ces lieux l'arène et le district d'origine d'une saga dystopique. Asheville est la base verdoyante pour tout explorer.",
+        "name": "Caroline du Nord"
       },
       "forks": {
         "blurb": "Une ville forestière pluvieuse de la péninsule Olympique, dans l'État de Washington, qu'une romance de vampires a rendue célèbre et qui l'assume désormais pleinement. Des plages sauvages jonchées de bois flotté et la forêt pluviale sont à quelques minutes de route."
@@ -883,13 +921,15 @@
         "blurb": "Les banlieues et les autoroutes à péage de l'autre côté du fleuve, face à New York, toile de fond familière de la saga mafieuse qui a redéfini la télévision. Un glacier et une pizzeria de bord de route, tout droit sortis de la série, sont encore en activité aujourd'hui."
       },
       "abu-dhabi": {
-        "blurb": "La capitale émiratie et les vastes dunes du Quartier vide, à Liwa, dont les sables imposants ont campé un monde désertique extraterrestre. Les dunes sont à quelques heures de route dans les terres, depuis la côte."
+        "blurb": "La capitale émiratie et les vastes dunes du Quartier vide, à Liwa, dont les sables imposants ont campé un monde désertique extraterrestre. Les dunes sont à quelques heures de route dans les terres, depuis la côte.",
+        "name": "Abou Dabi"
       },
       "vatnajokull": {
         "blurb": "Le pays des glaciers du sud-est de l'Islande, où une langue de glace bleue a joué une planète gelée à l'autre bout d'un trou de ver. Skaftafell et la lagune glaciaire sont les étapes phares le long de la route circulaire."
       },
       "atlanta": {
-        "blurb": "Le pôle de l'industrie du cinéma en Géorgie et les petites villes alentour, dont l'une est devenue l'Indiana des années 1980 d'un succès surnaturel. Une place, un centre commercial et une forêt campent la Hawkins de fiction."
+        "blurb": "Le pôle de l'industrie du cinéma en Géorgie et les petites villes alentour, dont l'une est devenue l'Indiana des années 1980 d'un succès surnaturel. Une place, un centre commercial et une forêt campent la Hawkins de fiction.",
+        "name": "Atlanta et la Géorgie"
       },
       "montana": {
         "blurb": "Le pays des grands ranchs et des ciels immenses, dans la vallée de la Bitterroot au pied des Rocheuses, où se trouve le vrai domaine qui incarne le ranch assiégé d'une dynastie d'éleveurs. Vaste, sauvage, à mille lieues de la ville."
@@ -904,16 +944,19 @@
         "blurb": "La ville du désert, ses néons, ses fontaines et ses casinos-palaces, scène toute trouvée pour les casses élégants comme pour les enterrements de vie de garçon qui virent au chaos. Le Strip aligne l'essentiel des décors de cinéma sur une seule longue promenade éblouissante."
       },
       "mexico-city": {
-        "blurb": "Une capitale immense et trépidante, faite de grandes places et d'intérieurs Art nouveau, où un film d'espionnage s'est ouvert sur un défilé du Jour des Morts que la ville met désormais en scène pour de vrai. Le centre historique regroupe les sites phares au même endroit."
+        "blurb": "Une capitale immense et trépidante, faite de grandes places et d'intérieurs Art nouveau, où un film d'espionnage s'est ouvert sur un défilé du Jour des Morts que la ville met désormais en scène pour de vrai. Le centre historique regroupe les sites phares au même endroit.",
+        "name": "Mexico"
       },
       "verona": {
-        "blurb": "La cité de brique rose de Roméo et Juliette, ses arènes romaines et ses places à fresques, aimant à romantiques sur les écrans comme dans la vie. Le balcon de Juliette et la place du marché sont à quelques pas l'un de l'autre."
+        "blurb": "La cité de brique rose de Roméo et Juliette, ses arènes romaines et ses places à fresques, aimant à romantiques sur les écrans comme dans la vie. Le balcon de Juliette et la place du marché sont à quelques pas l'un de l'autre.",
+        "name": "Vérone"
       },
       "provence": {
         "blurb": "Le pays de la lavande, des villages perchés, des vignobles et de la lumière dorée du sud de la France, où un banquier londonien a retrouvé la belle vie. Les villages de pierre du Luberon se serrent à courte distance de route."
       },
       "kefalonia": {
-        "blurb": "La plus grande des îles Ioniennes, avec ses spectaculaires plages de galets blancs et son eau turquoise, décor d'une grande romance en temps de guerre. Myrtos et Antisamos sont les baies de carte postale, qu'on rejoint par des routes côtières sinueuses."
+        "blurb": "La plus grande des îles Ioniennes, avec ses spectaculaires plages de galets blancs et son eau turquoise, décor d'une grande romance en temps de guerre. Myrtos et Antisamos sont les baies de carte postale, qu'on rejoint par des routes côtières sinueuses.",
+        "name": "Céphalonie"
       },
       "astoria": {
         "blurb": "Un vieux port brumeux à l'embouchure du fleuve Columbia, dont les maisons victoriennes à flanc de colline ont tenu la vedette d'une aventure pour enfants très aimée. Compacte et pleine de caractère, c'est la porte d'entrée de la côte sauvage de l'Oregon."
@@ -922,13 +965,16 @@
         "blurb": "Une île feutrée de Nouvelle-Angleterre, faite de villes en bardage de bois et de longues plages, à jamais l'Amity d'un requin de blockbuster estival. On la rejoint en ferry depuis Cape Cod, et tout y est affaire de vélos, de plages et de phares."
       },
       "virginia": {
-        "blurb": "Les Blue Ridge Mountains de l'ouest de la Virginie, où un lodge au bord d'un lac a campé la station estivale d'une romance sur la piste de danse. Le Mountain Lake Lodge accueille toujours les fans au milieu des collines boisées."
+        "blurb": "Les Blue Ridge Mountains de l'ouest de la Virginie, où un lodge au bord d'un lac a campé la station estivale d'une romance sur la piste de danse. Le Mountain Lake Lodge accueille toujours les fans au milieu des collines boisées.",
+        "name": "Virginie"
       },
       "fiji": {
-        "blurb": "Une nation du Pacifique Sud aux lagons turquoise et aux îlots bordés de palmiers, dont l'un a joué la prison insulaire d'un célèbre naufragé. L'archipel des Mamanuca, où se trouve Monuriki, est à un court trajet en bateau de l'île principale de Viti Levu."
+        "blurb": "Une nation du Pacifique Sud aux lagons turquoise et aux îlots bordés de palmiers, dont l'un a joué la prison insulaire d'un célèbre naufragé. L'archipel des Mamanuca, où se trouve Monuriki, est à un court trajet en bateau de l'île principale de Viti Levu.",
+        "name": "Fidji"
       },
       "namibia": {
-        "blurb": "Une terre irréelle et immense de dunes rouges, de plaines de gravier et d'une côte atlantique sauvage, dont le vide a incarné un monde post-apocalyptique. Les dunes autour de Swakopmund et le parc de Dorob en sont la portion la plus accessible."
+        "blurb": "Une terre irréelle et immense de dunes rouges, de plaines de gravier et d'une côte atlantique sauvage, dont le vide a incarné un monde post-apocalyptique. Les dunes autour de Swakopmund et le parc de Dorob en sont la portion la plus accessible.",
+        "name": "Namibie"
       }
     },
     "locations": {

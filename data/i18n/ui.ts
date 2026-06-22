@@ -65,7 +65,7 @@ export const UI_EN = {
     intro: "Long-form, practical reading on planning trips around the screen.",
   },
   titlePage: {
-    whereFilmed: "Where {name} was filmed",
+    whereFilmed: "Where was {name} filmed?",
     across: "{n} locations across {m} destinations",
   },
   destinationPage: {

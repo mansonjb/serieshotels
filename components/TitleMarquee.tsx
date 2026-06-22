@@ -45,6 +45,7 @@ export function TitleMarquee({
                   alt={it.name}
                   fill
                   sizes="256px"
+                  quality={90}
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                 />
               ) : (

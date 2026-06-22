@@ -42,6 +42,7 @@ export function TitleCard({
           alt={title.name}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 360px"
+          quality={90}
           className="object-cover transition-transform duration-700 ease-out group-hover:scale-[1.05]"
           style={{ filter: "contrast(1.08) saturate(1.06) brightness(0.95)" }}
         />

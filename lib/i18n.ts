@@ -35,7 +35,7 @@ export function localePath(locale: Locale, path: string): string {
 
 type ContentT = {
   titles?: Record<string, Partial<Pick<Title, "tagline" | "synopsis">>>;
-  destinations?: Record<string, Partial<Pick<Destination, "blurb">>>;
+  destinations?: Record<string, Partial<Pick<Destination, "blurb" | "name">>>;
   locations?: Record<
     string,
     Partial<Pick<Location, "sceneContext" | "howToVisit" | "nearbyTips">>
