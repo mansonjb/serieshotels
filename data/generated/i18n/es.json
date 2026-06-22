@@ -164,7 +164,11 @@
       "whatFilmedDest": "¿Qué se rodó en {name}?",
       "whatFilmedDestAnswer": "{name} sirve de escenario para escenas de {titles}.",
       "stay": "¿Dónde alojarse para visitar las localizaciones de {name}?",
-      "stayAnswer": "Usa el mapa de arriba para comparar hoteles justo al lado de los lugares de rodaje, a los mismos precios de siempre."
+      "stayAnswer": "Usa el mapa de arriba para comparar hoteles justo al lado de los lugares de rodaje, a los mismos precios de siempre.",
+      "whatFilmedTitle": "¿Dónde se rodó {name}?",
+      "whatFilmedTitleAnswer": "{name} se rodó en {places}.",
+      "visitTitle": "¿Se pueden visitar las localizaciones de {name}?",
+      "visitTitleAnswer": "Sí, son lugares reales que se pueden visitar. Cada localización de abajo incluye la escena, el punto exacto en el mapa y cómo llegar."
     },
     "consent": {
       "message": "Usamos cookies y contenidos de terceros (un mapa de hoteles y vídeo) para que el sitio funcione y para las funciones de afiliación.",

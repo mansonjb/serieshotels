@@ -8,6 +8,7 @@ import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
 import { TrailerEmbed } from "@/components/TrailerEmbed";
+import { Faq } from "@/components/Faq";
 import type { Title } from "@/data/types";
 import {
   TITLES,
@@ -89,6 +90,19 @@ export default async function TitlePage({
   const url = `${SITE_URL}/${loc}/titles/${slug}`;
   const heroImg = titleImage(base);
   const trailer = titleTrailer(slug);
+  const faqItems = [
+    {
+      q: t(dict.faq.whatFilmedTitle, { name: title.name }),
+      a: t(dict.faq.whatFilmedTitleAnswer, {
+        name: title.name,
+        places: destinations.map((d) => localizeDestination(d, loc).name).join(", "),
+      }),
+    },
+    {
+      q: t(dict.faq.visitTitle, { name: title.name }),
+      a: t(dict.faq.visitTitleAnswer, { name: title.name }),
+    },
+  ];
 
   return (
     <main className="mx-auto max-w-6xl px-5 py-12">
@@ -221,6 +235,8 @@ export default async function TitlePage({
           </section>
         );
       })}
+
+      <Faq heading={dict.faq.heading} items={faqItems} />
     </main>
   );
 }

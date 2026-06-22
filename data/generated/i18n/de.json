@@ -164,7 +164,11 @@
       "whatFilmedDest": "Was wurde in {name} gedreht?",
       "whatFilmedDestAnswer": "{name} steht für Szenen aus {titles}.",
       "stay": "Wo übernachten, um die Drehorte von {name} zu besuchen?",
-      "stayAnswer": "Vergleichen Sie über die Karte oben Hotels direkt neben den Drehorten, zu denselben Preisen wie überall."
+      "stayAnswer": "Vergleichen Sie über die Karte oben Hotels direkt neben den Drehorten, zu denselben Preisen wie überall.",
+      "whatFilmedTitle": "Wo wurde {name} gedreht?",
+      "whatFilmedTitleAnswer": "{name} wurde in {places} gedreht.",
+      "visitTitle": "Kann man die Drehorte von {name} besuchen?",
+      "visitTitleAnswer": "Ja, es sind echte, besuchbare Orte. Zu jedem Ort unten gibt es die Szene, den genauen Punkt auf der Karte und die Anreise."
     },
     "consent": {
       "message": "Wir verwenden Cookies und Drittinhalte (eine Hotelkarte und Video), um die Seite zu betreiben und Affiliate-Funktionen zu ermöglichen.",

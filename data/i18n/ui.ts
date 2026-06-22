@@ -168,6 +168,10 @@ export const UI_EN = {
     whatFilmedDestAnswer: "{name} stands in for scenes from {titles}.",
     stay: "Where should I stay to visit the {name} locations?",
     stayAnswer: "Use the map above to compare hotels right next to the filming spots, at the same prices you would pay anyway.",
+    whatFilmedTitle: "Where was {name} filmed?",
+    whatFilmedTitleAnswer: "{name} was filmed in {places}.",
+    visitTitle: "Can you visit the {name} filming locations?",
+    visitTitleAnswer: "Yes, these are real, visitable places. Each location below comes with the scene, an exact point on the map, and how to get there.",
   },
   consent: {
     message: "We use cookies and third-party embeds (a hotel map and video) to run the site and power affiliate features.",
