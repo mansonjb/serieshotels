@@ -9,6 +9,7 @@ import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
 import { TrailerEmbed } from "@/components/TrailerEmbed";
 import { Faq } from "@/components/Faq";
+import { PhotoCredit } from "@/components/PhotoCredit";
 import type { Title } from "@/data/types";
 import {
   TITLES,
@@ -16,7 +17,7 @@ import {
   getTitle,
   locationsForTitle,
 } from "@/lib/data";
-import { titleImage } from "@/lib/images";
+import { locationImage, titleImage } from "@/lib/images";
 import { titleTrailer } from "@/lib/trailers";
 import {
   DEFAULT_LOCALE,
@@ -89,6 +90,7 @@ export default async function TitlePage({
   const destinations = destinationsForTitle(slug);
   const url = `${SITE_URL}/${loc}/titles/${slug}`;
   const heroImg = titleImage(base);
+  const heroLocSlug = base.locationSlugs.find((s) => locationImage(s));
   const trailer = titleTrailer(slug);
   const faqItems = [
     {
@@ -181,6 +183,7 @@ export default async function TitlePage({
             sizes="(max-width: 1280px) 100vw, 1152px"
             priority={!trailer}
           />
+          {heroLocSlug && <PhotoCredit kind="locations" slug={heroLocSlug} />}
         </div>
       )}
       {destinations.map((destBase) => {

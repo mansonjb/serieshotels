@@ -1,1999 +1,900 @@
 {
   "destinations": {
-    "dubrovnik": {
-      "hero": "/destinations/dubrovnik/hero.jpg",
-      "gallery": [
-        "/destinations/dubrovnik/photo-2.jpg",
-        "/destinations/dubrovnik/photo-3.jpg",
-        "/destinations/dubrovnik/photo-4.jpg"
-      ]
-    },
-    "south-iceland": {
-      "hero": "/destinations/south-iceland/hero.jpg",
-      "gallery": [
-        "/destinations/south-iceland/photo-2.jpg",
-        "/destinations/south-iceland/photo-3.jpg",
-        "/destinations/south-iceland/photo-4.jpg"
-      ]
-    },
-    "county-down": {
-      "hero": "/destinations/county-down/hero.jpg",
-      "gallery": [
-        "/destinations/county-down/photo-2.jpg",
-        "/destinations/county-down/photo-3.jpg",
-        "/destinations/county-down/photo-4.jpg"
-      ]
-    },
-    "taormina": {
-      "hero": "/destinations/taormina/hero.jpg",
-      "gallery": [
-        "/destinations/taormina/photo-2.jpg",
-        "/destinations/taormina/photo-3.jpg",
-        "/destinations/taormina/photo-4.jpg"
-      ]
-    },
     "paris": {
-      "hero": "/destinations/paris/hero.jpg",
-      "gallery": [
-        "/destinations/paris/photo-2.jpg",
-        "/destinations/paris/photo-3.jpg",
-        "/destinations/paris/photo-4.jpg"
-      ]
-    },
-    "seville": {
-      "hero": "/destinations/seville/hero.jpg",
-      "gallery": [
-        "/destinations/seville/photo-2.jpg",
-        "/destinations/seville/photo-3.jpg",
-        "/destinations/seville/photo-4.jpg"
-      ]
-    },
-    "girona": {
-      "hero": "/destinations/girona/hero.jpg",
-      "gallery": [
-        "/destinations/girona/photo-2.jpg",
-        "/destinations/girona/photo-3.jpg",
-        "/destinations/girona/photo-4.jpg"
-      ]
-    },
-    "basque-country": {
-      "hero": "/destinations/basque-country/hero.jpg",
-      "gallery": [
-        "/destinations/basque-country/photo-2.jpg",
-        "/destinations/basque-country/photo-3.jpg",
-        "/destinations/basque-country/photo-4.jpg"
-      ]
-    },
-    "maui": {
-      "hero": "/destinations/maui/hero.jpg",
-      "gallery": [
-        "/destinations/maui/photo-2.jpg",
-        "/destinations/maui/photo-3.jpg",
-        "/destinations/maui/photo-4.jpg"
-      ]
-    },
-    "koh-samui": {
-      "hero": "/destinations/koh-samui/hero.jpg",
-      "gallery": [
-        "/destinations/koh-samui/photo-2.jpg",
-        "/destinations/koh-samui/photo-3.jpg",
-        "/destinations/koh-samui/photo-4.jpg"
-      ]
-    },
-    "scottish-highlands": {
-      "hero": "/destinations/scottish-highlands/hero.jpg",
-      "gallery": [
-        "/destinations/scottish-highlands/photo-2.jpg",
-        "/destinations/scottish-highlands/photo-3.jpg",
-        "/destinations/scottish-highlands/photo-4.jpg"
-      ]
-    },
-    "central-scotland": {
-      "hero": "/destinations/central-scotland/hero.jpg",
-      "gallery": [
-        "/destinations/central-scotland/photo-2.jpg",
-        "/destinations/central-scotland/photo-3.jpg",
-        "/destinations/central-scotland/photo-4.jpg"
-      ]
-    },
-    "northumberland": {
-      "hero": "/destinations/northumberland/hero.jpg",
-      "gallery": [
-        "/destinations/northumberland/photo-2.jpg",
-        "/destinations/northumberland/photo-3.jpg",
-        "/destinations/northumberland/photo-4.jpg"
-      ]
-    },
-    "oxford": {
-      "hero": "/destinations/oxford/hero.jpg",
-      "gallery": [
-        "/destinations/oxford/photo-2.jpg",
-        "/destinations/oxford/photo-3.jpg",
-        "/destinations/oxford/photo-4.jpg"
-      ]
-    },
-    "north-york-moors": {
-      "hero": "/destinations/north-york-moors/hero.jpg",
-      "gallery": [
-        "/destinations/north-york-moors/photo-2.jpg",
-        "/destinations/north-york-moors/photo-3.jpg",
-        "/destinations/north-york-moors/photo-4.jpg"
-      ]
-    },
-    "matamata": {
-      "hero": "/destinations/matamata/hero.jpg",
-      "gallery": [
-        "/destinations/matamata/photo-2.jpg",
-        "/destinations/matamata/photo-3.jpg",
-        "/destinations/matamata/photo-4.jpg"
-      ]
-    },
-    "tongariro": {
-      "hero": "/destinations/tongariro/hero.jpg",
-      "gallery": [
-        "/destinations/tongariro/photo-2.jpg",
-        "/destinations/tongariro/photo-3.jpg",
-        "/destinations/tongariro/photo-4.jpg"
-      ]
-    },
-    "skopelos": {
-      "hero": "/destinations/skopelos/hero.jpg",
-      "gallery": [
-        "/destinations/skopelos/photo-2.jpg",
-        "/destinations/skopelos/photo-3.jpg",
-        "/destinations/skopelos/photo-4.jpg"
-      ]
-    },
-    "bath": {
-      "hero": "/destinations/bath/hero.jpg",
-      "gallery": [
-        "/destinations/bath/photo-2.jpg",
-        "/destinations/bath/photo-3.jpg",
-        "/destinations/bath/photo-4.jpg"
-      ]
-    },
-    "greenwich": {
-      "hero": "/destinations/greenwich/hero.jpg",
-      "gallery": [
-        "/destinations/greenwich/photo-2.jpg",
-        "/destinations/greenwich/photo-3.jpg",
-        "/destinations/greenwich/photo-4.jpg"
-      ]
-    },
-    "madrid": {
-      "hero": "/destinations/madrid/hero.jpg",
-      "gallery": [
-        "/destinations/madrid/photo-2.jpg",
-        "/destinations/madrid/photo-3.jpg",
-        "/destinations/madrid/photo-4.jpg"
-      ]
-    },
-    "extremadura": {
-      "hero": "/destinations/extremadura/hero.jpg",
-      "gallery": [
-        "/destinations/extremadura/photo-2.jpg",
-        "/destinations/extremadura/photo-3.jpg",
-        "/destinations/extremadura/photo-4.jpg"
-      ]
-    },
-    "hampshire": {
-      "hero": "/destinations/hampshire/hero.jpg",
-      "gallery": [
-        "/destinations/hampshire/photo-2.jpg",
-        "/destinations/hampshire/photo-3.jpg",
-        "/destinations/hampshire/photo-4.jpg"
-      ]
-    },
-    "cotswolds": {
-      "hero": "/destinations/cotswolds/hero.jpg",
-      "gallery": [
-        "/destinations/cotswolds/photo-2.jpg",
-        "/destinations/cotswolds/photo-3.jpg",
-        "/destinations/cotswolds/photo-4.jpg"
-      ]
-    },
-    "ely": {
-      "hero": "/destinations/ely/hero.jpg",
-      "gallery": [
-        "/destinations/ely/photo-2.jpg",
-        "/destinations/ely/photo-3.jpg",
-        "/destinations/ely/photo-4.jpg"
-      ]
+      "hero": "/destinations/paris/hero.jpg"
     },
     "london": {
-      "hero": "/destinations/london/hero.jpg",
-      "gallery": [
-        "/destinations/london/photo-2.jpg",
-        "/destinations/london/photo-3.jpg",
-        "/destinations/london/photo-4.jpg"
-      ]
+      "hero": "/destinations/london/hero.jpg"
+    },
+    "seville": {
+      "hero": "/destinations/seville/hero.jpg"
+    },
+    "basque-country": {
+      "hero": "/destinations/basque-country/hero.jpg"
+    },
+    "maui": {
+      "hero": "/destinations/maui/hero.jpg"
+    },
+    "koh-samui": {
+      "hero": "/destinations/koh-samui/hero.jpg"
+    },
+    "scottish-highlands": {
+      "hero": "/destinations/scottish-highlands/hero.jpg"
+    },
+    "northumberland": {
+      "hero": "/destinations/northumberland/hero.jpg"
+    },
+    "tongariro": {
+      "hero": "/destinations/tongariro/hero.jpg"
+    },
+    "greenwich": {
+      "hero": "/destinations/greenwich/hero.jpg"
     },
     "birmingham": {
-      "hero": "/destinations/birmingham/hero.jpg",
-      "gallery": [
-        "/destinations/birmingham/photo-2.jpg",
-        "/destinations/birmingham/photo-3.jpg",
-        "/destinations/birmingham/photo-4.jpg"
-      ]
-    },
-    "liverpool": {
-      "hero": "/destinations/liverpool/hero.jpg",
-      "gallery": [
-        "/destinations/liverpool/photo-2.jpg",
-        "/destinations/liverpool/photo-3.jpg",
-        "/destinations/liverpool/photo-4.jpg"
-      ]
-    },
-    "carpathians": {
-      "hero": "/destinations/carpathians/hero.jpg",
-      "gallery": [
-        "/destinations/carpathians/photo-2.jpg",
-        "/destinations/carpathians/photo-3.jpg",
-        "/destinations/carpathians/photo-4.jpg"
-      ]
+      "hero": "/destinations/birmingham/hero.jpg"
     },
     "southern-poland": {
-      "hero": "/destinations/southern-poland/hero.jpg",
-      "gallery": [
-        "/destinations/southern-poland/photo-2.jpg",
-        "/destinations/southern-poland/photo-3.jpg",
-        "/destinations/southern-poland/photo-4.jpg"
-      ]
-    },
-    "canary-islands": {
-      "hero": "/destinations/canary-islands/hero.jpg",
-      "gallery": [
-        "/destinations/canary-islands/photo-2.jpg",
-        "/destinations/canary-islands/photo-3.jpg",
-        "/destinations/canary-islands/photo-4.jpg"
-      ]
-    },
-    "wicklow": {
-      "hero": "/destinations/wicklow/hero.jpg",
-      "gallery": [
-        "/destinations/wicklow/photo-2.jpg",
-        "/destinations/wicklow/photo-3.jpg",
-        "/destinations/wicklow/photo-4.jpg"
-      ]
-    },
-    "cornwall": {
-      "hero": "/destinations/cornwall/hero.jpg",
-      "gallery": [
-        "/destinations/cornwall/photo-2.jpg",
-        "/destinations/cornwall/photo-3.jpg",
-        "/destinations/cornwall/photo-4.jpg"
-      ]
-    },
-    "dorset": {
-      "hero": "/destinations/dorset/hero.jpg",
-      "gallery": [
-        "/destinations/dorset/photo-2.jpg",
-        "/destinations/dorset/photo-3.jpg",
-        "/destinations/dorset/photo-4.jpg"
-      ]
-    },
-    "dublin": {
-      "hero": "/destinations/dublin/hero.jpg",
-      "gallery": [
-        "/destinations/dublin/photo-2.jpg",
-        "/destinations/dublin/photo-3.jpg",
-        "/destinations/dublin/photo-4.jpg"
-      ]
-    },
-    "sligo": {
-      "hero": "/destinations/sligo/hero.jpg",
-      "gallery": [
-        "/destinations/sligo/photo-2.jpg",
-        "/destinations/sligo/photo-3.jpg",
-        "/destinations/sligo/photo-4.jpg"
-      ]
-    },
-    "salzburg": {
-      "hero": "/destinations/salzburg/hero.jpg",
-      "gallery": [
-        "/destinations/salzburg/photo-2.jpg",
-        "/destinations/salzburg/photo-3.jpg",
-        "/destinations/salzburg/photo-4.jpg"
-      ]
-    },
-    "rome": {
-      "hero": "/destinations/rome/hero.jpg",
-      "gallery": [
-        "/destinations/rome/photo-2.jpg",
-        "/destinations/rome/photo-3.jpg",
-        "/destinations/rome/photo-4.jpg"
-      ]
-    },
-    "amalfi-coast": {
-      "hero": "/destinations/amalfi-coast/hero.jpg",
-      "gallery": [
-        "/destinations/amalfi-coast/photo-2.jpg",
-        "/destinations/amalfi-coast/photo-3.jpg",
-        "/destinations/amalfi-coast/photo-4.jpg"
-      ]
-    },
-    "bay-of-naples": {
-      "hero": "/destinations/bay-of-naples/hero.jpg",
-      "gallery": [
-        "/destinations/bay-of-naples/photo-2.jpg",
-        "/destinations/bay-of-naples/photo-3.jpg",
-        "/destinations/bay-of-naples/photo-4.jpg"
-      ]
-    },
-    "lombardy": {
-      "hero": "/destinations/lombardy/hero.jpg",
-      "gallery": [
-        "/destinations/lombardy/photo-2.jpg",
-        "/destinations/lombardy/photo-3.jpg",
-        "/destinations/lombardy/photo-4.jpg"
-      ]
-    },
-    "gorlitz": {
-      "hero": "/destinations/gorlitz/hero.jpg",
-      "gallery": [
-        "/destinations/gorlitz/photo-2.jpg",
-        "/destinations/gorlitz/photo-3.jpg",
-        "/destinations/gorlitz/photo-4.jpg"
-      ]
-    },
-    "peak-district": {
-      "hero": "/destinations/peak-district/hero.jpg",
-      "gallery": [
-        "/destinations/peak-district/photo-2.jpg",
-        "/destinations/peak-district/photo-3.jpg",
-        "/destinations/peak-district/photo-4.jpg"
-      ]
-    },
-    "matera": {
-      "hero": "/destinations/matera/hero.jpg",
-      "gallery": [
-        "/destinations/matera/photo-2.jpg",
-        "/destinations/matera/photo-3.jpg",
-        "/destinations/matera/photo-4.jpg"
-      ]
-    },
-    "atlantic-road": {
-      "hero": "/destinations/atlantic-road/hero.jpg",
-      "gallery": [
-        "/destinations/atlantic-road/photo-2.jpg",
-        "/destinations/atlantic-road/photo-3.jpg",
-        "/destinations/atlantic-road/photo-4.jpg"
-      ]
-    },
-    "petra": {
-      "hero": "/destinations/petra/hero.jpg",
-      "gallery": [
-        "/destinations/petra/photo-2.jpg",
-        "/destinations/petra/photo-3.jpg",
-        "/destinations/petra/photo-4.jpg"
-      ]
-    },
-    "krabi": {
-      "hero": "/destinations/krabi/hero.jpg",
-      "gallery": [
-        "/destinations/krabi/photo-2.jpg",
-        "/destinations/krabi/photo-3.jpg",
-        "/destinations/krabi/photo-4.jpg"
-      ]
-    },
-    "los-angeles": {
-      "hero": "/destinations/los-angeles/hero.jpg",
-      "gallery": [
-        "/destinations/los-angeles/photo-2.jpg",
-        "/destinations/los-angeles/photo-3.jpg",
-        "/destinations/los-angeles/photo-4.jpg"
-      ]
-    },
-    "san-francisco": {
-      "hero": "/destinations/san-francisco/hero.jpg",
-      "gallery": [
-        "/destinations/san-francisco/photo-2.jpg",
-        "/destinations/san-francisco/photo-3.jpg",
-        "/destinations/san-francisco/photo-4.jpg"
-      ]
-    },
-    "singapore": {
-      "hero": "/destinations/singapore/hero.jpg",
-      "gallery": [
-        "/destinations/singapore/photo-2.jpg",
-        "/destinations/singapore/photo-3.jpg",
-        "/destinations/singapore/photo-4.jpg"
-      ]
-    },
-    "tokyo": {
-      "hero": "/destinations/tokyo/hero.jpg",
-      "gallery": [
-        "/destinations/tokyo/photo-2.jpg",
-        "/destinations/tokyo/photo-3.jpg",
-        "/destinations/tokyo/photo-4.jpg"
-      ]
-    },
-    "tuscany": {
-      "hero": "/destinations/tuscany/hero.jpg",
-      "gallery": [
-        "/destinations/tuscany/photo-2.jpg",
-        "/destinations/tuscany/photo-3.jpg",
-        "/destinations/tuscany/photo-4.jpg"
-      ]
-    },
-    "ouarzazate": {
-      "hero": "/destinations/ouarzazate/hero.jpg",
-      "gallery": [
-        "/destinations/ouarzazate/photo-2.jpg",
-        "/destinations/ouarzazate/photo-3.jpg",
-        "/destinations/ouarzazate/photo-4.jpg"
-      ]
-    },
-    "southern-tunisia": {
-      "hero": "/destinations/southern-tunisia/hero.jpg",
-      "gallery": [
-        "/destinations/southern-tunisia/photo-2.jpg",
-        "/destinations/southern-tunisia/photo-3.jpg",
-        "/destinations/southern-tunisia/photo-4.jpg"
-      ]
-    },
-    "kerry": {
-      "hero": "/destinations/kerry/hero.jpg",
-      "gallery": [
-        "/destinations/kerry/photo-2.jpg",
-        "/destinations/kerry/photo-3.jpg",
-        "/destinations/kerry/photo-4.jpg"
-      ]
+      "hero": "/destinations/southern-poland/hero.jpg"
     },
     "lake-como": {
-      "hero": "/destinations/lake-como/hero.jpg",
-      "gallery": [
-        "/destinations/lake-como/photo-2.jpg",
-        "/destinations/lake-como/photo-3.jpg",
-        "/destinations/lake-como/photo-4.jpg"
-      ]
-    },
-    "venice": {
-      "hero": "/destinations/venice/hero.jpg",
-      "gallery": [
-        "/destinations/venice/photo-2.jpg",
-        "/destinations/venice/photo-3.jpg",
-        "/destinations/venice/photo-4.jpg"
-      ]
-    },
-    "florence": {
-      "hero": "/destinations/florence/hero.jpg",
-      "gallery": [
-        "/destinations/florence/photo-2.jpg",
-        "/destinations/florence/photo-3.jpg",
-        "/destinations/florence/photo-4.jpg"
-      ]
-    },
-    "dunkirk": {
-      "hero": "/destinations/dunkirk/hero.jpg",
-      "gallery": [
-        "/destinations/dunkirk/photo-2.jpg",
-        "/destinations/dunkirk/photo-3.jpg",
-        "/destinations/dunkirk/photo-4.jpg"
-      ]
-    },
-    "county-meath": {
-      "hero": "/destinations/county-meath/hero.jpg",
-      "gallery": [
-        "/destinations/county-meath/photo-2.jpg",
-        "/destinations/county-meath/photo-3.jpg",
-        "/destinations/county-meath/photo-4.jpg"
-      ]
-    },
-    "oahu": {
-      "hero": "/destinations/oahu/hero.jpg",
-      "gallery": [
-        "/destinations/oahu/photo-2.jpg",
-        "/destinations/oahu/photo-3.jpg",
-        "/destinations/oahu/photo-4.jpg"
-      ]
-    },
-    "mumbai": {
-      "hero": "/destinations/mumbai/hero.jpg",
-      "gallery": [
-        "/destinations/mumbai/photo-2.jpg",
-        "/destinations/mumbai/photo-3.jpg",
-        "/destinations/mumbai/photo-4.jpg"
-      ]
-    },
-    "wadi-rum": {
-      "hero": "/destinations/wadi-rum/hero.jpg",
-      "gallery": [
-        "/destinations/wadi-rum/photo-2.jpg",
-        "/destinations/wadi-rum/photo-3.jpg",
-        "/destinations/wadi-rum/photo-4.jpg"
-      ]
-    },
-    "savoca": {
-      "hero": "/destinations/savoca/hero.jpg",
-      "gallery": [
-        "/destinations/savoca/photo-2.jpg",
-        "/destinations/savoca/photo-3.jpg",
-        "/destinations/savoca/photo-4.jpg"
-      ]
-    },
-    "philadelphia": {
-      "hero": "/destinations/philadelphia/hero.jpg",
-      "gallery": [
-        "/destinations/philadelphia/photo-2.jpg",
-        "/destinations/philadelphia/photo-3.jpg",
-        "/destinations/philadelphia/photo-4.jpg"
-      ]
-    },
-    "etretat": {
-      "hero": "/destinations/etretat/hero.jpg",
-      "gallery": [
-        "/destinations/etretat/photo-2.jpg",
-        "/destinations/etretat/photo-3.jpg",
-        "/destinations/etretat/photo-4.jpg"
-      ]
-    },
-    "corfu": {
-      "hero": "/destinations/corfu/hero.jpg",
-      "gallery": [
-        "/destinations/corfu/photo-2.jpg",
-        "/destinations/corfu/photo-3.jpg",
-        "/destinations/corfu/photo-4.jpg"
-      ]
-    },
-    "new-york": {
-      "hero": "/destinations/new-york/hero.jpg",
-      "gallery": [
-        "/destinations/new-york/photo-2.jpg",
-        "/destinations/new-york/photo-3.jpg",
-        "/destinations/new-york/photo-4.jpg"
-      ]
-    },
-    "rosslyn": {
-      "hero": "/destinations/rosslyn/hero.jpg",
-      "gallery": [
-        "/destinations/rosslyn/photo-2.jpg",
-        "/destinations/rosslyn/photo-3.jpg",
-        "/destinations/rosslyn/photo-4.jpg"
-      ]
-    },
-    "savannah": {
-      "hero": "/destinations/savannah/hero.jpg",
-      "gallery": [
-        "/destinations/savannah/photo-2.jpg",
-        "/destinations/savannah/photo-3.jpg",
-        "/destinations/savannah/photo-4.jpg"
-      ]
-    },
-    "mansfield": {
-      "hero": "/destinations/mansfield/hero.jpg",
-      "gallery": [
-        "/destinations/mansfield/photo-2.jpg",
-        "/destinations/mansfield/photo-3.jpg",
-        "/destinations/mansfield/photo-4.jpg"
-      ]
-    },
-    "mount-hood": {
-      "hero": "/destinations/mount-hood/hero.jpg",
-      "gallery": [
-        "/destinations/mount-hood/photo-2.jpg",
-        "/destinations/mount-hood/photo-3.jpg",
-        "/destinations/mount-hood/photo-4.jpg"
-      ]
-    },
-    "wyoming": {
-      "hero": "/destinations/wyoming/hero.jpg",
-      "gallery": [
-        "/destinations/wyoming/photo-2.jpg",
-        "/destinations/wyoming/photo-3.jpg",
-        "/destinations/wyoming/photo-4.jpg"
-      ]
-    },
-    "moab": {
-      "hero": "/destinations/moab/hero.jpg",
-      "gallery": [
-        "/destinations/moab/photo-2.jpg",
-        "/destinations/moab/photo-3.jpg",
-        "/destinations/moab/photo-4.jpg"
-      ]
+      "hero": "/destinations/lake-como/hero.jpg"
     },
     "kenya": {
-      "hero": "/destinations/kenya/hero.jpg",
-      "gallery": [
-        "/destinations/kenya/photo-2.jpg",
-        "/destinations/kenya/photo-3.jpg",
-        "/destinations/kenya/photo-4.jpg"
-      ]
-    },
-    "edinburgh": {
-      "hero": "/destinations/edinburgh/hero.jpg",
-      "gallery": [
-        "/destinations/edinburgh/photo-2.jpg",
-        "/destinations/edinburgh/photo-3.jpg",
-        "/destinations/edinburgh/photo-4.jpg"
-      ]
-    },
-    "st-andrews": {
-      "hero": "/destinations/st-andrews/hero.jpg",
-      "gallery": [
-        "/destinations/st-andrews/photo-2.jpg",
-        "/destinations/st-andrews/photo-3.jpg",
-        "/destinations/st-andrews/photo-4.jpg"
-      ]
-    },
-    "dyersville": {
-      "hero": "/destinations/dyersville/hero.jpg",
-      "gallery": [
-        "/destinations/dyersville/photo-2.jpg",
-        "/destinations/dyersville/photo-3.jpg",
-        "/destinations/dyersville/photo-4.jpg"
-      ]
-    },
-    "canadian-rockies": {
-      "hero": "/destinations/canadian-rockies/hero.jpg",
-      "gallery": [
-        "/destinations/canadian-rockies/photo-2.jpg",
-        "/destinations/canadian-rockies/photo-3.jpg",
-        "/destinations/canadian-rockies/photo-4.jpg"
-      ]
-    },
-    "albuquerque": {
-      "hero": "/destinations/albuquerque/hero.jpg",
-      "gallery": [
-        "/destinations/albuquerque/photo-2.jpg",
-        "/destinations/albuquerque/photo-3.jpg",
-        "/destinations/albuquerque/photo-4.jpg"
-      ]
-    },
-    "dubai": {
-      "hero": "/destinations/dubai/hero.jpg",
-      "gallery": [
-        "/destinations/dubai/photo-2.jpg",
-        "/destinations/dubai/photo-3.jpg",
-        "/destinations/dubai/photo-4.jpg"
-      ]
-    },
-    "istanbul": {
-      "hero": "/destinations/istanbul/hero.jpg",
-      "gallery": [
-        "/destinations/istanbul/photo-2.jpg",
-        "/destinations/istanbul/photo-3.jpg",
-        "/destinations/istanbul/photo-4.jpg"
-      ]
-    },
-    "interlaken": {
-      "hero": "/destinations/interlaken/hero.jpg",
-      "gallery": [
-        "/destinations/interlaken/photo-2.jpg",
-        "/destinations/interlaken/photo-3.jpg",
-        "/destinations/interlaken/photo-4.jpg"
-      ]
-    },
-    "seoul": {
-      "hero": "/destinations/seoul/hero.jpg",
-      "gallery": [
-        "/destinations/seoul/photo-2.jpg",
-        "/destinations/seoul/photo-3.jpg",
-        "/destinations/seoul/photo-4.jpg"
-      ]
+      "hero": "/destinations/kenya/hero.jpg"
     },
     "vienna": {
-      "hero": "/destinations/vienna/hero.jpg",
-      "gallery": [
-        "/destinations/vienna/photo-2.jpg",
-        "/destinations/vienna/photo-3.jpg",
-        "/destinations/vienna/photo-4.jpg"
-      ]
-    },
-    "krakow": {
-      "hero": "/destinations/krakow/hero.jpg",
-      "gallery": [
-        "/destinations/krakow/photo-2.jpg",
-        "/destinations/krakow/photo-3.jpg",
-        "/destinations/krakow/photo-4.jpg"
-      ]
-    },
-    "north-carolina": {
-      "hero": "/destinations/north-carolina/hero.jpg",
-      "gallery": [
-        "/destinations/north-carolina/photo-2.jpg",
-        "/destinations/north-carolina/photo-3.jpg",
-        "/destinations/north-carolina/photo-4.jpg"
-      ]
-    },
-    "forks": {
-      "hero": "/destinations/forks/hero.jpg",
-      "gallery": [
-        "/destinations/forks/photo-2.jpg",
-        "/destinations/forks/photo-3.jpg",
-        "/destinations/forks/photo-4.jpg"
-      ]
-    },
-    "cefalu": {
-      "hero": "/destinations/cefalu/hero.jpg",
-      "gallery": [
-        "/destinations/cefalu/photo-2.jpg",
-        "/destinations/cefalu/photo-3.jpg",
-        "/destinations/cefalu/photo-4.jpg"
-      ]
+      "hero": "/destinations/vienna/hero.jpg"
     },
     "new-jersey": {
-      "hero": "/destinations/new-jersey/hero.jpg",
-      "gallery": [
-        "/destinations/new-jersey/photo-2.jpg",
-        "/destinations/new-jersey/photo-3.jpg",
-        "/destinations/new-jersey/photo-4.jpg"
-      ]
-    },
-    "abu-dhabi": {
-      "hero": "/destinations/abu-dhabi/hero.jpg",
-      "gallery": [
-        "/destinations/abu-dhabi/photo-2.jpg",
-        "/destinations/abu-dhabi/photo-3.jpg",
-        "/destinations/abu-dhabi/photo-4.jpg"
-      ]
-    },
-    "vatnajokull": {
-      "hero": "/destinations/vatnajokull/hero.jpg",
-      "gallery": [
-        "/destinations/vatnajokull/photo-2.jpg",
-        "/destinations/vatnajokull/photo-3.jpg",
-        "/destinations/vatnajokull/photo-4.jpg"
-      ]
+      "hero": "/destinations/new-jersey/hero.jpg"
     },
     "atlanta": {
-      "hero": "/destinations/atlanta/hero.jpg",
-      "gallery": [
-        "/destinations/atlanta/photo-2.jpg",
-        "/destinations/atlanta/photo-3.jpg",
-        "/destinations/atlanta/photo-4.jpg"
-      ]
+      "hero": "/destinations/atlanta/hero.jpg"
+    },
+    "dubrovnik": {
+      "hero": "/destinations/dubrovnik/hero.jpg"
+    },
+    "south-iceland": {
+      "hero": "/destinations/south-iceland/hero.jpg"
+    },
+    "county-down": {
+      "hero": "/destinations/county-down/hero.jpg"
+    },
+    "taormina": {
+      "hero": "/destinations/taormina/hero.jpg"
+    },
+    "girona": {
+      "hero": "/destinations/girona/hero.jpg"
+    },
+    "central-scotland": {
+      "hero": "/destinations/central-scotland/hero.jpg"
+    },
+    "oxford": {
+      "hero": "/destinations/oxford/hero.jpg"
+    },
+    "north-york-moors": {
+      "hero": "/destinations/north-york-moors/hero.jpg"
+    },
+    "matamata": {
+      "hero": "/destinations/matamata/hero.jpg"
+    },
+    "skopelos": {
+      "hero": "/destinations/skopelos/hero.jpg"
+    },
+    "bath": {
+      "hero": "/destinations/bath/hero.jpg"
+    },
+    "madrid": {
+      "hero": "/destinations/madrid/hero.jpg"
+    },
+    "extremadura": {
+      "hero": "/destinations/extremadura/hero.jpg"
+    },
+    "hampshire": {
+      "hero": "/destinations/hampshire/hero.jpg"
+    },
+    "cotswolds": {
+      "hero": "/destinations/cotswolds/hero.jpg"
+    },
+    "ely": {
+      "hero": "/destinations/ely/hero.jpg"
+    },
+    "liverpool": {
+      "hero": "/destinations/liverpool/hero.jpg"
+    },
+    "carpathians": {
+      "hero": "/destinations/carpathians/hero.jpg"
+    },
+    "canary-islands": {
+      "hero": "/destinations/canary-islands/hero.jpg"
+    },
+    "wicklow": {
+      "hero": "/destinations/wicklow/hero.jpg"
+    },
+    "cornwall": {
+      "hero": "/destinations/cornwall/hero.jpg"
+    },
+    "dorset": {
+      "hero": "/destinations/dorset/hero.jpg"
+    },
+    "dublin": {
+      "hero": "/destinations/dublin/hero.jpg"
+    },
+    "sligo": {
+      "hero": "/destinations/sligo/hero.jpg"
+    },
+    "salzburg": {
+      "hero": "/destinations/salzburg/hero.jpg"
+    },
+    "rome": {
+      "hero": "/destinations/rome/hero.jpg"
+    },
+    "amalfi-coast": {
+      "hero": "/destinations/amalfi-coast/hero.jpg"
+    },
+    "bay-of-naples": {
+      "hero": "/destinations/bay-of-naples/hero.jpg"
+    },
+    "lombardy": {
+      "hero": "/destinations/lombardy/hero.jpg"
+    },
+    "gorlitz": {
+      "hero": "/destinations/gorlitz/hero.jpg"
+    },
+    "peak-district": {
+      "hero": "/destinations/peak-district/hero.jpg"
+    },
+    "matera": {
+      "hero": "/destinations/matera/hero.jpg"
+    },
+    "atlantic-road": {
+      "hero": "/destinations/atlantic-road/hero.jpg"
+    },
+    "petra": {
+      "hero": "/destinations/petra/hero.jpg"
+    },
+    "krabi": {
+      "hero": "/destinations/krabi/hero.jpg"
+    },
+    "los-angeles": {
+      "hero": "/destinations/los-angeles/hero.jpg"
+    },
+    "san-francisco": {
+      "hero": "/destinations/san-francisco/hero.jpg"
+    },
+    "singapore": {
+      "hero": "/destinations/singapore/hero.jpg"
+    },
+    "tokyo": {
+      "hero": "/destinations/tokyo/hero.jpg"
+    },
+    "tuscany": {
+      "hero": "/destinations/tuscany/hero.jpg"
+    },
+    "ouarzazate": {
+      "hero": "/destinations/ouarzazate/hero.jpg"
+    },
+    "southern-tunisia": {
+      "hero": "/destinations/southern-tunisia/hero.jpg"
+    },
+    "venice": {
+      "hero": "/destinations/venice/hero.jpg"
+    },
+    "florence": {
+      "hero": "/destinations/florence/hero.jpg"
+    },
+    "dunkirk": {
+      "hero": "/destinations/dunkirk/hero.jpg"
+    },
+    "oahu": {
+      "hero": "/destinations/oahu/hero.jpg"
+    },
+    "mumbai": {
+      "hero": "/destinations/mumbai/hero.jpg"
+    },
+    "wadi-rum": {
+      "hero": "/destinations/wadi-rum/hero.jpg"
+    },
+    "savoca": {
+      "hero": "/destinations/savoca/hero.jpg"
+    },
+    "philadelphia": {
+      "hero": "/destinations/philadelphia/hero.jpg"
+    },
+    "etretat": {
+      "hero": "/destinations/etretat/hero.jpg"
+    },
+    "corfu": {
+      "hero": "/destinations/corfu/hero.jpg"
+    },
+    "new-york": {
+      "hero": "/destinations/new-york/hero.jpg"
+    },
+    "rosslyn": {
+      "hero": "/destinations/rosslyn/hero.jpg"
+    },
+    "savannah": {
+      "hero": "/destinations/savannah/hero.jpg"
+    },
+    "mansfield": {
+      "hero": "/destinations/mansfield/hero.jpg"
+    },
+    "mount-hood": {
+      "hero": "/destinations/mount-hood/hero.jpg"
+    },
+    "wyoming": {
+      "hero": "/destinations/wyoming/hero.jpg"
+    },
+    "moab": {
+      "hero": "/destinations/moab/hero.jpg"
+    },
+    "edinburgh": {
+      "hero": "/destinations/edinburgh/hero.jpg"
+    },
+    "st-andrews": {
+      "hero": "/destinations/st-andrews/hero.jpg"
+    },
+    "dyersville": {
+      "hero": "/destinations/dyersville/hero.jpg"
+    },
+    "canadian-rockies": {
+      "hero": "/destinations/canadian-rockies/hero.jpg"
+    },
+    "albuquerque": {
+      "hero": "/destinations/albuquerque/hero.jpg"
+    },
+    "dubai": {
+      "hero": "/destinations/dubai/hero.jpg"
+    },
+    "istanbul": {
+      "hero": "/destinations/istanbul/hero.jpg"
+    },
+    "interlaken": {
+      "hero": "/destinations/interlaken/hero.jpg"
+    },
+    "seoul": {
+      "hero": "/destinations/seoul/hero.jpg"
+    },
+    "krakow": {
+      "hero": "/destinations/krakow/hero.jpg"
+    },
+    "north-carolina": {
+      "hero": "/destinations/north-carolina/hero.jpg"
+    },
+    "forks": {
+      "hero": "/destinations/forks/hero.jpg"
+    },
+    "cefalu": {
+      "hero": "/destinations/cefalu/hero.jpg"
+    },
+    "abu-dhabi": {
+      "hero": "/destinations/abu-dhabi/hero.jpg"
+    },
+    "vatnajokull": {
+      "hero": "/destinations/vatnajokull/hero.jpg"
     },
     "montana": {
-      "hero": "/destinations/montana/hero.jpg",
-      "gallery": [
-        "/destinations/montana/photo-2.jpg",
-        "/destinations/montana/photo-3.jpg",
-        "/destinations/montana/photo-4.jpg"
-      ]
+      "hero": "/destinations/montana/hero.jpg"
     },
     "bali": {
-      "hero": "/destinations/bali/hero.jpg",
-      "gallery": [
-        "/destinations/bali/photo-2.jpg",
-        "/destinations/bali/photo-3.jpg",
-        "/destinations/bali/photo-4.jpg"
-      ]
+      "hero": "/destinations/bali/hero.jpg"
     },
     "bruges": {
-      "hero": "/destinations/bruges/hero.jpg",
-      "gallery": [
-        "/destinations/bruges/photo-2.jpg",
-        "/destinations/bruges/photo-3.jpg",
-        "/destinations/bruges/photo-4.jpg"
-      ]
+      "hero": "/destinations/bruges/hero.jpg"
     },
     "las-vegas": {
-      "hero": "/destinations/las-vegas/hero.jpg",
-      "gallery": [
-        "/destinations/las-vegas/photo-2.jpg",
-        "/destinations/las-vegas/photo-3.jpg",
-        "/destinations/las-vegas/photo-4.jpg"
-      ]
+      "hero": "/destinations/las-vegas/hero.jpg"
     },
     "mexico-city": {
-      "hero": "/destinations/mexico-city/hero.jpg",
-      "gallery": [
-        "/destinations/mexico-city/photo-2.jpg",
-        "/destinations/mexico-city/photo-3.jpg",
-        "/destinations/mexico-city/photo-4.jpg"
-      ]
+      "hero": "/destinations/mexico-city/hero.jpg"
     },
     "verona": {
-      "hero": "/destinations/verona/hero.jpg",
-      "gallery": [
-        "/destinations/verona/photo-2.jpg",
-        "/destinations/verona/photo-3.jpg",
-        "/destinations/verona/photo-4.jpg"
-      ]
+      "hero": "/destinations/verona/hero.jpg"
     },
     "provence": {
-      "hero": "/destinations/provence/hero.jpg",
-      "gallery": [
-        "/destinations/provence/photo-2.jpg",
-        "/destinations/provence/photo-3.jpg",
-        "/destinations/provence/photo-4.jpg"
-      ]
+      "hero": "/destinations/provence/hero.jpg"
     },
     "kefalonia": {
-      "hero": "/destinations/kefalonia/hero.jpg",
-      "gallery": [
-        "/destinations/kefalonia/photo-2.jpg",
-        "/destinations/kefalonia/photo-3.jpg",
-        "/destinations/kefalonia/photo-4.jpg"
-      ]
+      "hero": "/destinations/kefalonia/hero.jpg"
     },
     "astoria": {
-      "hero": "/destinations/astoria/hero.jpg",
-      "gallery": [
-        "/destinations/astoria/photo-2.jpg",
-        "/destinations/astoria/photo-3.jpg",
-        "/destinations/astoria/photo-4.jpg"
-      ]
+      "hero": "/destinations/astoria/hero.jpg"
     },
     "marthas-vineyard": {
-      "hero": "/destinations/marthas-vineyard/hero.jpg",
-      "gallery": [
-        "/destinations/marthas-vineyard/photo-2.jpg",
-        "/destinations/marthas-vineyard/photo-3.jpg",
-        "/destinations/marthas-vineyard/photo-4.jpg"
-      ]
+      "hero": "/destinations/marthas-vineyard/hero.jpg"
     },
     "virginia": {
-      "hero": "/destinations/virginia/hero.jpg",
-      "gallery": [
-        "/destinations/virginia/photo-2.jpg",
-        "/destinations/virginia/photo-3.jpg",
-        "/destinations/virginia/photo-4.jpg"
-      ]
+      "hero": "/destinations/virginia/hero.jpg"
     },
     "fiji": {
-      "hero": "/destinations/fiji/hero.jpg",
-      "gallery": [
-        "/destinations/fiji/photo-2.jpg",
-        "/destinations/fiji/photo-3.jpg"
-      ]
+      "hero": "/destinations/fiji/hero.jpg"
     },
     "namibia": {
-      "hero": "/destinations/namibia/hero.jpg",
-      "gallery": [
-        "/destinations/namibia/photo-2.jpg",
-        "/destinations/namibia/photo-3.jpg",
-        "/destinations/namibia/photo-4.jpg"
-      ]
+      "hero": "/destinations/namibia/hero.jpg"
+    },
+    "kerry": {
+      "hero": "/locations/skellig-michael/hero.jpg"
+    },
+    "county-meath": {
+      "hero": "/locations/trim-castle/hero.jpg"
     }
   },
   "locations": {
     "dubrovnik-city-walls": {
-      "hero": "/locations/dubrovnik-city-walls/hero.jpg",
-      "gallery": [
-        "/locations/dubrovnik-city-walls/photo-2.jpg"
-      ]
+      "hero": "/locations/dubrovnik-city-walls/hero.jpg"
     },
     "fort-lovrijenac": {
-      "hero": "/locations/fort-lovrijenac/hero.jpg",
-      "gallery": [
-        "/locations/fort-lovrijenac/photo-2.jpg"
-      ]
+      "hero": "/locations/fort-lovrijenac/hero.jpg"
     },
     "thingvellir": {
-      "hero": "/locations/thingvellir/hero.jpg",
-      "gallery": [
-        "/locations/thingvellir/photo-2.jpg"
-      ]
+      "hero": "/locations/thingvellir/hero.jpg"
     },
     "castle-ward": {
-      "hero": "/locations/castle-ward/hero.jpg",
-      "gallery": [
-        "/locations/castle-ward/photo-2.jpg"
-      ]
+      "hero": "/locations/castle-ward/hero.jpg"
     },
     "alcazar-seville": {
-      "hero": "/locations/alcazar-seville/hero.jpg",
-      "gallery": [
-        "/locations/alcazar-seville/photo-2.jpg"
-      ]
+      "hero": "/locations/alcazar-seville/hero.jpg"
     },
     "girona-cathedral": {
-      "hero": "/locations/girona-cathedral/hero.jpg",
-      "gallery": [
-        "/locations/girona-cathedral/photo-2.jpg"
-      ]
+      "hero": "/locations/girona-cathedral/hero.jpg"
     },
     "gaztelugatxe": {
-      "hero": "/locations/gaztelugatxe/hero.jpg",
-      "gallery": [
-        "/locations/gaztelugatxe/photo-2.jpg"
-      ]
+      "hero": "/locations/gaztelugatxe/hero.jpg"
     },
     "san-domenico-palace": {
-      "hero": "/locations/san-domenico-palace/hero.jpg",
-      "gallery": [
-        "/locations/san-domenico-palace/photo-2.jpg"
-      ]
+      "hero": "/destinations/taormina/hero.jpg"
     },
     "teatro-antico-taormina": {
-      "hero": "/locations/teatro-antico-taormina/hero.jpg",
-      "gallery": [
-        "/locations/teatro-antico-taormina/photo-2.jpg"
-      ]
+      "hero": "/locations/teatro-antico-taormina/hero.jpg"
     },
     "isola-bella-taormina": {
-      "hero": "/locations/isola-bella-taormina/hero.jpg",
-      "gallery": [
-        "/locations/isola-bella-taormina/photo-2.jpg"
-      ]
+      "hero": "/locations/isola-bella-taormina/hero.jpg"
     },
     "four-seasons-maui": {
-      "hero": "/locations/four-seasons-maui/hero.jpg",
-      "gallery": [
-        "/locations/four-seasons-maui/photo-2.jpg"
-      ]
+      "hero": "/locations/four-seasons-maui/hero.jpg"
     },
     "four-seasons-koh-samui": {
-      "hero": "/locations/four-seasons-koh-samui/hero.jpg",
-      "gallery": [
-        "/locations/four-seasons-koh-samui/photo-2.jpg"
-      ]
+      "hero": "/locations/four-seasons-koh-samui/hero.jpg"
     },
     "place-de-lestrapade": {
-      "hero": "/locations/place-de-lestrapade/hero.jpg",
-      "gallery": [
-        "/locations/place-de-lestrapade/photo-2.jpg"
-      ]
+      "hero": "/locations/place-de-lestrapade/hero.jpg"
     },
     "palais-garnier": {
-      "hero": "/locations/palais-garnier/hero.jpg",
-      "gallery": [
-        "/locations/palais-garnier/photo-2.jpg"
-      ]
+      "hero": "/locations/palais-garnier/hero.jpg"
     },
     "pont-alexandre-iii": {
-      "hero": "/locations/pont-alexandre-iii/hero.jpg",
-      "gallery": [
-        "/locations/pont-alexandre-iii/photo-2.jpg"
-      ]
+      "hero": "/locations/pont-alexandre-iii/hero.jpg"
     },
     "jardin-du-palais-royal": {
-      "hero": "/locations/jardin-du-palais-royal/hero.jpg",
-      "gallery": [
-        "/locations/jardin-du-palais-royal/photo-2.jpg"
-      ]
+      "hero": "/locations/jardin-du-palais-royal/hero.jpg"
     },
     "doune-castle": {
-      "hero": "/locations/doune-castle/hero.jpg",
-      "gallery": [
-        "/locations/doune-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/doune-castle/hero.jpg"
     },
     "midhope-castle": {
-      "hero": "/locations/midhope-castle/hero.jpg",
-      "gallery": [
-        "/locations/midhope-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/midhope-castle/hero.jpg"
     },
     "culross": {
-      "hero": "/locations/culross/hero.jpg",
-      "gallery": [
-        "/locations/culross/photo-2.jpg"
-      ]
+      "hero": "/locations/culross/hero.jpg"
     },
     "glencoe": {
-      "hero": "/locations/glencoe/hero.jpg",
-      "gallery": [
-        "/locations/glencoe/photo-2.jpg"
-      ]
+      "hero": "/locations/glencoe/hero.jpg"
     },
     "glenfinnan-viaduct": {
-      "hero": "/locations/glenfinnan-viaduct/hero.jpg",
-      "gallery": [
-        "/locations/glenfinnan-viaduct/photo-2.jpg"
-      ]
+      "hero": "/locations/glenfinnan-viaduct/hero.jpg"
     },
     "alnwick-castle": {
-      "hero": "/locations/alnwick-castle/hero.jpg",
-      "gallery": [
-        "/locations/alnwick-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/alnwick-castle/hero.jpg"
     },
     "christ-church-oxford": {
-      "hero": "/locations/christ-church-oxford/hero.jpg",
-      "gallery": [
-        "/locations/christ-church-oxford/photo-2.jpg"
-      ]
+      "hero": "/locations/christ-church-oxford/hero.jpg"
     },
     "goathland-station": {
-      "hero": "/locations/goathland-station/hero.jpg",
-      "gallery": [
-        "/locations/goathland-station/photo-2.jpg"
-      ]
+      "hero": "/locations/goathland-station/hero.jpg"
     },
     "hobbiton": {
-      "hero": "/locations/hobbiton/hero.jpg",
-      "gallery": [
-        "/locations/hobbiton/photo-2.jpg"
-      ]
+      "hero": "/locations/hobbiton/hero.jpg"
     },
     "tongariro-national-park": {
-      "hero": "/locations/tongariro-national-park/hero.jpg",
-      "gallery": [
-        "/locations/tongariro-national-park/photo-2.jpg"
-      ]
+      "hero": "/locations/tongariro-national-park/hero.jpg"
     },
     "agios-ioannis-skopelos": {
-      "hero": "/locations/agios-ioannis-skopelos/hero.jpg",
-      "gallery": [
-        "/locations/agios-ioannis-skopelos/photo-2.jpg"
-      ]
+      "hero": "/locations/agios-ioannis-skopelos/hero.jpg"
     },
     "kastani-beach": {
-      "hero": "/locations/kastani-beach/hero.jpg",
-      "gallery": [
-        "/locations/kastani-beach/photo-2.jpg"
-      ]
+      "hero": "/locations/kastani-beach/hero.jpg"
     },
     "royal-crescent-bath": {
-      "hero": "/locations/royal-crescent-bath/hero.jpg",
-      "gallery": [
-        "/locations/royal-crescent-bath/photo-2.jpg"
-      ]
+      "hero": "/locations/royal-crescent-bath/hero.jpg"
     },
     "holburne-museum": {
-      "hero": "/locations/holburne-museum/hero.jpg",
-      "gallery": [
-        "/locations/holburne-museum/photo-2.jpg"
-      ]
+      "hero": "/locations/holburne-museum/hero.jpg"
     },
     "rangers-house-greenwich": {
-      "hero": "/locations/rangers-house-greenwich/hero.jpg",
-      "gallery": [
-        "/locations/rangers-house-greenwich/photo-2.jpg"
-      ]
+      "hero": "/locations/rangers-house-greenwich/hero.jpg"
     },
     "csic-madrid": {
-      "hero": "/locations/csic-madrid/hero.jpg",
-      "gallery": [
-        "/locations/csic-madrid/photo-2.jpg"
-      ]
+      "hero": "/locations/csic-madrid/hero.jpg"
     },
     "banco-de-espana": {
-      "hero": "/locations/banco-de-espana/hero.jpg",
-      "gallery": [
-        "/locations/banco-de-espana/photo-2.jpg"
-      ]
+      "hero": "/locations/banco-de-espana/hero.jpg"
     },
     "caceres-old-town": {
-      "hero": "/locations/caceres-old-town/hero.jpg",
-      "gallery": [
-        "/locations/caceres-old-town/photo-2.jpg"
-      ]
+      "hero": "/locations/caceres-old-town/hero.jpg"
     },
     "trujillo-castle": {
-      "hero": "/locations/trujillo-castle/hero.jpg",
-      "gallery": [
-        "/locations/trujillo-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/trujillo-castle/hero.jpg"
     },
     "highclere-castle": {
-      "hero": "/locations/highclere-castle/hero.jpg",
-      "gallery": [
-        "/locations/highclere-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/highclere-castle/hero.jpg"
     },
     "bampton-village": {
-      "hero": "/locations/bampton-village/hero.jpg",
-      "gallery": [
-        "/locations/bampton-village/photo-2.jpg"
-      ]
+      "hero": "/locations/bampton-village/hero.jpg"
     },
     "ely-cathedral": {
-      "hero": "/locations/ely-cathedral/hero.jpg",
-      "gallery": [
-        "/locations/ely-cathedral/photo-2.jpg"
-      ]
+      "hero": "/locations/ely-cathedral/hero.jpg"
     },
     "lancaster-house": {
-      "hero": "/locations/lancaster-house/hero.jpg",
-      "gallery": [
-        "/locations/lancaster-house/photo-2.jpg"
-      ]
+      "hero": "/locations/lancaster-house/hero.jpg"
     },
     "black-country-museum": {
-      "hero": "/locations/black-country-museum/hero.jpg",
-      "gallery": [
-        "/locations/black-country-museum/photo-2.jpg"
-      ]
+      "hero": "/locations/black-country-museum/hero.jpg"
     },
     "stanley-dock-liverpool": {
-      "hero": "/locations/stanley-dock-liverpool/hero.jpg",
-      "gallery": [
-        "/locations/stanley-dock-liverpool/photo-2.jpg"
-      ]
+      "hero": "/locations/stanley-dock-liverpool/hero.jpg"
     },
     "cantacuzino-castle": {
-      "hero": "/locations/cantacuzino-castle/hero.jpg",
-      "gallery": [
-        "/locations/cantacuzino-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/cantacuzino-castle/hero.jpg"
     },
     "ogrodzieniec-castle": {
-      "hero": "/locations/ogrodzieniec-castle/hero.jpg",
-      "gallery": [
-        "/locations/ogrodzieniec-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/ogrodzieniec-castle/hero.jpg"
     },
     "roque-nublo": {
-      "hero": "/locations/roque-nublo/hero.jpg",
-      "gallery": [
-        "/locations/roque-nublo/photo-2.jpg"
-      ]
+      "hero": "/locations/roque-nublo/hero.jpg"
     },
     "lough-tay": {
-      "hero": "/locations/lough-tay/hero.jpg",
-      "gallery": [
-        "/locations/lough-tay/photo-2.jpg"
-      ]
+      "hero": "/locations/lough-tay/hero.jpg"
     },
     "charlestown-cornwall": {
-      "hero": "/locations/charlestown-cornwall/hero.jpg",
-      "gallery": [
-        "/locations/charlestown-cornwall/photo-2.jpg"
-      ]
+      "hero": "/locations/charlestown-cornwall/hero.jpg"
     },
     "botallack-mine": {
-      "hero": "/locations/botallack-mine/hero.jpg",
-      "gallery": [
-        "/locations/botallack-mine/photo-2.jpg"
-      ]
+      "hero": "/locations/botallack-mine/hero.jpg"
     },
     "holywell-bay": {
-      "hero": "/locations/holywell-bay/hero.jpg",
-      "gallery": [
-        "/locations/holywell-bay/photo-2.jpg"
-      ]
+      "hero": "/locations/holywell-bay/hero.jpg"
     },
     "west-bay-dorset": {
-      "hero": "/locations/west-bay-dorset/hero.jpg",
-      "gallery": [
-        "/locations/west-bay-dorset/photo-2.jpg"
-      ]
+      "hero": "/locations/west-bay-dorset/hero.jpg"
     },
     "trinity-college-dublin": {
-      "hero": "/locations/trinity-college-dublin/hero.jpg",
-      "gallery": [
-        "/locations/trinity-college-dublin/photo-2.jpg"
-      ]
+      "hero": "/locations/trinity-college-dublin/hero.jpg"
     },
     "streedagh-beach": {
-      "hero": "/locations/streedagh-beach/hero.jpg",
-      "gallery": [
-        "/locations/streedagh-beach/photo-2.jpg"
-      ]
+      "hero": "/locations/streedagh-beach/hero.jpg"
     },
     "north-gower-street": {
-      "hero": "/locations/north-gower-street/hero.jpg",
-      "gallery": [
-        "/locations/north-gower-street/photo-2.jpg"
-      ]
+      "hero": "/locations/north-gower-street/hero.jpg"
     },
     "st-bartholomews-hospital": {
-      "hero": "/locations/st-bartholomews-hospital/hero.jpg",
-      "gallery": [
-        "/locations/st-bartholomews-hospital/photo-2.jpg"
-      ]
+      "hero": "/locations/st-bartholomews-hospital/hero.jpg"
     },
     "mirabell-gardens": {
-      "hero": "/locations/mirabell-gardens/hero.jpg",
-      "gallery": [
-        "/locations/mirabell-gardens/photo-2.jpg"
-      ]
+      "hero": "/locations/mirabell-gardens/hero.jpg"
     },
     "leopoldskron-palace": {
-      "hero": "/locations/leopoldskron-palace/hero.jpg",
-      "gallery": [
-        "/locations/leopoldskron-palace/photo-2.jpg"
-      ]
+      "hero": "/locations/leopoldskron-palace/hero.jpg"
     },
     "nonnberg-abbey": {
-      "hero": "/locations/nonnberg-abbey/hero.jpg",
-      "gallery": [
-        "/locations/nonnberg-abbey/photo-2.jpg"
-      ]
+      "hero": "/locations/nonnberg-abbey/hero.jpg"
     },
     "spanish-steps": {
-      "hero": "/locations/spanish-steps/hero.jpg",
-      "gallery": [
-        "/locations/spanish-steps/photo-2.jpg"
-      ]
+      "hero": "/locations/spanish-steps/hero.jpg"
     },
     "mouth-of-truth": {
-      "hero": "/locations/mouth-of-truth/hero.jpg",
-      "gallery": [
-        "/locations/mouth-of-truth/photo-2.jpg"
-      ]
+      "hero": "/locations/mouth-of-truth/hero.jpg"
     },
     "positano": {
-      "hero": "/locations/positano/hero.jpg",
-      "gallery": [
-        "/locations/positano/photo-2.jpg"
-      ]
+      "hero": "/locations/positano/hero.jpg"
     },
     "procida": {
-      "hero": "/locations/procida/hero.jpg",
-      "gallery": [
-        "/locations/procida/photo-2.jpg"
-      ]
+      "hero": "/locations/procida/hero.jpg"
     },
     "crema-piazza-duomo": {
-      "hero": "/locations/crema-piazza-duomo/hero.jpg",
-      "gallery": [
-        "/locations/crema-piazza-duomo/photo-2.jpg"
-      ]
+      "hero": "/locations/crema-piazza-duomo/hero.jpg"
     },
     "cascate-del-serio": {
-      "hero": "/locations/cascate-del-serio/hero.jpg",
-      "gallery": [
-        "/locations/cascate-del-serio/photo-2.jpg"
-      ]
+      "hero": "/locations/cascate-del-serio/hero.jpg"
     },
     "gorlitzer-warenhaus": {
-      "hero": "/locations/gorlitzer-warenhaus/hero.jpg",
-      "gallery": [
-        "/locations/gorlitzer-warenhaus/photo-2.jpg"
-      ]
+      "hero": "/locations/gorlitzer-warenhaus/hero.jpg"
     },
     "the-blue-door": {
-      "hero": "/locations/the-blue-door/hero.jpg",
-      "gallery": [
-        "/locations/the-blue-door/photo-2.jpg"
-      ]
+      "hero": "/destinations/london/hero.jpg"
     },
     "portobello-road-market": {
-      "hero": "/locations/portobello-road-market/hero.jpg",
-      "gallery": [
-        "/locations/portobello-road-market/photo-2.jpg"
-      ]
+      "hero": "/locations/portobello-road-market/hero.jpg"
     },
     "chatsworth-house": {
-      "hero": "/locations/chatsworth-house/hero.jpg",
-      "gallery": [
-        "/locations/chatsworth-house/photo-2.jpg"
-      ]
+      "hero": "/locations/chatsworth-house/hero.jpg"
     },
     "stanage-edge": {
-      "hero": "/locations/stanage-edge/hero.jpg",
-      "gallery": [
-        "/locations/stanage-edge/photo-2.jpg"
-      ]
+      "hero": "/locations/stanage-edge/hero.jpg"
     },
     "sassi-di-matera": {
-      "hero": "/locations/sassi-di-matera/hero.jpg",
-      "gallery": [
-        "/locations/sassi-di-matera/photo-2.jpg"
-      ]
+      "hero": "/locations/sassi-di-matera/hero.jpg"
     },
     "atlantic-ocean-road": {
-      "hero": "/locations/atlantic-ocean-road/hero.jpg",
-      "gallery": [
-        "/locations/atlantic-ocean-road/photo-2.jpg"
-      ]
+      "hero": "/locations/atlantic-ocean-road/hero.jpg"
     },
     "al-khazneh-petra": {
-      "hero": "/locations/al-khazneh-petra/hero.jpg",
-      "gallery": [
-        "/locations/al-khazneh-petra/photo-2.jpg"
-      ]
+      "hero": "/locations/al-khazneh-petra/hero.jpg"
     },
     "maya-bay": {
-      "hero": "/locations/maya-bay/hero.jpg",
-      "gallery": [
-        "/locations/maya-bay/photo-2.jpg"
-      ]
+      "hero": "/locations/maya-bay/hero.jpg"
     },
     "cafe-des-deux-moulins": {
-      "hero": "/locations/cafe-des-deux-moulins/hero.jpg",
-      "gallery": [
-        "/locations/cafe-des-deux-moulins/photo-2.jpg"
-      ]
+      "hero": "/locations/cafe-des-deux-moulins/hero.jpg"
     },
     "canal-saint-martin": {
-      "hero": "/locations/canal-saint-martin/hero.jpg",
-      "gallery": [
-        "/locations/canal-saint-martin/photo-2.jpg"
-      ]
+      "hero": "/locations/canal-saint-martin/hero.jpg"
     },
     "griffith-observatory": {
-      "hero": "/locations/griffith-observatory/hero.jpg",
-      "gallery": [
-        "/locations/griffith-observatory/photo-2.jpg"
-      ]
+      "hero": "/locations/griffith-observatory/hero.jpg"
     },
     "angels-flight": {
-      "hero": "/locations/angels-flight/hero.jpg",
-      "gallery": [
-        "/locations/angels-flight/photo-2.jpg"
-      ]
+      "hero": "/locations/angels-flight/hero.jpg"
     },
     "fort-point-golden-gate": {
-      "hero": "/locations/fort-point-golden-gate/hero.jpg",
-      "gallery": [
-        "/locations/fort-point-golden-gate/photo-2.jpg"
-      ]
+      "hero": "/locations/fort-point-golden-gate/hero.jpg"
     },
     "mission-san-juan-bautista": {
-      "hero": "/locations/mission-san-juan-bautista/hero.jpg",
-      "gallery": [
-        "/locations/mission-san-juan-bautista/photo-2.jpg"
-      ]
+      "hero": "/locations/mission-san-juan-bautista/hero.jpg"
     },
     "marina-bay-sands": {
-      "hero": "/locations/marina-bay-sands/hero.jpg",
-      "gallery": [
-        "/locations/marina-bay-sands/photo-2.jpg"
-      ]
+      "hero": "/locations/marina-bay-sands/hero.jpg"
     },
     "gardens-by-the-bay": {
-      "hero": "/locations/gardens-by-the-bay/hero.jpg",
-      "gallery": [
-        "/locations/gardens-by-the-bay/photo-2.jpg"
-      ]
+      "hero": "/locations/gardens-by-the-bay/hero.jpg"
     },
     "park-hyatt-tokyo": {
-      "hero": "/locations/park-hyatt-tokyo/hero.jpg",
-      "gallery": [
-        "/locations/park-hyatt-tokyo/photo-2.jpg"
-      ]
+      "hero": "/locations/park-hyatt-tokyo/hero.jpg"
     },
     "shibuya-crossing": {
-      "hero": "/locations/shibuya-crossing/hero.jpg",
-      "gallery": [
-        "/locations/shibuya-crossing/photo-2.jpg"
-      ]
+      "hero": "/locations/shibuya-crossing/hero.jpg"
     },
     "val-d-orcia": {
-      "hero": "/locations/val-d-orcia/hero.jpg",
-      "gallery": [
-        "/locations/val-d-orcia/photo-2.jpg"
-      ]
+      "hero": "/locations/val-d-orcia/hero.jpg"
     },
     "ait-benhaddou": {
-      "hero": "/locations/ait-benhaddou/hero.jpg",
-      "gallery": [
-        "/locations/ait-benhaddou/photo-2.jpg"
-      ]
+      "hero": "/locations/ait-benhaddou/hero.jpg"
     },
     "lars-homestead-chott-el-djerid": {
-      "hero": "/locations/lars-homestead-chott-el-djerid/hero.jpg",
-      "gallery": [
-        "/locations/lars-homestead-chott-el-djerid/photo-2.jpg"
-      ]
+      "hero": "/destinations/southern-tunisia/hero.jpg"
     },
     "skellig-michael": {
-      "hero": "/locations/skellig-michael/hero.jpg",
-      "gallery": [
-        "/locations/skellig-michael/photo-2.jpg"
-      ]
+      "hero": "/locations/skellig-michael/hero.jpg"
     },
     "villa-del-balbianello": {
-      "hero": "/locations/villa-del-balbianello/hero.jpg",
-      "gallery": [
-        "/locations/villa-del-balbianello/photo-2.jpg"
-      ]
+      "hero": "/locations/villa-del-balbianello/hero.jpg"
     },
     "venice-grand-canal": {
-      "hero": "/locations/venice-grand-canal/hero.jpg",
-      "gallery": [
-        "/locations/venice-grand-canal/photo-2.jpg"
-      ]
+      "hero": "/locations/venice-grand-canal/hero.jpg"
     },
     "piazza-della-signoria": {
-      "hero": "/locations/piazza-della-signoria/hero.jpg",
-      "gallery": [
-        "/locations/piazza-della-signoria/photo-2.jpg"
-      ]
+      "hero": "/locations/piazza-della-signoria/hero.jpg"
     },
     "basilica-di-santa-croce": {
-      "hero": "/locations/basilica-di-santa-croce/hero.jpg",
-      "gallery": [
-        "/locations/basilica-di-santa-croce/photo-2.jpg"
-      ]
+      "hero": "/locations/basilica-di-santa-croce/hero.jpg"
     },
     "dunkirk-beach": {
-      "hero": "/locations/dunkirk-beach/hero.jpg",
-      "gallery": [
-        "/locations/dunkirk-beach/photo-2.jpg"
-      ]
+      "hero": "/destinations/dunkirk/hero.jpg"
     },
     "glen-nevis": {
-      "hero": "/locations/glen-nevis/hero.jpg",
-      "gallery": [
-        "/locations/glen-nevis/photo-2.jpg"
-      ]
+      "hero": "/destinations/scottish-highlands/hero.jpg"
     },
     "trim-castle": {
-      "hero": "/locations/trim-castle/hero.jpg",
-      "gallery": [
-        "/locations/trim-castle/photo-2.jpg"
-      ]
+      "hero": "/locations/trim-castle/hero.jpg"
     },
     "kualoa-ranch": {
-      "hero": "/locations/kualoa-ranch/hero.jpg",
-      "gallery": [
-        "/locations/kualoa-ranch/photo-2.jpg"
-      ]
+      "hero": "/locations/kualoa-ranch/hero.jpg"
     },
     "chhatrapati-shivaji-terminus": {
-      "hero": "/locations/chhatrapati-shivaji-terminus/hero.jpg",
-      "gallery": [
-        "/locations/chhatrapati-shivaji-terminus/photo-2.jpg"
-      ]
+      "hero": "/locations/chhatrapati-shivaji-terminus/hero.jpg"
     },
     "taj-mahal-palace-hotel": {
-      "hero": "/locations/taj-mahal-palace-hotel/hero.jpg",
-      "gallery": [
-        "/locations/taj-mahal-palace-hotel/photo-2.jpg"
-      ]
+      "hero": "/locations/taj-mahal-palace-hotel/hero.jpg"
     },
     "wadi-rum": {
-      "hero": "/locations/wadi-rum/hero.jpg",
-      "gallery": [
-        "/locations/wadi-rum/photo-2.jpg"
-      ]
+      "hero": "/locations/wadi-rum/hero.jpg"
     },
     "plaza-de-espana-seville": {
-      "hero": "/locations/plaza-de-espana-seville/hero.jpg",
-      "gallery": [
-        "/locations/plaza-de-espana-seville/photo-2.jpg"
-      ]
+      "hero": "/locations/plaza-de-espana-seville/hero.jpg"
     },
     "bar-vitelli-savoca": {
-      "hero": "/locations/bar-vitelli-savoca/hero.jpg",
-      "gallery": [
-        "/locations/bar-vitelli-savoca/photo-2.jpg"
-      ]
+      "hero": "/locations/bar-vitelli-savoca/hero.jpg"
     },
     "church-san-nicolo-savoca": {
-      "hero": "/locations/church-san-nicolo-savoca/hero.jpg",
-      "gallery": [
-        "/locations/church-san-nicolo-savoca/photo-2.jpg"
-      ]
+      "hero": "/destinations/savoca/hero.jpg"
     },
     "rocky-steps": {
-      "hero": "/locations/rocky-steps/hero.jpg",
-      "gallery": [
-        "/locations/rocky-steps/photo-2.jpg"
-      ]
+      "hero": "/locations/rocky-steps/hero.jpg"
     },
     "italian-market-philadelphia": {
-      "hero": "/locations/italian-market-philadelphia/hero.jpg",
-      "gallery": [
-        "/locations/italian-market-philadelphia/photo-2.jpg"
-      ]
+      "hero": "/locations/italian-market-philadelphia/hero.jpg"
     },
     "louvre-pyramid": {
-      "hero": "/locations/louvre-pyramid/hero.jpg",
-      "gallery": [
-        "/locations/louvre-pyramid/photo-2.jpg"
-      ]
+      "hero": "/locations/louvre-pyramid/hero.jpg"
     },
     "falaise-etretat": {
-      "hero": "/locations/falaise-etretat/hero.jpg",
-      "gallery": [
-        "/locations/falaise-etretat/photo-2.jpg"
-      ]
+      "hero": "/locations/falaise-etretat/hero.jpg"
     },
     "corfu-old-town": {
-      "hero": "/locations/corfu-old-town/hero.jpg",
-      "gallery": [
-        "/locations/corfu-old-town/photo-2.jpg"
-      ]
+      "hero": "/locations/corfu-old-town/hero.jpg"
     },
     "kalami-bay": {
-      "hero": "/locations/kalami-bay/hero.jpg",
-      "gallery": [
-        "/locations/kalami-bay/photo-2.jpg"
-      ]
+      "hero": "/locations/kalami-bay/hero.jpg"
     },
     "richmond-green": {
-      "hero": "/locations/richmond-green/hero.jpg",
-      "gallery": [
-        "/locations/richmond-green/photo-2.jpg"
-      ]
+      "hero": "/destinations/london/hero.jpg"
     },
     "richmond-bridge": {
-      "hero": "/locations/richmond-bridge/hero.jpg",
-      "gallery": [
-        "/locations/richmond-bridge/photo-2.jpg"
-      ]
+      "hero": "/destinations/london/hero.jpg"
     },
     "carrie-stoop-perry-street": {
-      "hero": "/locations/carrie-stoop-perry-street/hero.jpg",
-      "gallery": [
-        "/locations/carrie-stoop-perry-street/photo-2.jpg"
-      ]
+      "hero": "/locations/carrie-stoop-perry-street/hero.jpg"
     },
     "magnolia-bakery": {
-      "hero": "/locations/magnolia-bakery/hero.jpg",
-      "gallery": [
-        "/locations/magnolia-bakery/photo-2.jpg"
-      ]
+      "hero": "/locations/magnolia-bakery/hero.jpg"
     },
     "trevi-fountain": {
-      "hero": "/locations/trevi-fountain/hero.jpg",
-      "gallery": [
-        "/locations/trevi-fountain/photo-2.jpg"
-      ]
+      "hero": "/locations/trevi-fountain/hero.jpg"
     },
     "via-veneto": {
-      "hero": "/locations/via-veneto/hero.jpg",
-      "gallery": [
-        "/locations/via-veneto/photo-2.jpg"
-      ]
+      "hero": "/locations/via-veneto/hero.jpg"
     },
     "saint-etienne-du-mont": {
-      "hero": "/locations/saint-etienne-du-mont/hero.jpg",
-      "gallery": [
-        "/locations/saint-etienne-du-mont/photo-2.jpg"
-      ]
+      "hero": "/locations/saint-etienne-du-mont/hero.jpg"
     },
     "musee-rodin": {
-      "hero": "/locations/musee-rodin/hero.jpg",
-      "gallery": [
-        "/locations/musee-rodin/photo-2.jpg"
-      ]
+      "hero": "/locations/musee-rodin/hero.jpg"
     },
     "beverly-wilshire-hotel": {
-      "hero": "/locations/beverly-wilshire-hotel/hero.jpg",
-      "gallery": [
-        "/locations/beverly-wilshire-hotel/photo-2.jpg"
-      ]
+      "hero": "/locations/beverly-wilshire-hotel/hero.jpg"
     },
     "rodeo-drive": {
-      "hero": "/locations/rodeo-drive/hero.jpg",
-      "gallery": [
-        "/locations/rodeo-drive/photo-2.jpg"
-      ]
+      "hero": "/locations/rodeo-drive/hero.jpg"
     },
     "mrs-doubtfire-house": {
-      "hero": "/locations/mrs-doubtfire-house/hero.jpg",
-      "gallery": [
-        "/locations/mrs-doubtfire-house/photo-2.jpg"
-      ]
+      "hero": "/destinations/san-francisco/hero.jpg"
     },
     "tiffany-flagship-5th-ave": {
-      "hero": "/locations/tiffany-flagship-5th-ave/hero.jpg",
-      "gallery": [
-        "/locations/tiffany-flagship-5th-ave/photo-2.jpg"
-      ]
+      "hero": "/locations/tiffany-flagship-5th-ave/hero.jpg"
     },
     "hook-and-ladder-8": {
-      "hero": "/locations/hook-and-ladder-8/hero.jpg",
-      "gallery": [
-        "/locations/hook-and-ladder-8/photo-2.jpg"
-      ]
+      "hero": "/locations/hook-and-ladder-8/hero.jpg"
     },
     "new-york-public-library": {
-      "hero": "/locations/new-york-public-library/hero.jpg",
-      "gallery": [
-        "/locations/new-york-public-library/photo-2.jpg"
-      ]
+      "hero": "/locations/new-york-public-library/hero.jpg"
     },
     "katz-delicatessen": {
-      "hero": "/locations/katz-delicatessen/hero.jpg",
-      "gallery": [
-        "/locations/katz-delicatessen/photo-2.jpg"
-      ]
+      "hero": "/locations/katz-delicatessen/hero.jpg"
     },
     "paddington-station": {
-      "hero": "/locations/paddington-station/hero.jpg",
-      "gallery": [
-        "/locations/paddington-station/photo-2.jpg"
-      ]
+      "hero": "/locations/paddington-station/hero.jpg"
     },
     "primrose-hill": {
-      "hero": "/locations/primrose-hill/hero.jpg",
-      "gallery": [
-        "/locations/primrose-hill/photo-2.jpg"
-      ]
+      "hero": "/locations/primrose-hill/hero.jpg"
     },
     "temple-church-london": {
-      "hero": "/locations/temple-church-london/hero.jpg",
-      "gallery": [
-        "/locations/temple-church-london/photo-2.jpg"
-      ]
+      "hero": "/locations/temple-church-london/hero.jpg"
     },
     "rosslyn-chapel": {
-      "hero": "/locations/rosslyn-chapel/hero.jpg",
-      "gallery": [
-        "/locations/rosslyn-chapel/photo-2.jpg"
-      ]
+      "hero": "/locations/rosslyn-chapel/hero.jpg"
     },
     "borough-market": {
-      "hero": "/locations/borough-market/hero.jpg",
-      "gallery": [
-        "/locations/borough-market/photo-2.jpg"
-      ]
+      "hero": "/locations/borough-market/hero.jpg"
     },
     "the-globe-tavern-borough": {
-      "hero": "/locations/the-globe-tavern-borough/hero.jpg",
-      "gallery": [
-        "/locations/the-globe-tavern-borough/photo-2.jpg"
-      ]
+      "hero": "/locations/the-globe-tavern-borough/hero.jpg"
     },
     "chippewa-square-savannah": {
-      "hero": "/locations/chippewa-square-savannah/hero.jpg",
-      "gallery": [
-        "/locations/chippewa-square-savannah/photo-2.jpg"
-      ]
+      "hero": "/locations/chippewa-square-savannah/hero.jpg"
     },
     "ohio-state-reformatory": {
-      "hero": "/locations/ohio-state-reformatory/hero.jpg",
-      "gallery": [
-        "/locations/ohio-state-reformatory/photo-2.jpg"
-      ]
+      "hero": "/locations/ohio-state-reformatory/hero.jpg"
     },
     "timberline-lodge": {
-      "hero": "/locations/timberline-lodge/hero.jpg",
-      "gallery": [
-        "/locations/timberline-lodge/photo-2.jpg"
-      ]
+      "hero": "/locations/timberline-lodge/hero.jpg"
     },
     "devils-tower": {
-      "hero": "/locations/devils-tower/hero.jpg",
-      "gallery": [
-        "/locations/devils-tower/photo-2.jpg"
-      ]
+      "hero": "/locations/devils-tower/hero.jpg"
     },
     "dead-horse-point": {
-      "hero": "/locations/dead-horse-point/hero.jpg",
-      "gallery": [
-        "/locations/dead-horse-point/photo-2.jpg"
-      ]
+      "hero": "/locations/dead-horse-point/hero.jpg"
     },
     "ngong-hills": {
-      "hero": "/locations/ngong-hills/hero.jpg",
-      "gallery": [
-        "/locations/ngong-hills/photo-2.jpg"
-      ]
+      "hero": "/locations/ngong-hills/hero.jpg"
     },
     "karen-blixen-museum": {
-      "hero": "/locations/karen-blixen-museum/hero.jpg",
-      "gallery": [
-        "/locations/karen-blixen-museum/photo-2.jpg"
-      ]
+      "hero": "/destinations/kenya/hero.jpg"
     },
     "princes-street-edinburgh": {
-      "hero": "/locations/princes-street-edinburgh/hero.jpg",
-      "gallery": [
-        "/locations/princes-street-edinburgh/photo-2.jpg"
-      ]
+      "hero": "/locations/princes-street-edinburgh/hero.jpg"
     },
     "calton-hill": {
-      "hero": "/locations/calton-hill/hero.jpg",
-      "gallery": [
-        "/locations/calton-hill/photo-2.jpg"
-      ]
+      "hero": "/locations/calton-hill/hero.jpg"
     },
     "west-sands-st-andrews": {
-      "hero": "/locations/west-sands-st-andrews/hero.jpg",
-      "gallery": [
-        "/locations/west-sands-st-andrews/photo-2.jpg"
-      ]
+      "hero": "/locations/west-sands-st-andrews/hero.jpg"
     },
     "field-of-dreams": {
-      "hero": "/locations/field-of-dreams/hero.jpg",
-      "gallery": [
-        "/locations/field-of-dreams/photo-2.jpg"
-      ]
+      "hero": "/destinations/dyersville/hero.jpg"
     },
     "kananaskis-country": {
-      "hero": "/locations/kananaskis-country/hero.jpg",
-      "gallery": [
-        "/locations/kananaskis-country/photo-2.jpg"
-      ]
+      "hero": "/locations/kananaskis-country/hero.jpg"
     },
     "walter-white-house": {
-      "hero": "/locations/walter-white-house/hero.jpg",
-      "gallery": [
-        "/locations/walter-white-house/photo-2.jpg"
-      ]
+      "hero": "/destinations/albuquerque/hero.jpg"
     },
     "los-pollos-twisters": {
-      "hero": "/locations/los-pollos-twisters/hero.jpg",
-      "gallery": [
-        "/locations/los-pollos-twisters/photo-2.jpg"
-      ]
+      "hero": "/destinations/albuquerque/hero.jpg"
     },
     "burj-khalifa": {
-      "hero": "/locations/burj-khalifa/hero.jpg",
-      "gallery": [
-        "/locations/burj-khalifa/photo-2.jpg"
-      ]
+      "hero": "/locations/burj-khalifa/hero.jpg"
     },
     "vienna-state-opera": {
-      "hero": "/locations/vienna-state-opera/hero.jpg",
-      "gallery": [
-        "/locations/vienna-state-opera/photo-2.jpg"
-      ]
+      "hero": "/locations/vienna-state-opera/hero.jpg"
     },
     "glen-etive": {
-      "hero": "/locations/glen-etive/hero.jpg",
-      "gallery": [
-        "/locations/glen-etive/photo-2.jpg"
-      ]
+      "hero": "/locations/glen-etive/hero.jpg"
     },
     "grand-bazaar-istanbul": {
-      "hero": "/locations/grand-bazaar-istanbul/hero.jpg",
-      "gallery": [
-        "/locations/grand-bazaar-istanbul/photo-2.jpg"
-      ]
+      "hero": "/locations/grand-bazaar-istanbul/hero.jpg"
     },
     "iseltwald-jetty": {
-      "hero": "/locations/iseltwald-jetty/hero.jpg",
-      "gallery": [
-        "/locations/iseltwald-jetty/photo-2.jpg"
-      ]
+      "hero": "/destinations/interlaken/hero.jpg"
     },
     "sigriswil-panorama-bridge": {
-      "hero": "/locations/sigriswil-panorama-bridge/hero.jpg",
-      "gallery": [
-        "/locations/sigriswil-panorama-bridge/photo-2.jpg"
-      ]
+      "hero": "/destinations/interlaken/hero.jpg"
+    },
+    "ahyeon-dong-stairs": {
+      "hero": "/destinations/seoul/hero.jpg"
     },
     "woori-supermarket": {
-      "hero": "/locations/woori-supermarket/hero.jpg",
-      "gallery": [
-        "/locations/woori-supermarket/photo-2.jpg"
-      ]
+      "hero": "/destinations/seoul/hero.jpg"
     },
     "wiener-riesenrad": {
-      "hero": "/locations/wiener-riesenrad/hero.jpg",
-      "gallery": [
-        "/locations/wiener-riesenrad/photo-2.jpg"
-      ]
+      "hero": "/locations/wiener-riesenrad/hero.jpg"
     },
     "schreyvogelgasse-doorway": {
-      "hero": "/locations/schreyvogelgasse-doorway/hero.jpg",
-      "gallery": [
-        "/locations/schreyvogelgasse-doorway/photo-2.jpg"
-      ]
+      "hero": "/destinations/vienna/hero.jpg"
     },
     "schindler-factory-krakow": {
-      "hero": "/locations/schindler-factory-krakow/hero.jpg",
-      "gallery": [
-        "/locations/schindler-factory-krakow/photo-2.jpg"
-      ]
+      "hero": "/locations/schindler-factory-krakow/hero.jpg"
     },
     "kazimierz-district": {
-      "hero": "/locations/kazimierz-district/hero.jpg",
-      "gallery": [
-        "/locations/kazimierz-district/photo-2.jpg"
-      ]
+      "hero": "/locations/kazimierz-district/hero.jpg"
     },
     "dupont-state-forest": {
-      "hero": "/locations/dupont-state-forest/hero.jpg",
-      "gallery": [
-        "/locations/dupont-state-forest/photo-2.jpg"
-      ]
+      "hero": "/locations/dupont-state-forest/hero.jpg"
     },
     "henry-river-mill-village": {
-      "hero": "/locations/henry-river-mill-village/hero.jpg",
-      "gallery": [
-        "/locations/henry-river-mill-village/photo-2.jpg"
-      ]
+      "hero": "/locations/henry-river-mill-village/hero.jpg"
     },
     "forks-washington": {
-      "hero": "/locations/forks-washington/hero.jpg",
-      "gallery": [
-        "/locations/forks-washington/photo-2.jpg"
-      ]
+      "hero": "/locations/forks-washington/hero.jpg"
     },
     "la-push-beach": {
-      "hero": "/locations/la-push-beach/hero.jpg",
-      "gallery": [
-        "/locations/la-push-beach/photo-2.jpg"
-      ]
+      "hero": "/locations/la-push-beach/hero.jpg"
     },
     "palazzo-adriano-square": {
-      "hero": "/locations/palazzo-adriano-square/hero.jpg",
-      "gallery": [
-        "/locations/palazzo-adriano-square/photo-2.jpg"
-      ]
+      "hero": "/destinations/cefalu/hero.jpg"
     },
     "cefalu-old-town": {
-      "hero": "/locations/cefalu-old-town/hero.jpg",
-      "gallery": [
-        "/locations/cefalu-old-town/photo-2.jpg"
-      ]
+      "hero": "/locations/cefalu-old-town/hero.jpg"
     },
     "holstens-bloomfield": {
-      "hero": "/locations/holstens-bloomfield/hero.jpg",
-      "gallery": [
-        "/locations/holstens-bloomfield/photo-2.jpg"
-      ]
+      "hero": "/locations/holstens-bloomfield/hero.jpg"
     },
     "pizzaland-north-arlington": {
-      "hero": "/locations/pizzaland-north-arlington/hero.jpg",
-      "gallery": [
-        "/locations/pizzaland-north-arlington/photo-2.jpg"
-      ]
+      "hero": "/locations/pizzaland-north-arlington/hero.jpg"
     },
     "hudson-yards-nyc": {
-      "hero": "/locations/hudson-yards-nyc/hero.jpg",
-      "gallery": [
-        "/locations/hudson-yards-nyc/photo-2.jpg"
-      ]
+      "hero": "/locations/hudson-yards-nyc/hero.jpg"
     },
     "castello-di-celsa": {
-      "hero": "/locations/castello-di-celsa/hero.jpg",
-      "gallery": [
-        "/locations/castello-di-celsa/photo-2.jpg"
-      ]
+      "hero": "/locations/castello-di-celsa/hero.jpg"
     },
     "wadi-rum-dune": {
-      "hero": "/locations/wadi-rum-dune/hero.jpg",
-      "gallery": [
-        "/locations/wadi-rum-dune/photo-2.jpg"
-      ]
+      "hero": "/locations/wadi-rum-dune/hero.jpg"
     },
     "liwa-desert": {
-      "hero": "/locations/liwa-desert/hero.jpg",
-      "gallery": [
-        "/locations/liwa-desert/photo-2.jpg"
-      ]
+      "hero": "/locations/liwa-desert/hero.jpg"
     },
     "svinafellsjokull-glacier": {
-      "hero": "/locations/svinafellsjokull-glacier/hero.jpg",
-      "gallery": [
-        "/locations/svinafellsjokull-glacier/photo-2.jpg"
-      ]
+      "hero": "/locations/svinafellsjokull-glacier/hero.jpg"
     },
     "downtown-jackson-georgia": {
-      "hero": "/locations/downtown-jackson-georgia/hero.jpg",
-      "gallery": [
-        "/locations/downtown-jackson-georgia/photo-2.jpg"
-      ]
+      "hero": "/locations/downtown-jackson-georgia/hero.jpg"
     },
     "gwinnett-place-mall": {
-      "hero": "/locations/gwinnett-place-mall/hero.jpg",
-      "gallery": [
-        "/locations/gwinnett-place-mall/photo-2.jpg"
-      ]
+      "hero": "/locations/gwinnett-place-mall/hero.jpg"
     },
     "chief-joseph-ranch": {
-      "hero": "/locations/chief-joseph-ranch/hero.jpg",
-      "gallery": [
-        "/locations/chief-joseph-ranch/photo-2.jpg"
-      ]
+      "hero": "/locations/chief-joseph-ranch/hero.jpg"
     },
     "padang-padang-beach": {
-      "hero": "/locations/padang-padang-beach/hero.jpg",
-      "gallery": [
-        "/locations/padang-padang-beach/photo-2.jpg"
-      ]
+      "hero": "/locations/padang-padang-beach/hero.jpg"
     },
     "tegallalang-rice-terraces": {
-      "hero": "/locations/tegallalang-rice-terraces/hero.jpg",
-      "gallery": [
-        "/locations/tegallalang-rice-terraces/photo-2.jpg"
-      ]
+      "hero": "/locations/tegallalang-rice-terraces/hero.jpg"
     },
     "joker-stairs-bronx": {
-      "hero": "/locations/joker-stairs-bronx/hero.jpg",
-      "gallery": [
-        "/locations/joker-stairs-bronx/photo-2.jpg"
-      ]
+      "hero": "/locations/joker-stairs-bronx/hero.jpg"
     },
     "belfry-of-bruges": {
-      "hero": "/locations/belfry-of-bruges/hero.jpg",
-      "gallery": [
-        "/locations/belfry-of-bruges/photo-2.jpg"
-      ]
+      "hero": "/destinations/bruges/hero.jpg"
     },
     "rozenhoedkaai": {
-      "hero": "/locations/rozenhoedkaai/hero.jpg",
-      "gallery": [
-        "/locations/rozenhoedkaai/photo-2.jpg"
-      ]
+      "hero": "/destinations/bruges/hero.jpg"
     },
     "bellagio-fountains": {
-      "hero": "/locations/bellagio-fountains/hero.jpg",
-      "gallery": [
-        "/locations/bellagio-fountains/photo-2.jpg"
-      ]
+      "hero": "/locations/bellagio-fountains/hero.jpg"
     },
     "caesars-palace": {
-      "hero": "/locations/caesars-palace/hero.jpg",
-      "gallery": [
-        "/locations/caesars-palace/photo-2.jpg"
-      ]
+      "hero": "/locations/caesars-palace/hero.jpg"
     },
     "zocalo-mexico-city": {
-      "hero": "/locations/zocalo-mexico-city/hero.jpg",
-      "gallery": [
-        "/locations/zocalo-mexico-city/photo-2.jpg"
-      ]
+      "hero": "/locations/zocalo-mexico-city/hero.jpg"
     },
     "gran-hotel-ciudad-de-mexico": {
-      "hero": "/locations/gran-hotel-ciudad-de-mexico/hero.jpg",
-      "gallery": [
-        "/locations/gran-hotel-ciudad-de-mexico/photo-2.jpg"
-      ]
+      "hero": "/locations/gran-hotel-ciudad-de-mexico/hero.jpg"
     },
     "juliet-balcony-verona": {
-      "hero": "/locations/juliet-balcony-verona/hero.jpg",
-      "gallery": [
-        "/locations/juliet-balcony-verona/photo-2.jpg"
-      ]
+      "hero": "/locations/juliet-balcony-verona/hero.jpg"
     },
     "piazza-delle-erbe-verona": {
-      "hero": "/locations/piazza-delle-erbe-verona/hero.jpg",
-      "gallery": [
-        "/locations/piazza-delle-erbe-verona/photo-2.jpg"
-      ]
+      "hero": "/locations/piazza-delle-erbe-verona/hero.jpg"
     },
     "chateau-la-canorgue": {
-      "hero": "/locations/chateau-la-canorgue/hero.jpg",
-      "gallery": [
-        "/locations/chateau-la-canorgue/photo-2.jpg"
-      ]
+      "hero": "/destinations/provence/hero.jpg"
     },
     "gordes-village": {
-      "hero": "/locations/gordes-village/hero.jpg",
-      "gallery": [
-        "/locations/gordes-village/photo-2.jpg"
-      ]
+      "hero": "/locations/gordes-village/hero.jpg"
     },
     "myrtos-beach": {
-      "hero": "/locations/myrtos-beach/hero.jpg",
-      "gallery": [
-        "/locations/myrtos-beach/photo-2.jpg"
-      ]
+      "hero": "/locations/myrtos-beach/hero.jpg"
     },
     "antisamos-beach": {
-      "hero": "/locations/antisamos-beach/hero.jpg",
-      "gallery": [
-        "/locations/antisamos-beach/photo-2.jpg"
-      ]
+      "hero": "/locations/antisamos-beach/hero.jpg"
     },
     "goonies-house-astoria": {
-      "hero": "/locations/goonies-house-astoria/hero.jpg",
-      "gallery": [
-        "/locations/goonies-house-astoria/photo-2.jpg"
-      ]
+      "hero": "/destinations/astoria/hero.jpg"
     },
     "astoria-column": {
-      "hero": "/locations/astoria-column/hero.jpg",
-      "gallery": [
-        "/locations/astoria-column/photo-2.jpg"
-      ]
+      "hero": "/locations/astoria-column/hero.jpg"
     },
     "jaws-bridge-marthas-vineyard": {
-      "hero": "/locations/jaws-bridge-marthas-vineyard/hero.jpg",
-      "gallery": [
-        "/locations/jaws-bridge-marthas-vineyard/photo-2.jpg"
-      ]
+      "hero": "/locations/jaws-bridge-marthas-vineyard/hero.jpg"
     },
     "edgartown": {
-      "hero": "/locations/edgartown/hero.jpg",
-      "gallery": [
-        "/locations/edgartown/photo-2.jpg"
-      ]
+      "hero": "/locations/edgartown/hero.jpg"
     },
     "lake-lure": {
-      "hero": "/locations/lake-lure/hero.jpg",
-      "gallery": [
-        "/locations/lake-lure/photo-2.jpg"
-      ]
+      "hero": "/destinations/north-carolina/hero.jpg"
     },
     "mountain-lake-lodge-virginia": {
-      "hero": "/locations/mountain-lake-lodge-virginia/hero.jpg",
-      "gallery": [
-        "/locations/mountain-lake-lodge-virginia/photo-2.jpg"
-      ]
+      "hero": "/locations/mountain-lake-lodge-virginia/hero.jpg"
     },
     "monuriki-island": {
-      "hero": "/locations/monuriki-island/hero.jpg",
-      "gallery": [
-        "/locations/monuriki-island/photo-2.jpg"
-      ]
+      "hero": "/locations/monuriki-island/hero.jpg"
     },
     "namib-desert": {
-      "hero": "/locations/namib-desert/hero.jpg",
-      "gallery": [
-        "/locations/namib-desert/photo-2.jpg"
-      ]
+      "hero": "/locations/namib-desert/hero.jpg"
     },
     "cafe-de-flore": {
-      "hero": "/locations/cafe-de-flore/hero.jpg",
-      "gallery": [
-        "/locations/cafe-de-flore/photo-2.jpg"
-      ]
+      "hero": "/locations/cafe-de-flore/hero.jpg"
     }
   }
 }

@@ -9,6 +9,7 @@ import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
 import { Faq } from "@/components/Faq";
 import { HotelCard } from "@/components/HotelCard";
+import { PhotoCredit } from "@/components/PhotoCredit";
 import { hotelsForDestination } from "@/lib/hotels";
 import { destinationGuide } from "@/lib/destinationGuides";
 import {
@@ -160,6 +161,7 @@ export default async function DestinationPage({
             sizes="(max-width: 1280px) 100vw, 1152px"
             priority
           />
+          <PhotoCredit kind="destinations" slug={slug} />
         </div>
       )}
       <div className="mt-10 space-y-6">

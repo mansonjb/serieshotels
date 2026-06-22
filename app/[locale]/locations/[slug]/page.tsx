@@ -8,6 +8,7 @@ import { LocationCard } from "@/components/LocationCard";
 import { Stay22Map } from "@/components/Stay22Map";
 import { TourBlock } from "@/components/TourBlock";
 import { Faq } from "@/components/Faq";
+import { PhotoCredit } from "@/components/PhotoCredit";
 import {
   LOCATIONS,
   destinationForLocation,
@@ -204,6 +205,7 @@ export default async function LocationPage({
             sizes="(max-width: 1024px) 100vw, 896px"
             priority
           />
+          <PhotoCredit kind="locations" slug={slug} />
         </div>
       )}
       <section className="mt-12">

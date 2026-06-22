@@ -1,0 +1,1790 @@
+{
+  "destinations/paris": {
+    "author": "Yann Caradec from Paris, France",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg"
+  },
+  "destinations/london": {
+    "author": "Ilya Grigorik",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg"
+  },
+  "destinations/seville": {
+    "author": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sevilla_Cathedral_-_Southeast.jpg"
+  },
+  "destinations/basque-country": {
+    "author": "Daniele Schirmo aka Frankie688",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Basque_Country.svg"
+  },
+  "destinations/maui": {
+    "author": "Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Maui_Landsat_Photo.jpg"
+  },
+  "destinations/koh-samui": {
+    "author": "Manfred Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Koh_Samui_Lipa_Noi2.jpg"
+  },
+  "destinations/scottish-highlands": {
+    "author": "Jrockley",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Scottish_Highlands_and_Lowlands.png"
+  },
+  "destinations/northumberland": {
+    "author": "mattbuck",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bamburgh_MMB_55_Bamburgh_Castle_(edited,_cropped).jpg"
+  },
+  "destinations/tongariro": {
+    "author": "Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Tongariro_Mahuia_River_n.jpg"
+  },
+  "destinations/greenwich": {
+    "author": "Steve F-E-Cameron",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:312SFEC_LONDON-20070917.JPG"
+  },
+  "destinations/birmingham": {
+    "author": "Griffiths, Samuel, editor of \"The London Iron Trade Exchange\"",
+    "license": "No restrictions",
+    "licenseUrl": "https://www.flickr.com/commons/usage/",
+    "source": "https://commons.wikimedia.org/wiki/File:Griffiths%27_Guide_to_the_iron_trade_of_Great_Britain_an_elaborate_review_of_the_iron_(and)_coal_trades_for_last_year,_addresses_and_names_of_all_ironmasters,_with_a_list_of_blast_furnaces,_iron_(14761790294).jpg"
+  },
+  "destinations/southern-poland": {
+    "author": "Ai6z83xl3g",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Battle_of_Poland.png"
+  },
+  "destinations/lake-como": {
+    "author": "Luca Casartelli",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sentiero_del_Viandante_DSC_6340_(14020554463).jpg"
+  },
+  "destinations/kenya": {
+    "author": "User:Pumbaa80",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg"
+  },
+  "destinations/vienna": {
+    "author": "Superbass",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schoenbrunn_philharmoniker_2012.jpg"
+  },
+  "destinations/new-jersey": {
+    "author": "Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Jersey.svg"
+  },
+  "destinations/atlanta": {
+    "author": "AtlChampion",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A2ATL20250614-0721_(cropped).jpg"
+  },
+  "destinations/dubrovnik": {
+    "author": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg"
+  },
+  "destinations/south-iceland": {
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_de_Reikiavik_desde_Perlan,_Distrito_de_la_Capital,_Islandia,_2014-08-13,_DD_118-120_HDR.JPG"
+  },
+  "destinations/county-down": {
+    "author": "Wikimedia Commons",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:County_Down_Coat_of_Arms.png"
+  },
+  "destinations/taormina": {
+    "author": "Carsten Steger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_coast_of_Taormina_(view_from_the_southeast).jpg"
+  },
+  "destinations/girona": {
+    "author": "Patronat de Turisme Costa Brava Pirineu de Girona",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Girona_des_de_l_aire_edited.jpg"
+  },
+  "destinations/central-scotland": {
+    "author": "Grinner",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_Boundaries_2026_Regions_Mid_Scotland_and_Fife.png"
+  },
+  "destinations/oxford": {
+    "author": "Tony Hisgett from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_Oxford_(5652685943).jpg"
+  },
+  "destinations/north-york-moors": {
+    "author": "MarcusBritish",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:North_York_Moors_National_Park.jpg"
+  },
+  "destinations/matamata": {
+    "author": "Fuwuyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matamata_i-SITE.jpg"
+  },
+  "destinations/skopelos": {
+    "author": "Chris Taklis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Skopelos_city.jpg"
+  },
+  "destinations/bath": {
+    "author": "Diliff",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Roman_Baths_in_Bath_Spa,_England_-_July_2006.jpg"
+  },
+  "destinations/madrid": {
+    "author": "Francisco Anzola",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_De_Madrid_(215862629)_edited.jpeg"
+  },
+  "destinations/extremadura": {
+    "author": "TUBS",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Extremadura_in_Spain_(including_Canarias).svg"
+  },
+  "destinations/hampshire": {
+    "author": "ITookSomePhotos",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spinnaker_Tower,_Portsmouth,_England_(2).jpg"
+  },
+  "destinations/cotswolds": {
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_combe_cotswolds.jpg"
+  },
+  "destinations/ely": {
+    "author": "Tilman2007",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ely-071.jpg"
+  },
+  "destinations/liverpool": {
+    "author": "Peter Tarleton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pier_Head,_Liverpool_-_geograph.org.uk_-_3059094.jpg"
+  },
+  "destinations/carpathians": {
+    "author": "Jakub Krajňák",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Morskie_Oko_in_2020.jpg"
+  },
+  "destinations/canary-islands": {
+    "author": "No machine-readable author provided. Zirland assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands.svg"
+  },
+  "destinations/wicklow": {
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wicklow_-_aerial_-_2025-03-09_01.jpg"
+  },
+  "destinations/cornwall": {
+    "author": "Werner Wilmes",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Michael%27s_Mount_View.jpg"
+  },
+  "destinations/dorset": {
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Durdle_Door_Overview.jpg"
+  },
+  "destinations/dublin": {
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg"
+  },
+  "destinations/sligo": {
+    "author": "Peter Clarke at English Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Sligo_Borough_Council.jpg"
+  },
+  "destinations/salzburg": {
+    "author": "Jorge Franganillo",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salzburg_(48489551981).jpg"
+  },
+  "destinations/rome": {
+    "author": "Diliff",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg"
+  },
+  "destinations/amalfi-coast": {
+    "author": "Bruno Rijsman",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg"
+  },
+  "destinations/bay-of-naples": {
+    "author": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg"
+  },
+  "destinations/lombardy": {
+    "author": "TUBS",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lombardy_in_Italy.svg"
+  },
+  "destinations/gorlitz": {
+    "author": "Martin Kraft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MKr361484_St._Peter_und_Paul_(G%C3%B6rlitz).jpg"
+  },
+  "destinations/peak-district": {
+    "author": "Evilbish",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mam_Tor.jpg"
+  },
+  "destinations/matera": {
+    "author": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matera_-_View_from_Sant%27Agostino.jpg"
+  },
+  "destinations/atlantic-road": {
+    "author": "OpenStreetMap contributors and Arsenikk",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atlantic_Ocean_Road_map.svg"
+  },
+  "destinations/petra": {
+    "author": "Azurfrog",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG"
+  },
+  "destinations/krabi": {
+    "author": "kallerna",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wat_Tham_Sua_18.jpg"
+  },
+  "destinations/los-angeles": {
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg"
+  },
+  "destinations/san-francisco": {
+    "author": "Spicypepper999",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Francisco_Downtown_Aerial,_August_2025.jpg"
+  },
+  "destinations/singapore": {
+    "author": "Original: Government of Singapore Vector: Zscout370",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg"
+  },
+  "destinations/tokyo": {
+    "author": "Morio",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg"
+  },
+  "destinations/tuscany": {
+    "author": "TUBS",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tuscany_in_Italy.svg"
+  },
+  "destinations/ouarzazate": {
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kasbah_Taourirt_in_Ouarzazate_2011.jpg"
+  },
+  "destinations/southern-tunisia": {
+    "author": "Asmodim",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Tunisian_Diaspora_in_the_World_in_2024.svg"
+  },
+  "destinations/venice": {
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Venezia_aerial_view.jpg"
+  },
+  "destinations/florence": {
+    "author": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FirenzeDec092023_01.jpg"
+  },
+  "destinations/dunkirk": {
+    "author": "Velvet",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunkerque_hotel_de_ville_vu_port.jpg"
+  },
+  "destinations/oahu": {
+    "author": "Earth Sciences and Image Analysis, NASA-Johnson Space Center",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Oahu.jpg"
+  },
+  "destinations/mumbai": {
+    "author": "Rutiknatekar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+  },
+  "destinations/wadi-rum": {
+    "author": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg"
+  },
+  "destinations/savoca": {
+    "author": "Eugenio Nicola Scarcella",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Savoca_Castello_di_Pentefur.JPG"
+  },
+  "destinations/philadelphia": {
+    "author": "颐园居",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Philadelphia_skyline_20240528_(cropped_2-1).jpg"
+  },
+  "destinations/etretat": {
+    "author": "Jörg Braukmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vue_d%27%C3%89tretat.jpg"
+  },
+  "destinations/corfu": {
+    "author": "StefanosKozanis",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Pontikonisi.jpg"
+  },
+  "destinations/new-york": {
+    "author": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+  },
+  "destinations/rosslyn": {
+    "author": "Sabine Perry",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosslyn_Chapel_(Mentioned_in_Dan_Brown%27s_DaVinci_Code).jpg"
+  },
+  "destinations/savannah": {
+    "author": "Bigdaverhuberg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Savannah.tif"
+  },
+  "destinations/mansfield": {
+    "author": "Carl Albert Research and Studies Center, Congressional Collection",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CAC_CC_001_18_29_0000_2899_(cropped).jpg"
+  },
+  "destinations/mount-hood": {
+    "author": "Kevin Crosby",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oregon_Mount_Hood_from_Trillium_Lake_2024.jpg"
+  },
+  "destinations/wyoming": {
+    "author": "User:Dbenbenn",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Wyoming.svg"
+  },
+  "destinations/moab": {
+    "author": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moab,_Utah_downtown.jpg"
+  },
+  "destinations/edinburgh": {
+    "author": "Andrew Colin",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg"
+  },
+  "destinations/st-andrews": {
+    "author": "Peter Gordon",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Andrews_from_Regulus_tower_-_geograph.org.uk_-_254003.jpg"
+  },
+  "destinations/dyersville": {
+    "author": "Dirk Hansen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Francis_Basillica_Dyersville.JPG"
+  },
+  "destinations/canadian-rockies": {
+    "author": "BrettA343",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snow_Dome,_Forbes,_Lyells,_Et_al_from_Mt._Kitchener.jpg"
+  },
+  "destinations/albuquerque": {
+    "author": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Albuquerque,_New_Mexico_skyline.jpg"
+  },
+  "destinations/dubai": {
+    "author": "Francisco Anzola",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://en.wikipedia.org/wiki/File:Burj_Khalifa_2021.jpg"
+  },
+  "destinations/istanbul": {
+    "author": "Hunanuk",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Historical_peninsula_and_modern_skyline_of_Istanbul.jpg"
+  },
+  "destinations/interlaken": {
+    "author": "Rectilinium",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg"
+  },
+  "destinations/seoul": {
+    "author": "Eunmi Park",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg"
+  },
+  "destinations/krakow": {
+    "author": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Krakow_Rynek_Glowny_panorama_2.jpg"
+  },
+  "destinations/north-carolina": {
+    "author": "Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Carolina.svg"
+  },
+  "destinations/forks": {
+    "author": "Arkyan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Gallatin_County_Montana_Incorporated_and_Unincorporated_areas_Three_Forks_Highlighted.svg"
+  },
+  "destinations/cefalu": {
+    "author": "Ludvig14",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cefalu_View_0832.jpg"
+  },
+  "destinations/abu-dhabi": {
+    "author": "Wadiia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg"
+  },
+  "destinations/vatnajokull": {
+    "author": "Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Vatnaj%C3%B6kull.jpeg"
+  },
+  "destinations/montana": {
+    "author": "N.a",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Montana.svg"
+  },
+  "destinations/bali": {
+    "author": "TUBS",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bali_in_Indonesia_(special_marker).svg"
+  },
+  "destinations/bruges": {
+    "author": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Blick_vom_Belfried_4.jpg"
+  },
+  "destinations/las-vegas": {
+    "author": "Mike McBey",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Las_Vegas_from_above_(40064746644).jpg"
+  },
+  "destinations/mexico-city": {
+    "author": "Gobierno CDMX",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg"
+  },
+  "destinations/verona": {
+    "author": "Maurizio Moro5153",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tramonto_a_Verona.jpg"
+  },
+  "destinations/provence": {
+    "author": "Robert Brink",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg"
+  },
+  "destinations/kefalonia": {
+    "author": "Matt Sims",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asos,_Kefalonia.jpg"
+  },
+  "destinations/astoria": {
+    "author": "BeachcombersNW",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Astoria_Oregon.jpg"
+  },
+  "destinations/marthas-vineyard": {
+    "author": "Alex Wilcox Cheek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marthasvineyard-Aquinnah-cliffs-summer.jpeg"
+  },
+  "destinations/virginia": {
+    "author": "LadyofHats with additional editing by 痛 and Patrickneil / Charles Keck",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Virginia.svg"
+  },
+  "destinations/fiji": {
+    "author": "Tessa Mackenzie",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Fiji.svg"
+  },
+  "destinations/namibia": {
+    "author": "Hp.Baumeler",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sperrgebiet_Verbotstafel.jpg"
+  },
+  "locations/dubrovnik-city-walls": {
+    "author": "Miroslav.vajdic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dubrovnik_s_24.jpg"
+  },
+  "locations/fort-lovrijenac": {
+    "author": "Raki_Man",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_Walls_-_panoramio_-_Raki_Man.jpg"
+  },
+  "locations/thingvellir": {
+    "author": "No machine-readable author provided. Tmuehlbacher assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Strokkur.jpg"
+  },
+  "locations/castle-ward": {
+    "author": "Irishdeltaforce",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_Ward_2.JPG"
+  },
+  "locations/alcazar-seville": {
+    "author": "Ajay Suresh from New York, NY, USA. Edited by MenkinAlRire",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sevilla-2-2_(48040287512)-edit.jpg"
+  },
+  "locations/girona-cathedral": {
+    "author": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Girona_Cathedral_2020.jpg"
+  },
+  "locations/gaztelugatxe": {
+    "author": "Clementp.fr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gaztelugatxe_en_espagne.jpg"
+  },
+  "locations/san-domenico-palace": {
+    "author": "Carsten Steger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_coast_of_Taormina_(view_from_the_southeast).jpg"
+  },
+  "locations/teatro-antico-taormina": {
+    "author": "Derbrauni",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ancient_Greek-Roman_theatre_(Taormina)_15.jpg"
+  },
+  "locations/isola-bella-taormina": {
+    "author": "Solomonn Levi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IsolaBellaView.jpg"
+  },
+  "locations/four-seasons-maui": {
+    "author": "David Benbennick",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Map_of_Hawaii_highlighting_Maui_County.svg"
+  },
+  "locations/four-seasons-koh-samui": {
+    "author": "Manfred Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Koh_Samui_Lipa_Noi2.jpg"
+  },
+  "locations/place-de-lestrapade": {
+    "author": "LPLT",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Place_de_l%27Estrapade_2.JPG"
+  },
+  "locations/palais-garnier": {
+    "author": "Peter Rivera",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Opera_full_frontal_architecture,_May_2009.jpg"
+  },
+  "locations/pont-alexandre-iii": {
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg"
+  },
+  "locations/jardin-du-palais-royal": {
+    "author": "Marie-Lan Nguyen",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Conseil_d%27Etat_Paris_WA.jpg"
+  },
+  "locations/doune-castle": {
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scotland-2016-Aerial-Doune_Castle_(and_Castle_keeper%27s_cottage).jpg"
+  },
+  "locations/midhope-castle": {
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:High_Street,_Edinburgh.JPG"
+  },
+  "locations/culross": {
+    "author": "Palickap",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Culross,_Town_House_03.jpg"
+  },
+  "locations/glencoe": {
+    "author": "Peter Graham (1836 - 18 October 1921) (Scottish) Born in Edinburgh, Scotland. Died in St Andrews, Fife, Scotland. Details on Google Art Project",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Peter_Graham_-_After_the_Massacre_of_Glencoe_-_Google_Art_Project.jpg"
+  },
+  "locations/glenfinnan-viaduct": {
+    "author": "Matthieu Riegler",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct_-_2022.jpg"
+  },
+  "locations/alnwick-castle": {
+    "author": "Clementp.fr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnwick_Castle_in_uk.jpg"
+  },
+  "locations/christ-church-oxford": {
+    "author": "Dmitry Djouce",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tom_Quad,_Christ_Church,_Oxford.jpg"
+  },
+  "locations/goathland-station": {
+    "author": "Subarite",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goathland_station.jpg"
+  },
+  "locations/hobbiton": {
+    "author": "Harsh.gavhane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waterhouse_Lake_Front.jpg"
+  },
+  "locations/tongariro-national-park": {
+    "author": "Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Tongariro_Mahuia_River_n.jpg"
+  },
+  "locations/agios-ioannis-skopelos": {
+    "author": "Hans Peter Schaefer, http://www.reserv-a-rt.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syros_Ano_Syros_u_Ermoupolis140707.jpg"
+  },
+  "locations/kastani-beach": {
+    "author": "Chris Taklis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Skopelos_city.jpg"
+  },
+  "locations/royal-crescent-bath": {
+    "author": "Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal.crescent.aerial.bath.arp.jpg"
+  },
+  "locations/holburne-museum": {
+    "author": "David A. Russo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Holburne_Museum,_July_2016.jpg"
+  },
+  "locations/rangers-house-greenwich": {
+    "author": "Katie Chan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EH1218679_The_Ranger%27s_House.JPG"
+  },
+  "locations/csic-madrid": {
+    "author": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0 es",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificio_central_del_CSIC_(Madrid)_02.jpg"
+  },
+  "locations/banco-de-espana": {
+    "author": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_06.jpg"
+  },
+  "locations/caceres-old-town": {
+    "author": "Javier Losa",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caceres_13_1_(6624238327).jpg"
+  },
+  "locations/trujillo-castle": {
+    "author": "Ana Rey from Sevilla, España",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:(Trujillo)_IMG_20191227_135035_(49504553798)_(cropped).jpg"
+  },
+  "locations/highclere-castle": {
+    "author": "Launus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Highclere_Castle_(2019).jpg"
+  },
+  "locations/bampton-village": {
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_combe_cotswolds.jpg"
+  },
+  "locations/ely-cathedral": {
+    "author": "Verbcatcher",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ely_Cathedral_from_Quanea_Drove_F.jpg"
+  },
+  "locations/lancaster-house": {
+    "author": "Financial Times",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lancaster_House_(5880536589).jpg"
+  },
+  "locations/black-country-museum": {
+    "author": "Griffiths, Samuel, editor of \"The London Iron Trade Exchange\"",
+    "license": "No restrictions",
+    "licenseUrl": "https://www.flickr.com/commons/usage/",
+    "source": "https://commons.wikimedia.org/wiki/File:Griffiths%27_Guide_to_the_iron_trade_of_Great_Britain_an_elaborate_review_of_the_iron_(and)_coal_trades_for_last_year,_addresses_and_names_of_all_ironmasters,_with_a_list_of_blast_furnaces,_iron_(14761790294).jpg"
+  },
+  "locations/stanley-dock-liverpool": {
+    "author": "Rodhullandemu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stanley_Dock_2019.jpg"
+  },
+  "locations/cantacuzino-castle": {
+    "author": "Jakub Krajňák",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Morskie_Oko_in_2020.jpg"
+  },
+  "locations/ogrodzieniec-castle": {
+    "author": "FotoCavallo",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wawel_castle.jpg"
+  },
+  "locations/roque-nublo": {
+    "author": "MiljenkoSuljic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roque_Nublo_2024-12-14.jpg"
+  },
+  "locations/lough-tay": {
+    "author": "Kara Nagai",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luggala_and_Lough_Tay,_Wicklow,_Ireland.jpg"
+  },
+  "locations/charlestown-cornwall": {
+    "author": "Fabiform",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Charlestown_Harbour_cottages_fishermen_St_Austell_Cornwall.jpg"
+  },
+  "locations/botallack-mine": {
+    "author": "Kernow Skies",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Crown_Mines_2.png"
+  },
+  "locations/holywell-bay": {
+    "author": "SMJ",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Treguth_Inn,_Holywell_-_geograph.org.uk_-_2864252.jpg"
+  },
+  "locations/west-bay-dorset": {
+    "author": "Steve Daniels",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_harbour_at_West_Bay_-_geograph.org.uk_-_1257239.jpg"
+  },
+  "locations/trinity-college-dublin": {
+    "author": "Diliff",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Long_Room_Interior,_Trinity_College_Dublin,_Ireland_-_Diliff.jpg"
+  },
+  "locations/streedagh-beach": {
+    "author": "Brian Herrity",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grangesligo.JPG"
+  },
+  "locations/north-gower-street": {
+    "author": "Philafrenzy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bloomsbury_Street_Hotel,_London_(2).jpg"
+  },
+  "locations/st-bartholomews-hospital": {
+    "author": "w:User:DisillusionedBitterAndKnackered",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Barts-main-entrance.jpg"
+  },
+  "locations/mirabell-gardens": {
+    "author": "Cezar Suceveanu",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palatul_Mirabell1.jpg"
+  },
+  "locations/leopoldskron-palace": {
+    "author": "Pixelcreatures2",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leopoldskron.jpg"
+  },
+  "locations/nonnberg-abbey": {
+    "author": "Carsten Steger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Nonnberg_Abbey_(view_from_the_south).jpg"
+  },
+  "locations/spanish-steps": {
+    "author": "Arnaud 25",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_di_Spagna_(Rome)_0004.jpg"
+  },
+  "locations/mouth-of-truth": {
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Et%C3%A0_imperiale,_chiusino_a_forma_di_mascherone_di_divinit%C3%A0_fluviale,_detta_bocca_della_verit%C3%A0,_collocata_qui_nel_1632.jpg"
+  },
+  "locations/positano": {
+    "author": "Bruno Rijsman",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg"
+  },
+  "locations/procida": {
+    "author": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg"
+  },
+  "locations/crema-piazza-duomo": {
+    "author": "Cremasco",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palazzo-comunale-2017.jpg"
+  },
+  "locations/cascate-del-serio": {
+    "author": "B.Matteo at Italian Wikipedia",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Cascatedelserio.JPG"
+  },
+  "locations/gorlitzer-warenhaus": {
+    "author": "Martin Kraft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MKr361484_St._Peter_und_Paul_(G%C3%B6rlitz).jpg"
+  },
+  "locations/the-blue-door": {
+    "author": "Ilya Grigorik",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg"
+  },
+  "locations/portobello-road-market": {
+    "author": "Schellack at English Wikipedia",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portobello_road_sign.jpg"
+  },
+  "locations/chatsworth-house": {
+    "author": "Paul Johnson",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chatsworth_house_fountain_frontage.jpg"
+  },
+  "locations/stanage-edge": {
+    "author": "Rob Bendall (Highfields)",
+    "license": "Attribution",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:StanageEdge.jpg"
+  },
+  "locations/sassi-di-matera": {
+    "author": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matera_-_View_from_Sant%27Agostino.jpg"
+  },
+  "locations/atlantic-ocean-road": {
+    "author": "OpenStreetMap contributors and Arsenikk",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atlantic_Ocean_Road_map.svg"
+  },
+  "locations/al-khazneh-petra": {
+    "author": "Al_Khazneh_Petra.jpg: Graham Racher from London, UK derivative work: MrPanyGoff",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Treasury_petra_crop.jpeg"
+  },
+  "locations/maya-bay": {
+    "author": "Luxure",
+    "license": "CC BY 3.0 au",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/au/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:KohPhiPhi.JPG"
+  },
+  "locations/cafe-des-deux-moulins": {
+    "author": "Mig Gilbert from Brighton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cafe_des_2_Moulins,_Paris_24_August_2019.jpg"
+  },
+  "locations/canal-saint-martin": {
+    "author": "Paris 16 and OpenStreetMap contributors",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Canal_Saint-Martin,_Paris_-_OSM_2022.svg"
+  },
+  "locations/griffith-observatory": {
+    "author": "Matthew Field",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Griffith_observatory_2006.jpg"
+  },
+  "locations/angels-flight": {
+    "author": "Difference engine",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Angels_Flight_after_reopening_in_September_2017.jpg"
+  },
+  "locations/fort-point-golden-gate": {
+    "author": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_tower_views_07.jpg"
+  },
+  "locations/mission-san-juan-bautista": {
+    "author": "MARELBU",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Juan_Bautista,_CA_USA_-_Old_Mission_SJB_-_panoramio_(62)_(cropped).jpg"
+  },
+  "locations/marina-bay-sands": {
+    "author": "This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg"
+  },
+  "locations/gardens-by-the-bay": {
+    "author": "Bijay Chaurasia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Singapore-3499.jpg"
+  },
+  "locations/park-hyatt-tokyo": {
+    "author": "David Kernan",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg"
+  },
+  "locations/shibuya-crossing": {
+    "author": "David Kernan",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg"
+  },
+  "locations/val-d-orcia": {
+    "author": "Carlo cattaneo fotografie",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:I_cipressi_della_Val_D%27Orcia.jpg"
+  },
+  "locations/ait-benhaddou": {
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ksar_A%C3%AFt_Benhaddou,_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg"
+  },
+  "locations/lars-homestead-chott-el-djerid": {
+    "author": "Asmodim",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Tunisian_Diaspora_in_the_World_in_2024.svg"
+  },
+  "locations/skellig-michael": {
+    "author": "Jerzy Strzelecki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skellig_Michael03(js).jpg"
+  },
+  "locations/villa-del-balbianello": {
+    "author": "MarkusMark",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:06VillaBalbianello.jpg"
+  },
+  "locations/venice-grand-canal": {
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg"
+  },
+  "locations/piazza-della-signoria": {
+    "author": "Zolli",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Signoria_-_Firenze.jpg"
+  },
+  "locations/basilica-di-santa-croce": {
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Croce_(12437).jpg"
+  },
+  "locations/dunkirk-beach": {
+    "author": "Velvet",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunkerque_hotel_de_ville_vu_port.jpg"
+  },
+  "locations/glen-nevis": {
+    "author": "Jrockley",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Scottish_Highlands_and_Lowlands.png"
+  },
+  "locations/trim-castle": {
+    "author": "Andrew Parnell",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trim_Castle_6.jpg"
+  },
+  "locations/kualoa-ranch": {
+    "author": "Wikimedia Commons",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Kualoa_Ranch.jpg"
+  },
+  "locations/chhatrapati-shivaji-terminus": {
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chhatrapati_shivaji_terminus,_esterno_01.jpg"
+  },
+  "locations/taj-mahal-palace-hotel": {
+    "author": "Photofinder.cr2",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel_photo.jpg"
+  },
+  "locations/wadi-rum": {
+    "author": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg"
+  },
+  "locations/plaza-de-espana-seville": {
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+  },
+  "locations/bar-vitelli-savoca": {
+    "author": "Eugenio Nicola Scarcella",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Savoca_Castello_di_Pentefur.JPG"
+  },
+  "locations/church-san-nicolo-savoca": {
+    "author": "Eugenio Nicola Scarcella",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Savoca_Castello_di_Pentefur.JPG"
+  },
+  "locations/rocky-steps": {
+    "author": "su1droot",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Philadelphia_Museum_of_Art_Pennsylvania_USA.jpg"
+  },
+  "locations/italian-market-philadelphia": {
+    "author": "Busterfreak at English Wikipedia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Phila-dibrunobros.jpg"
+  },
+  "locations/louvre-pyramid": {
+    "author": "Hteink.min",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://en.wikipedia.org/wiki/File:Louvre_Pyramid.jpg"
+  },
+  "locations/falaise-etretat": {
+    "author": "Jörg Braukmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vue_d%27%C3%89tretat.jpg"
+  },
+  "locations/corfu-old-town": {
+    "author": "Marc Ryckaert (MJJR)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corfu_Achilleion_R05.jpg"
+  },
+  "locations/kalami-bay": {
+    "author": "Graeme Churchard from Bristol (51.4414, -2.5242), UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Souda_Bay_from_Aptera-64-graeme.jpg"
+  },
+  "locations/richmond-green": {
+    "author": "Ilya Grigorik",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg"
+  },
+  "locations/richmond-bridge": {
+    "author": "Ilya Grigorik",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg"
+  },
+  "locations/carrie-stoop-perry-street": {
+    "author": "David Shankbone",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Congregation_Beth_Elohim_building_2.JPG"
+  },
+  "locations/magnolia-bakery": {
+    "author": "WestportWiki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnolia_Bakery,_401_Bleecker_Street,_New_York,_NY_10014,_USA_-_Jan_2013_O.jpg"
+  },
+  "locations/trevi-fountain": {
+    "author": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg"
+  },
+  "locations/via-veneto": {
+    "author": "Gobbler",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roma_Via_Veneto.jpg"
+  },
+  "locations/saint-etienne-du-mont": {
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St-Etienne-du-Mont_Exterior,_Paris,_France_-_Diliff.jpg"
+  },
+  "locations/musee-rodin": {
+    "author": "Dalbera",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_Rodin.jpg"
+  },
+  "locations/beverly-wilshire-hotel": {
+    "author": "Minnaert",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:BeverlyWilshire01.jpg"
+  },
+  "locations/rodeo-drive": {
+    "author": "jjron",
+    "license": "GFDL 1.2",
+    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "source": "https://commons.wikimedia.org/wiki/File:Rodeo_Drive,_Beverly_Hills,_LA,_CA,_jjron_21.03.2012.jpg"
+  },
+  "locations/mrs-doubtfire-house": {
+    "author": "Spicypepper999",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Francisco_Downtown_Aerial,_August_2025.jpg"
+  },
+  "locations/tiffany-flagship-5th-ave": {
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tiffany_%26_Co._flagship_store_(53872772975).jpg"
+  },
+  "locations/hook-and-ladder-8": {
+    "author": "I ran with scissors",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Ladder82026.jpg"
+  },
+  "locations/new-york-public-library": {
+    "author": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+  },
+  "locations/katz-delicatessen": {
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Katz%27s_Delicatessen_(51623899326).jpg"
+  },
+  "locations/paddington-station": {
+    "author": "Jeff Hitchcock",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paddington_Station_GWR.jpg"
+  },
+  "locations/primrose-hill": {
+    "author": "Louise Ireland",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Primrose_Hill,_London_-16Sept2010.jpg"
+  },
+  "locations/temple-church-london": {
+    "author": "MTPICHON",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TEMPLE_DE_LONDRES_3.JPG"
+  },
+  "locations/rosslyn-chapel": {
+    "author": "Sabine Perry",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosslyn_Chapel_(Mentioned_in_Dan_Brown%27s_DaVinci_Code).jpg"
+  },
+  "locations/borough-market": {
+    "author": "Øyvind Holmstad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_2018_March_IMG_0663.jpg"
+  },
+  "locations/the-globe-tavern-borough": {
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Restaurante_The_Swan,_Londres,_Inglaterra,_2014-08-11,_DD_113.jpg"
+  },
+  "locations/chippewa-square-savannah": {
+    "author": "Alecconnell",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chippewa_Square_Savannah.JPG"
+  },
+  "locations/ohio-state-reformatory": {
+    "author": "Niagara66",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ohio_State_Reformatory_Mansfield_08.jpg"
+  },
+  "locations/timberline-lodge": {
+    "author": "edward stojakovic from chicago, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Timberline_Lodge_2014.jpg"
+  },
+  "locations/devils-tower": {
+    "author": "James St. John",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Columnar-jointed_porphyritic_phonolite_(Eocene,_49_Ma;_Devils_Tower,_Wyoming,_USA)_48.jpg"
+  },
+  "locations/dead-horse-point": {
+    "author": "Mike Nielsen",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dead_Horse_Point2.jpg"
+  },
+  "locations/ngong-hills": {
+    "author": "Siegmund Kamau",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ngong%27_Hills,_Nairobi,_Kenya.jpg"
+  },
+  "locations/karen-blixen-museum": {
+    "author": "User:Pumbaa80",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg"
+  },
+  "locations/princes-street-edinburgh": {
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Princes_Street_-_aerial_-_2025-04-19.jpg"
+  },
+  "locations/calton-hill": {
+    "author": "Saffron Blaze",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Calton_Hill.jpg"
+  },
+  "locations/west-sands-st-andrews": {
+    "author": "Peter Gordon",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Andrews_from_Regulus_tower_-_geograph.org.uk_-_254003.jpg"
+  },
+  "locations/field-of-dreams": {
+    "author": "Dirk Hansen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Francis_Basillica_Dyersville.JPG"
+  },
+  "locations/kananaskis-country": {
+    "author": "No machine-readable author provided. Cszmurlo assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:U-Kananaskis-Lk-Szmurlo.jpg"
+  },
+  "locations/walter-white-house": {
+    "author": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Albuquerque,_New_Mexico_skyline.jpg"
+  },
+  "locations/los-pollos-twisters": {
+    "author": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Albuquerque,_New_Mexico_skyline.jpg"
+  },
+  "locations/burj-khalifa": {
+    "author": "imran shahabuddin",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg"
+  },
+  "locations/vienna-state-opera": {
+    "author": "Wiener Staatsoper GmbH",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wiener_Staatsoper_Front.jpg"
+  },
+  "locations/glen-etive": {
+    "author": "Andrewmckie",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stag_in_Glen_Etive.jpg"
+  },
+  "locations/grand-bazaar-istanbul": {
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_asv2021-11_img41_Grand_Bazaar.jpg"
+  },
+  "locations/iseltwald-jetty": {
+    "author": "Rectilinium",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg"
+  },
+  "locations/sigriswil-panorama-bridge": {
+    "author": "Rectilinium",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg"
+  },
+  "locations/ahyeon-dong-stairs": {
+    "author": "Eunmi Park",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg"
+  },
+  "locations/woori-supermarket": {
+    "author": "Eunmi Park",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg"
+  },
+  "locations/wiener-riesenrad": {
+    "author": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wien_Riesenrad.jpg"
+  },
+  "locations/schreyvogelgasse-doorway": {
+    "author": "Superbass",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schoenbrunn_philharmoniker_2012.jpg"
+  },
+  "locations/schindler-factory-krakow": {
+    "author": "Jennifer Boyer",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schindler%E2%80%99s_factory,_Krak%C3%B3w,_2011.jpg"
+  },
+  "locations/kazimierz-district": {
+    "author": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_dzielnica_I_Stare_Miasto.svg"
+  },
+  "locations/dupont-state-forest": {
+    "author": "Ccalvin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HighFallsDupontSP.jpg"
+  },
+  "locations/henry-river-mill-village": {
+    "author": "Upstateherd",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Henry_River_Mill_Village_4.jpg"
+  },
+  "locations/forks-washington": {
+    "author": "Bobjgalindo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NDCityHall.jpg"
+  },
+  "locations/la-push-beach": {
+    "author": "Ron Clausen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Beach,_Washington_coast._Olympic_National_Park.jpg"
+  },
+  "locations/palazzo-adriano-square": {
+    "author": "Ludvig14",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cefalu_View_0832.jpg"
+  },
+  "locations/cefalu-old-town": {
+    "author": "User:Matthias Süßen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Duomo_cefalu_msu2017-0797.jpg"
+  },
+  "locations/holstens-bloomfield": {
+    "author": "Jim.henderson",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Bloomfield_Presby_jeh.JPG"
+  },
+  "locations/pizzaland-north-arlington": {
+    "author": "Jim.henderson",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Belleville_Turnpike_lift_bridge_SW_cloudy_jeh.jpg"
+  },
+  "locations/hudson-yards-nyc": {
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hudson_Yards_from_Hudson_Commons_(95131p)_(30_Hudson_Yards).jpg"
+  },
+  "locations/castello-di-celsa": {
+    "author": "LigaDue",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SovicillePanorama.JPG"
+  },
+  "locations/wadi-rum-dune": {
+    "author": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg"
+  },
+  "locations/liwa-desert": {
+    "author": "Wadiia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg"
+  },
+  "locations/svinafellsjokull-glacier": {
+    "author": "Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Vatnaj%C3%B6kull.jpeg"
+  },
+  "locations/downtown-jackson-georgia": {
+    "author": "AtlChampion",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A2ATL20250614-0721_(cropped).jpg"
+  },
+  "locations/gwinnett-place-mall": {
+    "author": "Thomson200",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Gwinnett_Place_Mall_July_2016.jpg"
+  },
+  "locations/chief-joseph-ranch": {
+    "author": "Edward S. Curtis / Adam Cuerden",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Chief_Joseph_by_Edward_Sheriff_Curtis.jpg"
+  },
+  "locations/padang-padang-beach": {
+    "author": "Gunawan Kartapranata",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nasi_Kapau.JPG"
+  },
+  "locations/tegallalang-rice-terraces": {
+    "author": "Joseagush",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indonesia_Gianyar_Tegallalang_district_location_map.svg"
+  },
+  "locations/joker-stairs-bronx": {
+    "author": "Dcastillo4070",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anderson_Avenue.jpg"
+  },
+  "locations/belfry-of-bruges": {
+    "author": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Blick_vom_Belfried_4.jpg"
+  },
+  "locations/rozenhoedkaai": {
+    "author": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Blick_vom_Belfried_4.jpg"
+  },
+  "locations/bellagio-fountains": {
+    "author": "Kashyap Hosdurga",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bellagio_Fountain.jpg"
+  },
+  "locations/caesars-palace": {
+    "author": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caesar%27s_Palace_Las_Vegas_2007.jpg"
+  },
+  "locations/zocalo-mexico-city": {
+    "author": "Comisión Mexicana de Filmaciones from México D. F., México",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Z%C3%B3calo,_Ciudad_de_M%C3%A9xico_(32846556446)_(cropped).jpg"
+  },
+  "locations/gran-hotel-ciudad-de-mexico": {
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Mexico_city_Universidad_Nacional_Aut%C3%B3noma_de_M%C3%A9xico_UNAM.JPG"
+  },
+  "locations/juliet-balcony-verona": {
+    "author": "JoJan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verona_037.JPG"
+  },
+  "locations/piazza-delle-erbe-verona": {
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_delle_Erbe_(Verona).jpg"
+  },
+  "locations/chateau-la-canorgue": {
+    "author": "Robert Brink",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg"
+  },
+  "locations/gordes-village": {
+    "author": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1_gordes_pano_2016.jpg"
+  },
+  "locations/myrtos-beach": {
+    "author": "Rob Bendall (Highfields)",
+    "license": "Attribution",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Myrtos2.JPG"
+  },
+  "locations/antisamos-beach": {
+    "author": "Matt Sims",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asos,_Kefalonia.jpg"
+  },
+  "locations/goonies-house-astoria": {
+    "author": "BeachcombersNW",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Astoria_Oregon.jpg"
+  },
+  "locations/astoria-column": {
+    "author": "BeachcombersNW",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Astoria_Oregon.jpg"
+  },
+  "locations/jaws-bridge-marthas-vineyard": {
+    "author": "Alex Wilcox Cheek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marthasvineyard-Aquinnah-cliffs-summer.jpeg"
+  },
+  "locations/edgartown": {
+    "author": "Carol M. Highsmith",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Vineyard_Vines_shop_in_Edgartown_on_Martha%27s_Vineyard_Island,_by_Carol_M._Highsmith,_2019,_from_the_Library_of_Congress_-_master-pnp-highsm-57400-57464a.tif"
+  },
+  "locations/lake-lure": {
+    "author": "Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Carolina.svg"
+  },
+  "locations/mountain-lake-lodge-virginia": {
+    "author": "Rolfmueller",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_Lake_Virginia_lakeview.jpg"
+  },
+  "locations/monuriki-island": {
+    "author": "KhufuOsiris",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monuriki_Island_20150108.jpg"
+  },
+  "locations/namib-desert": {
+    "author": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Namib_desert_MODIS.jpg"
+  },
+  "locations/cafe-de-flore": {
+    "author": "Celette",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg"
+  },
+  "destinations/kerry": {
+    "author": "Jerzy Strzelecki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skellig_Michael03(js).jpg"
+  },
+  "destinations/county-meath": {
+    "author": "Andrew Parnell",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trim_Castle_6.jpg"
+  }
+}
