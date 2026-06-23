@@ -8,6 +8,7 @@ import { DEFAULT_LOCALE, LOCALES, getDict, isLocale, localePath, type Locale } f
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 import { JsonLd } from "@/components/JsonLd";
 import { ConsentProvider, CookieBanner } from "@/components/consent";
+import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 import { ogImages, orgNode } from "@/lib/seo";
 import "../globals.css";
 
@@ -85,6 +86,7 @@ export default async function LocaleLayout({
     >
       <body className="min-h-screen bg-paper text-ink antialiased">
         <ConsentProvider>
+          <GoogleAnalytics />
           <JsonLd data={{ "@context": "https://schema.org", ...orgNode() }} />
           <Header locale={locale} dict={dict} />
           {children}
