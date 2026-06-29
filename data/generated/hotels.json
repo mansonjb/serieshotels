@@ -1686,7 +1686,80 @@
       "photo": "/hotels/carpathians/izvorul-lui-dracula.jpg"
     }
   ],
-  "southern-poland": [],
+  "southern-poland": [
+    {
+      "name": "InterContinental Warsaw by IHG",
+      "slug": "intercontinental-warsaw-by-ihg",
+      "rating": 4.7,
+      "reviewCount": 8534,
+      "stars": "5-star hotel",
+      "address": "Emilii Plater 49, 00-125 Warszawa, Poland",
+      "photo": "/hotels/southern-poland/intercontinental-warsaw-by-ihg.jpg"
+    },
+    {
+      "name": "Hotel Czarny Potok Resort & SPA",
+      "slug": "hotel-czarny-potok-resort-spa",
+      "rating": 4.6,
+      "reviewCount": 5259,
+      "stars": "5-star hotel",
+      "address": "Czarny Potok 65, 33-380 Krynica-Zdrój, Poland",
+      "photo": "/hotels/southern-poland/hotel-czarny-potok-resort-spa.jpg"
+    },
+    {
+      "name": "DoubleTree by Hilton Kraków Hotel & Convention Center",
+      "slug": "doubletree-by-hilton-krakow-hotel-convention-center",
+      "rating": 4.6,
+      "reviewCount": 4565,
+      "stars": "4-star hotel",
+      "address": "Dąbska 5, 31-572 Kraków, Poland",
+      "photo": "/hotels/southern-poland/doubletree-by-hilton-krakow-hotel-convention-center.jpg"
+    },
+    {
+      "name": "Sheraton Grand Krakow",
+      "slug": "sheraton-grand-krakow",
+      "rating": 4.6,
+      "reviewCount": 3500,
+      "stars": "5-star hotel",
+      "address": "Powiśle 7, 31-101 Kraków, Poland",
+      "photo": "/hotels/southern-poland/sheraton-grand-krakow.jpg"
+    },
+    {
+      "name": "Hotel Stary",
+      "slug": "hotel-stary",
+      "rating": 4.7,
+      "reviewCount": 1208,
+      "stars": "5-star hotel",
+      "address": "Szczepańska 5, 31-011 Kraków, Poland",
+      "photo": "/hotels/southern-poland/hotel-stary.jpg"
+    },
+    {
+      "name": "Hotel Polski pod Białym Orłem",
+      "slug": "hotel-polski-pod-bia-ym-or-em",
+      "rating": 4.6,
+      "reviewCount": 960,
+      "stars": "5-star hotel",
+      "address": "Pijarska 17, 31-015 Kraków, Poland",
+      "photo": "/hotels/southern-poland/hotel-polski-pod-bia-ym-or-em.jpg"
+    },
+    {
+      "name": "Niebieski Art Hotel & Spa",
+      "slug": "niebieski-art-hotel-spa",
+      "rating": 4.5,
+      "reviewCount": 1005,
+      "stars": "5-star hotel",
+      "address": "Flisacka 3, 30-114 Kraków, Poland",
+      "photo": "/hotels/southern-poland/niebieski-art-hotel-spa.jpg"
+    },
+    {
+      "name": "Hotel Copernicus",
+      "slug": "hotel-copernicus",
+      "rating": 4.6,
+      "reviewCount": 432,
+      "stars": "5-star hotel",
+      "address": "Kanonicza 16, 31-002 Kraków, Poland",
+      "photo": "/hotels/southern-poland/hotel-copernicus.jpg"
+    }
+  ],
   "canary-islands": [
     {
       "name": "Hotel Cristina by Tigotan Las Palmas",
@@ -2373,7 +2446,80 @@
       "photo": "/hotels/bay-of-naples/de-bonart-naples-curio-collection-by-hilton.jpg"
     }
   ],
-  "lombardy": [],
+  "lombardy": [
+    {
+      "name": "B&B HOTEL Bergamo City",
+      "slug": "b-b-hotel-bergamo-city",
+      "rating": 4.3,
+      "reviewCount": 4580,
+      "stars": "3-star hotel",
+      "address": "Via Autostrada, 2/A, 24126 Bergamo BG, Italy",
+      "photo": "/hotels/lombardy/b-b-hotel-bergamo-city.jpg"
+    },
+    {
+      "name": "Hilton Lake Como",
+      "slug": "hilton-lake-como",
+      "rating": 4.5,
+      "reviewCount": 2921,
+      "stars": "4-star hotel",
+      "address": "Via Borgo Vico, 241, 22100 Como CO, Italy",
+      "photo": "/hotels/lombardy/hilton-lake-como.jpg"
+    },
+    {
+      "name": "Hotel Cruise",
+      "slug": "hotel-cruise",
+      "rating": 4.3,
+      "reviewCount": 3215,
+      "stars": "4-star hotel",
+      "address": "Via Carducci, 3, 22070 Montano Lucino CO, Italy",
+      "photo": "/hotels/lombardy/hotel-cruise.jpg"
+    },
+    {
+      "name": "Hotel de la Ville",
+      "slug": "hotel-de-la-ville",
+      "rating": 4.7,
+      "reviewCount": 1186,
+      "stars": "4-star hotel",
+      "address": "Viale Regina Margherita, 15, 20900 Monza MB, Italy",
+      "photo": "/hotels/lombardy/hotel-de-la-ville.jpg"
+    },
+    {
+      "name": "The Albereta Relais & Chateaux",
+      "slug": "the-albereta-relais-chateaux",
+      "rating": 4.6,
+      "reviewCount": 1178,
+      "stars": "5-star hotel",
+      "address": "Via Vittorio Emanuele, 23, 25030 Erbusco BS, Italy",
+      "photo": "/hotels/lombardy/the-albereta-relais-chateaux.jpg"
+    },
+    {
+      "name": "Hotel Griso Collection",
+      "slug": "hotel-griso-collection",
+      "rating": 4.4,
+      "reviewCount": 1590,
+      "stars": "4-star hotel",
+      "address": "Viale Italia, 24, 23864 Malgrate LC, Italy",
+      "photo": "/hotels/lombardy/hotel-griso-collection.jpg"
+    },
+    {
+      "name": "Hotel Du Lac Gardone Riviera",
+      "slug": "hotel-du-lac-gardone-riviera",
+      "rating": 4.6,
+      "reviewCount": 952,
+      "stars": "3-star hotel",
+      "address": "Corso della Repubblica, 58, 25083 Gardone Riviera BS, Italy",
+      "photo": "/hotels/lombardy/hotel-du-lac-gardone-riviera.jpg"
+    },
+    {
+      "name": "Stay Hotel",
+      "slug": "stay-hotel",
+      "rating": 4.4,
+      "reviewCount": 1091,
+      "stars": "3-star hotel",
+      "address": "Via Gallarate, 2, 21020 Brunello VA, Italy",
+      "photo": "/hotels/lombardy/stay-hotel.jpg"
+    }
+  ],
   "gorlitz": [
     {
       "name": "Island for All Senses - Hotel Restaurant Spa",
@@ -3109,7 +3255,17 @@
       "photo": "/hotels/ouarzazate/hotel-karam-palace.jpg"
     }
   ],
-  "southern-tunisia": [],
+  "southern-tunisia": [
+    {
+      "name": "The Residence Douz By Cenizaro",
+      "slug": "the-residence-douz-by-cenizaro",
+      "rating": 4.7,
+      "reviewCount": 231,
+      "stars": "5-star hotel",
+      "address": "Tourist Rout, Douz 4260, Tunisia",
+      "photo": "/hotels/southern-tunisia/the-residence-douz-by-cenizaro.jpg"
+    }
+  ],
   "kerry": [
     {
       "name": "Parknasilla Resort & Spa",
@@ -4298,7 +4454,17 @@
       "photo": "/hotels/mount-hood/old-parkdale-inn-bed-and-breakfast.jpg"
     }
   ],
-  "wyoming": [],
+  "wyoming": [
+    {
+      "name": "The Historic Occidental Hotel",
+      "slug": "the-historic-occidental-hotel",
+      "rating": 4.6,
+      "reviewCount": 799,
+      "stars": "2-star hotel",
+      "address": "10 N Main St, Buffalo, WY 82834",
+      "photo": "/hotels/wyoming/the-historic-occidental-hotel.jpg"
+    }
+  ],
   "moab": [
     {
       "name": "Aarchway Inn",
@@ -4521,34 +4687,1872 @@
       "photo": "/hotels/edinburgh/travelodge-edinburgh-central.jpg"
     }
   ],
-  "st-andrews": [],
-  "dyersville": [],
-  "canadian-rockies": [],
-  "albuquerque": [],
-  "dubai": [],
-  "istanbul": [],
-  "interlaken": [],
-  "seoul": [],
-  "vienna": [],
-  "krakow": [],
-  "north-carolina": [],
-  "forks": [],
-  "cefalu": [],
-  "new-jersey": [],
-  "abu-dhabi": [],
-  "vatnajokull": [],
-  "atlanta": [],
-  "montana": [],
-  "bali": [],
-  "bruges": [],
-  "las-vegas": [],
-  "mexico-city": [],
-  "verona": [],
-  "provence": [],
-  "kefalonia": [],
-  "astoria": [],
-  "marthas-vineyard": [],
-  "virginia": [],
-  "fiji": [],
+  "st-andrews": [
+    {
+      "name": "Fairmont St Andrews - Scotland",
+      "slug": "fairmont-st-andrews-scotland",
+      "rating": 4.6,
+      "reviewCount": 2060,
+      "stars": "5-star hotel",
+      "address": "Kingask House, St Andrews KY16 8PN, United Kingdom",
+      "photo": "/hotels/st-andrews/fairmont-st-andrews-scotland.jpg"
+    },
+    {
+      "name": "Old Course Hotel",
+      "slug": "old-course-hotel",
+      "rating": 4.7,
+      "reviewCount": 1319,
+      "stars": "5-star hotel",
+      "address": "Old Course Hotel, Old Station Rd, St Andrews KY16 9SP, United Kingdom",
+      "photo": "/hotels/st-andrews/old-course-hotel.jpg"
+    },
+    {
+      "name": "Rusacks St. Andrews",
+      "slug": "rusacks-st-andrews",
+      "rating": 4.5,
+      "reviewCount": 789,
+      "stars": "5-star hotel",
+      "address": "Pilmour Links, St Andrews KY16 9JQ, United Kingdom",
+      "photo": "/hotels/st-andrews/rusacks-st-andrews.jpg"
+    },
+    {
+      "name": "Hotel du Vin St Andrews",
+      "slug": "hotel-du-vin-st-andrews",
+      "rating": 4.5,
+      "reviewCount": 494,
+      "stars": "4-star hotel",
+      "address": "40 The Scores, St Andrews KY16 9AS, United Kingdom",
+      "photo": "/hotels/st-andrews/hotel-du-vin-st-andrews.jpg"
+    },
+    {
+      "name": "Premier Inn St Andrews hotel",
+      "slug": "premier-inn-st-andrews-hotel",
+      "rating": 4.2,
+      "reviewCount": 623,
+      "stars": "3-star hotel",
+      "address": "Largo Rd, St Andrews KY16 8NH, United Kingdom",
+      "photo": "/hotels/st-andrews/premier-inn-st-andrews-hotel.jpg"
+    },
+    {
+      "name": "The New Inn",
+      "slug": "the-new-inn",
+      "rating": 4.3,
+      "reviewCount": 268,
+      "stars": "3-star hotel",
+      "address": "23 St Mary St, St Andrews KY16 8AZ, United Kingdom",
+      "photo": "/hotels/st-andrews/the-new-inn.jpg"
+    },
+    {
+      "name": "Kinnettles Hotel",
+      "slug": "kinnettles-hotel",
+      "rating": 4.5,
+      "reviewCount": 202,
+      "stars": "5-star hotel",
+      "address": "127 North St, St Andrews KY16 9AG, United Kingdom",
+      "photo": "/hotels/st-andrews/kinnettles-hotel.jpg"
+    },
+    {
+      "name": "The Albany Hotel",
+      "slug": "the-albany-hotel",
+      "rating": 4.3,
+      "reviewCount": 203,
+      "stars": "3-star hotel",
+      "address": "56 North St, St Andrews KY16 9AH, United Kingdom",
+      "photo": "/hotels/st-andrews/the-albany-hotel.jpg"
+    }
+  ],
+  "dyersville": [
+    {
+      "name": "Comfort Inn Dyersville Near Field of Dreams",
+      "slug": "comfort-inn-dyersville-near-field-of-dreams",
+      "rating": 4.2,
+      "reviewCount": 228,
+      "stars": "2-star hotel",
+      "address": "527 16th Ave SE, Dyersville, IA 52040",
+      "photo": "/hotels/dyersville/comfort-inn-dyersville-near-field-of-dreams.jpg"
+    },
+    {
+      "name": "Super 8 by Wyndham Dyersville",
+      "slug": "super-8-by-wyndham-dyersville",
+      "rating": 3.9,
+      "reviewCount": 240,
+      "stars": "2-star hotel",
+      "address": "925 15th Ave SE, Dyersville, IA 52040",
+      "photo": "/hotels/dyersville/super-8-by-wyndham-dyersville.jpg"
+    },
+    {
+      "name": "American Inn and Suites",
+      "slug": "american-inn-and-suites",
+      "rating": 3.2,
+      "reviewCount": 286,
+      "stars": "2-star hotel",
+      "address": "100 Peosta St, Peosta, IA 52068",
+      "photo": "/hotels/dyersville/american-inn-and-suites.jpg"
+    }
+  ],
+  "canadian-rockies": [
+    {
+      "name": "Fairmont Chateau Lake Louise",
+      "slug": "fairmont-chateau-lake-louise",
+      "rating": 4.6,
+      "reviewCount": 23721,
+      "stars": "5-star hotel",
+      "address": "111 Lake Louise Dr, Lake Louise, AB T0L 1E0, Canada",
+      "photo": "/hotels/canadian-rockies/fairmont-chateau-lake-louise.jpg"
+    },
+    {
+      "name": "Fairmont Banff Springs",
+      "slug": "fairmont-banff-springs",
+      "rating": 4.7,
+      "reviewCount": 17219,
+      "stars": "4-star hotel",
+      "address": "405 Spray Ave, Banff, AB T1L 1J4, Canada",
+      "photo": "/hotels/canadian-rockies/fairmont-banff-springs.jpg"
+    }
+  ],
+  "albuquerque": [
+    {
+      "name": "Isleta Resort & Casino",
+      "slug": "isleta-resort-casino",
+      "rating": 4.1,
+      "reviewCount": 13783,
+      "stars": "4-star hotel",
+      "address": "11000 Broadway Blvd SE #7469, Albuquerque, NM 87105",
+      "photo": "/hotels/albuquerque/isleta-resort-casino.jpg"
+    },
+    {
+      "name": "Hotel Albuquerque at Old Town",
+      "slug": "hotel-albuquerque-at-old-town",
+      "rating": 4.3,
+      "reviewCount": 3022,
+      "stars": "4-star hotel",
+      "address": "800 Rio Grande Blvd NW, Albuquerque, NM 87104",
+      "photo": "/hotels/albuquerque/hotel-albuquerque-at-old-town.jpg"
+    },
+    {
+      "name": "Embassy Suites by Hilton Albuquerque",
+      "slug": "embassy-suites-by-hilton-albuquerque",
+      "rating": 4.1,
+      "reviewCount": 4045,
+      "stars": "5-star hotel",
+      "address": "1000 Woodward Pl NE, Albuquerque, NM 87102",
+      "photo": "/hotels/albuquerque/embassy-suites-by-hilton-albuquerque.jpg"
+    },
+    {
+      "name": "Hampton Inn & Suites Albuquerque-Coors Road",
+      "slug": "hampton-inn-suites-albuquerque-coors-road",
+      "rating": 3.9,
+      "reviewCount": 1479,
+      "stars": "4-star hotel",
+      "address": "6150 Iliff Rd NW, Albuquerque, NM 87121",
+      "photo": "/hotels/albuquerque/hampton-inn-suites-albuquerque-coors-road.jpg"
+    },
+    {
+      "name": "DoubleTree by Hilton Hotel Albuquerque",
+      "slug": "doubletree-by-hilton-hotel-albuquerque",
+      "rating": 3.6,
+      "reviewCount": 2225,
+      "stars": "4-star hotel",
+      "address": "201 Marquette Ave NW, Albuquerque, NM 87102",
+      "photo": "/hotels/albuquerque/doubletree-by-hilton-hotel-albuquerque.jpg"
+    },
+    {
+      "name": "Holiday Inn & Suites Albuquerque-North I-25 by IHG",
+      "slug": "holiday-inn-suites-albuquerque-north-i-25-by-ihg",
+      "rating": 3.8,
+      "reviewCount": 994,
+      "stars": "3-star hotel",
+      "address": "5050 Jefferson St NE, Albuquerque, NM 87109",
+      "photo": "/hotels/albuquerque/holiday-inn-suites-albuquerque-north-i-25-by-ihg.jpg"
+    },
+    {
+      "name": "Days Inn & Suites by Wyndham Albuquerque North",
+      "slug": "days-inn-suites-by-wyndham-albuquerque-north",
+      "rating": 3.6,
+      "reviewCount": 1400,
+      "stars": "3-star hotel",
+      "address": "5101 Ellison St NE, Albuquerque, NM 87109",
+      "photo": "/hotels/albuquerque/days-inn-suites-by-wyndham-albuquerque-north.jpg"
+    },
+    {
+      "name": "Quality Inn & Suites Albuquerque Midtown - University Area",
+      "slug": "quality-inn-suites-albuquerque-midtown-university-area",
+      "rating": 3.4,
+      "reviewCount": 1907,
+      "stars": "3-star hotel",
+      "address": "1315 Menaul Blvd NE, Albuquerque, NM 87107",
+      "photo": "/hotels/albuquerque/quality-inn-suites-albuquerque-midtown-university-area.jpg"
+    }
+  ],
+  "dubai": [
+    {
+      "name": "Swissôtel Al Murooj Dubai",
+      "slug": "swissotel-al-murooj-dubai",
+      "rating": 4.7,
+      "reviewCount": 26950,
+      "stars": "5-star hotel",
+      "address": "Al Mustaqbal St - Trade Center Second - DIFC - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/swissotel-al-murooj-dubai.jpg"
+    },
+    {
+      "name": "Paramount hotel Dubai",
+      "slug": "paramount-hotel-dubai",
+      "rating": 4.7,
+      "reviewCount": 16263,
+      "stars": "5-star hotel",
+      "address": "57PR+GR8 - Business Bay - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/paramount-hotel-dubai.jpg"
+    },
+    {
+      "name": "Rove Expo City",
+      "slug": "rove-expo-city",
+      "rating": 4.9,
+      "reviewCount": 10582,
+      "stars": "3-star hotel",
+      "address": "Horizon Avenue - Madinat Al Mataar - Dubai South - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/rove-expo-city.jpg"
+    },
+    {
+      "name": "Fairmont Dubai",
+      "slug": "fairmont-dubai",
+      "rating": 4.7,
+      "reviewCount": 13829,
+      "stars": "5-star hotel",
+      "address": "Sheikh Zayed Rd - Trade Center First - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/fairmont-dubai.jpg"
+    },
+    {
+      "name": "Radisson Blu Hotel, Dubai Waterfront",
+      "slug": "radisson-blu-hotel-dubai-waterfront",
+      "rating": 4.6,
+      "reviewCount": 10433,
+      "stars": "5-star hotel",
+      "address": "Marasi Dr - Business Bay - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/radisson-blu-hotel-dubai-waterfront.jpg"
+    },
+    {
+      "name": "Holiday Inn Dubai al-Maktoum Airport by IHG",
+      "slug": "holiday-inn-dubai-al-maktoum-airport-by-ihg",
+      "rating": 4.7,
+      "reviewCount": 7371,
+      "stars": "4-star hotel",
+      "address": "Aviation City - Madinat Al Mataar - Dubai South - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/holiday-inn-dubai-al-maktoum-airport-by-ihg.jpg"
+    },
+    {
+      "name": "Hyatt Regency Dubai",
+      "slug": "hyatt-regency-dubai",
+      "rating": 4.4,
+      "reviewCount": 11986,
+      "stars": "5-star hotel",
+      "address": "Al Khaleej St - Al Corniche - Deira - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/hyatt-regency-dubai.jpg"
+    },
+    {
+      "name": "Palace Downtown",
+      "slug": "palace-downtown",
+      "rating": 4.7,
+      "reviewCount": 6319,
+      "stars": "5-star hotel",
+      "address": "Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+      "photo": "/hotels/dubai/palace-downtown.jpg"
+    }
+  ],
+  "istanbul": [
+    {
+      "name": "Hilton Istanbul Bomonti Hotel & Conference Center",
+      "slug": "hilton-istanbul-bomonti-hotel-conference-center",
+      "rating": 4.7,
+      "reviewCount": 23192,
+      "stars": "5-star hotel",
+      "address": "Merkez, Silahşör Cd. No:42, 34381 Şişli/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/hilton-istanbul-bomonti-hotel-conference-center.jpg"
+    },
+    {
+      "name": "Radisson Blu Hotel, Istanbul Ottomare",
+      "slug": "radisson-blu-hotel-istanbul-ottomare",
+      "rating": 4.8,
+      "reviewCount": 10516,
+      "stars": "5-star hotel",
+      "address": "Kazlıçeşme, Abay Cd. No: 223, 34020 Zeytinburnu/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/radisson-blu-hotel-istanbul-ottomare.jpg"
+    },
+    {
+      "name": "Sura Hagia Sophia Hotel İstanbul",
+      "slug": "sura-hagia-sophia-hotel-istanbul",
+      "rating": 4.4,
+      "reviewCount": 6891,
+      "stars": "5-star hotel",
+      "address": "Alemdar, Ticarethane Sk. No:10, 34122 Fatih/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/sura-hagia-sophia-hotel-istanbul.jpg"
+    },
+    {
+      "name": "Crowne Plaza Istanbul - Florya",
+      "slug": "crowne-plaza-istanbul-florya",
+      "rating": 4.4,
+      "reviewCount": 5512,
+      "stars": "5-star hotel",
+      "address": "Şenlikköy Mahallesi Yeşilköy Halkalı Cad 95 Florya, 34290 Bakırköy/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/crowne-plaza-istanbul-florya.jpg"
+    },
+    {
+      "name": "Novotel İstanbul Bosphorus",
+      "slug": "novotel-istanbul-bosphorus",
+      "rating": 4.4,
+      "reviewCount": 4830,
+      "stars": "5-star hotel",
+      "address": "Kemankeş Karamustafa Paşa, Kemankeş Cd. No:57-59, 34425 Beyoğlu/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/novotel-istanbul-bosphorus.jpg"
+    },
+    {
+      "name": "Crowne Plaza Istanbul - Old City, an IHG Hotel",
+      "slug": "crowne-plaza-istanbul-old-city-an-ihg-hotel",
+      "rating": 4.3,
+      "reviewCount": 4741,
+      "stars": "5-star hotel",
+      "address": "Balabanağa, Fethibey Cd. Laleli, 34134 Fatih/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/crowne-plaza-istanbul-old-city-an-ihg-hotel.jpg"
+    },
+    {
+      "name": "Holiday Inn Istanbul City by IHG",
+      "slug": "holiday-inn-istanbul-city-by-ihg",
+      "rating": 4.2,
+      "reviewCount": 4229,
+      "stars": "5-star hotel",
+      "address": "Topkapı, Turgut Özal Caddesi No:189, 34104 Fatih/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/holiday-inn-istanbul-city-by-ihg.jpg"
+    },
+    {
+      "name": "AJWA Sultanahmet",
+      "slug": "ajwa-sultanahmet",
+      "rating": 4.7,
+      "reviewCount": 1171,
+      "stars": "5-star hotel",
+      "address": "Emin Sinan, Piyer Loti Cd. No:30, 34126 Fatih/İstanbul, Türkiye",
+      "photo": "/hotels/istanbul/ajwa-sultanahmet.jpg"
+    }
+  ],
+  "interlaken": [
+    {
+      "name": "Backpackers Villa Sonnenhof - Hostel Interlaken",
+      "slug": "backpackers-villa-sonnenhof-hostel-interlaken",
+      "rating": 4.7,
+      "reviewCount": 1440,
+      "stars": "Youth hostel",
+      "address": "Alpenstrasse 16, 3800 Interlaken, Switzerland",
+      "photo": "/hotels/interlaken/backpackers-villa-sonnenhof-hostel-interlaken.jpg"
+    },
+    {
+      "name": "Hotel Interlaken",
+      "slug": "hotel-interlaken",
+      "rating": 4.5,
+      "reviewCount": 1336,
+      "stars": "4-star hotel",
+      "address": "Höheweg 74, 3800 Interlaken, Switzerland",
+      "photo": "/hotels/interlaken/hotel-interlaken.jpg"
+    },
+    {
+      "name": "Jugendherberge Interlaken",
+      "slug": "jugendherberge-interlaken",
+      "rating": 4.3,
+      "reviewCount": 1333,
+      "stars": "Youth hostel",
+      "address": "Untere Bönigstrasse 3a, 3800 Interlaken, Switzerland",
+      "photo": "/hotels/interlaken/jugendherberge-interlaken.jpg"
+    },
+    {
+      "name": "Hotel Brienzersee",
+      "slug": "hotel-brienzersee",
+      "rating": 4.7,
+      "reviewCount": 559,
+      "stars": "3-star hotel",
+      "address": "Beundenstrasse 12, 3852 Ringgenberg, Switzerland",
+      "photo": "/hotels/interlaken/hotel-brienzersee.jpg"
+    },
+    {
+      "name": "Beausite Interlaken",
+      "slug": "beausite-interlaken",
+      "rating": 4.3,
+      "reviewCount": 884,
+      "stars": "3-star hotel",
+      "address": "Seestrasse 16, 3800 Unterseen, Switzerland",
+      "photo": "/hotels/interlaken/beausite-interlaken.jpg"
+    },
+    {
+      "name": "Adventure Hostel Interlaken",
+      "slug": "adventure-hostel-interlaken",
+      "rating": 4.6,
+      "reviewCount": 424,
+      "stars": "Hotel",
+      "address": "Seestrasse 44, 3800 Interlaken, Switzerland",
+      "photo": "/hotels/interlaken/adventure-hostel-interlaken.jpg"
+    },
+    {
+      "name": "Seehotel Bönigen",
+      "slug": "seehotel-bonigen",
+      "rating": 4.2,
+      "reviewCount": 454,
+      "stars": "3-star hotel",
+      "address": "Seestrasse 22, 3806 Bönigen, Switzerland",
+      "photo": "/hotels/interlaken/seehotel-bonigen.jpg"
+    },
+    {
+      "name": "Hotel Central Continental",
+      "slug": "hotel-central-continental",
+      "rating": 3.7,
+      "reviewCount": 1039,
+      "stars": "Hotel",
+      "address": "Bahnhofstrasse 43, 3800 Interlaken, Switzerland",
+      "photo": "/hotels/interlaken/hotel-central-continental.jpg"
+    }
+  ],
+  "seoul": [
+    {
+      "name": "Four Seasons Hotel Seoul",
+      "slug": "four-seasons-hotel-seoul",
+      "rating": 4.6,
+      "reviewCount": 7321,
+      "stars": "5-star hotel",
+      "address": "97 Saemunan-ro, Dangju-dong, Jongno District, Seoul, South Korea",
+      "photo": "/hotels/seoul/four-seasons-hotel-seoul.jpg"
+    },
+    {
+      "name": "LOTTE HOTEL SEOUL",
+      "slug": "lotte-hotel-seoul",
+      "rating": 4.5,
+      "reviewCount": 8784,
+      "stars": "5-star hotel",
+      "address": "30 Eulji-ro, Jung District, Seoul, South Korea",
+      "photo": "/hotels/seoul/lotte-hotel-seoul.jpg"
+    },
+    {
+      "name": "Grand Hyatt Seoul",
+      "slug": "grand-hyatt-seoul",
+      "rating": 4.4,
+      "reviewCount": 8586,
+      "stars": "5-star hotel",
+      "address": "322 Sowol-ro, Yongsan District, Seoul, South Korea",
+      "photo": "/hotels/seoul/grand-hyatt-seoul.jpg"
+    },
+    {
+      "name": "Nine Tree by Parnas Seoul Myeongdong II",
+      "slug": "nine-tree-by-parnas-seoul-myeongdong-ii",
+      "rating": 4.3,
+      "reviewCount": 2954,
+      "stars": "4-star hotel",
+      "address": "28 Mareunnae-ro, Jung District, Seoul, South Korea",
+      "photo": "/hotels/seoul/nine-tree-by-parnas-seoul-myeongdong-ii.jpg"
+    },
+    {
+      "name": "ibis Styles Ambassador Seoul Myeongdong",
+      "slug": "ibis-styles-ambassador-seoul-myeongdong",
+      "rating": 4.1,
+      "reviewCount": 2019,
+      "stars": "4-star hotel",
+      "address": "302 Samil-daero, Jung District, Seoul, South Korea",
+      "photo": "/hotels/seoul/ibis-styles-ambassador-seoul-myeongdong.jpg"
+    },
+    {
+      "name": "The Riverside Hotel",
+      "slug": "the-riverside-hotel",
+      "rating": 3.7,
+      "reviewCount": 3999,
+      "stars": "4-star hotel",
+      "address": "6 Gangnam-daero 107-gil, Seocho District, Seoul, South Korea",
+      "photo": "/hotels/seoul/the-riverside-hotel.jpg"
+    },
+    {
+      "name": "Fairfield by Marriott Seoul",
+      "slug": "fairfield-by-marriott-seoul",
+      "rating": 3.9,
+      "reviewCount": 2557,
+      "stars": "4-star hotel",
+      "address": "Gyeongin-ro, 870 Yeongdeungpo District, Seoul, South Korea",
+      "photo": "/hotels/seoul/fairfield-by-marriott-seoul.jpg"
+    },
+    {
+      "name": "Seoul N Hotel Dongdaemun",
+      "slug": "seoul-n-hotel-dongdaemun",
+      "rating": 3.8,
+      "reviewCount": 884,
+      "stars": "2-star hotel",
+      "address": "21 Jong-ro 66ga-gil, Jongno District, Seoul, South Korea",
+      "photo": "/hotels/seoul/seoul-n-hotel-dongdaemun.jpg"
+    }
+  ],
+  "vienna": [
+    {
+      "name": "Hotel NH Vienna Airport Conference Center",
+      "slug": "hotel-nh-vienna-airport-conference-center",
+      "rating": 4.4,
+      "reviewCount": 6301,
+      "stars": "4-star hotel",
+      "address": "1-3, Einfahrts Str., 1300 Schwechat, Austria",
+      "photo": "/hotels/vienna/hotel-nh-vienna-airport-conference-center.jpg"
+    },
+    {
+      "name": "Vienna Marriott Hotel",
+      "slug": "vienna-marriott-hotel",
+      "rating": 4.5,
+      "reviewCount": 4962,
+      "stars": "Hotel",
+      "address": "Parkring 12a, 1010 Wien, Austria",
+      "photo": "/hotels/vienna/vienna-marriott-hotel.jpg"
+    },
+    {
+      "name": "Hilton Vienna Waterfront",
+      "slug": "hilton-vienna-waterfront",
+      "rating": 4.4,
+      "reviewCount": 5913,
+      "stars": "Hotel",
+      "address": "Handelskai 269, 1020 Wien, Austria",
+      "photo": "/hotels/vienna/hilton-vienna-waterfront.jpg"
+    },
+    {
+      "name": "InterContinental Vienna by IHG",
+      "slug": "intercontinental-vienna-by-ihg",
+      "rating": 4.5,
+      "reviewCount": 4282,
+      "stars": "Hotel",
+      "address": "Johannesgasse 28, 1030 Wien, Austria",
+      "photo": "/hotels/vienna/intercontinental-vienna-by-ihg.jpg"
+    },
+    {
+      "name": "Novotel Wien Hauptbahnhof",
+      "slug": "novotel-wien-hauptbahnhof",
+      "rating": 4.5,
+      "reviewCount": 4028,
+      "stars": "4-star hotel",
+      "address": "Canettistraße 6, 1100 Wien, Austria",
+      "photo": "/hotels/vienna/novotel-wien-hauptbahnhof.jpg"
+    },
+    {
+      "name": "Austria Trend Parkhotel Schönbrunn",
+      "slug": "austria-trend-parkhotel-schonbrunn",
+      "rating": 4.4,
+      "reviewCount": 4128,
+      "stars": "Hotel",
+      "address": "Hietzinger Hauptstraße 10, 1130 Wien, Austria",
+      "photo": "/hotels/vienna/austria-trend-parkhotel-schonbrunn.jpg"
+    },
+    {
+      "name": "Hilton Vienna Plaza",
+      "slug": "hilton-vienna-plaza",
+      "rating": 4.4,
+      "reviewCount": 3297,
+      "stars": "Hotel",
+      "address": "Schottenring 11, 1010 Wien, Austria",
+      "photo": "/hotels/vienna/hilton-vienna-plaza.jpg"
+    },
+    {
+      "name": "Le Méridien Vienna",
+      "slug": "le-meridien-vienna",
+      "rating": 4.4,
+      "reviewCount": 3153,
+      "stars": "Hotel",
+      "address": "Robert-Stolz-Platz 1, 1010 Wien, Austria",
+      "photo": "/hotels/vienna/le-meridien-vienna.jpg"
+    }
+  ],
+  "krakow": [
+    {
+      "name": "Hotel Mercure Kraków Stare Miasto",
+      "slug": "hotel-mercure-krakow-stare-miasto",
+      "rating": 4.8,
+      "reviewCount": 4954,
+      "stars": "4-star hotel",
+      "address": "Pawia 18/B, 31-154 Kraków, Poland",
+      "photo": "/hotels/krakow/hotel-mercure-krakow-stare-miasto.jpg"
+    },
+    {
+      "name": "DoubleTree by Hilton Kraków Hotel & Convention Center",
+      "slug": "doubletree-by-hilton-krakow-hotel-convention-center",
+      "rating": 4.6,
+      "reviewCount": 4557,
+      "stars": "4-star hotel",
+      "address": "Dąbska 5, 31-572 Kraków, Poland",
+      "photo": "/hotels/krakow/doubletree-by-hilton-krakow-hotel-convention-center.jpg"
+    },
+    {
+      "name": "Radisson Blu Hotel, Krakow",
+      "slug": "radisson-blu-hotel-krakow",
+      "rating": 4.5,
+      "reviewCount": 3931,
+      "stars": "5-star hotel",
+      "address": "Floriana Straszewskiego 17, 31-101 Kraków, Poland",
+      "photo": "/hotels/krakow/radisson-blu-hotel-krakow.jpg"
+    },
+    {
+      "name": "Holiday Inn Krakow City Centre by IHG",
+      "slug": "holiday-inn-krakow-city-centre-by-ihg",
+      "rating": 4.6,
+      "reviewCount": 2973,
+      "stars": "5-star hotel",
+      "address": "Wielopole 4, 31-072 Kraków, Poland",
+      "photo": "/hotels/krakow/holiday-inn-krakow-city-centre-by-ihg.jpg"
+    },
+    {
+      "name": "Hilton Garden Inn Krakow",
+      "slug": "hilton-garden-inn-krakow",
+      "rating": 4.6,
+      "reviewCount": 2949,
+      "stars": "4-star hotel",
+      "address": "Marii Konopnickiej 33, 30-302 Kraków, Poland",
+      "photo": "/hotels/krakow/hilton-garden-inn-krakow.jpg"
+    },
+    {
+      "name": "Hilton Garden Inn Krakow Airport",
+      "slug": "hilton-garden-inn-krakow-airport",
+      "rating": 4.5,
+      "reviewCount": 2400,
+      "stars": "4-star hotel",
+      "address": "Kapitana Mieczysława Medweckiego 3, 32-083 Balice, Poland",
+      "photo": "/hotels/krakow/hilton-garden-inn-krakow-airport.jpg"
+    },
+    {
+      "name": "Wyndham Grand Krakow Old Town",
+      "slug": "wyndham-grand-krakow-old-town",
+      "rating": 4.7,
+      "reviewCount": 1018,
+      "stars": "5-star hotel",
+      "address": "Floriańska 28, 31-021 Kraków, Poland",
+      "photo": "/hotels/krakow/wyndham-grand-krakow-old-town.jpg"
+    },
+    {
+      "name": "Grand Hotel",
+      "slug": "grand-hotel",
+      "rating": 4.5,
+      "reviewCount": 1385,
+      "stars": "5-star hotel",
+      "address": "Sławkowska 5/7, 31-014 Kraków, Poland",
+      "photo": "/hotels/krakow/grand-hotel.jpg"
+    }
+  ],
+  "north-carolina": [
+    {
+      "name": "Days Inn by Wyndham Charlotte/Woodlawn Near Carowinds",
+      "slug": "days-inn-by-wyndham-charlotte-woodlawn-near-carowinds",
+      "rating": 2.6,
+      "reviewCount": 1120,
+      "stars": "2-star hotel",
+      "address": "118 E Woodlawn Rd, Charlotte, NC 28217",
+      "photo": "/hotels/north-carolina/days-inn-by-wyndham-charlotte-woodlawn-near-carowinds.jpg"
+    }
+  ],
+  "forks": [
+    {
+      "name": "Quileute Oceanside Resort",
+      "slug": "quileute-oceanside-resort",
+      "rating": 4.6,
+      "reviewCount": 1493,
+      "stars": "3-star hotel",
+      "address": "330 Ocean Dr, La Push, WA 98350",
+      "photo": "/hotels/forks/quileute-oceanside-resort.jpg"
+    },
+    {
+      "name": "Red Lion Hotel Port Angeles Harbor",
+      "slug": "red-lion-hotel-port-angeles-harbor",
+      "rating": 3.9,
+      "reviewCount": 2807,
+      "stars": "2-star hotel",
+      "address": "221 N Lincoln St, Port Angeles, WA 98362",
+      "photo": "/hotels/forks/red-lion-hotel-port-angeles-harbor.jpg"
+    },
+    {
+      "name": "3 Rivers Resort & Guide Service",
+      "slug": "3-rivers-resort-guide-service",
+      "rating": 4.4,
+      "reviewCount": 951,
+      "stars": "2-star hotel",
+      "address": "7764 La Push Rd, Forks, WA 98331",
+      "photo": "/hotels/forks/3-rivers-resort-guide-service.jpg"
+    },
+    {
+      "name": "Miller Tree Inn",
+      "slug": "miller-tree-inn",
+      "rating": 4.9,
+      "reviewCount": 371,
+      "stars": "3-star hotel",
+      "address": "654 E Division St, Forks, WA 98331",
+      "photo": "/hotels/forks/miller-tree-inn.jpg"
+    },
+    {
+      "name": "Dew Drop Inn",
+      "slug": "dew-drop-inn",
+      "rating": 4.2,
+      "reviewCount": 479,
+      "stars": "2-star hotel",
+      "address": "100 Fern Hill Rd, Forks, WA 98331",
+      "photo": "/hotels/forks/dew-drop-inn.jpg"
+    },
+    {
+      "name": "Olympic Inn & Suites",
+      "slug": "olympic-inn-suites",
+      "rating": 3.1,
+      "reviewCount": 880,
+      "stars": "2-star hotel",
+      "address": "1510 E Front St, Port Angeles, WA 98362",
+      "photo": "/hotels/forks/olympic-inn-suites.jpg"
+    },
+    {
+      "name": "The Bogi Bear Inn & The Sol Duc Bear Inn",
+      "slug": "the-bogi-bear-inn-the-sol-duc-bear-inn",
+      "rating": 4.8,
+      "reviewCount": 15,
+      "stars": "Hotel",
+      "address": "270 Bogachiel Way, Forks, WA 98331",
+      "photo": "/hotels/forks/the-bogi-bear-inn-the-sol-duc-bear-inn.jpg"
+    }
+  ],
+  "cefalu": [
+    {
+      "name": "Club Med Cefalù - Sicily",
+      "slug": "club-med-cefalu-sicily",
+      "rating": 4.6,
+      "reviewCount": 1534,
+      "stars": "5-star hotel",
+      "address": "Localita Santa Lucia, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/club-med-cefalu-sicily.jpg"
+    },
+    {
+      "name": "Cefalù Sea Palace",
+      "slug": "cefalu-sea-palace",
+      "rating": 4.3,
+      "reviewCount": 1152,
+      "stars": "5-star hotel",
+      "address": "Lungomare Giuseppe Giardina, snc, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/cefalu-sea-palace.jpg"
+    },
+    {
+      "name": "Hotel Le Calette",
+      "slug": "hotel-le-calette",
+      "rating": 4.6,
+      "reviewCount": 691,
+      "stars": "5-star hotel",
+      "address": "V. Angela di Francesca, 1, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/hotel-le-calette.jpg"
+    },
+    {
+      "name": "Artemis Hotel",
+      "slug": "artemis-hotel",
+      "rating": 4.5,
+      "reviewCount": 742,
+      "stars": "4-star hotel",
+      "address": "Via Roma, 101, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/artemis-hotel.jpg"
+    },
+    {
+      "name": "Hotel Alberi del Paradiso - Cefalu",
+      "slug": "hotel-alberi-del-paradiso-cefalu",
+      "rating": 4.7,
+      "reviewCount": 555,
+      "stars": "4-star hotel",
+      "address": "Via dei Mulini, 18/20, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/hotel-alberi-del-paradiso-cefalu.jpg"
+    },
+    {
+      "name": "Hotel Kalura",
+      "slug": "hotel-kalura",
+      "rating": 4.2,
+      "reviewCount": 841,
+      "stars": "4-star hotel",
+      "address": "Via Cavallaro, 13, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/hotel-kalura.jpg"
+    },
+    {
+      "name": "blue bay cefalù",
+      "slug": "blue-bay-cefalu",
+      "rating": 4.7,
+      "reviewCount": 358,
+      "stars": "3-star hotel",
+      "address": "Via Cavallaro, 18, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/blue-bay-cefalu.jpg"
+    },
+    {
+      "name": "Hotel Tourist",
+      "slug": "hotel-tourist",
+      "rating": 4.1,
+      "reviewCount": 856,
+      "stars": "3-star hotel",
+      "address": "Lungomare Giuseppe Giardina, 145, 90015 Cefalù PA, Italy",
+      "photo": "/hotels/cefalu/hotel-tourist.jpg"
+    }
+  ],
+  "new-jersey": [
+    {
+      "name": "Tropicana Atlantic City - A Caesars Rewards Destination",
+      "slug": "tropicana-atlantic-city-a-caesars-rewards-destination",
+      "rating": 4.1,
+      "reviewCount": 35853,
+      "stars": "3-star hotel",
+      "address": "2831 Boardwalk, Atlantic City, NJ 08401",
+      "photo": "/hotels/new-jersey/tropicana-atlantic-city-a-caesars-rewards-destination.jpg"
+    },
+    {
+      "name": "Harrah's Resort Atlantic City - A Caesars Rewards Destination",
+      "slug": "harrah-s-resort-atlantic-city-a-caesars-rewards-destination",
+      "rating": 3.9,
+      "reviewCount": 23100,
+      "stars": "4-star hotel",
+      "address": "777 Harrah's Blvd, Atlantic City, NJ 08401",
+      "photo": "/hotels/new-jersey/harrah-s-resort-atlantic-city-a-caesars-rewards-destination.jpg"
+    },
+    {
+      "name": "Sonesta Simply Suites Jersey City",
+      "slug": "sonesta-simply-suites-jersey-city",
+      "rating": 4.2,
+      "reviewCount": 1445,
+      "stars": "3-star hotel",
+      "address": "21 2nd St, Jersey City, NJ 07302",
+      "photo": "/hotels/new-jersey/sonesta-simply-suites-jersey-city.jpg"
+    },
+    {
+      "name": "DoubleTree by Hilton Hotel Princeton",
+      "slug": "doubletree-by-hilton-hotel-princeton",
+      "rating": 4,
+      "reviewCount": 1770,
+      "stars": "3-star hotel",
+      "address": "4355 US-1, Princeton, NJ 08540",
+      "photo": "/hotels/new-jersey/doubletree-by-hilton-hotel-princeton.jpg"
+    },
+    {
+      "name": "Hilton Garden Inn Hamilton",
+      "slug": "hilton-garden-inn-hamilton",
+      "rating": 4.2,
+      "reviewCount": 1192,
+      "stars": "3-star hotel",
+      "address": "800 US-130, Hamilton Township, NJ 08690",
+      "photo": "/hotels/new-jersey/hilton-garden-inn-hamilton.jpg"
+    },
+    {
+      "name": "Hilton East Brunswick Hotel & Executive Meeting Center",
+      "slug": "hilton-east-brunswick-hotel-executive-meeting-center",
+      "rating": 3.7,
+      "reviewCount": 2985,
+      "stars": "4-star hotel",
+      "address": "3 Tower Center Blvd, East Brunswick, NJ 08816",
+      "photo": "/hotels/new-jersey/hilton-east-brunswick-hotel-executive-meeting-center.jpg"
+    },
+    {
+      "name": "Homewood Suites by Hilton Hamilton, NJ",
+      "slug": "homewood-suites-by-hilton-hamilton-nj",
+      "rating": 4.3,
+      "reviewCount": 898,
+      "stars": "3-star hotel",
+      "address": "960 US-130, Hamilton Township, NJ 08690",
+      "photo": "/hotels/new-jersey/homewood-suites-by-hilton-hamilton-nj.jpg"
+    },
+    {
+      "name": "Holiday Inn & Suites Parsippany Fairfield by IHG",
+      "slug": "holiday-inn-suites-parsippany-fairfield-by-ihg",
+      "rating": 3.9,
+      "reviewCount": 1156,
+      "stars": "3-star hotel",
+      "address": "707 US-46, Parsippany-Troy Hills, NJ 07054",
+      "photo": "/hotels/new-jersey/holiday-inn-suites-parsippany-fairfield-by-ihg.jpg"
+    }
+  ],
+  "abu-dhabi": [
+    {
+      "name": "Emirates Palace Mandarin Oriental",
+      "slug": "emirates-palace-mandarin-oriental",
+      "rating": 4.8,
+      "reviewCount": 32132,
+      "stars": "5-star hotel",
+      "address": "West Corniche Road - Al Ras Al Akhdar - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/emirates-palace-mandarin-oriental.jpg"
+    },
+    {
+      "name": "InterContinental Abu Dhabi by IHG",
+      "slug": "intercontinental-abu-dhabi-by-ihg",
+      "rating": 4.8,
+      "reviewCount": 24347,
+      "stars": "5-star hotel",
+      "address": "King Abdullah Bin Abdulaziz Al Saud St - Al Bateen - W32 - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/intercontinental-abu-dhabi-by-ihg.jpg"
+    },
+    {
+      "name": "Novotel Abu Dhabi Al Bustan",
+      "slug": "novotel-abu-dhabi-al-bustan",
+      "rating": 4.7,
+      "reviewCount": 20886,
+      "stars": "4-star hotel",
+      "address": "Shk. Rashid Bin Saeed - 29 Rabdan St - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/novotel-abu-dhabi-al-bustan.jpg"
+    },
+    {
+      "name": "Rixos Marina Abu Dhabi",
+      "slug": "rixos-marina-abu-dhabi",
+      "rating": 4.8,
+      "reviewCount": 8516,
+      "stars": "5-star hotel",
+      "address": "Marina Mall - Ring Road - Al Kasir - Al Marina - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/rixos-marina-abu-dhabi.jpg"
+    },
+    {
+      "name": "Dusit Thani Abu Dhabi",
+      "slug": "dusit-thani-abu-dhabi",
+      "rating": 4.5,
+      "reviewCount": 9144,
+      "stars": "5-star hotel",
+      "address": "925 Sultan Bin Zayed The First Street (Al Muroor Road) - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/dusit-thani-abu-dhabi.jpg"
+    },
+    {
+      "name": "Four Seasons Hotel Abu Dhabi at Al Maryah Island",
+      "slug": "four-seasons-hotel-abu-dhabi-at-al-maryah-island",
+      "rating": 4.7,
+      "reviewCount": 6176,
+      "stars": "5-star hotel",
+      "address": "Abu Dhabi Global Market - Second St - Al Maryah Island - MI1 - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/four-seasons-hotel-abu-dhabi-at-al-maryah-island.jpg"
+    },
+    {
+      "name": "The Ritz-Carlton Abu Dhabi, Grand Canal",
+      "slug": "the-ritz-carlton-abu-dhabi-grand-canal",
+      "rating": 4.6,
+      "reviewCount": 7363,
+      "stars": "5-star hotel",
+      "address": "Al Rawdah - Al Maqta Area - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/the-ritz-carlton-abu-dhabi-grand-canal.jpg"
+    },
+    {
+      "name": "Millennium Downtown Abu Dhabi",
+      "slug": "millennium-downtown-abu-dhabi",
+      "rating": 4.4,
+      "reviewCount": 8358,
+      "stars": "4-star hotel",
+      "address": "Hamdan Bin Mohammed St - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
+      "photo": "/hotels/abu-dhabi/millennium-downtown-abu-dhabi.jpg"
+    }
+  ],
+  "vatnajokull": [
+    {
+      "name": "Fosshotel Glacier Lagoon",
+      "slug": "fosshotel-glacier-lagoon",
+      "rating": 4.5,
+      "reviewCount": 2547,
+      "stars": "Hotel",
+      "address": "Hnappavellir, 785 Öræfi, Iceland",
+      "photo": "/hotels/vatnajokull/fosshotel-glacier-lagoon.jpg"
+    },
+    {
+      "name": "Hótel Jökulsarlon - Glacier Lagoon Hotel",
+      "slug": "hotel-jokulsarlon-glacier-lagoon-hotel",
+      "rating": 4.7,
+      "reviewCount": 504,
+      "stars": "4-star hotel",
+      "address": "Reynivellir, Efribær, 781 Suðursveit, Iceland",
+      "photo": "/hotels/vatnajokull/hotel-jokulsarlon-glacier-lagoon-hotel.jpg"
+    },
+    {
+      "name": "Hotel Skaftafell",
+      "slug": "hotel-skaftafell",
+      "rating": 4.1,
+      "reviewCount": 937,
+      "stars": "3-star hotel",
+      "address": "Skaftafelli 2 Freysnesi, 785 Öræfi, Iceland",
+      "photo": "/hotels/vatnajokull/hotel-skaftafell.jpg"
+    },
+    {
+      "name": "Fosshotel Vatnajökull",
+      "slug": "fosshotel-vatnajokull",
+      "rating": 4.3,
+      "reviewCount": 650,
+      "stars": "3-star hotel",
+      "address": "Lindarbakki, 781 Höfn, Iceland",
+      "photo": "/hotels/vatnajokull/fosshotel-vatnajokull.jpg"
+    },
+    {
+      "name": "Hotel Jökull",
+      "slug": "hotel-jokull",
+      "rating": 4.2,
+      "reviewCount": 612,
+      "stars": "3-star hotel",
+      "address": "8Q69+QQJ, Nesjum, 781 Höfn, Iceland",
+      "photo": "/hotels/vatnajokull/hotel-jokull.jpg"
+    },
+    {
+      "name": "Adventure Hotel Hof",
+      "slug": "adventure-hotel-hof",
+      "rating": 3.9,
+      "reviewCount": 914,
+      "stars": "Hotel",
+      "address": "Hof 1, 785, Iceland",
+      "photo": "/hotels/vatnajokull/adventure-hotel-hof.jpg"
+    },
+    {
+      "name": "Höfn - Berjaya Iceland Hotels",
+      "slug": "hofn-berjaya-iceland-hotels",
+      "rating": 4.2,
+      "reviewCount": 455,
+      "stars": "3-star hotel",
+      "address": "Ránarslóð 3, 780 Höfn, Iceland",
+      "photo": "/hotels/vatnajokull/hofn-berjaya-iceland-hotels.jpg"
+    },
+    {
+      "name": "Lambhus Glacier View Cabins by Vatnajökull National Park",
+      "slug": "lambhus-glacier-view-cabins-by-vatnajokull-national-park",
+      "rating": 4.7,
+      "reviewCount": 214,
+      "stars": "Hotel",
+      "address": "Iceland, 781 Höfn, Iceland",
+      "photo": "/hotels/vatnajokull/lambhus-glacier-view-cabins-by-vatnajokull-national-park.jpg"
+    }
+  ],
+  "atlanta": [
+    {
+      "name": "Atlanta Marriott Marquis",
+      "slug": "atlanta-marriott-marquis",
+      "rating": 4.2,
+      "reviewCount": 14743,
+      "stars": "4-star hotel",
+      "address": "265 Peachtree Center Ave NE, Atlanta, GA 30303",
+      "photo": "/hotels/atlanta/atlanta-marriott-marquis.jpg"
+    },
+    {
+      "name": "Omni Atlanta Hotel at Centennial Park",
+      "slug": "omni-atlanta-hotel-at-centennial-park",
+      "rating": 4.2,
+      "reviewCount": 12600,
+      "stars": "4-star hotel",
+      "address": "190 Marietta St NW, Atlanta, GA 30303",
+      "photo": "/hotels/atlanta/omni-atlanta-hotel-at-centennial-park.jpg"
+    },
+    {
+      "name": "The Westin Peachtree Plaza, Atlanta",
+      "slug": "the-westin-peachtree-plaza-atlanta",
+      "rating": 4.2,
+      "reviewCount": 11380,
+      "stars": "4-star hotel",
+      "address": "210 Peachtree St NW, Atlanta, GA 30303",
+      "photo": "/hotels/atlanta/the-westin-peachtree-plaza-atlanta.jpg"
+    },
+    {
+      "name": "Hilton Atlanta",
+      "slug": "hilton-atlanta",
+      "rating": 4,
+      "reviewCount": 10722,
+      "stars": "4-star hotel",
+      "address": "255 Courtland St NE, Atlanta, GA 30303",
+      "photo": "/hotels/atlanta/hilton-atlanta.jpg"
+    },
+    {
+      "name": "Courtland Grand Hotel",
+      "slug": "courtland-grand-hotel",
+      "rating": 3.7,
+      "reviewCount": 8076,
+      "stars": "4-star hotel",
+      "address": "165 Courtland St NE, Atlanta, GA 30303",
+      "photo": "/hotels/atlanta/courtland-grand-hotel.jpg"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Atlanta Airport North",
+      "slug": "la-quinta-inn-suites-by-wyndham-atlanta-airport-north",
+      "rating": 3.9,
+      "reviewCount": 3462,
+      "stars": "2-star hotel",
+      "address": "1200 Virginia Ave, Atlanta, GA 30344",
+      "photo": "/hotels/atlanta/la-quinta-inn-suites-by-wyndham-atlanta-airport-north.jpg"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Atlanta Downtown by IHG",
+      "slug": "holiday-inn-express-suites-atlanta-downtown-by-ihg",
+      "rating": 3.9,
+      "reviewCount": 2278,
+      "stars": "2-star hotel",
+      "address": "111 Cone St NW, Atlanta, GA 30303",
+      "photo": "/hotels/atlanta/holiday-inn-express-suites-atlanta-downtown-by-ihg.jpg"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Atlanta Buckhead by IHG",
+      "slug": "holiday-inn-express-suites-atlanta-buckhead-by-ihg",
+      "rating": 4.1,
+      "reviewCount": 1203,
+      "stars": "3-star hotel",
+      "address": "800 Sidney Marcus Blvd NE, Atlanta, GA 30324",
+      "photo": "/hotels/atlanta/holiday-inn-express-suites-atlanta-buckhead-by-ihg.jpg"
+    }
+  ],
+  "montana": [
+    {
+      "name": "Montage Big Sky",
+      "slug": "montage-big-sky",
+      "rating": 4.7,
+      "reviewCount": 476,
+      "stars": "5-star hotel",
+      "address": "995 Settlement Trail, Big Sky, MT 59716",
+      "photo": "/hotels/montana/montage-big-sky.jpg"
+    },
+    {
+      "name": "The Wren",
+      "slug": "the-wren",
+      "rating": 4.8,
+      "reviewCount": 213,
+      "stars": "2-star hotel",
+      "address": "201 E Main St, Missoula, MT 59802",
+      "photo": "/hotels/montana/the-wren.jpg"
+    }
+  ],
+  "bali": [
+    {
+      "name": "The Anvaya Beach Resort Bali",
+      "slug": "the-anvaya-beach-resort-bali",
+      "rating": 4.7,
+      "reviewCount": 14732,
+      "stars": "5-star hotel",
+      "address": "Jl. Kartika Plaza, Tuban, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+      "photo": "/hotels/bali/the-anvaya-beach-resort-bali.jpg"
+    },
+    {
+      "name": "AYANA Resort Bali",
+      "slug": "ayana-resort-bali",
+      "rating": 4.7,
+      "reviewCount": 11521,
+      "stars": "5-star hotel",
+      "address": "Jl. Karang Mas Sejahtera, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia",
+      "photo": "/hotels/bali/ayana-resort-bali.jpg"
+    },
+    {
+      "name": "Hilton Bali Resort",
+      "slug": "hilton-bali-resort",
+      "rating": 4.6,
+      "reviewCount": 10709,
+      "stars": "5-star hotel",
+      "address": "Jl. Raya Nusa Dua Selatan, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",
+      "photo": "/hotels/bali/hilton-bali-resort.jpg"
+    },
+    {
+      "name": "Hard Rock Hotel Bali",
+      "slug": "hard-rock-hotel-bali",
+      "rating": 4.6,
+      "reviewCount": 9923,
+      "stars": "5-star hotel",
+      "address": "Jl. Pantai Kuta, Banjar Pande Mas, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+      "photo": "/hotels/bali/hard-rock-hotel-bali.jpg"
+    },
+    {
+      "name": "Grand Hyatt Bali",
+      "slug": "grand-hyatt-bali",
+      "rating": 4.5,
+      "reviewCount": 8889,
+      "stars": "5-star hotel",
+      "address": "Kawasan Wisata Nusa Dua ITDC, Benoa, South Kuta, Bali, 80363, Indonesia",
+      "photo": "/hotels/bali/grand-hyatt-bali.jpg"
+    },
+    {
+      "name": "The St. Regis Bali Resort",
+      "slug": "the-st-regis-bali-resort",
+      "rating": 4.8,
+      "reviewCount": 2786,
+      "stars": "5-star hotel",
+      "address": "Jl. Raya Nusa Dua Selatan, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80363, Indonesia",
+      "photo": "/hotels/bali/the-st-regis-bali-resort.jpg"
+    },
+    {
+      "name": "The Seminyak Beach Resort & Spa",
+      "slug": "the-seminyak-beach-resort-spa",
+      "rating": 4.8,
+      "reviewCount": 2747,
+      "stars": "5-star hotel",
+      "address": "8573+VJ8, Jl. Kayu Aya, Pantai, Seminyak, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+      "photo": "/hotels/bali/the-seminyak-beach-resort-spa.jpg"
+    },
+    {
+      "name": "The Kayon Jungle Resort",
+      "slug": "the-kayon-jungle-resort",
+      "rating": 4.8,
+      "reviewCount": 2467,
+      "stars": "5-star hotel",
+      "address": "Br, Bresela, Kec. Payangan, Kabupaten Gianyar, Bali 80572, Indonesia",
+      "photo": "/hotels/bali/the-kayon-jungle-resort.jpg"
+    }
+  ],
+  "bruges": [
+    {
+      "name": "Grand Hotel Casselbergh",
+      "slug": "grand-hotel-casselbergh",
+      "rating": 4.7,
+      "reviewCount": 2445,
+      "stars": "4-star hotel",
+      "address": "Hoogstraat 6, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/grand-hotel-casselbergh.jpg"
+    },
+    {
+      "name": "Hotel Dukes' Palace",
+      "slug": "hotel-dukes-palace",
+      "rating": 4.7,
+      "reviewCount": 2407,
+      "stars": "5-star hotel",
+      "address": "Prinsenhof 8, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/hotel-dukes-palace.jpg"
+    },
+    {
+      "name": "Dukes Academie Bruges",
+      "slug": "dukes-academie-bruges",
+      "rating": 4.6,
+      "reviewCount": 2112,
+      "stars": "4-star hotel",
+      "address": "Wijngaardstraat 7/9, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/dukes-academie-bruges.jpg"
+    },
+    {
+      "name": "Martin's Brugge",
+      "slug": "martin-s-brugge",
+      "rating": 4.2,
+      "reviewCount": 3369,
+      "stars": "3-star hotel",
+      "address": "Oude Burg 5, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/martin-s-brugge.jpg"
+    },
+    {
+      "name": "Hotel Navarra Brugge",
+      "slug": "hotel-navarra-brugge",
+      "rating": 4.6,
+      "reviewCount": 1450,
+      "stars": "4-star hotel",
+      "address": "Sint-Jakobsstraat 41, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/hotel-navarra-brugge.jpg"
+    },
+    {
+      "name": "Hotel Ter Brughe",
+      "slug": "hotel-ter-brughe",
+      "rating": 4.5,
+      "reviewCount": 1450,
+      "stars": "4-star hotel",
+      "address": "Oost-Gistelhof 2, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/hotel-ter-brughe.jpg"
+    },
+    {
+      "name": "Radisson Blu Hotel, Bruges",
+      "slug": "radisson-blu-hotel-bruges",
+      "rating": 4.3,
+      "reviewCount": 1200,
+      "stars": "4-star hotel",
+      "address": "Frank Van Ackerpromenade 17, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/radisson-blu-hotel-bruges.jpg"
+    },
+    {
+      "name": "Hotel Heritage - Relais & Chateaux",
+      "slug": "hotel-heritage-relais-chateaux",
+      "rating": 4.7,
+      "reviewCount": 646,
+      "stars": "5-star hotel",
+      "address": "Niklaas Desparsstraat 11, 8000 Brugge, Belgium",
+      "photo": "/hotels/bruges/hotel-heritage-relais-chateaux.jpg"
+    }
+  ],
+  "las-vegas": [
+    {
+      "name": "Wynn Las Vegas",
+      "slug": "wynn-las-vegas",
+      "rating": 4.7,
+      "reviewCount": 65872,
+      "stars": "5-star hotel",
+      "address": "3131 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "photo": "/hotels/las-vegas/wynn-las-vegas.jpg"
+    },
+    {
+      "name": "Golden Nugget Las Vegas Hotel & Casino",
+      "slug": "golden-nugget-las-vegas-hotel-casino",
+      "rating": 4.3,
+      "reviewCount": 53738,
+      "stars": "4-star hotel",
+      "address": "129 E Fremont St, Las Vegas, NV 89101",
+      "photo": "/hotels/las-vegas/golden-nugget-las-vegas-hotel-casino.jpg"
+    },
+    {
+      "name": "Treasure Island - TI Las Vegas Hotel & Casino",
+      "slug": "treasure-island-ti-las-vegas-hotel-casino",
+      "rating": 4.2,
+      "reviewCount": 63128,
+      "stars": "4-star hotel",
+      "address": "3300 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "photo": "/hotels/las-vegas/treasure-island-ti-las-vegas-hotel-casino.jpg"
+    },
+    {
+      "name": "The STRAT Hotel, Casino & Tower",
+      "slug": "the-strat-hotel-casino-tower",
+      "rating": 4,
+      "reviewCount": 64088,
+      "stars": "3-star hotel",
+      "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+      "photo": "/hotels/las-vegas/the-strat-hotel-casino-tower.jpg"
+    },
+    {
+      "name": "Circus Circus Hotel and Casino",
+      "slug": "circus-circus-hotel-and-casino",
+      "rating": 3.8,
+      "reviewCount": 78668,
+      "stars": "3-star hotel",
+      "address": "2880 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "photo": "/hotels/las-vegas/circus-circus-hotel-and-casino.jpg"
+    },
+    {
+      "name": "Rio Hotel & Casino",
+      "slug": "rio-hotel-casino",
+      "rating": 3.8,
+      "reviewCount": 47331,
+      "stars": "4-star hotel",
+      "address": "3700 W Flamingo Rd, Las Vegas, NV 89103",
+      "photo": "/hotels/las-vegas/rio-hotel-casino.jpg"
+    },
+    {
+      "name": "Westgate Las Vegas Resort & Casino",
+      "slug": "westgate-las-vegas-resort-casino",
+      "rating": 4,
+      "reviewCount": 27348,
+      "stars": "4-star hotel",
+      "address": "3000 Paradise Rd, Las Vegas, NV 89109",
+      "photo": "/hotels/las-vegas/westgate-las-vegas-resort-casino.jpg"
+    },
+    {
+      "name": "Fontainebleau Las Vegas",
+      "slug": "fontainebleau-las-vegas",
+      "rating": 4.4,
+      "reviewCount": 9935,
+      "stars": "5-star hotel",
+      "address": "2777 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "photo": "/hotels/las-vegas/fontainebleau-las-vegas.jpg"
+    }
+  ],
+  "mexico-city": [
+    {
+      "name": "Hilton Mexico City Reforma",
+      "slug": "hilton-mexico-city-reforma",
+      "rating": 4.7,
+      "reviewCount": 19901,
+      "stars": "4-star hotel",
+      "address": "Av. Juárez 70, Colonia Centro, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/hilton-mexico-city-reforma.jpg"
+    },
+    {
+      "name": "Gran Hotel Ciudad de México",
+      "slug": "gran-hotel-ciudad-de-mexico",
+      "rating": 4.7,
+      "reviewCount": 11198,
+      "stars": "4-star hotel",
+      "address": "16 de Septiembre 82, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/gran-hotel-ciudad-de-mexico.jpg"
+    },
+    {
+      "name": "Four Seasons Hotel Mexico City",
+      "slug": "four-seasons-hotel-mexico-city",
+      "rating": 4.7,
+      "reviewCount": 11136,
+      "stars": "5-star hotel",
+      "address": "Av. P.º de la Reforma 500, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/four-seasons-hotel-mexico-city.jpg"
+    },
+    {
+      "name": "Sheraton Maria Isabel Mexico City Reforma",
+      "slug": "sheraton-maria-isabel-mexico-city-reforma",
+      "rating": 4.5,
+      "reviewCount": 12460,
+      "stars": "5-star hotel",
+      "address": "Av. P.º de la Reforma 325, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/sheraton-maria-isabel-mexico-city-reforma.jpg"
+    },
+    {
+      "name": "Mexico City Marriott Reforma Hotel",
+      "slug": "mexico-city-marriott-reforma-hotel",
+      "rating": 4.6,
+      "reviewCount": 9821,
+      "stars": "4-star hotel",
+      "address": "Av. P.º de la Reforma 276, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/mexico-city-marriott-reforma-hotel.jpg"
+    },
+    {
+      "name": "Camino Real Airport Mexico",
+      "slug": "camino-real-airport-mexico",
+      "rating": 4.3,
+      "reviewCount": 13388,
+      "stars": "4-star hotel",
+      "address": "Puerto México 80, Peñón de los Baños, Venustiano Carranza, 15520 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/camino-real-airport-mexico.jpg"
+    },
+    {
+      "name": "Hotel Emporio Ciudad de México",
+      "slug": "hotel-emporio-ciudad-de-mexico",
+      "rating": 4.5,
+      "reviewCount": 7969,
+      "stars": "5-star hotel",
+      "address": "Av. P.º de la Reforma 124, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/hotel-emporio-ciudad-de-mexico.jpg"
+    },
+    {
+      "name": "Hotel Geneve Mexico City",
+      "slug": "hotel-geneve-mexico-city",
+      "rating": 4.5,
+      "reviewCount": 7804,
+      "stars": "5-star hotel",
+      "address": "Londres 130, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "photo": "/hotels/mexico-city/hotel-geneve-mexico-city.jpg"
+    }
+  ],
+  "verona": [
+    {
+      "name": "Hotel Milano & SPA",
+      "slug": "hotel-milano-spa",
+      "rating": 4.7,
+      "reviewCount": 2064,
+      "stars": "3-star hotel",
+      "address": "Via Tre Marchetti, 11, 37121 Verona VR, Italy",
+      "photo": "/hotels/verona/hotel-milano-spa.jpg"
+    },
+    {
+      "name": "Best Western CTC Hotel Verona",
+      "slug": "best-western-ctc-hotel-verona",
+      "rating": 4.3,
+      "reviewCount": 3405,
+      "stars": "4-star hotel",
+      "address": "Via Monte Pastello, 28, 37057 San Giovanni Lupatoto VR, Italy",
+      "photo": "/hotels/verona/best-western-ctc-hotel-verona.jpg"
+    },
+    {
+      "name": "B&B HOTEL Verona",
+      "slug": "b-b-hotel-verona",
+      "rating": 4.2,
+      "reviewCount": 3262,
+      "stars": "3-star hotel",
+      "address": "Via Enrico Fermi, 13/B, 37135 Verona VR, Italy",
+      "photo": "/hotels/verona/b-b-hotel-verona.jpg"
+    },
+    {
+      "name": "Crowne Plaza Verona - Fiera, an IHG Hotel",
+      "slug": "crowne-plaza-verona-fiera-an-ihg-hotel",
+      "rating": 4.3,
+      "reviewCount": 2357,
+      "stars": "4-star hotel",
+      "address": "Via Belgio, 16, 37135 Verona VR, Italy",
+      "photo": "/hotels/verona/crowne-plaza-verona-fiera-an-ihg-hotel.jpg"
+    },
+    {
+      "name": "Hotel Leon d'Oro",
+      "slug": "hotel-leon-d-oro",
+      "rating": 4.1,
+      "reviewCount": 2720,
+      "stars": "4-star hotel",
+      "address": "V.le del Piave, 5, 37135 Verona VR, Italy",
+      "photo": "/hotels/verona/hotel-leon-d-oro.jpg"
+    },
+    {
+      "name": "Hotel Indigo Verona - Grand Hotel Des Arts, an IHG Hotel",
+      "slug": "hotel-indigo-verona-grand-hotel-des-arts-an-ihg-hotel",
+      "rating": 4.5,
+      "reviewCount": 1163,
+      "stars": "4-star hotel",
+      "address": "Corso Porta Nuova, 105, 37122 Verona VR, Italy",
+      "photo": "/hotels/verona/hotel-indigo-verona-grand-hotel-des-arts-an-ihg-hotel.jpg"
+    },
+    {
+      "name": "Hotel San Marco Fitness Pool & SPA",
+      "slug": "hotel-san-marco-fitness-pool-spa",
+      "rating": 4.1,
+      "reviewCount": 1832,
+      "stars": "4-star hotel",
+      "address": "Via Baldassarre Longhena, 42, 37138 Verona VR, Italy",
+      "photo": "/hotels/verona/hotel-san-marco-fitness-pool-spa.jpg"
+    },
+    {
+      "name": "Leonardo Hotel Verona",
+      "slug": "leonardo-hotel-verona",
+      "rating": 4.3,
+      "reviewCount": 1280,
+      "stars": "3-star hotel",
+      "address": "Via Enrico Fermi, 11 C, 37135 Verona VR, Italy",
+      "photo": "/hotels/verona/leonardo-hotel-verona.jpg"
+    }
+  ],
+  "provence": [
+    {
+      "name": "The Maybourne Riviera",
+      "slug": "the-maybourne-riviera",
+      "rating": 4.6,
+      "reviewCount": 1140,
+      "stars": "5-star tourist hotel",
+      "address": "1551 Rte de la Turbie, 06190 Roquebrune-Cap-Martin, France",
+      "photo": "/hotels/provence/the-maybourne-riviera.jpg"
+    },
+    {
+      "name": "Le Moulin, Lourmarin, a Beaumier Hotel",
+      "slug": "le-moulin-lourmarin-a-beaumier-hotel",
+      "rating": 4.4,
+      "reviewCount": 662,
+      "stars": "4-star tourist hotel",
+      "address": "Av. Raoul Dautry, 84160 Lourmarin, France",
+      "photo": "/hotels/provence/le-moulin-lourmarin-a-beaumier-hotel.jpg"
+    },
+    {
+      "name": "Chateau Le Cagnard",
+      "slug": "chateau-le-cagnard",
+      "rating": 4.5,
+      "reviewCount": 501,
+      "stars": "4-star tourist hotel",
+      "address": "54 Rue sous Barri, 06800 Cagnes-sur-Mer, France",
+      "photo": "/hotels/provence/chateau-le-cagnard.jpg"
+    },
+    {
+      "name": "Cap d'Antibes Beach Hotel",
+      "slug": "cap-d-antibes-beach-hotel",
+      "rating": 4.4,
+      "reviewCount": 450,
+      "stars": "5-star tourist hotel",
+      "address": "10 Bd Maréchal Juin, 06160 Antibes, France",
+      "photo": "/hotels/provence/cap-d-antibes-beach-hotel.jpg"
+    },
+    {
+      "name": "Domaine la Pierre Blanche",
+      "slug": "domaine-la-pierre-blanche",
+      "rating": 4.7,
+      "reviewCount": 263,
+      "stars": "4-star tourist hotel",
+      "address": "Hotel Domaine la Pierre Blanche, 2950 Rte d'Orgon, 13810 Eygalières, France",
+      "photo": "/hotels/provence/domaine-la-pierre-blanche.jpg"
+    },
+    {
+      "name": "Hotel Restaurant Benvengudo",
+      "slug": "hotel-restaurant-benvengudo",
+      "rating": 4.6,
+      "reviewCount": 285,
+      "stars": "4-star tourist hotel",
+      "address": "1800 Route d'Arles, 13520 Les Baux-de-Provence, France",
+      "photo": "/hotels/provence/hotel-restaurant-benvengudo.jpg"
+    },
+    {
+      "name": "Hôtel Le Saint Laurent",
+      "slug": "hotel-le-saint-laurent",
+      "rating": 4.8,
+      "reviewCount": 205,
+      "stars": "Hotel",
+      "address": "1 Pl. de l'Arbre, 30126 Saint-Laurent-des-Arbres, France",
+      "photo": "/hotels/provence/hotel-le-saint-laurent.jpg"
+    },
+    {
+      "name": "Hôtel & Spa des Gorges du Verdon",
+      "slug": "hotel-spa-des-gorges-du-verdon",
+      "rating": 4.2,
+      "reviewCount": 453,
+      "stars": "4-star tourist hotel",
+      "address": "50 Chem. de Boulogne, 04120 La Palud-sur-Verdon, France",
+      "photo": "/hotels/provence/hotel-spa-des-gorges-du-verdon.jpg"
+    }
+  ],
+  "kefalonia": [
+    {
+      "name": "Mediterranee Hotel",
+      "slug": "mediterranee-hotel",
+      "rating": 4.5,
+      "reviewCount": 1010,
+      "stars": "4-star hotel",
+      "address": "Argostolion 281 00, Greece",
+      "photo": "/hotels/kefalonia/mediterranee-hotel.jpg"
+    },
+    {
+      "name": "Mouikis Hotel Kefalonia",
+      "slug": "mouikis-hotel-kefalonia",
+      "rating": 4.5,
+      "reviewCount": 723,
+      "stars": "3-star hotel",
+      "address": "Vironos 3, Argostoli 281 00, Greece",
+      "photo": "/hotels/kefalonia/mouikis-hotel-kefalonia.jpg"
+    },
+    {
+      "name": "White Rocks Hotel Kefalonia",
+      "slug": "white-rocks-hotel-kefalonia",
+      "rating": 4.6,
+      "reviewCount": 621,
+      "stars": "4-star hotel",
+      "address": "Πλατύς Γιαλός 281 00, Greece",
+      "photo": "/hotels/kefalonia/white-rocks-hotel-kefalonia.jpg"
+    },
+    {
+      "name": "Tourist Boutique Hotel",
+      "slug": "tourist-boutique-hotel",
+      "rating": 4.5,
+      "reviewCount": 580,
+      "stars": "2-star hotel",
+      "address": "Leof. Antoni Tritsi 109, Argostoli 281 00, Greece",
+      "photo": "/hotels/kefalonia/tourist-boutique-hotel.jpg"
+    },
+    {
+      "name": "Kefalonia Grand Hotel",
+      "slug": "kefalonia-grand-hotel",
+      "rating": 4.4,
+      "reviewCount": 663,
+      "stars": "4-star hotel",
+      "address": "Leof. Antoni Tritsi 82, Argostoli 281 00, Greece",
+      "photo": "/hotels/kefalonia/kefalonia-grand-hotel.jpg"
+    },
+    {
+      "name": "Avithos Resort Kefalonia",
+      "slug": "avithos-resort-kefalonia",
+      "rating": 4.7,
+      "reviewCount": 360,
+      "stars": "4-star hotel",
+      "address": "Svoronata 280 83, Greece",
+      "photo": "/hotels/kefalonia/avithos-resort-kefalonia.jpg"
+    },
+    {
+      "name": "Emelisse",
+      "slug": "emelisse",
+      "rating": 4.6,
+      "reviewCount": 381,
+      "stars": "5-star hotel",
+      "address": "Fiskardo 280 84, Greece",
+      "photo": "/hotels/kefalonia/emelisse.jpg"
+    },
+    {
+      "name": "Aenos Hotel",
+      "slug": "aenos-hotel",
+      "rating": 4.5,
+      "reviewCount": 370,
+      "stars": "4-star hotel",
+      "address": "Pl. Vallianou, Argostoli 281 00, Greece",
+      "photo": "/hotels/kefalonia/aenos-hotel.jpg"
+    }
+  ],
+  "astoria": [
+    {
+      "name": "Norblad Hotel",
+      "slug": "norblad-hotel",
+      "rating": 4.6,
+      "reviewCount": 982,
+      "stars": "2-star hotel",
+      "address": "443 14th St, Astoria, OR 97103",
+      "photo": "/hotels/astoria/norblad-hotel.jpg"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Astoria, an IHG Hotel",
+      "slug": "holiday-inn-express-suites-astoria-an-ihg-hotel",
+      "rating": 4.4,
+      "reviewCount": 1136,
+      "stars": "3-star hotel",
+      "address": "204 W Marine Dr, Astoria, OR 97103",
+      "photo": "/hotels/astoria/holiday-inn-express-suites-astoria-an-ihg-hotel.jpg"
+    },
+    {
+      "name": "Lloyd Hotel Astoria Bayfront, an Ascend Collection Hotel",
+      "slug": "lloyd-hotel-astoria-bayfront-an-ascend-collection-hotel",
+      "rating": 4.3,
+      "reviewCount": 1261,
+      "stars": "3-star hotel",
+      "address": "555 Hamburg Ave, Astoria, OR 97103",
+      "photo": "/hotels/astoria/lloyd-hotel-astoria-bayfront-an-ascend-collection-hotel.jpg"
+    },
+    {
+      "name": "Hampton Inn & Suites Astoria",
+      "slug": "hampton-inn-suites-astoria",
+      "rating": 4.2,
+      "reviewCount": 1070,
+      "stars": "4-star hotel",
+      "address": "201 39th St, Astoria, OR 97103",
+      "photo": "/hotels/astoria/hampton-inn-suites-astoria.jpg"
+    },
+    {
+      "name": "Astoria Riverwalk Inn",
+      "slug": "astoria-riverwalk-inn",
+      "rating": 4,
+      "reviewCount": 1489,
+      "stars": "2-star hotel",
+      "address": "400 Industry St, Astoria, OR 97103",
+      "photo": "/hotels/astoria/astoria-riverwalk-inn.jpg"
+    },
+    {
+      "name": "Bowline Hotel",
+      "slug": "bowline-hotel",
+      "rating": 4.5,
+      "reviewCount": 460,
+      "stars": "4-star hotel",
+      "address": "1 9th St, Astoria, OR 97103",
+      "photo": "/hotels/astoria/bowline-hotel.jpg"
+    },
+    {
+      "name": "Selina Commodore Astoria",
+      "slug": "selina-commodore-astoria",
+      "rating": 4.2,
+      "reviewCount": 403,
+      "stars": "3-star hotel",
+      "address": "258 14th St, Astoria, OR 97103",
+      "photo": "/hotels/astoria/selina-commodore-astoria.jpg"
+    },
+    {
+      "name": "Astoria Rivershore Motel",
+      "slug": "astoria-rivershore-motel",
+      "rating": 3.7,
+      "reviewCount": 647,
+      "stars": "2-star hotel",
+      "address": "59 W Marine Dr, Astoria, OR 97103",
+      "photo": "/hotels/astoria/astoria-rivershore-motel.jpg"
+    }
+  ],
+  "marthas-vineyard": [
+    {
+      "name": "Harbor View Hotel",
+      "slug": "harbor-view-hotel",
+      "rating": 4.5,
+      "reviewCount": 777,
+      "stars": "5-star hotel",
+      "address": "Harbor View Hotel, 131 N Water St, Edgartown, MA 02539",
+      "photo": "/hotels/marthas-vineyard/harbor-view-hotel.jpg"
+    },
+    {
+      "name": "The Dockside Inn",
+      "slug": "the-dockside-inn",
+      "rating": 4.7,
+      "reviewCount": 153,
+      "stars": "Hotel",
+      "address": "9 Circuit Avenue Extension, Oak Bluffs, MA 02557",
+      "photo": "/hotels/marthas-vineyard/the-dockside-inn.jpg"
+    },
+    {
+      "name": "Vineyard Square Hotel & Suites",
+      "slug": "vineyard-square-hotel-suites",
+      "rating": 4.7,
+      "reviewCount": 148,
+      "stars": "3-star hotel",
+      "address": "38 N Water St, Edgartown, MA 02539",
+      "photo": "/hotels/marthas-vineyard/vineyard-square-hotel-suites.jpg"
+    },
+    {
+      "name": "Madison Inn",
+      "slug": "madison-inn",
+      "rating": 4.8,
+      "reviewCount": 125,
+      "stars": "2-star hotel",
+      "address": "18 Kennebec Ave, Oak Bluffs, MA 02557",
+      "photo": "/hotels/marthas-vineyard/madison-inn.jpg"
+    },
+    {
+      "name": "Pequot Hotel",
+      "slug": "pequot-hotel",
+      "rating": 4.5,
+      "reviewCount": 174,
+      "stars": "3-star hotel",
+      "address": "19 Pequot Ave, Oak Bluffs, MA 02557",
+      "photo": "/hotels/marthas-vineyard/pequot-hotel.jpg"
+    },
+    {
+      "name": "Martha's Vineyard Surfside Hotel",
+      "slug": "martha-s-vineyard-surfside-hotel",
+      "rating": 4.2,
+      "reviewCount": 147,
+      "stars": "2-star hotel",
+      "address": "7 Oak Bluffs Ave, Oak Bluffs, MA 02557",
+      "photo": "/hotels/marthas-vineyard/martha-s-vineyard-surfside-hotel.jpg"
+    },
+    {
+      "name": "HI Martha's Vineyard Hostel",
+      "slug": "hi-martha-s-vineyard-hostel",
+      "rating": 4.5,
+      "reviewCount": 100,
+      "stars": "2-star hotel",
+      "address": "525 Edgartown - West Tisbury Rd, West Tisbury, MA 02575",
+      "photo": "/hotels/marthas-vineyard/hi-martha-s-vineyard-hostel.jpg"
+    },
+    {
+      "name": "The Attleboro House",
+      "slug": "the-attleboro-house",
+      "rating": 4.8,
+      "reviewCount": 50,
+      "stars": "Guest house",
+      "address": "42 Lake Ave, Oak Bluffs, MA 02557",
+      "photo": "/hotels/marthas-vineyard/the-attleboro-house.jpg"
+    }
+  ],
+  "virginia": [
+    {
+      "name": "The Omni Homestead Resort & Spa",
+      "slug": "the-omni-homestead-resort-spa",
+      "rating": 4.3,
+      "reviewCount": 3735,
+      "stars": "4-star hotel",
+      "address": "7696 Sam Snead Hwy, Hot Springs, VA 24445",
+      "photo": "/hotels/virginia/the-omni-homestead-resort-spa.jpg"
+    },
+    {
+      "name": "Iris Inn & Cabins",
+      "slug": "iris-inn-cabins",
+      "rating": 4.9,
+      "reviewCount": 403,
+      "stars": "4-star hotel",
+      "address": "191 Chinquapin Dr, Waynesboro, VA 22980",
+      "photo": "/hotels/virginia/iris-inn-cabins.jpg"
+    }
+  ],
+  "fiji": [
+    {
+      "name": "Shangri-La Yanuca Island, Fiji",
+      "slug": "shangri-la-yanuca-island-fiji",
+      "rating": 4.4,
+      "reviewCount": 5370,
+      "stars": "5-star hotel",
+      "address": "Yanuca Island Coral Coast Fiji Islands, Fiji",
+      "photo": "/hotels/fiji/shangri-la-yanuca-island-fiji.jpg"
+    },
+    {
+      "name": "Sofitel Fiji Resort and Spa",
+      "slug": "sofitel-fiji-resort-and-spa",
+      "rating": 4.5,
+      "reviewCount": 3522,
+      "stars": "5-star hotel",
+      "address": "Beachfront, Denarau Island, Fiji",
+      "photo": "/hotels/fiji/sofitel-fiji-resort-and-spa.jpg"
+    },
+    {
+      "name": "InterContinental Fiji Golf Resort & Spa by IHG",
+      "slug": "intercontinental-fiji-golf-resort-spa-by-ihg",
+      "rating": 4.6,
+      "reviewCount": 2185,
+      "stars": "5-star hotel",
+      "address": "Natadola Bay, Maro Road, Natadola, Fiji",
+      "photo": "/hotels/fiji/intercontinental-fiji-golf-resort-spa-by-ihg.jpg"
+    },
+    {
+      "name": "Fiji Marriott Resort Momi Bay",
+      "slug": "fiji-marriott-resort-momi-bay",
+      "rating": 4.5,
+      "reviewCount": 2553,
+      "stars": "5-star hotel",
+      "address": "Savusavu Road Momi Bay, Nadi, Fiji",
+      "photo": "/hotels/fiji/fiji-marriott-resort-momi-bay.jpg"
+    },
+    {
+      "name": "Sheraton Fiji Golf & Beach Resort",
+      "slug": "sheraton-fiji-golf-beach-resort",
+      "rating": 4.4,
+      "reviewCount": 2323,
+      "stars": "5-star hotel",
+      "address": "Denarau Island South, Denarau Island, Fiji",
+      "photo": "/hotels/fiji/sheraton-fiji-golf-beach-resort.jpg"
+    },
+    {
+      "name": "Radisson Blu Resort, Fiji Denarau Island",
+      "slug": "radisson-blu-resort-fiji-denarau-island",
+      "rating": 4.4,
+      "reviewCount": 2149,
+      "stars": "5-star hotel",
+      "address": "Resort Dr, Denarau Island, Fiji",
+      "photo": "/hotels/fiji/radisson-blu-resort-fiji-denarau-island.jpg"
+    },
+    {
+      "name": "Hilton Fiji Beach Resort and Spa",
+      "slug": "hilton-fiji-beach-resort-and-spa",
+      "rating": 4.2,
+      "reviewCount": 2909,
+      "stars": "5-star hotel",
+      "address": "Denarau Island, Fiji",
+      "photo": "/hotels/fiji/hilton-fiji-beach-resort-and-spa.jpg"
+    },
+    {
+      "name": "Fiji Gateway Hotel",
+      "slug": "fiji-gateway-hotel",
+      "rating": 4.3,
+      "reviewCount": 1661,
+      "stars": "3-star hotel",
+      "address": "Fiji Islands, Queens Road, Nadi Airport, Fiji",
+      "photo": "/hotels/fiji/fiji-gateway-hotel.jpg"
+    }
+  ],
   "namibia": []
 }

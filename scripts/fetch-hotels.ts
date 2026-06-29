@@ -21,6 +21,7 @@ if (!TOKEN) {
 }
 const PER = 11; // places crawled per destination (billed)
 const STOP_AT_USD = 30; // runaway backstop (paid plan has headroom)
+const RADIUS_KM = 250; // generous: regions (Lombardy, Southern Poland) sprawl >30km from their centroid
 const ROOT = process.cwd();
 const IMG_DIR = join(ROOT, "public", "hotels");
 const OUT = join(ROOT, "data", "generated", "hotels.json");
@@ -96,7 +97,7 @@ for (const d of DESTINATIONS) {
       const hslug = slugify(p.title);
       if (seen.has(hslug)) continue;
       seen.add(hslug);
-      if (km(d.lat, d.lng, loc.lat, loc.lng) > 30) continue;
+      if (km(d.lat, d.lng, loc.lat, loc.lng) > RADIUS_KM) continue;
       let photo: string | null = null;
       const img = (p.imageUrls || [])[0] || p.imageUrl;
       if (img) {
@@ -124,7 +125,10 @@ for (const d of DESTINATIONS) {
         (a.rating || 0) * Math.log10((a.reviewCount || 0) + 10),
     );
     manifest[d.slug] = hotels.slice(0, 8);
-    console.log(`${i}/${DESTINATIONS.length} ${d.slug}: ${manifest[d.slug].length} hotels`);
+    const hotelCat = raw.filter((p) => isHotel(p.categoryName)).length;
+    console.log(
+      `${i}/${DESTINATIONS.length} ${d.slug}: ${manifest[d.slug].length} hotels (raw ${raw.length}, hotel-cat ${hotelCat})`,
+    );
   } catch (e) {
     console.log(`${i}/${DESTINATIONS.length} ${d.slug}: ERR ${(e as Error).message}`);
     manifest[d.slug] = manifest[d.slug] || [];

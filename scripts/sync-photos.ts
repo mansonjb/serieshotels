@@ -1,6 +1,6 @@
 #!/usr/bin/env tsx
 /**
- * Google Places API v1 → real-place photos for every Destination + Location.
+ * Apify (compass~crawler-google-places) → real-place photos for Destinations + Locations.
  *
  *   pnpm sync-photos           # skips slugs already downloaded
  *   FORCE=1 pnpm sync-photos   # refetch everything
@@ -19,21 +19,20 @@ import { join } from "node:path";
 import { DESTINATIONS } from "../data/destinations";
 import { LOCATIONS } from "../data/locations";
 
-const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
-if (!API_KEY) {
-  console.error("[photos] GOOGLE_PLACES_API_KEY missing from .env.local");
+const APIFY_TOKEN = process.env.APIFY_API_KEY;
+if (!APIFY_TOKEN) {
+  console.error("[photos] APIFY_API_KEY missing from .env.local");
   process.exit(1);
 }
 const FORCE = Boolean(process.env.FORCE);
 
-const SEARCH_URL = "https://places.googleapis.com/v1/places:searchText";
-const MEDIA_BASE = "https://places.googleapis.com/v1";
+const ACTOR_URL =
+  "https://api.apify.com/v2/acts/compass~crawler-google-places/run-sync-get-dataset-items";
 const PUBLIC = join(process.cwd(), "public");
 const GEN = join(process.cwd(), "data", "generated");
 const DEST_PHOTOS = 4;
 const LOC_PHOTOS = 2;
 
-/** Overrides where the default "<name> <country>" query misses the scenic shot. */
 const DEST_QUERY: Record<string, string> = {
   dubrovnik: "Dubrovnik Old Town city walls Croatia",
   "south-iceland": "Þingvellir National Park Iceland",
@@ -41,7 +40,6 @@ const DEST_QUERY: Record<string, string> = {
   taormina: "Taormina Sicily ancient theatre Etna",
   paris: "Paris Eiffel Tower Seine skyline",
 };
-/** Overrides for locations whose plain name is ambiguous to Places. */
 const LOC_QUERY: Record<string, string> = {
   thingvellir: "Þingvellir National Park Almannagjá gorge Iceland",
   "castle-ward": "Castle Ward estate Strangford Northern Ireland",
@@ -49,34 +47,39 @@ const LOC_QUERY: Record<string, string> = {
   "ahyeon-dong-stairs": "Parasite Stairs Ahyeon Seoul",
 };
 
-type Place = {
-  id: string;
-  displayName?: { text: string };
-  photos?: Array<{ name: string }>;
-};
 type Entry = { hero?: string; gallery?: string[] };
 
-async function search(query: string): Promise<Place | null> {
-  const res = await fetch(SEARCH_URL, {
+async function fetchImageUrls(query: string, count: number): Promise<string[]> {
+  const url = `${ACTOR_URL}?token=${encodeURIComponent(APIFY_TOKEN!)}`;
+  const res = await fetch(url, {
     method: "POST",
-    headers: {
-      "X-Goog-Api-Key": API_KEY!,
-      "X-Goog-FieldMask": "places.id,places.displayName,places.photos",
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({ textQuery: query, pageSize: 1 }),
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      searchStringsArray: [query],
+      maxCrawledPlacesPerSearch: 1,
+      language: "en",
+      includeImages: true,
+      maxImages: count,
+      scrapeReviewsPersonalData: false,
+    }),
   });
   if (!res.ok) {
-    throw new Error(`searchText ${res.status}: ${(await res.text()).slice(0, 200)}`);
+    const txt = await res.text();
+    throw new Error(`Apify ${res.status}: ${txt.slice(0, 200)}`);
   }
-  const data = (await res.json()) as { places?: Place[] };
-  return data.places?.[0] ?? null;
+  const data = (await res.json()) as unknown[];
+  if (!data.length) return [];
+  const item = data[0] as Record<string, unknown>;
+  const urls = item.imageUrls;
+  if (!Array.isArray(urls)) return [];
+  return (urls as unknown[])
+    .filter((u): u is string => typeof u === "string")
+    .slice(0, count);
 }
 
-async function download(photoName: string, dest: string): Promise<void> {
-  const url = `${MEDIA_BASE}/${photoName}/media?key=${API_KEY}&maxHeightPx=1600&maxWidthPx=2400`;
-  const res = await fetch(url, { redirect: "follow" });
-  if (!res.ok) throw new Error(`media ${res.status}`);
+async function downloadImage(url: string, dest: string): Promise<void> {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`download ${res.status}`);
   writeFileSync(dest, Buffer.from(await res.arrayBuffer()));
 }
 
@@ -111,26 +114,25 @@ async function syncEntry(
     }
   }
 
-  const place = await search(query);
-  const photos = (place?.photos ?? []).slice(0, count);
-  if (!place || photos.length === 0) {
-    console.log(`  ${slug.padEnd(28)} ✗ no photos  ("${query}")`);
+  const urls = await fetchImageUrls(query, count);
+  if (!urls.length) {
+    console.log(`  ${slug.padEnd(28)} ✗ no images  ("${query}")`);
     return null;
   }
 
   if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
   const saved: string[] = [];
-  for (let i = 0; i < photos.length; i += 1) {
+  for (let i = 0; i < urls.length; i++) {
     const filename = i === 0 ? "hero.jpg" : `photo-${i + 1}.jpg`;
     try {
-      await download(photos[i].name, join(dir, filename));
+      await downloadImage(urls[i], join(dir, filename));
       saved.push(`${prefix}/${filename}`);
     } catch (err) {
       console.warn(`    ! ${filename}: ${(err as Error).message}`);
     }
   }
   if (saved.length === 0) return null;
-  console.log(`  ${slug.padEnd(28)} ✓ ${saved.length} — ${place.displayName?.text ?? ""}`);
+  console.log(`  ${slug.padEnd(28)} ✓ ${saved.length}`);
   return { hero: saved[0], gallery: saved.slice(1) };
 }
 
