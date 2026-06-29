@@ -10,6 +10,7 @@ import { TourBlock } from "@/components/TourBlock";
 import { Faq } from "@/components/Faq";
 import { HotelCard } from "@/components/HotelCard";
 import { PhotoCredit } from "@/components/PhotoCredit";
+import { Backlinks } from "@/components/Backlinks";
 import { hotelsForDestination } from "@/lib/hotels";
 import { destinationGuide } from "@/lib/destinationGuides";
 import {
@@ -262,6 +263,8 @@ export default async function DestinationPage({
           </div>
         </section>
       )}
+
+      <Backlinks slug={slug} locale={loc} destName={dest.name} />
 
       <Faq heading={dict.faq.heading} items={faqItems} />
     </main>
