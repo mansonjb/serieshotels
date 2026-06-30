@@ -88,7 +88,7 @@ body {
 .marquee {
   display: flex;
   width: max-content;
-  animation: st-marquee 120s linear infinite;
+  animation: st-marquee 240s linear infinite;
 }
 .marquee-mask:hover .marquee {
   animation-play-state: paused;
