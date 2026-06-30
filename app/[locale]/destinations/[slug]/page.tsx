@@ -11,6 +11,8 @@ import { Faq } from "@/components/Faq";
 import { HotelCard } from "@/components/HotelCard";
 import { PhotoCredit } from "@/components/PhotoCredit";
 import { Backlinks } from "@/components/Backlinks";
+import { RelatedDestinations } from "@/components/RelatedDestinations";
+import { GuideProse } from "@/components/GuideProse";
 import { hotelsForDestination } from "@/lib/hotels";
 import { destinationGuide } from "@/lib/destinationGuides";
 import {
@@ -256,13 +258,11 @@ export default async function DestinationPage({
           <h2 className="font-display text-2xl font-bold text-ink">
             {t(dict.destGuide.heading, { name: dest.name })}
           </h2>
-          <div className="longform mt-4">
-            {guide.map((p, i) => (
-              <p key={i}>{p}</p>
-            ))}
-          </div>
+          <GuideProse paragraphs={guide} locale={loc} currentSlug={slug} />
         </section>
       )}
+
+      <RelatedDestinations slug={slug} locale={loc} />
 
       <Backlinks slug={slug} locale={loc} destName={dest.name} />
 

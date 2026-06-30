@@ -10,6 +10,7 @@ import { TourBlock } from "@/components/TourBlock";
 import { TrailerEmbed } from "@/components/TrailerEmbed";
 import { Faq } from "@/components/Faq";
 import { PhotoCredit } from "@/components/PhotoCredit";
+import { RelatedTitles } from "@/components/RelatedTitles";
 import type { Title } from "@/data/types";
 import {
   TITLES,
@@ -238,6 +239,8 @@ export default async function TitlePage({
           </section>
         );
       })}
+
+      <RelatedTitles slug={slug} locale={loc} />
 
       <Faq heading={dict.faq.heading} items={faqItems} />
     </main>
