@@ -59,19 +59,24 @@ function linkify(
 export function GuideProse({
   paragraphs,
   locale,
-  currentSlug,
+  excludeDestSlug,
+  excludeTitleSlug,
 }: {
   paragraphs: string[];
   locale: Locale;
-  currentSlug: string;
+  /** Don't self-link this destination (on a destination page). */
+  excludeDestSlug?: string;
+  /** Don't self-link this title (on a title page). */
+  excludeTitleSlug?: string;
 }) {
   const terms: Term[] = [];
   for (const d of DESTINATIONS) {
-    if (d.slug === currentSlug) continue;
+    if (d.slug === excludeDestSlug) continue;
     const name = localizeDestination(d, locale).name;
     if (name.length >= 4) terms.push({ name, href: localePath(locale, `/destinations/${d.slug}`) });
   }
   for (const tt of TITLES) {
+    if (tt.slug === excludeTitleSlug) continue;
     const name = localizeTitle(tt, locale).name;
     if (name.length >= 4) terms.push({ name, href: localePath(locale, `/titles/${tt.slug}`) });
   }

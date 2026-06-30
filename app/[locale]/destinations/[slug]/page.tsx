@@ -258,7 +258,7 @@ export default async function DestinationPage({
           <h2 className="font-display text-2xl font-bold text-ink">
             {t(dict.destGuide.heading, { name: dest.name })}
           </h2>
-          <GuideProse paragraphs={guide} locale={loc} currentSlug={slug} />
+          <GuideProse paragraphs={guide} locale={loc} excludeDestSlug={slug} />
         </section>
       )}
 
