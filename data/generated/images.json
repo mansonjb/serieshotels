@@ -895,6 +895,15 @@
     },
     "cafe-de-flore": {
       "hero": "/locations/cafe-de-flore/hero.jpg"
+    },
+    "cortona": {
+      "hero": "/locations/cortona/hero.jpg"
+    },
+    "montepulciano": {
+      "hero": "/locations/montepulciano/hero.jpg"
+    },
+    "bramasole": {
+      "hero": "/destinations/tuscany/hero.jpg"
     }
   }
 }

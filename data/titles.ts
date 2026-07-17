@@ -1271,4 +1271,18 @@ export const TITLES: Title[] = [
       "On a post-apocalyptic desert highway, a drifter and a rebel commander flee a tyrant in one long, ferocious chase. After rains greened the Australian outback, the production moved to the stark dunes and gravel plains of Namibia.",
     locationSlugs: ["namib-desert"],
   },
+
+  // ===================== Added 2026-06-30 =====================
+  {
+    slug: "under-the-tuscan-sun",
+    name: "Under the Tuscan Sun",
+    type: "movie",
+    year: 2003,
+    accent: "b45309",
+    genres: ["Romance", "Drama", "Comedy"],
+    tagline: "A newly divorced writer rebuilds her life in a faded villa above Cortona.",
+    synopsis:
+      "After a divorce, an American writer impulsively buys a crumbling villa in the Tuscan hills and slowly rebuilds a life around it. The film was shot where it is set: the hill town of Cortona, the wine town of Montepulciano and the olive terraces of eastern Tuscany.",
+    locationSlugs: ["cortona", "montepulciano", "bramasole"],
+  },
 ];

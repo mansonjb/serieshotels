@@ -613,6 +613,10 @@
       "mad-max-fury-road": {
         "tagline": "Un'epopea di inseguimento nel deserto, girata tra le dune della Namibia.",
         "synopsis": "Su un'autostrada del deserto post-apocalittico, un solitario e una comandante ribelle fuggono da un tiranno in un unico, lungo e feroce inseguimento. Dopo che le piogge avevano fatto rinverdire l'entroterra australiano, la produzione si è spostata sulle dune spoglie e le distese di ghiaia della Namibia."
+      },
+      "under-the-tuscan-sun": {
+        "tagline": "Da poco divorziata, una scrittrice ricostruisce la propria vita in una villa sbiadita sopra Cortona.",
+        "synopsis": "Dopo un divorzio, una scrittrice americana compra d'impulso una villa in rovina tra le colline della Toscana e, poco a poco, si ricostruisce una vita attorno a essa. Il film è stato girato dove è ambientato: il borgo collinare di Cortona, la città del vino Montepulciano e le terrazze di olivi della Toscana orientale."
       }
     },
     "destinations": {
@@ -2507,6 +2511,30 @@
         "nearbyTips": [
           "Les Deux Magots, accanto, è il suo vecchio rivale letterario.",
           "La chiesa di Saint-Germain-des-Prés è dall'altra parte del boulevard."
+        ]
+      },
+      "cortona": {
+        "sceneContext": "Cortona è il borgo collinare dove Frances mette radici. I suoi vicoli ripidi, la Piazza della Repubblica e la scalinata del municipio tornano lungo tutto il film, mentre lei costruisce una nuova vita.",
+        "howToVisit": "Cortona sorge su un crinale della Toscana orientale, una comoda gita in giornata da Arezzo o una tappa tra Florence e Perugia. Salite fino alla Piazza della Repubblica, affrontate la scalinata del palazzo e percorrete le mura per ampi panorami sulla Val di Chiana.",
+        "nearbyTips": [
+          "Salite alla Fortezza del Girifalco, nel punto più alto della città, per la vista più ampia.",
+          "Il museo MAEC custodisce i reperti etruschi che regalano a Cortona la sua profondità antica."
+        ]
+      },
+      "montepulciano": {
+        "sceneContext": "La città del vino Montepulciano regala al film la sua Toscana festosa e inondata di sole; la sua Piazza Grande e il lungo corso principale in salita fanno da cornice rinascimentale alla storia.",
+        "howToVisit": "Montepulciano corona un crinale a sud-ovest di Cortona, circa un'ora d'auto attraverso la Val d'Orcia. Salite lungo il Corso fino alla Piazza Grande e infilatevi in una cantina per assaggiare il celebre Vino Nobile del paese.",
+        "nearbyTips": [
+          "Abbinatela a un giro nella Val d'Orcia, la campagna da cartolina della Toscana.",
+          "Poco distanti, Pienza e Montalcino completano un classico anello nella terra del vino."
+        ]
+      },
+      "bramasole": {
+        "sceneContext": "Bramasole è la villa che Frances compra e restaura, il cuore emotivo del film. La casa vera sorge sul fianco della collina, appena sotto Cortona, incorniciata da cipressi e terrazze di olivi.",
+        "howToVisit": "Bramasole è un'abitazione privata, non un museo: ammiratela solo dalla stradina pubblica e mantenete le distanze per rispetto verso chi ci abita. La vera ricompensa è la campagna attorno a Cortona, tutta oliveti e ampie vedute sulla valle.",
+        "nearbyTips": [
+          "Le stradine sotto Cortona sono fiancheggiate dalle terrazze di olivi e dai cipressi che si vedono in tutto il film.",
+          "Prendete Cortona come base per esplorare le colline circostanti a piedi o in auto."
         ]
       }
     }

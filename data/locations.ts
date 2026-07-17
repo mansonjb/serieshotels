@@ -3659,4 +3659,59 @@ export const LOCATIONS: Location[] = [
       "The Saint-Germain-des-Prés church is across the boulevard.",
     ],
   },
+
+  // ===================== Under the Tuscan Sun =====================
+  {
+    slug: "cortona",
+    name: "Cortona",
+    titleSlug: "under-the-tuscan-sun",
+    destinationSlug: "tuscany",
+    lat: 43.2745,
+    lng: 11.9853,
+    kind: "landmark",
+    address: "Piazza della Repubblica, 52044 Cortona AR, Italy",
+    sceneContext:
+      "Cortona is the hill town where Frances puts down roots, and its steep lanes, the Piazza della Repubblica and the town-hall steps recur through the film as she builds a new life.",
+    howToVisit:
+      "Cortona sits on a ridge in eastern Tuscany, an easy day trip from Arezzo or a stop between Florence and Perugia. Walk up to Piazza della Repubblica, climb the palazzo steps and follow the ramparts for long views over the Val di Chiana.",
+    nearbyTips: [
+      "Climb to the Fortezza del Girifalco at the top of town for the widest views.",
+      "The MAEC museum holds the Etruscan finds that give Cortona its ancient depth.",
+    ],
+  },
+  {
+    slug: "montepulciano",
+    name: "Montepulciano",
+    titleSlug: "under-the-tuscan-sun",
+    destinationSlug: "tuscany",
+    lat: 43.0975,
+    lng: 11.7869,
+    kind: "landmark",
+    address: "Piazza Grande, 53045 Montepulciano SI, Italy",
+    sceneContext:
+      "The wine town of Montepulciano lends the film its festive, sun-washed Tuscany, its Piazza Grande and long climbing main street standing in for the story's Renaissance backdrop.",
+    howToVisit:
+      "Montepulciano crowns a ridge south-west of Cortona, about an hour by car through the Val d'Orcia. Walk up the Corso to Piazza Grande and duck into a cellar to taste the town's famous Vino Nobile.",
+    nearbyTips: [
+      "Pair it with a drive through the Val d'Orcia, Tuscany's postcard countryside.",
+      "Pienza and Montalcino nearby complete a classic wine-country loop.",
+    ],
+  },
+  {
+    slug: "bramasole",
+    name: "Bramasole",
+    titleSlug: "under-the-tuscan-sun",
+    destinationSlug: "tuscany",
+    lat: 43.281,
+    lng: 11.978,
+    kind: "building",
+    sceneContext:
+      "Bramasole is the villa Frances buys and restores, the emotional centre of the film. The real house sits on the hillside just below Cortona, framed by cypresses and olive terraces.",
+    howToVisit:
+      "Bramasole is a private home, not a museum, so admire it only from the public lane and keep your distance out of respect for the residents. The surrounding Cortona countryside, all olive groves and long valley views, is the real reward.",
+    nearbyTips: [
+      "The lanes below Cortona are lined with the olive terraces and cypresses seen throughout the film.",
+      "Base yourself in Cortona to explore the surrounding hills on foot or by car.",
+    ],
+  },
 ];

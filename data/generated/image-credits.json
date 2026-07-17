@@ -1775,6 +1775,24 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg"
   },
+  "locations/cortona": {
+    "author": "Patrick Denker",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cortona-vista01.jpg"
+  },
+  "locations/montepulciano": {
+    "author": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1_montepulciano_aerial_2024.jpg"
+  },
+  "locations/bramasole": {
+    "author": "TUBS",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tuscany_in_Italy.svg"
+  },
   "destinations/kerry": {
     "author": "Jerzy Strzelecki",
     "license": "CC BY-SA 3.0",

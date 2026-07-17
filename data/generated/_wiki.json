@@ -1902,5 +1902,19 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sperrgebiet_Verbotstafel.jpg"
+  },
+  "locations/cortona": {
+    "hero": "/locations/cortona/hero.jpg",
+    "author": "Patrick Denker",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cortona-vista01.jpg"
+  },
+  "locations/montepulciano": {
+    "hero": "/locations/montepulciano/hero.jpg",
+    "author": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1_montepulciano_aerial_2024.jpg"
   }
 }

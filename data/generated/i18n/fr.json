@@ -613,6 +613,10 @@
       "mad-max-fury-road": {
         "tagline": "Une épopée de poursuite dans le désert, tournée dans les dunes de Namibie.",
         "synopsis": "Sur une autoroute du désert post-apocalyptique, un solitaire et une commandante rebelle fuient un tyran dans une seule et longue poursuite déchaînée. Après que la pluie a verdi le bush australien, le tournage a filé vers les dunes nues et les plaines de gravier de Namibie."
+      },
+      "under-the-tuscan-sun": {
+        "tagline": "Fraîchement divorcée, une écrivaine reconstruit sa vie dans une villa défraîchie au-dessus de Cortona.",
+        "synopsis": "Au sortir d'un divorce, une écrivaine américaine achète sur un coup de tête une villa délabrée nichée dans les collines toscanes, puis réinvente peu à peu sa vie autour d'elle. Le film a été tourné là où se déroule l'histoire : la cité perchée de Cortona, la ville viticole de Montepulciano et les terrasses d'oliviers de l'est de la Toscane."
       }
     },
     "destinations": {
@@ -2516,6 +2520,30 @@
         "nearbyTips": [
           "Les Deux Magots, juste à côté, sont son vieux rival littéraire.",
           "L'église de Saint-Germain-des-Prés est de l'autre côté du boulevard."
+        ]
+      },
+      "cortona": {
+        "sceneContext": "Cortona est la cité perchée où Frances prend racine. Ses ruelles escarpées, la Piazza della Repubblica et les marches de l'hôtel de ville reviennent tout au long du film, au fil de sa nouvelle vie.",
+        "howToVisit": "Cortona domine une crête de l'est de la Toscane, à portée d'excursion depuis Arezzo ou en halte entre Florence et Perugia. Montez jusqu'à la Piazza della Repubblica, gravissez les marches du palazzo et longez les remparts pour embrasser du regard toute la Val di Chiana.",
+        "nearbyTips": [
+          "Grimpez jusqu'à la Fortezza del Girifalco, au sommet de la ville, pour la vue la plus vaste.",
+          "Le musée MAEC conserve les trouvailles étrusques qui donnent à Cortona toute sa profondeur ancienne."
+        ]
+      },
+      "montepulciano": {
+        "sceneContext": "La ville viticole de Montepulciano offre au film sa Toscane festive et gorgée de soleil ; sa Piazza Grande et sa longue rue principale en montée incarnent le décor Renaissance de l'histoire.",
+        "howToVisit": "Montepulciano couronne une crête au sud-ouest de Cortona, à environ une heure de route à travers la Val d'Orcia. Remontez le Corso jusqu'à la Piazza Grande, puis glissez-vous dans une cave pour goûter le fameux Vino Nobile de la ville.",
+        "nearbyTips": [
+          "Associez la visite à une virée dans la Val d'Orcia, la campagne toscane des cartes postales.",
+          "Tout près, Pienza et Montalcino complètent une boucle classique au cœur du vignoble."
+        ]
+      },
+      "bramasole": {
+        "sceneContext": "Bramasole est la villa que Frances achète et restaure, le cœur émotionnel du film. La vraie maison se dresse à flanc de colline, juste en contrebas de Cortona, encadrée de cyprès et de terrasses d'oliviers.",
+        "howToVisit": "Bramasole est une demeure privée, pas un musée : admirez-la seulement depuis le chemin public et gardez vos distances par respect pour ses habitants. La vraie récompense, c'est la campagne de Cortona alentour, tout en oliveraies et en longues échappées sur la vallée.",
+        "nearbyTips": [
+          "Les chemins en contrebas de Cortona sont bordés des terrasses d'oliviers et des cyprès que l'on voit tout au long du film.",
+          "Installez-vous à Cortona pour explorer les collines des environs à pied ou en voiture."
         ]
       }
     }
