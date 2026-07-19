@@ -1179,4 +1179,39 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "A vast, otherworldly land of red dunes, gravel plains and a wild Atlantic coast, whose emptiness stood in for a post-apocalyptic wasteland. The dunes around Swakopmund and the Dorob park are the most accessible stretch.",
   },
+
+  // ===================== Added 2026-06-30 (The Odyssey) =====================
+  {
+    slug: "essaouira",
+    name: "Essaouira",
+    country: "Morocco",
+    region: "Marrakesh-Safi",
+    lat: 31.5085,
+    lng: -9.7595,
+    accent: "0e7490",
+    blurb:
+      "A whitewashed, blue-shuttered port on Morocco's windswept Atlantic coast, ringed by ramparts and a long wild beach. Its harbour and dunes have long drawn filmmakers, and the sea light that fills the medina is unmistakable.",
+  },
+  {
+    slug: "messenia",
+    name: "Messenia",
+    country: "Greece",
+    region: "Peloponnese",
+    lat: 36.9556,
+    lng: 21.6959,
+    accent: "0369a1",
+    blurb:
+      "The south-western tip of the Peloponnese, where olive groves run down to some of Greece's most beautiful bays. Around Pylos you find crusader castles, the crescent of Voidokilia and a coast that still feels straight out of Homer.",
+  },
+  {
+    slug: "egadi-islands",
+    name: "Egadi Islands",
+    country: "Italy",
+    region: "Sicily",
+    lat: 37.9314,
+    lng: 12.3283,
+    accent: "0891b2",
+    blurb:
+      "A trio of low, sun-bleached islands off the western tip of Sicily, reached by ferry from Trapani. Favignana, the largest, is a place of old tuna works, hidden coves and a hilltop fort watching over the turquoise sea.",
+  },
 ];

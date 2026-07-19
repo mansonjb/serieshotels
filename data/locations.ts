@@ -3714,4 +3714,92 @@ export const LOCATIONS: Location[] = [
       "Base yourself in Cortona to explore the surrounding hills on foot or by car.",
     ],
   },
+
+  // ===================== The Odyssey =====================
+  {
+    slug: "ait-benhaddou-troy",
+    name: "Aït Benhaddou",
+    titleSlug: "the-odyssey",
+    destinationSlug: "ouarzazate",
+    lat: 31.047,
+    lng: -7.1318,
+    kind: "landmark",
+    address: "Aït Benhaddou, Ouarzazate Province, Morocco",
+    sceneContext:
+      "The ancient earthen ksar, a UNESCO-listed stack of kasbahs above a river, stood in for the walled city of Troy in the film's opening chapter.",
+    howToVisit:
+      "Aït Benhaddou is about 30 km from Ouarzazate, an easy half-day trip. Cross the river, climb through the fortified village to the granary at the top for the classic view, and go early or late to beat the tour buses and the midday heat.",
+    nearbyTips: [
+      "The Atlas Studios in Ouarzazate run tours of standing film sets.",
+      "The Tizi n'Tichka pass toward Marrakech is one of Morocco's great drives.",
+    ],
+  },
+  {
+    slug: "essaouira-beach",
+    name: "Essaouira Beach",
+    titleSlug: "the-odyssey",
+    destinationSlug: "essaouira",
+    lat: 31.505,
+    lng: -9.772,
+    kind: "nature",
+    sceneContext:
+      "The broad Atlantic beach below Essaouira's ramparts stands in for the shore where the Trojan Horse is discovered and where Odysseus launches his fleet for the long voyage home.",
+    howToVisit:
+      "The beach runs for miles south from the medina and is free to walk at any time. The wind that made Essaouira a windsurfing capital is strongest in the afternoon, so mornings are calmest for a walk along the sand.",
+    nearbyTips: [
+      "The Skala de la Ville sea bastion frames the classic view back over the port.",
+      "Argan cooperatives on the road inland press the region's famous oil.",
+    ],
+  },
+  {
+    slug: "voidokilia-beach",
+    name: "Voidokilia Beach",
+    titleSlug: "the-odyssey",
+    destinationSlug: "messenia",
+    lat: 36.9556,
+    lng: 21.6664,
+    kind: "nature",
+    sceneContext:
+      "This near-perfect crescent of white sand and clear shallows in Messenia lends the film the sun-blessed coast of the hero's Greek homeland.",
+    howToVisit:
+      "Voidokilia sits in a protected bay north of Pylos, with no road onto the sand, so park at the edge and walk in. Come early in summer, bring water and shade, and climb to Nestor's Cave and the old fort on the headland for the aerial-postcard view.",
+    nearbyTips: [
+      "The Gialova lagoon behind the beach is a birdwatching haven.",
+      "Ancient Pylos and the Palace of Nestor are a short drive inland.",
+    ],
+  },
+  {
+    slug: "methoni-castle",
+    name: "Methoni Castle",
+    titleSlug: "the-odyssey",
+    destinationSlug: "messenia",
+    lat: 36.8189,
+    lng: 21.7047,
+    kind: "landmark",
+    sceneContext:
+      "The great sea-fortress of Methoni, reaching out into the water on the southern Messenian shore, brings its weathered, myth-worn stonework to the story.",
+    howToVisit:
+      "The castle is free to wander, a wide walled peninsula ending in the little octagonal Bourtzi tower on its own islet. There is almost no shade, so bring a hat; the village beside it has tavernas for after.",
+    nearbyTips: [
+      "The twin fortress of Koroni sits across the peninsula.",
+      "Voidokilia and Pylos make an easy day's loop from here.",
+    ],
+  },
+  {
+    slug: "favignana-castle",
+    name: "Castello di Santa Caterina",
+    titleSlug: "the-odyssey",
+    destinationSlug: "egadi-islands",
+    lat: 37.9376,
+    lng: 12.3216,
+    kind: "landmark",
+    sceneContext:
+      "The old fort crowning the highest point of Favignana, in the Egadi Islands off Sicily, appears among the wind-swept island settings that stand in for the realm of Aeolus, keeper of the winds.",
+    howToVisit:
+      "Favignana is a short ferry from Trapani. The castle sits high above the town and is usually admired from below or on the hike up, since access can be restricted. Rent a bike to reach the island's coves and old tuna works.",
+    nearbyTips: [
+      "Cala Rossa's turquoise water is the island's most famous swim.",
+      "The former Florio tuna cannery in town is now a museum.",
+    ],
+  },
 ];

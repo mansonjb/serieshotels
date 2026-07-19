@@ -617,6 +617,10 @@
       "under-the-tuscan-sun": {
         "tagline": "Recién divorciada, una escritora reconstruye su vida en una villa ajada sobre Cortona.",
         "synopsis": "Tras un divorcio, una escritora estadounidense compra por impulso una villa en ruinas en las colinas de la Toscana y, poco a poco, reconstruye su vida en torno a ella. La película se rodó allí donde transcurre: el pueblo encaramado de Cortona, la villa vinícola de Montepulciano y las terrazas de olivos del este de la Toscana."
+      },
+      "the-odyssey": {
+        "tagline": "Christopher Nolan reinventa la epopeya de Homero en costas mediterráneas reales.",
+        "synopsis": "La relectura en IMAX que Christopher Nolan hace del antiguo poema de Homero sigue al héroe griego Odiseo en su largo viaje de regreso a casa, zarandeado por las tormentas, tras la guerra de Troya. En lugar de recrear el mundo antiguo en un plató, Nolan rodó en desiertos y litorales reales, desde Marruecos hasta el Peloponeso y las islas frente a Sicilia."
       }
     },
     "destinations": {
@@ -984,6 +988,18 @@
       },
       "namibia": {
         "blurb": "Una tierra inmensa y de otro mundo, de dunas rojas, llanuras de grava y una costa atlántica salvaje, cuyo vacío encarnó un páramo posapocalíptico. Las dunas en torno a Swakopmund y el parque de Dorob son el tramo más accesible."
+      },
+      "essaouira": {
+        "name": "Essaouira",
+        "blurb": "Un puerto de casas encaladas y contraventanas azules en la ventosa costa atlántica de Marruecos, rodeado de murallas y de una larga playa salvaje. Su puerto y sus dunas atraen a los cineastas desde hace tiempo, y la luz marina que inunda la medina es inconfundible."
+      },
+      "messenia": {
+        "name": "Mesenia",
+        "blurb": "El extremo suroccidental del Peloponeso, donde los olivares descienden hacia algunas de las bahías más bellas de Grecia. En torno a Pylos encontrarás castillos cruzados, la media luna de Voidokilia y una costa que aún parece salida directamente de Homero."
+      },
+      "egadi-islands": {
+        "name": "Islas Égadas",
+        "blurb": "Un trío de islas bajas y descoloridas por el sol frente al extremo occidental de Sicilia, a las que se llega en ferry desde Trapani. Favignana, la mayor, es tierra de antiguas almadrabas, calas escondidas y un fuerte en lo alto que vela sobre el mar turquesa."
       }
     },
     "locations": {
@@ -2545,6 +2561,46 @@
         "nearbyTips": [
           "Los caminos que descienden de Cortona están flanqueados por las terrazas de olivos y los cipreses que se ven durante toda la película.",
           "Instálate en Cortona para explorar las colinas de los alrededores a pie o en coche."
+        ]
+      },
+      "ait-benhaddou-troy": {
+        "sceneContext": "El antiguo ksar de adobe, un conjunto de kasbahs declarado por la UNESCO que se alza sobre un río, encarna la ciudad amurallada de Troya en el capítulo inicial de la película.",
+        "howToVisit": "Aït Benhaddou está a unos 30 km de Ouarzazate, una escapada sencilla de media jornada. Cruza el río, sube por la aldea fortificada hasta el granero de la cima para disfrutar de la vista clásica y ve temprano o al final del día para evitar los autocares y el calor del mediodía.",
+        "nearbyTips": [
+          "Los Atlas Studios de Ouarzazate ofrecen visitas por decorados de cine aún en pie.",
+          "El puerto de montaña de Tizi n'Tichka, en dirección a Marrakech, es una de las grandes rutas de Marruecos."
+        ]
+      },
+      "essaouira-beach": {
+        "sceneContext": "La amplia playa atlántica al pie de las murallas de Essaouira representa la orilla donde se descubre el caballo de Troya y desde donde Odiseo lanza su flota para el largo viaje de regreso.",
+        "howToVisit": "La playa se extiende durante kilómetros al sur de la medina y se puede recorrer libremente a cualquier hora. El viento que convirtió a Essaouira en una capital del windsurf sopla con más fuerza por la tarde, así que las mañanas son las más tranquilas para pasear por la arena.",
+        "nearbyTips": [
+          "El bastión marino de la Skala de la Ville enmarca la clásica vista sobre el puerto.",
+          "Las cooperativas de argán, en la carretera hacia el interior, prensan el famoso aceite de la región."
+        ]
+      },
+      "voidokilia-beach": {
+        "sceneContext": "Esta media luna casi perfecta de arena blanca y aguas someras y cristalinas, en Mesenia, presta a la película el litoral bañado por el sol de la patria griega del héroe.",
+        "howToVisit": "Voidokilia se encuentra en una bahía protegida al norte de Pylos, sin ninguna carretera que llegue hasta la arena, así que aparca en el borde y entra a pie. Ven temprano en verano, lleva agua y algo para resguardarte del sol, y sube a la cueva de Néstor y al viejo fuerte del promontorio para la vista de postal desde las alturas.",
+        "nearbyTips": [
+          "La laguna de Gialova, detrás de la playa, es un paraíso para la observación de aves.",
+          "La antigua Pylos y el palacio de Néstor están a poca distancia en coche tierra adentro."
+        ]
+      },
+      "methoni-castle": {
+        "sceneContext": "La gran fortaleza marina de Methoni, que se adentra en el agua en la costa meridional de Mesenia, aporta al relato su sillería curtida y desgastada por los mitos.",
+        "howToVisit": "El castillo se recorre libremente: una amplia península amurallada que termina en la pequeña torre octogonal del Bourtzi, sobre su propio islote. Apenas hay sombra, así que lleva sombrero; el pueblo contiguo tiene tabernas para después.",
+        "nearbyTips": [
+          "La fortaleza gemela de Koroni se alza al otro lado de la península.",
+          "Voidokilia y Pylos forman un cómodo circuito de un día desde aquí."
+        ]
+      },
+      "favignana-castle": {
+        "sceneContext": "El viejo fuerte que corona el punto más alto de Favignana, en las Islas Égadas frente a Sicilia, aparece entre los escenarios insulares azotados por el viento que representan el reino de Eolo, guardián de los vientos.",
+        "howToVisit": "A Favignana se llega en un corto trayecto en ferry desde Trapani. El fuerte se alza muy por encima del pueblo y suele admirarse desde abajo o durante la subida, ya que el acceso puede estar restringido. Alquila una bicicleta para llegar a las calas de la isla y a sus antiguas almadrabas.",
+        "nearbyTips": [
+          "Las aguas turquesas de Cala Rossa ofrecen el baño más famoso de la isla.",
+          "La antigua conservera de atún Florio, en el pueblo, es hoy un museo."
         ]
       }
     }

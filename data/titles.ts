@@ -1285,4 +1285,16 @@ export const TITLES: Title[] = [
       "After a divorce, an American writer impulsively buys a crumbling villa in the Tuscan hills and slowly rebuilds a life around it. The film was shot where it is set: the hill town of Cortona, the wine town of Montepulciano and the olive terraces of eastern Tuscany.",
     locationSlugs: ["cortona", "montepulciano", "bramasole"],
   },
+  {
+    slug: "the-odyssey",
+    name: "The Odyssey",
+    type: "movie",
+    year: 2026,
+    accent: "1e40af",
+    genres: ["Adventure", "Drama", "Fantasy"],
+    tagline: "Christopher Nolan retells Homer's epic on real Mediterranean coasts.",
+    synopsis:
+      "Christopher Nolan's IMAX retelling of Homer's ancient poem follows the Greek hero Odysseus on his long, storm-tossed voyage home from the Trojan War. Rather than build the ancient world on a soundstage, Nolan shot across real deserts and coastlines, from Morocco to the Peloponnese and the islands off Sicily.",
+    locationSlugs: ["ait-benhaddou-troy", "essaouira-beach", "voidokilia-beach", "methoni-castle", "favignana-castle"],
+  },
 ];

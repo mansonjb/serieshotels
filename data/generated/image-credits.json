@@ -623,6 +623,12 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sperrgebiet_Verbotstafel.jpg"
   },
+  "destinations/essaouira": {
+    "author": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Ein_bemerkenswertes_historisches_Denkmal%22._16.jpg"
+  },
   "locations/dubrovnik-city-walls": {
     "author": "Miroslav.vajdic",
     "license": "CC BY-SA 4.0",
@@ -1793,6 +1799,36 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tuscany_in_Italy.svg"
   },
+  "locations/ait-benhaddou-troy": {
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ksar_A%C3%AFt_Benhaddou,_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg"
+  },
+  "locations/essaouira-beach": {
+    "author": "Vysotsky",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Essa4.JPG"
+  },
+  "locations/voidokilia-beach": {
+    "author": "Grzontan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Voidokilia_Beach1.jpg"
+  },
+  "locations/methoni-castle": {
+    "author": "No machine-readable author provided. AlMare assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Methoni_Castle.jpg"
+  },
+  "locations/favignana-castle": {
+    "author": "Luca Canepa",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Island_Horizon_(69299375).jpeg"
+  },
   "destinations/kerry": {
     "author": "Jerzy Strzelecki",
     "license": "CC BY-SA 3.0",
@@ -1804,5 +1840,17 @@
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Trim_Castle_6.jpg"
+  },
+  "destinations/messenia": {
+    "author": "Grzontan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Voidokilia_Beach1.jpg"
+  },
+  "destinations/egadi-islands": {
+    "author": "Luca Canepa",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Island_Horizon_(69299375).jpeg"
   }
 }
