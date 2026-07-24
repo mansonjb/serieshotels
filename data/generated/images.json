@@ -315,6 +315,12 @@
     "essaouira": {
       "hero": "/destinations/essaouira/hero.jpg"
     },
+    "milan": {
+      "hero": "/destinations/milan/hero.jpg"
+    },
+    "yorkshire-dales": {
+      "hero": "/destinations/yorkshire-dales/hero.jpg"
+    },
     "kerry": {
       "hero": "/locations/skellig-michael/hero.jpg"
     },
@@ -928,6 +934,30 @@
     },
     "favignana-castle": {
       "hero": "/locations/favignana-castle/hero.jpg"
+    },
+    "elias-clarke-building": {
+      "hero": "/locations/elias-clarke-building/hero.jpg"
+    },
+    "amnh-runway-gala": {
+      "hero": "/locations/amnh-runway-gala/hero.jpg"
+    },
+    "galleria-vittorio-emanuele": {
+      "hero": "/locations/galleria-vittorio-emanuele/hero.jpg"
+    },
+    "brera-academy": {
+      "hero": "/locations/brera-academy/hero.jpg"
+    },
+    "villa-del-balbiano": {
+      "hero": "/locations/villa-del-balbiano/hero.jpg"
+    },
+    "healaugh-crag": {
+      "hero": "/destinations/yorkshire-dales/hero.jpg"
+    },
+    "old-gang-mill": {
+      "hero": "/locations/old-gang-mill/hero.jpg"
+    },
+    "swaledale": {
+      "hero": "/locations/swaledale/hero.jpg"
     }
   }
 }

@@ -1214,4 +1214,28 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "A trio of low, sun-bleached islands off the western tip of Sicily, reached by ferry from Trapani. Favignana, the largest, is a place of old tuna works, hidden coves and a hilltop fort watching over the turquoise sea.",
   },
+
+  // ===================== Added 2026-07 =====================
+  {
+    slug: "milan",
+    name: "Milan",
+    country: "Italy",
+    region: "Lombardy",
+    lat: 45.4642,
+    lng: 9.19,
+    accent: "9d174d",
+    blurb:
+      "Italy's capital of fashion and design, a brisk northern city of glass-roofed arcades, a Gothic cathedral bristling with spires and Leonardo's Last Supper. Beyond the runways it rewards slow wandering through Brera's lanes and its aperitivo bars.",
+  },
+  {
+    slug: "yorkshire-dales",
+    name: "Yorkshire Dales",
+    country: "England",
+    region: "North Yorkshire",
+    lat: 54.23,
+    lng: -2.15,
+    accent: "4d7c0f",
+    blurb:
+      "A sweep of green valleys, drystone walls and high heather moors in northern England, protected as a national park. Swaledale and its stone villages give the Dales their wild, brooding beauty, long a magnet for writers and film crews.",
+  },
 ];

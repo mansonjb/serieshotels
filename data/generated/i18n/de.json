@@ -621,6 +621,14 @@
       "the-odyssey": {
         "tagline": "Christopher Nolan erzählt Homers Epos an echten Mittelmeerküsten neu.",
         "synopsis": "Christopher Nolans in IMAX gedrehte Neuerzählung von Homers antikem Versepos begleitet den griechischen Helden Odysseus auf seiner langen, sturmgepeitschten Heimreise aus dem Trojanischen Krieg. Statt die antike Welt im Studio nachzubauen, drehte Nolan an echten Wüsten und Küsten, von Marokko über den Peloponnes bis zu den Inseln vor Sizilien."
+      },
+      "wuthering-heights": {
+        "tagline": "Emily Brontes sturmumtoste Romanze, gedreht in den echten Mooren von Yorkshire.",
+        "synopsis": "Emerald Fennells kühne Neuinterpretation von Emily Brontes Roman entfaltet die verhängnisvolle Leidenschaft von Cathy und Heathcliff vor den wilden Höhen von Yorkshire. Gedreht wurde in den echten Mooren und verfallenen Gemäuern der Yorkshire Dales, in einer Landschaft, die so ungestüm ist wie die Geschichte selbst."
+      },
+      "devil-wears-prada-2": {
+        "tagline": "Miranda und Andy sehen sich wieder, von den Galas Manhattans bis zur Mailänder Fashion Week.",
+        "synopsis": "Die lang erwartete Fortsetzung kehrt in die knallharte Welt der Magazinbranche zurück und trifft Miranda Priestly und Andy Sachs Jahre später wieder. An Originalschauplätzen in New York, Mailand und am Comer See gedreht, verwandelt sie echte Wahrzeichen der Modewelt in ihre glänzende Kulisse."
       }
     },
     "destinations": {
@@ -984,6 +992,14 @@
       "egadi-islands": {
         "name": "Ägadische Inseln",
         "blurb": "Ein Trio flacher, sonnengebleichter Inseln vor der Westspitze Siziliens, per Fähre von Trapani aus erreichbar. Favignana, die größte, ist ein Ort alter Thunfischfabriken, versteckter Buchten und einer Festung auf der Anhöhe, die über das türkisfarbene Meer wacht."
+      },
+      "yorkshire-dales": {
+        "name": "Yorkshire Dales",
+        "blurb": "Eine weite Folge grüner Täler, Trockenmauern und hoch gelegener Heidemoore im Norden Englands, als Nationalpark geschützt. Swaledale und seine Steindörfer verleihen den Dales ihre wilde, düstere Schönheit, die seit jeher Schriftsteller und Filmteams anzieht."
+      },
+      "milan": {
+        "name": "Mailand",
+        "blurb": "Italiens Hauptstadt der Mode und des Designs, eine lebhafte Stadt im Norden mit glasüberdachten Galerien, einem gotischen Dom, der von Turmspitzen starrt, und Leonardos „Abendmahl“. Jenseits der Laufstege belohnt sie das gemächliche Schlendern durch Breras Gassen und seine Aperitivo-Bars."
       }
     },
     "locations": {
@@ -2585,6 +2601,70 @@
         "nearbyTips": [
           "Das türkisblaue Wasser von Cala Rossa ist die berühmteste Badestelle der Insel.",
           "Die ehemalige Florio-Thunfischfabrik im Ort ist heute ein Museum."
+        ]
+      },
+      "healaugh-crag": {
+        "sceneContext": "Auf dem Sandsteinkamm über Healaugh in Swaledale wartet Cathy auf Heathcliff und blickt hinab auf das Wuthering Heights des Films.",
+        "howToVisit": "Zu erreichen ist er zu Fuß vom Dorf Healaugh bei Reeth; das Moor ist offen und ungeschützt, also ziehen Sie feste Stiefel an, nehmen Sie eine Karte mit und wählen Sie einen klaren Tag für die weiten Blicke ins Tal.",
+        "nearbyTips": [
+          "Das Steindorf Reeth ist das Tor zu Swaledale.",
+          "Die Moorstraße steigt nach Westen an und führt an alten Ruinen des Bleibergbaus vorbei."
+        ]
+      },
+      "old-gang-mill": {
+        "sceneContext": "Die verfallene Bleischmelzhütte im Moor unterhalb von Healaugh Crag dient als Kulisse für die verwitterten, windgepeitschten Nebengebäude des Anwesens.",
+        "howToVisit": "Die stimmungsvollen Ruinen liegen an der Moorstraße oberhalb von Reeth, im Tal von Old Gang; der Weg ist holprig, parken Sie also rücksichtsvoll und legen Sie das letzte Stück zu Fuß zurück.",
+        "nearbyTips": [
+          "Der ganze Hang ist übersät mit Überresten des Bleibergbaus aus dem 19. Jahrhundert.",
+          "Ganz in der Nähe bietet Gunnerside Gill weitere eindrucksvolle Bergbauruinen zum Erkunden."
+        ]
+      },
+      "swaledale": {
+        "sceneContext": "Das von Trockenmauern durchzogene Tal um Low Row schenkt dem Film sein düsteres, zeitloses Yorkshire aus Steinscheunen, Schafweiden und weitem Himmel.",
+        "howToVisit": "Die B6270 zieht sich durch ganz Swaledale, von Richmond hinauf nach Keld, vorbei an Feldscheunen und Steindörfern; sie ist eine der schönsten Strecken der Dales zum gemächlichen Fahren mit dem Auto oder dem Rad.",
+        "nearbyTips": [
+          "Keld liegt dort, wo der Pennine Way auf den Coast to Coast trifft.",
+          "Muker und Gunnerside sind wie gemalte Dales-Dörfer am Weg."
+        ]
+      },
+      "elias-clarke-building": {
+        "sceneContext": "Dieser Wolkenkratzer in Midtown an der Sixth Avenue kehrt als Außenansicht von Elias-Clarke zurück, dem Verlag hinter dem fiktiven Magazin Runway.",
+        "howToVisit": "Es ist ein normaler Büroturm im Betrieb, deshalb zählt vor allem die Straßenebene mit Vorplatz und Fassade; bewundern Sie ihn von der Sixth Avenue zwischen 48th und 49th Street und schlendern Sie dann ein paar Blocks weiter südlich zum Rockefeller Center.",
+        "nearbyTips": [
+          "Das Rockefeller Center und seine Dachterrasse liegen zwei Blocks entfernt.",
+          "Das Museum of Modern Art (MoMA) erreicht man mit einem kurzen Spaziergang ostwärts."
+        ]
+      },
+      "amnh-runway-gala": {
+        "sceneContext": "Die imposante Freitreppe des Museums am Central Park West und seine Rotunde bilden die Bühne für die glanzvolle Runway-Gala des Films.",
+        "howToVisit": "Das Museum ist täglich für Besucher geöffnet, an der Westseite des Central Park; dieselbe Freitreppe darf man kostenlos erklimmen, und der Park liegt direkt gegenüber auf der anderen Straßenseite.",
+        "nearbyTips": [
+          "Die westlichen Seen des Central Park und die Ramble liegen direkt gegenüber.",
+          "Die von Brownstones gesäumten Straßen der Upper West Side laden zu einem klassischen Bummel ein."
+        ]
+      },
+      "galleria-vittorio-emanuele": {
+        "sceneContext": "Die Galerie aus dem 19. Jahrhundert mit ihrer Glaskuppel, gleich neben dem Duomo, ganz Mosaikböden und Luxusboutiquen, schenkt Miranda einen seltenen, eleganten Moment für sich.",
+        "howToVisit": "Die Galleria ist eine öffentliche Passage, die den Duomo mit La Scala verbindet, und frei begehbar; kommen Sie früh oder spät, um das Licht unter der Kuppel ohne das Mittagsgedränge zu genießen.",
+        "nearbyTips": [
+          "Mailands Duomo und seine Dachterrassen liegen am einen Ende.",
+          "Das Opernhaus La Scala befindet sich am anderen."
+        ]
+      },
+      "brera-academy": {
+        "sceneContext": "Der Innenhof von Mailands altehrwürdiger Kunstakademie im Viertel Brera dient als Schauplatz für die Modenschau des Films.",
+        "howToVisit": "Die Akademie ist eine aktive Kunsthochschule, doch ihr Innenhof und die angrenzende Pinacoteca di Brera stehen Besuchern offen; die umliegenden Gassen von Brera bilden das stimmungsvollste Viertel der Stadt.",
+        "nearbyTips": [
+          "Die Pinacoteca di Brera birgt Meisterwerke von Raffael und Caravaggio.",
+          "Breras Cafés und Designboutiquen sind wie geschaffen für einen abendlichen Aperitivo."
+        ]
+      },
+      "villa-del-balbiano": {
+        "sceneContext": "Dieser Palazzo aus dem 16. Jahrhundert am Seeufer in Tremezzina, bekannt aus House of Gucci, ist Schauplatz des glamourösen Zwischenspiels am Comer See im Film.",
+        "howToVisit": "Die Villa ist ein privates Luxusanwesen, das für Aufenthalte und Veranstaltungen vermietet wird, kein öffentliches Museum, weshalb sich der schönste Blick vom Wasser aus bietet; eine Bootstour auf dem Comer See gleitet an ihren Gärten und denen ihrer Nachbarn vorbei.",
+        "nearbyTips": [
+          "Die nahen Dörfer Brienno und Argegno schmiegen sich ans Ufer.",
+          "Bellagio, das Schmuckstück des Sees, ist eine kurze Fährfahrt entfernt."
         ]
       }
     }

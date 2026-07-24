@@ -629,6 +629,18 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%22Ein_bemerkenswertes_historisches_Denkmal%22._16.jpg"
   },
+  "destinations/milan": {
+    "author": "Jiuguang Wang",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg"
+  },
+  "destinations/yorkshire-dales": {
+    "author": "Kreuzschnabel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+  },
   "locations/dubrovnik-city-walls": {
     "author": "Miroslav.vajdic",
     "license": "CC BY-SA 4.0",
@@ -1828,6 +1840,54 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Island_Horizon_(69299375).jpeg"
+  },
+  "locations/elias-clarke-building": {
+    "author": "Capcor1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1221_Avenue_of_the_Americas_2016.jpg"
+  },
+  "locations/amnh-runway-gala": {
+    "author": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+  },
+  "locations/galleria-vittorio-emanuele": {
+    "author": "Marco Pagani",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Galleria_Milano_(179532365).jpeg"
+  },
+  "locations/brera-academy": {
+    "author": "Jean-Christophe BENOIST",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg"
+  },
+  "locations/villa-del-balbiano": {
+    "author": "Plumbago Capensis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Balbiano_1.jpg"
+  },
+  "locations/healaugh-crag": {
+    "author": "Kreuzschnabel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+  },
+  "locations/old-gang-mill": {
+    "author": "Jamesfcarter",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Arkengarthdale.jpg"
+  },
+  "locations/swaledale": {
+    "author": "Richard Webb",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Swaledale_from_Kisdon_-_geograph.org.uk_-_39006.jpg"
   },
   "destinations/kerry": {
     "author": "Jerzy Strzelecki",

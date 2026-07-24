@@ -1297,4 +1297,28 @@ export const TITLES: Title[] = [
       "Christopher Nolan's IMAX retelling of Homer's ancient poem follows the Greek hero Odysseus on his long, storm-tossed voyage home from the Trojan War. Rather than build the ancient world on a soundstage, Nolan shot across real deserts and coastlines, from Morocco to the Peloponnese and the islands off Sicily.",
     locationSlugs: ["ait-benhaddou-troy", "essaouira-beach", "voidokilia-beach", "methoni-castle", "favignana-castle"],
   },
+  {
+    slug: "devil-wears-prada-2",
+    name: "The Devil Wears Prada 2",
+    type: "movie",
+    year: 2026,
+    accent: "9d174d",
+    genres: ["Comedy", "Drama"],
+    tagline: "Miranda and Andy reunite, from Manhattan galas to Milan fashion week.",
+    synopsis:
+      "The long-awaited sequel returns to the cut-throat world of magazine publishing, following Miranda Priestly and Andy Sachs years on. Shot on location in New York, Milan and on Lake Como, it turns real fashion-world landmarks into its glossy backdrop.",
+    locationSlugs: ["elias-clarke-building", "amnh-runway-gala", "galleria-vittorio-emanuele", "brera-academy", "villa-del-balbiano"],
+  },
+  {
+    slug: "wuthering-heights",
+    name: "Wuthering Heights",
+    type: "movie",
+    year: 2026,
+    accent: "44403c",
+    genres: ["Drama", "Romance"],
+    tagline: "Emily Bronte's storm-lashed romance, shot on the real Yorkshire moors.",
+    synopsis:
+      "Emerald Fennell's bold new take on Emily Bronte's novel plays out the doomed passion of Cathy and Heathcliff against the wild uplands of Yorkshire. The production shot on the real moors and ruined mills of the Yorkshire Dales, the landscape as fierce as the story.",
+    locationSlugs: ["healaugh-crag", "old-gang-mill", "swaledale"],
+  },
 ];

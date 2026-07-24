@@ -621,6 +621,14 @@
       "the-odyssey": {
         "tagline": "Christopher Nolan reinterpreta l'epopea di Omero su vere coste mediterranee.",
         "synopsis": "La rilettura in IMAX che Christopher Nolan fa dell'antico poema di Omero segue l'eroe greco Ulisse nel suo lungo viaggio di ritorno a casa, sballottato dalle tempeste, dopo la guerra di Troia. Anziché ricostruire il mondo antico in studio, Nolan ha girato tra deserti e coste reali, dal Marocco al Peloponneso fino alle isole al largo della Sicilia."
+      },
+      "wuthering-heights": {
+        "tagline": "La storia d'amore flagellata dalle tempeste di Emily Bronte, girata sulle vere brughiere dello Yorkshire.",
+        "synopsis": "L'audace rilettura del romanzo di Emily Bronte firmata Emerald Fennell mette in scena la passione maledetta di Cathy e Heathcliff tra le selvagge alture dello Yorkshire. Le riprese si sono svolte sulle vere brughiere e tra i ruderi delle antiche fonderie degli Yorkshire Dales, un paesaggio feroce quanto la storia."
+      },
+      "devil-wears-prada-2": {
+        "tagline": "Miranda e Andy si ritrovano, dai galà di Manhattan alla settimana della moda di Milano.",
+        "synopsis": "L'attesissimo sequel torna nello spietato mondo dell'editoria delle riviste per ritrovare Miranda Priestly e Andy Sachs anni dopo. Girato in luoghi reali a New York, a Milano e sul lago di Como, trasforma veri luoghi simbolo del mondo della moda nel proprio sfondo patinato."
       }
     },
     "destinations": {
@@ -990,6 +998,14 @@
       "egadi-islands": {
         "name": "Isole Egadi",
         "blurb": "Un trio di isole basse e sbiadite dal sole al largo dell'estremità occidentale della Sicilia, raggiungibili in traghetto da Trapani. Favignana, la più grande, è terra di antiche tonnare, cale nascoste e di un forte in cima alla collina che veglia sul mare turchese."
+      },
+      "yorkshire-dales": {
+        "name": "Yorkshire Dales",
+        "blurb": "Un susseguirsi di verdi vallate, muretti a secco e alte brughiere di erica nel nord dell'Inghilterra, protette come parco nazionale. Swaledale e i suoi villaggi di pietra donano ai Dales la loro bellezza selvaggia e cupa, da tempo calamita per scrittori e troupe cinematografiche."
+      },
+      "milan": {
+        "name": "Milano",
+        "blurb": "Capitale italiana della moda e del design, vivace città del nord fatta di gallerie coperte da volte di vetro, di una cattedrale gotica irta di guglie e del Cenacolo di Leonardo. Oltre alle passerelle, ripaga chi sa girovagare con calma tra i vicoli di Brera e i suoi bar da aperitivo."
       }
     },
     "locations": {
@@ -2591,6 +2607,70 @@
         "nearbyTips": [
           "Le acque turchesi di Cala Rossa regalano il bagno più famoso dell'isola.",
           "L'ex tonnara Florio, in paese, oggi è un museo."
+        ]
+      },
+      "healaugh-crag": {
+        "sceneContext": "Il crinale di arenaria che sovrasta Healaugh, in Swaledale, è il luogo in cui Cathy aspetta Heathcliff, con lo sguardo rivolto in basso verso il Wuthering Heights del film.",
+        "howToVisit": "Ci si arriva a piedi dal villaggio di Healaugh, vicino a Reeth; la brughiera è aperta ed esposta, quindi indossate scarponi robusti, portate una mappa e scegliete una giornata limpida per godervi le ampie vedute sulla valle.",
+        "nearbyTips": [
+          "Il villaggio di pietra di Reeth è la porta d'accesso allo Swaledale.",
+          "La strada della brughiera sale verso ovest costeggiando antiche rovine di miniere di piombo."
+        ]
+      },
+      "old-gang-mill": {
+        "sceneContext": "La fonderia di piombo in rovina, nella brughiera sotto Healaugh Crag, fa le veci degli edifici accessori della tenuta, consumati dalle intemperie ed erosi dal vento.",
+        "howToVisit": "Le suggestive rovine sorgono lungo la strada della brughiera sopra Reeth, nella valle di Old Gang; la pista è sconnessa, quindi parcheggiate con criterio e percorrete a piedi l'ultimo tratto.",
+        "nearbyTips": [
+          "L'intero versante è punteggiato di resti dell'estrazione del piombo dell'Ottocento.",
+          "Poco distante, Gunnerside Gill custodisce altre spettacolari rovine minerarie da esplorare."
+        ]
+      },
+      "swaledale": {
+        "sceneContext": "La valle racchiusa da muretti a secco intorno a Low Row regala al film il suo Yorkshire cupo e senza tempo, fatto di fienili di pietra, pascoli di pecore e cielo aperto.",
+        "howToVisit": "La B6270 percorre lo Swaledale in tutta la sua lunghezza, da Richmond fino a Keld, tra fienili nei campi e villaggi di pietra; è uno dei grandi itinerari dei Dales da fare con calma, in auto o in bici.",
+        "nearbyTips": [
+          "Keld si trova dove il Pennine Way incontra il sentiero Coast to Coast.",
+          "Muker e Gunnerside sono villaggi dei Dales da cartolina lungo il percorso."
+        ]
+      },
+      "elias-clarke-building": {
+        "sceneContext": "Questo grattacielo di Midtown, sulla Sixth Avenue, torna come esterno dell'Elias-Clarke, la casa editrice dietro all'immaginaria rivista Runway.",
+        "howToVisit": "È una torre di uffici in piena attività, perciò a fare da richiamo sono la piazza al livello della strada e la facciata; ammiralo dalla Sixth Avenue, tra la 48ª e la 49ª strada, poi scendi fino al Rockefeller Center, un paio di isolati più a sud.",
+        "nearbyTips": [
+          "Il Rockefeller Center e la sua terrazza panoramica sono a due isolati.",
+          "Il Museum of Modern Art (MoMA) si raggiunge con una breve passeggiata verso est."
+        ]
+      },
+      "amnh-runway-gala": {
+        "sceneContext": "La grande scalinata del museo su Central Park West e la sua rotonda fanno da cornice allo sfavillante gala di Runway del film.",
+        "howToVisit": "Il museo è aperto ai visitatori tutti i giorni, sul lato ovest di Central Park; si può salire gratuitamente la stessa scalinata d'ingresso, e il parco si trova proprio dall'altra parte della strada.",
+        "nearbyTips": [
+          "I laghetti occidentali di Central Park e la Ramble sono proprio di fronte.",
+          "Le vie fiancheggiate dai brownstone dell'Upper West Side sono perfette per una passeggiata classica."
+        ]
+      },
+      "galleria-vittorio-emanuele": {
+        "sceneContext": "La galleria ottocentesca con la cupola di vetro accanto al Duomo, tutta pavimenti a mosaico e boutique di lusso, regala a Miranda un raro, elegante momento di solitudine.",
+        "howToVisit": "La Galleria è un passaggio pubblico che collega il Duomo alla Scala e si attraversa gratuitamente; vacci presto o sul tardi per goderti la luce sotto la cupola senza la ressa di mezzogiorno.",
+        "nearbyTips": [
+          "Il Duomo di Milano e le sue terrazze sul tetto sono a un'estremità.",
+          "Il teatro dell'opera della Scala si trova all'altra."
+        ]
+      },
+      "brera-academy": {
+        "sceneContext": "Il cortile della storica accademia di belle arti di Milano, nel quartiere di Brera, fa da scenario alla sfilata del film.",
+        "howToVisit": "L'accademia è una scuola d'arte tuttora in attività, ma il suo cortile e l'attigua Pinacoteca di Brera sono aperti ai visitatori; i vicoli di Brera tutt'intorno formano il quartiere più suggestivo della città.",
+        "nearbyTips": [
+          "La Pinacoteca di Brera custodisce capolavori di Raffaello e Caravaggio.",
+          "I caffè e le botteghe di design di Brera sono fatti apposta per un aperitivo serale."
+        ]
+      },
+      "villa-del-balbiano": {
+        "sceneContext": "Questo palazzo cinquecentesco in riva al lago a Tremezzina, già visto in House of Gucci, ospita l'interludio glamour del film sul lago di Como.",
+        "howToVisit": "La villa è una tenuta di lusso privata, affittata per soggiorni ed eventi più che un museo aperto al pubblico, perciò la vista migliore è dall'acqua; un tour in barca sul lago di Como scivola davanti ai suoi giardini e a quelli delle ville vicine.",
+        "nearbyTips": [
+          "I vicini borghi di Brienno e Argegno si aggrappano alla riva.",
+          "Bellagio, il gioiello del lago, è a una breve corsa in traghetto."
         ]
       }
     }

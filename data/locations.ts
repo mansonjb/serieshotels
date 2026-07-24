@@ -3802,4 +3802,148 @@ export const LOCATIONS: Location[] = [
       "The former Florio tuna cannery in town is now a museum.",
     ],
   },
+
+  // ===================== The Devil Wears Prada 2 =====================
+  {
+    slug: "elias-clarke-building",
+    name: "1221 Avenue of the Americas",
+    titleSlug: "devil-wears-prada-2",
+    destinationSlug: "new-york",
+    lat: 40.7595,
+    lng: -73.9814,
+    kind: "building",
+    address: "1221 Avenue of the Americas, New York, NY",
+    sceneContext:
+      "This Midtown skyscraper on Sixth Avenue returns as the exterior of Elias-Clarke, the publisher behind the fictional Runway magazine.",
+    howToVisit:
+      "It is a working office tower, so the draw is the street-level plaza and facade; admire it from Sixth Avenue between 48th and 49th, then wander down to Rockefeller Center a couple of blocks south.",
+    nearbyTips: [
+      "Rockefeller Center and its rooftop deck are two blocks away.",
+      "The Museum of Modern Art (MoMA) is a short walk east.",
+    ],
+  },
+  {
+    slug: "amnh-runway-gala",
+    name: "American Museum of Natural History",
+    titleSlug: "devil-wears-prada-2",
+    destinationSlug: "new-york",
+    lat: 40.7813,
+    lng: -73.974,
+    kind: "landmark",
+    address: "200 Central Park West, New York, NY",
+    sceneContext:
+      "The museum's grand Central Park West steps and rotunda set the stage for the film's glittering Runway gala.",
+    howToVisit:
+      "The museum is open to visitors daily on the west side of Central Park; you can climb the same front steps for free, and the park is right across the road.",
+    nearbyTips: [
+      "Central Park's western lakes and the Ramble are directly opposite.",
+      "The Upper West Side's brownstone streets are a classic stroll.",
+    ],
+  },
+  {
+    slug: "galleria-vittorio-emanuele",
+    name: "Galleria Vittorio Emanuele II",
+    titleSlug: "devil-wears-prada-2",
+    destinationSlug: "milan",
+    lat: 45.4659,
+    lng: 9.1899,
+    kind: "landmark",
+    address: "Piazza del Duomo, 20123 Milano MI, Italy",
+    sceneContext:
+      "The 19th-century glass-domed arcade beside the Duomo, all mosaic floors and luxury boutiques, gives Miranda a rare, elegant moment alone.",
+    howToVisit:
+      "The Galleria is a public passage linking the Duomo to La Scala and is free to walk through; go early or late to enjoy the light under the dome without the midday crush.",
+    nearbyTips: [
+      "Milan's Duomo and its rooftop terraces are at one end.",
+      "La Scala opera house sits at the other.",
+    ],
+  },
+  {
+    slug: "brera-academy",
+    name: "Accademia di Brera",
+    titleSlug: "devil-wears-prada-2",
+    destinationSlug: "milan",
+    lat: 45.472,
+    lng: 9.1876,
+    kind: "building",
+    address: "Via Brera, 28, 20121 Milano MI, Italy",
+    sceneContext:
+      "The courtyard of Milan's historic fine-arts academy in the Brera district stages the film's runway show.",
+    howToVisit:
+      "The academy is a working art school, but its courtyard and the adjoining Pinacoteca di Brera gallery are open to visitors; the surrounding Brera lanes are the city's most atmospheric quarter.",
+    nearbyTips: [
+      "The Pinacoteca di Brera holds masterpieces by Raphael and Caravaggio.",
+      "Brera's cafes and design boutiques are made for an evening aperitivo.",
+    ],
+  },
+  {
+    slug: "villa-del-balbiano",
+    name: "Villa del Balbiano",
+    titleSlug: "devil-wears-prada-2",
+    destinationSlug: "lake-como",
+    lat: 45.9686,
+    lng: 9.1739,
+    kind: "building",
+    sceneContext:
+      "This 16th-century lakeside palazzo in Tremezzina, familiar from House of Gucci, hosts the film's glamorous Lake Como interlude.",
+    howToVisit:
+      "The villa is a private luxury estate let for stays and events rather than a public museum, so the best view is from the water; a Como boat tour glides past its gardens and those of its neighbours.",
+    nearbyTips: [
+      "The nearby villages of Brienno and Argegno cling to the shore.",
+      "Bellagio, the lake's showpiece town, is a short ferry away.",
+    ],
+  },
+
+  // ===================== Wuthering Heights (2026) =====================
+  {
+    slug: "healaugh-crag",
+    name: "Healaugh Crag",
+    titleSlug: "wuthering-heights",
+    destinationSlug: "yorkshire-dales",
+    lat: 54.385,
+    lng: -1.98,
+    kind: "nature",
+    sceneContext:
+      "The gritstone ridge above Healaugh in Swaledale is where Cathy waits for Heathcliff, looking down over the film's Wuthering Heights.",
+    howToVisit:
+      "Reach it on foot from the village of Healaugh near Reeth; the moor is open and exposed, so wear boots and take a map, and go on a clear day for the long valley views.",
+    nearbyTips: [
+      "The stone village of Reeth is the gateway to Swaledale.",
+      "The moor road climbs west past old lead-mining ruins.",
+    ],
+  },
+  {
+    slug: "old-gang-mill",
+    name: "Old Gang Smelting Mill",
+    titleSlug: "wuthering-heights",
+    destinationSlug: "yorkshire-dales",
+    lat: 54.393,
+    lng: -1.99,
+    kind: "landmark",
+    sceneContext:
+      "The ruined lead-smelting mill on the moor below Healaugh Crag stands in for the estate's weathered, wind-scoured outbuildings.",
+    howToVisit:
+      "The atmospheric ruins sit beside the moor road above Reeth, in the Old Gang valley; the track is rough, so park considerately and walk the last stretch.",
+    nearbyTips: [
+      "The whole hillside is dotted with 19th-century lead-mining remains.",
+      "Gunnerside Gill nearby has more dramatic mining ruins to explore.",
+    ],
+  },
+  {
+    slug: "swaledale",
+    name: "Swaledale",
+    titleSlug: "wuthering-heights",
+    destinationSlug: "yorkshire-dales",
+    lat: 54.38,
+    lng: -2.06,
+    kind: "nature",
+    sceneContext:
+      "The drystone-walled valley around Low Row gives the film its brooding, timeless Yorkshire, all stone barns, sheep pasture and open sky.",
+    howToVisit:
+      "The B6270 threads the length of Swaledale from Richmond up to Keld, past field barns and stone villages; it is one of the Dales' great slow drives or cycle routes.",
+    nearbyTips: [
+      "Keld sits where the Pennine Way meets the Coast to Coast path.",
+      "Muker and Gunnerside are picture-perfect Dales villages en route.",
+    ],
+  },
 ];
