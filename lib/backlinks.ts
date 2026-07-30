@@ -7,7 +7,12 @@ import type { Locale } from "./i18n";
  * opens in a new tab. Locale-matched to each sister site's supported languages
  * (verified against their routers), falling back to English otherwise.
  */
-type SiteKey = "hotelswithpets" | "myhoneymoonhotel" | "bestsnowhotels" | "raceweekstays";
+type SiteKey =
+  | "hotelswithpets"
+  | "myhoneymoonhotel"
+  | "bestsnowhotels"
+  | "raceweekstays"
+  | "perfectcitybreak";
 
 type LStr = Record<Locale, string>;
 const L = (en: string, fr: string, de: string, es: string, it: string): LStr => ({ en, fr, de, es, it });
@@ -89,6 +94,28 @@ const SITES: Record<SiteKey, Site> = {
       "Dove alloggiare per un weekend di gara, circuito per circuito.",
     ),
     url: (slug, loc) => `https://raceweekstays.com/${pick(loc, ["en", "fr", "de", "es", "it"])}/${slug}`,
+  },
+  perfectcitybreak: {
+    brand: "PerfectCityBreak",
+    label: L(
+      "City break",
+      "Week-end citadin",
+      "Städtereise",
+      "Escapada urbana",
+      "Weekend in città",
+    ),
+    blurb: L(
+      "Curated weekend city-break guides: where to stay and what to see, city by city.",
+      "Des guides week-end clés en main : où dormir et que voir, ville par ville.",
+      "Kuratierte Wochenend-Städtereisen: wo übernachten und was sehen, Stadt für Stadt.",
+      "Guías de escapada urbana: dónde dormir y qué ver, ciudad a ciudad.",
+      "Guide curate per un weekend in città: dove dormire e cosa vedere, città per città.",
+    ),
+    // en lives at the root; fr/de/es/it are path-prefixed (all supported).
+    url: (slug, loc) =>
+      loc === "en"
+        ? `https://perfectcitybreak.com/${slug}`
+        : `https://perfectcitybreak.com/${loc}/${slug}`,
   },
 };
 
@@ -200,6 +227,34 @@ const BACKLINKS: Record<string, Entry[]> = {
   "las-vegas": [{ site: "raceweekstays", slug: "las-vegas" }],
 };
 
+/**
+ * The "plan a full city break here" angle: ScreenToTrip film-location cities
+ * that PerfectCityBreak also covers. Maps our destination slug -> their city
+ * slug, with an optional `place` override for aliases (Bay of Naples -> Naples).
+ * Kept separate from BACKLINKS so every eligible city gets the link without
+ * touching each entry.
+ */
+const CITY_BREAKS: Record<string, { slug: string; place?: string }> = {
+  paris: { slug: "paris" },
+  rome: { slug: "rome" },
+  venice: { slug: "venice" },
+  florence: { slug: "florence" },
+  milan: { slug: "milan" },
+  seville: { slug: "seville" },
+  madrid: { slug: "madrid" },
+  vienna: { slug: "vienna" },
+  salzburg: { slug: "salzburg" },
+  edinburgh: { slug: "edinburgh" },
+  dublin: { slug: "dublin" },
+  dubrovnik: { slug: "dubrovnik" },
+  krakow: { slug: "krakow" },
+  bruges: { slug: "bruges" },
+  "bay-of-naples": { slug: "naples", place: "Naples" },
+  "amalfi-coast": { slug: "naples", place: "Naples" },
+  "basque-country": { slug: "bilbao", place: "Bilbao" },
+  lombardy: { slug: "milan", place: "Milan" },
+};
+
 export type Backlink = { brand: string; url: string; anchor: string; blurb: string };
 
 /**
@@ -208,7 +263,7 @@ export type Backlink = { brand: string; url: string; anchor: string; blurb: stri
  * the entry overrides it (alias to a differently-named target).
  */
 export function backlinksFor(slug: string, loc: Locale, destName: string): Backlink[] {
-  return (BACKLINKS[slug] ?? []).map(({ site, slug: targetSlug, place }) => {
+  const out: Backlink[] = (BACKLINKS[slug] ?? []).map(({ site, slug: targetSlug, place }) => {
     const s = SITES[site];
     return {
       brand: s.brand,
@@ -217,6 +272,17 @@ export function backlinksFor(slug: string, loc: Locale, destName: string): Backl
       blurb: s.blurb[loc],
     };
   });
+  const cb = CITY_BREAKS[slug];
+  if (cb) {
+    const s = SITES.perfectcitybreak;
+    out.push({
+      brand: s.brand,
+      url: s.url(cb.slug, loc),
+      anchor: `${s.label[loc]} · ${cb.place ?? destName}`,
+      blurb: s.blurb[loc],
+    });
+  }
+  return out;
 }
 
 export const BACKLINKS_HEADING: LStr = L(
