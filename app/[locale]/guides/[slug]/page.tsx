@@ -14,7 +14,7 @@ import { SITE_URL } from "@/lib/site";
 import { abs, alternates, clip, CONTENT_UPDATED, ogImages, OG_FALLBACK, orgNode } from "@/lib/seo";
 
 export const dynamicParams = false;
-export const revalidate = 86400;
+export const revalidate = 2592000; // 30j : contenu statique, un deploy invalide deja le cache
 
 export function generateStaticParams() {
   return GUIDES.map((g) => ({ slug: g.slug }));

@@ -74,7 +74,7 @@ const FAQ_COUNTRIES_A: Record<Locale, string> = {
 };
 
 export const dynamicParams = false;
-export const revalidate = 86400;
+export const revalidate = 2592000; // 30j : contenu statique, un deploy invalide deja le cache
 
 export function generateStaticParams() {
   return TITLES.map((tt) => ({ slug: tt.slug }));
