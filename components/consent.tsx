@@ -42,33 +42,16 @@ export const useConsent = () => useContext(Ctx);
 
 export function EmbedGate({
   children,
-  loadLabel,
-  note,
-  minHeight = 360,
 }: {
   children: ReactNode;
-  loadLabel: string;
-  note: string;
+  /** Kept for call-site compatibility; no longer used. */
+  loadLabel?: string;
+  note?: string;
   minHeight?: number;
 }) {
-  const { consent } = useConsent();
-  const [local, setLocal] = useState(false);
-  if (consent === "all" || local) return <>{children}</>;
-  return (
-    <div
-      className="flex flex-col items-center justify-center gap-3 rounded-xl border border-dashed border-line bg-paper p-8 text-center"
-      style={{ minHeight }}
-    >
-      <p className="max-w-sm text-sm text-muted">{note}</p>
-      <button
-        type="button"
-        onClick={() => setLocal(true)}
-        className="rounded-full bg-ink px-5 py-2.5 text-sm font-semibold text-paper transition-opacity hover:opacity-90"
-      >
-        {loadLabel}
-      </button>
-    </div>
-  );
+  // Consent gating removed: embeds (Stay22 maps, trailers) load immediately so
+  // they never block on a cookie prompt. Analytics load unconditionally too.
+  return <>{children}</>;
 }
 
 export function CookieBanner({

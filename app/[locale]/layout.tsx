@@ -4,10 +4,9 @@ import { Space_Grotesk, Inter, Space_Mono } from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { Stay22LetMeAllez } from "@/components/Stay22LetMeAllez";
-import { DEFAULT_LOCALE, LOCALES, getDict, isLocale, localePath, type Locale } from "@/lib/i18n";
+import { DEFAULT_LOCALE, LOCALES, getDict, isLocale, type Locale } from "@/lib/i18n";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 import { JsonLd } from "@/components/JsonLd";
-import { ConsentProvider, CookieBanner } from "@/components/consent";
 import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 import { MicrosoftClarity } from "@/components/MicrosoftClarity";
 import { ogImages, orgNode } from "@/lib/seo";
@@ -86,22 +85,13 @@ export default async function LocaleLayout({
       className={`${display.variable} ${body.variable} ${mono.variable}`}
     >
       <body className="min-h-screen bg-paper text-ink antialiased">
-        <ConsentProvider>
-          <GoogleAnalytics />
-          <MicrosoftClarity />
-          <JsonLd data={{ "@context": "https://schema.org", ...orgNode() }} />
-          <Header locale={locale} dict={dict} />
-          {children}
-          <Footer locale={locale} dict={dict} />
-          <Stay22LetMeAllez />
-          <CookieBanner
-            message={dict.consent.message}
-            accept={dict.consent.accept}
-            decline={dict.consent.decline}
-            privacyLabel={dict.privacyPage.title}
-            privacyHref={localePath(locale, "/privacy")}
-          />
-        </ConsentProvider>
+        <GoogleAnalytics />
+        <MicrosoftClarity />
+        <JsonLd data={{ "@context": "https://schema.org", ...orgNode() }} />
+        <Header locale={locale} dict={dict} />
+        {children}
+        <Footer locale={locale} dict={dict} />
+        <Stay22LetMeAllez />
       </body>
     </html>
   );
