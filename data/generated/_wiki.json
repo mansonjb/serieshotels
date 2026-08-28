@@ -2021,5 +2021,208 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+  },
+  "locations/coronado-north-island": {
+    "hero": "/locations/coronado-north-island/hero.jpg",
+    "author": "U.S. Navy/Mass Communication Specialist 2nd Class Daniel M. Young",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:USS_Carl_Vinson_(CVN-70),_USS_Ronald_Reagan_(CVN-76)_and_USS_John_C._Stennis_(CVN-74)_at_NAS_North_Island_in_June_2015.JPG"
+  },
+  "locations/fort-rosecrans": {
+    "hero": "/locations/fort-rosecrans/hero.jpg",
+    "author": "U.S. Navy photo by Geoffrey Patrick.",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_rosecrans_cemetery.jpg"
+  },
+  "locations/nas-whidbey-coupeville": {
+    "title": "File:Penn Cove, Whidbey Island.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Penn_Cove%2C_Whidbey_Island.jpg/1920px-Penn_Cove%2C_Whidbey_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Penn_Cove,_Whidbey_Island.jpg",
+    "author": "J Brew",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/nas-whidbey-coupeville/hero.jpg"
+  },
+  "locations/lake-tahoe-sierra": {
+    "hero": "/locations/lake-tahoe-sierra/hero.jpg",
+    "author": "Michael Nevins, U.S. Army Corps of Engineers",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Ward_Creek_mouth_Lake_Tahoe.jpg"
+  },
+  "locations/keem-bay": {
+    "title": "File:Keem Bay,Achill Island,Co.Mayo,Ireland - panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keem_Bay%2CAchill_Island%2CCo.Mayo%2CIreland_-_panoramio.jpg/1920px-Keem_Bay%2CAchill_Island%2CCo.Mayo%2CIreland_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Keem_Bay,Achill_Island,Co.Mayo,Ireland_-_panoramio.jpg",
+    "author": "Geyo John",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/keem-bay/hero.jpg"
+  },
+  "locations/cloughmore-jonjos": {
+    "title": "File:Achill Island - Achill Sound Bridge - geograph.org.uk - 3756579.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Achill_Island_-_Achill_Sound_Bridge_-_geograph.org.uk_-_3756579.jpg/1920px-Achill_Island_-_Achill_Sound_Bridge_-_geograph.org.uk_-_3756579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Achill_Island_-_Achill_Sound_Bridge_-_geograph.org.uk_-_3756579.jpg",
+    "author": "Joseph Mischyshyn",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/cloughmore-jonjos/hero.jpg"
+  },
+  "locations/gort-na-gcapall": {
+    "title": "File:Aran Islands Inishmore Ireland.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Aran_Islands_Inishmore_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Aran_Islands_Inishmore_Ireland.jpg",
+    "author": "No machine-readable author provided. Sebd assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "mime": "image/jpeg",
+    "hero": "/locations/gort-na-gcapall/hero.jpg"
+  },
+  "locations/fuller-lodge": {
+    "title": "File:Fuller lodge los alamos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fuller_lodge_los_alamos.jpg/1920px-Fuller_lodge_los_alamos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Fuller_lodge_los_alamos.jpg",
+    "author": "Mark Pellegrini",
+    "license": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/fuller-lodge/hero.jpg"
+  },
+  "locations/ghost-ranch": {
+    "title": "File:Chimney Rock Ghost Ranch.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Chimney_Rock_Ghost_Ranch.jpg/1920px-Chimney_Rock_Ghost_Ranch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Chimney_Rock_Ghost_Ranch.jpg",
+    "author": "Larry Lamsa",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/ghost-ranch/hero.jpg"
+  },
+  "locations/uc-berkeley": {
+    "title": "File:UCBerkeleyCampus.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/UCBerkeleyCampus.jpg/1920px-UCBerkeleyCampus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:UCBerkeleyCampus.jpg",
+    "author": "brainchildvn on Flickr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/uc-berkeley/hero.jpg"
+  },
+  "locations/villa-balbiano": {
+    "hero": "/locations/villa-balbiano/hero.jpg",
+    "author": "Plumbago Capensis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Balbiano_1.jpg"
+  },
+  "locations/villa-necchi": {
+    "hero": "/locations/villa-necchi/hero.jpg",
+    "author": "Thomas Kowalski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Necchi_Campiglio_20220818-174847.jpg"
+  },
+  "locations/santa-maria-in-campitelli": {
+    "hero": "/locations/santa-maria-in-campitelli/hero.jpg",
+    "author": "user:Lalupa",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Campitelli_-_santa_maria_in_Portico_1918st.JPG"
+  },
+  "destinations/san-diego": {
+    "hero": "/destinations/san-diego/hero.jpg",
+    "author": "Dirk Hansen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Jolla_Shores_view_(cropped).jpg"
+  },
+  "destinations/whidbey-island": {
+    "title": "File:Deception Pass, Whidbey Island.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Deception_Pass%2C_Whidbey_Island.jpg/1920px-Deception_Pass%2C_Whidbey_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Deception_Pass,_Whidbey_Island.jpg",
+    "author": "J Brew",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "mime": "image/jpeg",
+    "hero": "/destinations/whidbey-island/hero.jpg"
+  },
+  "destinations/lake-tahoe": {
+    "hero": "/destinations/lake-tahoe/hero.jpg",
+    "author": "Lara Farhadi",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tahoe_North_Shore_from_the_East_Shore.jpg"
+  },
+  "destinations/achill-island": {
+    "title": "File:Keem Bay,Achill Island,Co.Mayo - panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Keem_Bay%2CAchill_Island%2CCo.Mayo_-_panoramio.jpg/1920px-Keem_Bay%2CAchill_Island%2CCo.Mayo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Keem_Bay,Achill_Island,Co.Mayo_-_panoramio.jpg",
+    "author": "Geyo John",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "mime": "image/jpeg",
+    "hero": "/destinations/achill-island/hero.jpg"
+  },
+  "destinations/inishmore": {
+    "title": "File:Dún Aonghasa, Inis Mór - Dún Aengus, Aran Islands (agost 2011) - panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/D%C3%BAn_Aonghasa%2C_Inis_M%C3%B3r_-_D%C3%BAn_Aengus%2C_Aran_Islands_%28agost_2011%29_-_panoramio.jpg/1920px-D%C3%BAn_Aonghasa%2C_Inis_M%C3%B3r_-_D%C3%BAn_Aengus%2C_Aran_Islands_%28agost_2011%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BAn_Aonghasa,_Inis_M%C3%B3r_-_D%C3%BAn_Aengus,_Aran_Islands_(agost_2011)_-_panoramio.jpg",
+    "author": "EliziR",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "mime": "image/jpeg",
+    "hero": "/destinations/inishmore/hero.jpg"
+  },
+  "destinations/northern-new-mexico": {
+    "hero": "/destinations/northern-new-mexico/hero.jpg",
+    "author": "Netherzone",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Northern_New_Mexico.jpg"
+  },
+  "locations/amanzoe-porto-heli": {
+    "title": "File:Cove in Hinitsa, Porto Heli, Greece (48760330952).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cove_in_Hinitsa%2C_Porto_Heli%2C_Greece_%2848760330952%29.jpg/1920px-Cove_in_Hinitsa%2C_Porto_Heli%2C_Greece_%2848760330952%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Cove_in_Hinitsa,_Porto_Heli,_Greece_(48760330952).jpg",
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/amanzoe-porto-heli/hero.jpg"
+  },
+  "locations/korakia-beach": {
+    "title": "File:Top-down aerial of the private beach of AKS Hinitsa Bay Resort in Porto Heli, Greece (48760152371).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Top-down_aerial_of_the_private_beach_of_AKS_Hinitsa_Bay_Resort_in_Porto_Heli%2C_Greece_%2848760152371%29.jpg/1920px-Top-down_aerial_of_the_private_beach_of_AKS_Hinitsa_Bay_Resort_in_Porto_Heli%2C_Greece_%2848760152371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Top-down_aerial_of_the_private_beach_of_AKS_Hinitsa_Bay_Resort_in_Porto_Heli,_Greece_(48760152371).jpg",
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/korakia-beach/hero.jpg"
+  },
+  "destinations/spetses": {
+    "title": "File:Spetses island in Greece.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spetses_island_in_Greece.jpg/1920px-Spetses_island_in_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Spetses_island_in_Greece.jpg",
+    "author": "Camerawalker",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "mime": "image/jpeg",
+    "hero": "/destinations/spetses/hero.jpg"
+  },
+  "locations/dapia-spetses": {
+    "title": "File:The old port of Spetses.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_old_port_of_Spetses.jpg/1920px-The_old_port_of_Spetses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:The_old_port_of_Spetses.jpg",
+    "author": "Camerawalker",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "mime": "image/jpeg",
+    "hero": "/locations/dapia-spetses/hero.jpg"
   }
 }

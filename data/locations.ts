@@ -3946,4 +3946,281 @@ export const LOCATIONS: Location[] = [
       "Muker and Gunnerside are picture-perfect Dales villages en route.",
     ],
   },
+  {
+    slug: "coronado-north-island",
+    name: "Coronado & Naval Air Station North Island",
+    titleSlug: "top-gun-maverick",
+    destinationSlug: "san-diego",
+    lat: 32.6996,
+    lng: -117.2153,
+    kind: "landmark",
+    sceneContext:
+      "Coronado is the real Fightertown of the film: the base scenes were shot at Naval Air Station North Island, and the beach bar known as the Hard Deck was built for the shoot on the sand at Breaker's Beach on the Coronado shore.",
+    howToVisit:
+      "The naval air station itself is a working base and closed to visitors, but Coronado is easy to reach by ferry or the bridge from downtown San Diego. Walk the wide beach by the Hotel del Coronado, then look across the bay to the carriers and jets that give the town its call sign.",
+    nearbyTips: [
+      "The Hotel del Coronado is a landmark in its own right, worth a drink on the terrace.",
+      "The ferry from downtown's Broadway Pier is the scenic way over.",
+    ],
+  },
+  {
+    slug: "fort-rosecrans",
+    name: "Fort Rosecrans National Cemetery",
+    titleSlug: "top-gun-maverick",
+    destinationSlug: "san-diego",
+    lat: 32.687,
+    lng: -117.2419,
+    kind: "landmark",
+    sceneContext:
+      "The rows of white headstones on the Point Loma hillside, where Maverick pays his respects, are the real Fort Rosecrans National Cemetery overlooking San Diego Bay.",
+    howToVisit:
+      "The cemetery is open to the public on the Point Loma peninsula; visit quietly and with respect, as it is an active military burial ground. Combine it with the Cabrillo National Monument at the tip of the point for sweeping views over the bay and the Pacific.",
+    address: "1700 Cabrillo Memorial Dr, San Diego, CA 92106",
+    nearbyTips: [
+      "Cabrillo National Monument and the old Point Loma lighthouse are a short drive on.",
+      "The Sunset Cliffs run down the ocean side of the peninsula.",
+    ],
+  },
+  {
+    slug: "nas-whidbey-coupeville",
+    name: "Coupeville & Whidbey Island",
+    titleSlug: "top-gun-maverick",
+    destinationSlug: "whidbey-island",
+    lat: 48.2193,
+    lng: -122.6857,
+    kind: "landmark",
+    sceneContext:
+      "The Pacific Northwest runway and coastline sequences were flown out of Naval Air Station Whidbey Island, with the green bluffs and water of the Coupeville area standing in for the film's northern airfield.",
+    howToVisit:
+      "The base is not open to the public, but the historic seafront town of Coupeville on Penn Cove is one of the prettiest stops in Puget Sound. Reach Whidbey by ferry from Mukilteo or over the Deception Pass bridge, and time a visit for the island's famous mussels.",
+    nearbyTips: [
+      "Deception Pass State Park has the dramatic bridge and cliff-edge trails.",
+      "Ebey's Landing offers a bluff walk straight above the sea.",
+    ],
+  },
+  {
+    slug: "lake-tahoe-sierra",
+    name: "Lake Tahoe & the High Sierra",
+    titleSlug: "top-gun-maverick",
+    destinationSlug: "lake-tahoe",
+    lat: 39.0968,
+    lng: -120.0324,
+    kind: "nature",
+    sceneContext:
+      "The white-knuckle low-level training runs, threading between ridgelines and down into valleys, were flown over the granite of the High Sierra around Lake Tahoe, with the lake basin among the terrain used.",
+    howToVisit:
+      "You cannot fly the canyon run, but the Sierra scenery is yours to drive and hike. Loop the lake for viewpoints over Emerald Bay, ride a summer gondola for the aerial angle, or take a scenic flight to see the granite country the way the cameras did.",
+    nearbyTips: [
+      "Emerald Bay and its island are the postcard stop on the west shore.",
+      "Nevada's Sand Harbor has the clearest turquoise water on the lake.",
+    ],
+  },
+  {
+    slug: "keem-bay",
+    name: "Keem Bay",
+    titleSlug: "the-banshees-of-inisherin",
+    destinationSlug: "achill-island",
+    lat: 53.9722,
+    lng: -10.1936,
+    kind: "nature",
+    sceneContext:
+      "The golden horseshoe of Keem Bay, cradled by green cliffs at the very end of Achill Island, is where the cottage of one of the two friends stood and where the film's closing scene plays out.",
+    howToVisit:
+      "A narrow, cliff-hugging road drops down to the beach at the western tip of Achill, with a car park above the sand. It is a swimming and walking beach on the Wild Atlantic Way, so come for the light and the climb up onto the surrounding headland.",
+    nearbyTips: [
+      "The old booley village and deserted village at Slievemore are a haunting nearby walk.",
+      "The cliff path above Keem climbs toward the island's old watchtower.",
+    ],
+  },
+  {
+    slug: "cloughmore-jonjos",
+    name: "Cloughmore (JJ Devine's Pub)",
+    titleSlug: "the-banshees-of-inisherin",
+    destinationSlug: "achill-island",
+    lat: 53.9265,
+    lng: -9.9036,
+    kind: "other",
+    sceneContext:
+      "The village pub at the heart of the story, JJ Devine's, was a temporary structure built for the shoot near Cloughmore on the southeastern corner of Achill Island.",
+    howToVisit:
+      "The pub set was removed after filming, so there is no building to enter, but the quiet Cloughmore corner and its little harbour are an atmospheric stop. Local guides and the island's own Banshees trail point out where the exterior once stood.",
+    nearbyTips: [
+      "Achill Sound is the gateway village where the bridge meets the mainland.",
+      "Ask at Achill Tourism about the marked Banshees of Inisherin locations trail.",
+    ],
+  },
+  {
+    slug: "gort-na-gcapall",
+    name: "Gort na gCapall, Inishmore",
+    titleSlug: "the-banshees-of-inisherin",
+    destinationSlug: "inishmore",
+    lat: 53.118,
+    lng: -9.762,
+    kind: "other",
+    sceneContext:
+      "The cottage shared by the film's brother and sister was built in the tiny settlement of Gort na gCapall on Inishmore, the largest of the Aran Islands, whose stone-walled fields fill many of the wider shots.",
+    howToVisit:
+      "Reach Inishmore by ferry from Rossaveel near Galway or from Doolin in County Clare, then explore by bike, pony trap or minibus. Gort na gCapall sits inland below the great cliff fort of Dun Aonghasa, the island's unmissable landmark.",
+    nearbyTips: [
+      "Dun Aonghasa, a prehistoric fort on a 100-metre sea cliff, is a short walk up.",
+      "The natural rock pool known as the Worm Hole is nearby on the same coast.",
+    ],
+  },
+  {
+    slug: "dapia-spetses",
+    name: "Dapia Harbour, Spetses",
+    titleSlug: "glass-onion",
+    destinationSlug: "spetses",
+    lat: 37.2636,
+    lng: 23.1548,
+    kind: "landmark",
+    sceneContext:
+      "The old harbour of Dapia, the bustling heart of Spetses town with its cannons and neoclassical facades, appears as the characters gather and arrive by boat for the island weekend.",
+    howToVisit:
+      "Spetses is reached by fast ferry from Athens' port of Piraeus or by a short water taxi from Porto Heli. Cars are banned in town, so explore the Dapia waterfront and its mansions on foot, by bicycle or in one of the island's horse-drawn carriages.",
+    nearbyTips: [
+      "The Bouboulina Museum tells the story of the island's revolutionary heroine.",
+      "Rent a bike to loop the pine-fringed coast road to Agioi Anargyroi beach.",
+    ],
+  },
+  {
+    slug: "amanzoe-porto-heli",
+    name: "Amanzoe, Porto Heli",
+    titleSlug: "glass-onion",
+    destinationSlug: "spetses",
+    lat: 37.3407,
+    lng: 23.105,
+    kind: "hotel",
+    sceneContext:
+      "The billionaire's clifftop compound, crowned in the film by a glass onion dome added digitally, is the real Amanzoe resort on a hilltop above Porto Heli, whose colonnaded villas and pool stand in for the private-island mansion.",
+    howToVisit:
+      "Amanzoe is a luxury resort near Kranidi on the Peloponnese coast, so the way to step inside the film is to book a stay or a meal. Even from the road below, the temple-like hilltop pavilions and their sea views are unmistakable.",
+    nearbyTips: [
+      "Porto Heli's marina is the jumping-off point for boats to Spetses and Hydra.",
+      "The ancient theatre of Epidaurus is an easy day trip inland.",
+    ],
+  },
+  {
+    slug: "korakia-beach",
+    name: "Korakia Beach, Porto Heli",
+    titleSlug: "glass-onion",
+    destinationSlug: "spetses",
+    lat: 37.318,
+    lng: 23.133,
+    kind: "nature",
+    sceneContext:
+      "The sheltered cove near Porto Heli where the guests are met on arrival stands in for the private beach below the mansion, all clear shallows and pine-backed shore.",
+    howToVisit:
+      "Small beaches like Korakia rim the coast around Porto Heli and are reached by car or on foot from the town. Bring your own shade and swim gear, as these are quiet, low-key coves rather than heavily developed resorts.",
+    nearbyTips: [
+      "Porto Heli town has tavernas along the horseshoe bay for lunch.",
+      "Water taxis from the marina reach Spetses in around ten minutes.",
+    ],
+  },
+  {
+    slug: "fuller-lodge",
+    name: "Fuller Lodge, Los Alamos",
+    titleSlug: "oppenheimer",
+    destinationSlug: "northern-new-mexico",
+    lat: 35.8896,
+    lng: -106.3068,
+    kind: "building",
+    sceneContext:
+      "Some of the Los Alamos interiors were shot in the real town on the mesa, around the log-built Fuller Lodge, once the dining hall of the ranch school the Manhattan Project took over.",
+    howToVisit:
+      "Fuller Lodge stands on Central Avenue in downtown Los Alamos and is open as a community and arts venue. Pair it with the Manhattan Project National Historical Park sites and the Bradbury Science Museum to trace the story on the ground.",
+    address: "2132 Central Ave, Los Alamos, NM 87544",
+    nearbyTips: [
+      "The Los Alamos History Museum sits in the lodge's former guest cottages.",
+      "Bandelier National Monument's cliff dwellings are a short drive south.",
+    ],
+  },
+  {
+    slug: "ghost-ranch",
+    name: "Ghost Ranch, Abiquiu",
+    titleSlug: "oppenheimer",
+    destinationSlug: "northern-new-mexico",
+    lat: 36.3342,
+    lng: -106.4686,
+    kind: "nature",
+    sceneContext:
+      "The wartime town of Los Alamos, with its hastily built streets and the tower of the Trinity countdown, was recreated as a full set on the red-rock landscape of Ghost Ranch, the desert retreat that Georgia O'Keeffe made famous.",
+    howToVisit:
+      "Ghost Ranch is a working education and retreat centre near Abiquiu on US-84, open for day visits, guided tours and hikes. Trails like Chimney Rock and Kitchen Mesa climb into the same cliffs and painted desert that fill the film's exteriors.",
+    address: "US-84, Abiquiu, NM 87510",
+    nearbyTips: [
+      "The Chimney Rock trail earns a wide view over the Piedra Lumbre basin.",
+      "Georgia O'Keeffe's home and studio in Abiquiu can be toured by reservation.",
+    ],
+  },
+  {
+    slug: "uc-berkeley",
+    name: "University of California, Berkeley",
+    titleSlug: "oppenheimer",
+    destinationSlug: "san-francisco",
+    lat: 37.8719,
+    lng: -122.2585,
+    kind: "landmark",
+    sceneContext:
+      "Oppenheimer's years as a young professor play out on the University of California campus in Berkeley, across the bay from San Francisco, dressed by the crew to look as it did in the 1940s.",
+    howToVisit:
+      "The Berkeley campus is open to walk, with the landmark Campanile bell tower at its centre and views back to the bay and the city. It is a short BART ride from San Francisco, easy to fold into a wider Bay Area trip.",
+    nearbyTips: [
+      "Ride the elevator up the Campanile for a panorama over the bay.",
+      "Telegraph Avenue's bookshops and cafes run right up to the campus gate.",
+    ],
+  },
+  {
+    slug: "villa-balbiano",
+    name: "Villa Balbiano, Lake Como",
+    titleSlug: "house-of-gucci",
+    destinationSlug: "lake-como",
+    lat: 45.9762,
+    lng: 9.1846,
+    kind: "building",
+    sceneContext:
+      "The lavish lakeside villa that serves as the Gucci family home is the seventeenth-century Villa Balbiano at Ossuccio, its terraced gardens and frescoed rooms among the grandest on Lake Como.",
+    howToVisit:
+      "The villa is a private events and wedding venue rather than a daily museum, but its facade and gardens are best admired from the water. Take a boat from Como or Lenno along the western shore to see it the way the film frames it.",
+    nearbyTips: [
+      "The gardens of Villa del Balbianello near Lenno are open to visitors close by.",
+      "Isola Comacina, the lake's only island, lies just offshore with a famous lunch spot.",
+    ],
+  },
+  {
+    slug: "villa-necchi",
+    name: "Villa Necchi Campiglio",
+    titleSlug: "house-of-gucci",
+    destinationSlug: "milan",
+    lat: 45.4699,
+    lng: 9.2006,
+    kind: "building",
+    sceneContext:
+      "The elegant 1930s Villa Necchi Campiglio, with its rationalist lines, marble staircase and private pool, stands in as the refined Milan home of the elder Gucci.",
+    howToVisit:
+      "The villa is owned by the FAI heritage trust and open to the public, usually with timed tours; booking ahead is wise. Its garden cafe makes a calm break from the city's shopping streets.",
+    address: "Via Mozart 14, 20122 Milano MI",
+    nearbyTips: [
+      "The Quadrilatero della Moda fashion quarter is a short walk away.",
+      "The gardens of the nearby Palazzo Morando add another design-history stop.",
+    ],
+  },
+  {
+    slug: "santa-maria-in-campitelli",
+    name: "Santa Maria in Campitelli",
+    titleSlug: "house-of-gucci",
+    destinationSlug: "rome",
+    lat: 41.8918,
+    lng: 12.4791,
+    kind: "landmark",
+    sceneContext:
+      "The Baroque church of Santa Maria in Campitelli, near Rome's old Jewish quarter, provides the grand setting for the film's wedding scene.",
+    howToVisit:
+      "The church is an active place of worship in the Sant'Angelo district, generally open and free to enter; dress respectfully and avoid Mass times. It sits a short walk from the Portico d'Ottavia and the Tiber island.",
+    address: "Piazza di Campitelli 9, 00186 Roma RM",
+    nearbyTips: [
+      "The Roman Ghetto's kosher bakeries and trattorie are around the corner.",
+      "Cross to Tiber Island and on to Trastevere for the evening.",
+    ],
+  },
 ];

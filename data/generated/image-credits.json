@@ -641,6 +641,48 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
   },
+  "destinations/san-diego": {
+    "author": "Dirk Hansen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Jolla_Shores_view_(cropped).jpg"
+  },
+  "destinations/whidbey-island": {
+    "author": "J Brew",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Deception_Pass,_Whidbey_Island.jpg"
+  },
+  "destinations/lake-tahoe": {
+    "author": "Lara Farhadi",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tahoe_North_Shore_from_the_East_Shore.jpg"
+  },
+  "destinations/achill-island": {
+    "author": "Geyo John",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Keem_Bay,Achill_Island,Co.Mayo_-_panoramio.jpg"
+  },
+  "destinations/inishmore": {
+    "author": "EliziR",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BAn_Aonghasa,_Inis_M%C3%B3r_-_D%C3%BAn_Aengus,_Aran_Islands_(agost_2011)_-_panoramio.jpg"
+  },
+  "destinations/northern-new-mexico": {
+    "author": "Netherzone",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Northern_New_Mexico.jpg"
+  },
+  "destinations/spetses": {
+    "author": "Camerawalker",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spetses_island_in_Greece.jpg"
+  },
   "locations/dubrovnik-city-walls": {
     "author": "Miroslav.vajdic",
     "license": "CC BY-SA 4.0",
@@ -1888,6 +1930,102 @@
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Swaledale_from_Kisdon_-_geograph.org.uk_-_39006.jpg"
+  },
+  "locations/coronado-north-island": {
+    "author": "U.S. Navy/Mass Communication Specialist 2nd Class Daniel M. Young",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:USS_Carl_Vinson_(CVN-70),_USS_Ronald_Reagan_(CVN-76)_and_USS_John_C._Stennis_(CVN-74)_at_NAS_North_Island_in_June_2015.JPG"
+  },
+  "locations/fort-rosecrans": {
+    "author": "U.S. Navy photo by Geoffrey Patrick.",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_rosecrans_cemetery.jpg"
+  },
+  "locations/nas-whidbey-coupeville": {
+    "author": "J Brew",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Penn_Cove,_Whidbey_Island.jpg"
+  },
+  "locations/lake-tahoe-sierra": {
+    "author": "Michael Nevins, U.S. Army Corps of Engineers",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Ward_Creek_mouth_Lake_Tahoe.jpg"
+  },
+  "locations/keem-bay": {
+    "author": "Geyo John",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Keem_Bay,Achill_Island,Co.Mayo,Ireland_-_panoramio.jpg"
+  },
+  "locations/cloughmore-jonjos": {
+    "author": "Joseph Mischyshyn",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achill_Island_-_Achill_Sound_Bridge_-_geograph.org.uk_-_3756579.jpg"
+  },
+  "locations/gort-na-gcapall": {
+    "author": "No machine-readable author provided. Sebd assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Aran_Islands_Inishmore_Ireland.jpg"
+  },
+  "locations/dapia-spetses": {
+    "author": "Camerawalker",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_old_port_of_Spetses.jpg"
+  },
+  "locations/amanzoe-porto-heli": {
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cove_in_Hinitsa,_Porto_Heli,_Greece_(48760330952).jpg"
+  },
+  "locations/korakia-beach": {
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Top-down_aerial_of_the_private_beach_of_AKS_Hinitsa_Bay_Resort_in_Porto_Heli,_Greece_(48760152371).jpg"
+  },
+  "locations/fuller-lodge": {
+    "author": "Mark Pellegrini",
+    "license": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fuller_lodge_los_alamos.jpg"
+  },
+  "locations/ghost-ranch": {
+    "author": "Larry Lamsa",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chimney_Rock_Ghost_Ranch.jpg"
+  },
+  "locations/uc-berkeley": {
+    "author": "brainchildvn on Flickr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UCBerkeleyCampus.jpg"
+  },
+  "locations/villa-balbiano": {
+    "author": "Plumbago Capensis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Balbiano_1.jpg"
+  },
+  "locations/villa-necchi": {
+    "author": "Thomas Kowalski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Necchi_Campiglio_20220818-174847.jpg"
+  },
+  "locations/santa-maria-in-campitelli": {
+    "author": "user:Lalupa",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Campitelli_-_santa_maria_in_Portico_1918st.JPG"
   },
   "destinations/kerry": {
     "author": "Jerzy Strzelecki",

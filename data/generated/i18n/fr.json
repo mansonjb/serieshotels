@@ -629,6 +629,26 @@
       "devil-wears-prada-2": {
         "tagline": "Miranda et Andy se retrouvent, des galas de Manhattan à la fashion week de Milan.",
         "synopsis": "Cette suite très attendue nous ramène dans l'univers impitoyable de la presse magazine, retrouvant Miranda Priestly et Andy Sachs des années plus tard. Tournée en décors réels à New York, à Milan et sur le lac de Côme, elle transforme de véritables hauts lieux de la mode en sa toile de fond glamour."
+      },
+      "top-gun-maverick": {
+        "tagline": "Des aviateurs de la Navy, de vrais porte-avions et le ciel de Californie, des décennies après l'original.",
+        "synopsis": "Des décennies après l'original, un pilote d'essai vétéran de la Navy est rappelé à l'école des pilotes de chasse pour former une nouvelle promotion d'aviateurs en vue d'une mission quasi impossible. Une grande partie du film a été tournée avec de vrais avions de chasse et de vrais porte-avions autour de San Diego et dans le Nord-Ouest pacifique, les vols d'entraînement à basse altitude ayant été filmés au-dessus de la Haute Sierra, près du lac Tahoe."
+      },
+      "the-banshees-of-inisherin": {
+        "tagline": "Une fable sur une amitié qui tourne au vinaigre, tournée sur les îles sauvages de la côte atlantique irlandaise.",
+        "synopsis": "Sur une île isolée au large de la côte ouest de l'Irlande, un homme met brutalement fin à l'amitié de toute une vie qui le liait à un autre, et l'onde de choc se propage dans leur minuscule communauté. Martin McDonagh a tourné cette fable sur l'île d'Achill, dans le comté de Mayo, et sur Inishmore, l'une des îles d'Aran, laissant les paysages atlantiques bruts porter l'atmosphère."
+      },
+      "glass-onion": {
+        "tagline": "Une intrigue policière sur l'île grecque d'un milliardaire, filmée autour de Spetsès et de Porto Heli.",
+        "synopsis": "Le détective Benoit Blanc est invité sur l'île grecque privée d'un milliardaire de la tech pour un week-end de jeu de meurtre et mystère qui ne tarde pas à devenir bien réel. Ce séjour a été filmé autour de l'île de Spetsès et au complexe Amanzoe, perché sur les hauteurs au-dessus de Porto Heli, sur la côte du Péloponnèse."
+      },
+      "oppenheimer": {
+        "tagline": "La fresque de Christopher Nolan sur l'ère atomique, recréée à travers le Nouveau-Mexique et Berkeley.",
+        "synopsis": "Le portrait que Christopher Nolan consacre au physicien J. Robert Oppenheimer suit la course à la première bombe atomique et l'heure des comptes qui a suivi. Plutôt que de recourir à des studios, Nolan a reconstitué le Los Alamos des années 1940 dans le désert du Nouveau-Mexique, à Ghost Ranch, et a tourné sur les vrais campus universitaires où se déroule l'histoire."
+      },
+      "house-of-gucci": {
+        "tagline": "Le scandale d'une dynastie de la mode, mis en scène à Milan, sur le lac de Côme et à Rome.",
+        "synopsis": "Le drame de Ridley Scott retrace l'entrée de Patrizia Reggiani, par le mariage, dans la dynastie de la mode Gucci, et les trahisons qui ont déchiré la famille. Tourné entièrement en Italie, il passe des galeries vitrées de Milan à une villa du lac de Côme et à un mariage au cœur de Rome."
       }
     },
     "destinations": {
@@ -1015,6 +1035,34 @@
       "milan": {
         "name": "Milan",
         "blurb": "Capitale italienne de la mode et du design, ville du Nord au tempo vif, faite de galeries couvertes de verrières, d'une cathédrale gothique hérissée de flèches et de « La Cène » de Léonard de Vinci. Au-delà des défilés, elle se savoure en flânant dans les ruelles de Brera et ses bars à aperitivo."
+      },
+      "san-diego": {
+        "name": "San Diego",
+        "blurb": "La ville de la Navy en Californie du Sud, blottie autour d'un immense port naturel, avec ses plages ensoleillées et son front de mer décontracté. Berceau de la véritable Fightertown, elle associe le sable de Coronado et le promontoire de Point Loma à un centre-ville gorgé de soleil où tout se fait à pied."
+      },
+      "whidbey-island": {
+        "name": "île Whidbey",
+        "blurb": "Une longue île verdoyante du Puget Sound, au nord de Seattle, bordée de falaises, de criques et de la petite ville historique de bord de mer de Coupeville. Accessible en ferry ou par le spectaculaire pont de Deception Pass, elle troque l'agitation urbaine contre les moules, les arbousiers et le calme du Nord-Ouest pacifique."
+      },
+      "lake-tahoe": {
+        "name": "lac Tahoe",
+        "blurb": "Un vaste lac alpin à cheval sur la Californie et le Nevada, cerné de sommets de granit et de forêts de pins à plus de mille huit cents mètres d'altitude. Emerald Bay et la Haute Sierra qui domine le lac attirent les skieurs en hiver, ainsi que les randonneurs, kayakistes et amateurs de vols panoramiques en été."
+      },
+      "achill-island": {
+        "name": "île d'Achill",
+        "blurb": "La plus grande des îles d'Irlande, reliée au comté de Mayo par un pont et posée le long de la Wild Atlantic Way. Ses tourbières de couverture, ses falaises marines et le croissant doré de Keem Bay en font l'un des coins les plus sauvages et les plus cinématographiques de la côte ouest."
+      },
+      "inishmore": {
+        "name": "Inishmore",
+        "blurb": "La plus grande des trois îles d'Aran, une dalle de calcaire battue par les vents au large de la côte de Galway, quadrillée de murets de pierres sèches et de minuscules parcelles. Ferries et vélos mènent au fort préhistorique de Dun Aonghasa, perché sur la falaise, et à une vie insulaire paisible où l'on parle irlandais."
+      },
+      "spetses": {
+        "name": "Spetsès et Porto Heli",
+        "blurb": "Une île chic et sans voitures et son pendant continental, une marina de la côte d'Argolide, à deux pas d'Athènes. Demeures néoclassiques, calèches et criques bordées de pins ont fait depuis longtemps de Spetsès et de Porto Heli un terrain de jeu discret pour les Athéniens fortunés."
+      },
+      "northern-new-mexico": {
+        "name": "Nord du Nouveau-Mexique",
+        "blurb": "Un haut désert de mesas de roche rouge, de collines de pins pignons et de ciels immenses, entre Santa Fe, Los Alamos et la vallée de la Chama. La lumière qui attira Georgia O'Keeffe à Ghost Ranch nimbe encore les villages en adobe, les anciens pueblos et la mesa secrète où naquit l'ère atomique."
       }
     },
     "locations": {
@@ -2680,6 +2728,134 @@
         "nearbyTips": [
           "Les villages voisins de Brienno et Argegno s'accrochent à la rive.",
           "Bellagio, la perle du lac, n'est qu'à une courte traversée en ferry."
+        ]
+      },
+      "coronado-north-island": {
+        "sceneContext": "Coronado est la véritable Fightertown du film : les scènes de la base ont été tournées à la Naval Air Station North Island, et le bar de plage baptisé le Hard Deck a été construit pour le tournage sur le sable de Breaker's Beach, sur le littoral de Coronado.",
+        "howToVisit": "La base aéronavale elle-même est en activité et fermée au public, mais Coronado se rejoint facilement en ferry ou par le pont depuis le centre-ville de San Diego. Promenez-vous sur la vaste plage au pied de l'Hotel del Coronado, puis regardez, de l'autre côté de la baie, les porte-avions et les avions de chasse qui ont donné son indicatif à la ville.",
+        "nearbyTips": [
+          "L'Hotel del Coronado est un monument à part entière, qui vaut bien un verre en terrasse.",
+          "Le ferry qui part du Broadway Pier, au centre-ville, offre la plus belle traversée."
+        ]
+      },
+      "fort-rosecrans": {
+        "sceneContext": "Les rangées de pierres tombales blanches sur les hauteurs de Point Loma, là où Maverick vient se recueillir, appartiennent au véritable cimetière national de Fort Rosecrans, qui domine la baie de San Diego.",
+        "howToVisit": "Le cimetière est ouvert au public sur la presqu'île de Point Loma ; visitez-le dans le calme et le respect, car c'est un lieu de sépulture militaire toujours en service. Associez-le au Cabrillo National Monument, à l'extrémité de la pointe, pour des vues panoramiques sur la baie et le Pacifique.",
+        "nearbyTips": [
+          "Le Cabrillo National Monument et l'ancien phare de Point Loma sont à quelques minutes de route.",
+          "Les Sunset Cliffs s'étirent sur le versant océanique de la presqu'île."
+        ]
+      },
+      "nas-whidbey-coupeville": {
+        "sceneContext": "Les séquences de piste et de littoral dans le Nord-Ouest pacifique ont été filmées au départ de la Naval Air Station Whidbey Island, les falaises verdoyantes et les eaux des environs de Coupeville tenant lieu de l'aérodrome nordique du film.",
+        "howToVisit": "La base n'est pas ouverte au public, mais la petite ville historique de Coupeville, en bord de mer sur Penn Cove, est l'une des plus jolies haltes du Puget Sound. Rejoignez l'île Whidbey en ferry depuis Mukilteo ou par le pont de Deception Pass, et calez votre visite pour goûter les fameuses moules de l'île.",
+        "nearbyTips": [
+          "Le Deception Pass State Park abrite le spectaculaire pont et des sentiers en bordure de falaise.",
+          "Ebey's Landing propose une balade sur les falaises, juste au-dessus de la mer."
+        ]
+      },
+      "lake-tahoe-sierra": {
+        "sceneContext": "Les vols d'entraînement à basse altitude qui font froid dans le dos, se faufilant entre les crêtes et plongeant dans les vallées, ont été filmés au-dessus du granit de la Haute Sierra autour du lac Tahoe, le bassin du lac faisant partie des décors utilisés.",
+        "howToVisit": "Vous ne pourrez pas piloter dans le canyon, mais les paysages de la Sierra sont à vous, en voiture comme à pied. Faites le tour du lac pour ses points de vue sur Emerald Bay, empruntez une télécabine en été pour la vue d'en haut, ou offrez-vous un vol panoramique pour découvrir ce pays de granit comme l'ont fait les caméras.",
+        "nearbyTips": [
+          "Emerald Bay et son île sont l'arrêt carte postale de la rive ouest.",
+          "Sand Harbor, côté Nevada, offre l'eau turquoise la plus limpide du lac."
+        ]
+      },
+      "keem-bay": {
+        "sceneContext": "Le fer à cheval doré de Keem Bay, blotti entre des falaises verdoyantes à l'extrême bout de l'île d'Achill, est l'endroit où se dressait la maison de l'un des deux amis et où se joue la scène finale du film.",
+        "howToVisit": "Une route étroite épousant la falaise descend jusqu'à la plage, à la pointe ouest d'Achill, avec un parking au-dessus du sable. C'est une plage de baignade et de promenade sur la Wild Atlantic Way : venez-y pour la lumière et pour grimper sur le promontoire qui l'entoure.",
+        "nearbyTips": [
+          "Le vieux village de transhumance et le village abandonné de Slievemore offrent une promenade envoûtante tout près de là.",
+          "Le sentier de falaise au-dessus de Keem monte vers l'ancienne tour de guet de l'île."
+        ]
+      },
+      "cloughmore-jonjos": {
+        "sceneContext": "Le pub du village au cœur de l'histoire, le JJ Devine's, était une structure temporaire construite pour le tournage près de Cloughmore, à l'angle sud-est de l'île d'Achill.",
+        "howToVisit": "Le décor du pub a été démonté après le tournage : il n'y a donc aucun bâtiment à visiter, mais le coin paisible de Cloughmore et son petit port forment une halte pleine d'atmosphère. Les guides locaux et le sentier Banshees de l'île indiquent l'emplacement où se dressait la façade.",
+        "nearbyTips": [
+          "Achill Sound est le village d'entrée, là où le pont rejoint le continent.",
+          "Renseignez-vous auprès d'Achill Tourism sur le circuit balisé des lieux de tournage de Banshees of Inisherin."
+        ]
+      },
+      "gort-na-gcapall": {
+        "sceneContext": "La maison partagée par le frère et la sœur du film a été construite dans le minuscule hameau de Gort na gCapall, sur Inishmore, la plus grande des îles d'Aran, dont les champs bordés de murs de pierre remplissent de nombreux plans larges.",
+        "howToVisit": "Rejoignez Inishmore en ferry depuis Rossaveel, près de Galway, ou depuis Doolin, dans le comté de Clare, puis explorez l'île à vélo, en calèche ou en minibus. Gort na gCapall se niche à l'intérieur des terres, en contrebas du grand fort perché de Dun Aonghasa, le site incontournable de l'île.",
+        "nearbyTips": [
+          "Dun Aonghasa, un fort préhistorique posé sur une falaise marine de cent mètres, se rejoint par une courte montée à pied.",
+          "Le bassin rocheux naturel appelé le Worm Hole se trouve à proximité, sur la même côte."
+        ]
+      },
+      "dapia-spetses": {
+        "sceneContext": "Le vieux port de Dapia, le cœur animé de la ville de Spetsès avec ses canons et ses façades néoclassiques, apparaît au moment où les personnages se réunissent et arrivent en bateau pour le week-end sur l'île.",
+        "howToVisit": "Spetsès se rejoint en ferry rapide depuis Le Pirée, le port d'Athènes, ou par un court trajet en taxi-bateau depuis Porto Heli. Les voitures sont interdites en ville : explorez donc le front de mer de Dapia et ses demeures à pied, à vélo ou dans l'une des calèches de l'île.",
+        "nearbyTips": [
+          "Le musée Bouboulina raconte l'histoire de l'héroïne révolutionnaire de l'île.",
+          "Louez un vélo pour parcourir la route côtière bordée de pins jusqu'à la plage d'Agioi Anargyroi."
+        ]
+      },
+      "amanzoe-porto-heli": {
+        "sceneContext": "Le domaine du milliardaire perché sur la falaise, coiffé dans le film d'un dôme de verre en forme d'oignon ajouté numériquement, est le véritable complexe Amanzoe, sur une colline au-dessus de Porto Heli, dont les villas à colonnades et la piscine tiennent lieu de la demeure de l'île privée.",
+        "howToVisit": "Amanzoe est un complexe de luxe près de Kranidi, sur la côte du Péloponnèse : pour entrer dans le film, réservez donc un séjour ou un repas. Même depuis la route en contrebas, les pavillons de la colline, semblables à des temples, et leurs vues sur la mer sont impossibles à manquer.",
+        "nearbyTips": [
+          "La marina de Porto Heli est le point de départ des bateaux vers Spetsès et Hydra.",
+          "L'antique théâtre d'Épidaure se prête à une excursion facile à l'intérieur des terres."
+        ]
+      },
+      "korakia-beach": {
+        "sceneContext": "La crique abritée près de Porto Heli où les invités sont accueillis à leur arrivée tient lieu de la plage privée en contrebas de la demeure, tout en eaux claires et peu profondes et en rivage adossé aux pins.",
+        "howToVisit": "De petites plages comme Korakia bordent le littoral autour de Porto Heli et se rejoignent en voiture ou à pied depuis la ville. Apportez de quoi vous protéger du soleil et vos affaires de baignade, car ce sont des criques tranquilles et sans chichis, loin des stations très aménagées.",
+        "nearbyTips": [
+          "La ville de Porto Heli aligne des tavernes le long de sa baie en fer à cheval pour le déjeuner.",
+          "Les taxis-bateaux de la marina rejoignent Spetsès en une dizaine de minutes."
+        ]
+      },
+      "fuller-lodge": {
+        "sceneContext": "Certains intérieurs de Los Alamos ont été tournés dans la vraie ville, sur la mesa, autour du Fuller Lodge en rondins, jadis le réfectoire de l'école-ranch dont le projet Manhattan s'est emparé.",
+        "howToVisit": "Le Fuller Lodge se dresse sur Central Avenue, dans le centre de Los Alamos, et se visite en tant que lieu culturel et associatif. Associez-le aux sites du Manhattan Project National Historical Park et au Bradbury Science Museum pour suivre l'histoire sur le terrain.",
+        "nearbyTips": [
+          "Le Los Alamos History Museum occupe les anciens pavillons d'hôtes du lodge.",
+          "Les habitations troglodytes du Bandelier National Monument sont à quelques minutes de route vers le sud."
+        ]
+      },
+      "ghost-ranch": {
+        "sceneContext": "La ville de Los Alamos du temps de la guerre, avec ses rues bâties à la hâte et la tour du compte à rebours de Trinity, a été recréée sous forme de décor grandeur nature sur les paysages de roche rouge de Ghost Ranch, la retraite désertique que Georgia O'Keeffe a rendue célèbre.",
+        "howToVisit": "Ghost Ranch est un centre éducatif et de retraite en activité près d'Abiquiu, sur la route US-84, ouvert aux visites à la journée, aux visites guidées et aux randonnées. Des sentiers comme Chimney Rock et Kitchen Mesa s'élèvent vers les falaises et le désert coloré que l'on retrouve dans les extérieurs du film.",
+        "nearbyTips": [
+          "Le sentier de Chimney Rock offre en récompense une large vue sur le bassin de Piedra Lumbre.",
+          "La maison et l'atelier de Georgia O'Keeffe à Abiquiu se visitent sur réservation."
+        ]
+      },
+      "uc-berkeley": {
+        "sceneContext": "Les années d'Oppenheimer comme jeune professeur se déroulent sur le campus de l'université de Californie à Berkeley, de l'autre côté de la baie de San Francisco, aménagé par l'équipe pour retrouver son allure des années 1940.",
+        "howToVisit": "Le campus de Berkeley se parcourt librement, avec en son cœur le Campanile, son clocher emblématique, et des vues sur la baie et la ville. Il est à quelques minutes de San Francisco en BART, facile à inclure dans un séjour plus large dans la région de la baie.",
+        "nearbyTips": [
+          "Montez en ascenseur au sommet du Campanile pour un panorama sur la baie.",
+          "Les librairies et cafés de Telegraph Avenue s'étirent jusqu'aux portes du campus."
+        ]
+      },
+      "villa-balbiano": {
+        "sceneContext": "La somptueuse villa au bord de l'eau qui sert de demeure à la famille Gucci est la Villa Balbiano, du XVIIe siècle, à Ossuccio, dont les jardins en terrasses et les salons ornés de fresques comptent parmi les plus fastueux du lac de Côme.",
+        "howToVisit": "La villa est un lieu privé de réception et de mariage, et non un musée ouvert tous les jours, mais sa façade et ses jardins s'admirent le mieux depuis l'eau. Prenez un bateau depuis Côme ou Lenno le long de la rive ouest pour la voir comme le film la cadre.",
+        "nearbyTips": [
+          "Les jardins de la Villa del Balbianello, près de Lenno, sont ouverts aux visiteurs tout près de là.",
+          "L'Isola Comacina, la seule île du lac, se trouve juste au large, avec une adresse réputée pour déjeuner."
+        ]
+      },
+      "villa-necchi": {
+        "sceneContext": "L'élégante Villa Necchi Campiglio des années 1930, avec ses lignes rationalistes, son escalier de marbre et sa piscine privée, incarne la demeure milanaise raffinée du Gucci aîné.",
+        "howToVisit": "La villa appartient au FAI, la fondation italienne du patrimoine, et se visite, généralement sur créneaux horaires ; mieux vaut réserver à l'avance. Son café dans le jardin offre une pause paisible loin des rues commerçantes de la ville.",
+        "nearbyTips": [
+          "Le Quadrilatero della Moda, le quartier de la mode, est à quelques minutes à pied.",
+          "Les jardins du Palazzo Morando, tout proche, ajoutent une autre halte dédiée à l'histoire du design."
+        ]
+      },
+      "santa-maria-in-campitelli": {
+        "sceneContext": "L'église baroque Santa Maria in Campitelli, près de l'ancien quartier juif de Rome, offre son cadre grandiose à la scène de mariage du film.",
+        "howToVisit": "L'église est un lieu de culte en activité dans le quartier de Sant'Angelo, généralement ouvert et d'accès gratuit ; habillez-vous avec décence et évitez les heures de messe. Elle se trouve à quelques pas du Portique d'Octavie et de l'île Tibérine.",
+        "nearbyTips": [
+          "Les boulangeries casher et les trattorias du ghetto de Rome sont au coin de la rue.",
+          "Traversez jusqu'à l'île Tibérine, puis gagnez le Trastevere pour la soirée."
         ]
       }
     }

@@ -321,6 +321,27 @@
     "yorkshire-dales": {
       "hero": "/destinations/yorkshire-dales/hero.jpg"
     },
+    "san-diego": {
+      "hero": "/destinations/san-diego/hero.jpg"
+    },
+    "whidbey-island": {
+      "hero": "/destinations/whidbey-island/hero.jpg"
+    },
+    "lake-tahoe": {
+      "hero": "/destinations/lake-tahoe/hero.jpg"
+    },
+    "achill-island": {
+      "hero": "/destinations/achill-island/hero.jpg"
+    },
+    "inishmore": {
+      "hero": "/destinations/inishmore/hero.jpg"
+    },
+    "northern-new-mexico": {
+      "hero": "/destinations/northern-new-mexico/hero.jpg"
+    },
+    "spetses": {
+      "hero": "/destinations/spetses/hero.jpg"
+    },
     "kerry": {
       "hero": "/locations/skellig-michael/hero.jpg"
     },
@@ -958,6 +979,54 @@
     },
     "swaledale": {
       "hero": "/locations/swaledale/hero.jpg"
+    },
+    "coronado-north-island": {
+      "hero": "/locations/coronado-north-island/hero.jpg"
+    },
+    "fort-rosecrans": {
+      "hero": "/locations/fort-rosecrans/hero.jpg"
+    },
+    "nas-whidbey-coupeville": {
+      "hero": "/locations/nas-whidbey-coupeville/hero.jpg"
+    },
+    "lake-tahoe-sierra": {
+      "hero": "/locations/lake-tahoe-sierra/hero.jpg"
+    },
+    "keem-bay": {
+      "hero": "/locations/keem-bay/hero.jpg"
+    },
+    "cloughmore-jonjos": {
+      "hero": "/locations/cloughmore-jonjos/hero.jpg"
+    },
+    "gort-na-gcapall": {
+      "hero": "/locations/gort-na-gcapall/hero.jpg"
+    },
+    "dapia-spetses": {
+      "hero": "/locations/dapia-spetses/hero.jpg"
+    },
+    "amanzoe-porto-heli": {
+      "hero": "/locations/amanzoe-porto-heli/hero.jpg"
+    },
+    "korakia-beach": {
+      "hero": "/locations/korakia-beach/hero.jpg"
+    },
+    "fuller-lodge": {
+      "hero": "/locations/fuller-lodge/hero.jpg"
+    },
+    "ghost-ranch": {
+      "hero": "/locations/ghost-ranch/hero.jpg"
+    },
+    "uc-berkeley": {
+      "hero": "/locations/uc-berkeley/hero.jpg"
+    },
+    "villa-balbiano": {
+      "hero": "/locations/villa-balbiano/hero.jpg"
+    },
+    "villa-necchi": {
+      "hero": "/locations/villa-necchi/hero.jpg"
+    },
+    "santa-maria-in-campitelli": {
+      "hero": "/locations/santa-maria-in-campitelli/hero.jpg"
     }
   }
 }

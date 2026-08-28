@@ -1238,4 +1238,81 @@ export const DESTINATIONS: Destination[] = [
     blurb:
       "A sweep of green valleys, drystone walls and high heather moors in northern England, protected as a national park. Swaledale and its stone villages give the Dales their wild, brooding beauty, long a magnet for writers and film crews.",
   },
+  {
+    slug: "san-diego",
+    name: "San Diego",
+    country: "United States",
+    region: "California",
+    lat: 32.7157,
+    lng: -117.1611,
+    accent: "0e7490",
+    blurb:
+      "Southern California's Navy town, wrapped around a huge natural harbour with warm beaches and a laid-back waterfront. Home of the real Fightertown, it pairs Coronado's sands and the Point Loma headland with a walkable, sun-drenched downtown.",
+  },
+  {
+    slug: "whidbey-island",
+    name: "Whidbey Island",
+    country: "United States",
+    region: "Washington",
+    lat: 48.2193,
+    lng: -122.6857,
+    accent: "155e75",
+    blurb:
+      "A long, green island in Puget Sound north of Seattle, edged with bluffs, coves and the historic seafront town of Coupeville. Reached by ferry or the dramatic Deception Pass bridge, it trades city bustle for mussels, madronas and Pacific Northwest quiet.",
+  },
+  {
+    slug: "lake-tahoe",
+    name: "Lake Tahoe",
+    country: "United States",
+    region: "California",
+    lat: 39.0968,
+    lng: -120.0324,
+    accent: "0c4a6e",
+    blurb:
+      "A vast alpine lake straddling California and Nevada, ringed by granite peaks and pine forest at over six thousand feet. Emerald Bay and the High Sierra above it draw skiers in winter and hikers, kayakers and scenic-flight seekers in summer.",
+  },
+  {
+    slug: "achill-island",
+    name: "Achill Island",
+    country: "Ireland",
+    region: "County Mayo",
+    lat: 53.9631,
+    lng: -10.003,
+    accent: "3f6f5f",
+    blurb:
+      "The largest of Ireland's islands, joined to County Mayo by a bridge and strung along the Wild Atlantic Way. Blanket bog, sea cliffs and the golden crescent of Keem Bay make it one of the wildest, most cinematic corners of the west coast.",
+  },
+  {
+    slug: "inishmore",
+    name: "Inishmore",
+    country: "Ireland",
+    region: "County Galway",
+    lat: 53.1256,
+    lng: -9.7686,
+    accent: "2f6b5e",
+    blurb:
+      "The biggest of the three Aran Islands, a windswept slab of limestone off the Galway coast laced with drystone walls and tiny fields. Ferries and bicycles reach the prehistoric clifftop fort of Dun Aonghasa and a slow, Irish-speaking island life.",
+  },
+  {
+    slug: "spetses",
+    name: "Spetses & Porto Heli",
+    country: "Greece",
+    region: "Peloponnese",
+    lat: 37.2637,
+    lng: 23.156,
+    accent: "0d9488",
+    blurb:
+      "A chic, car-free island and its mainland marina twin on the Argolic coast, an easy hop from Athens. Neoclassical mansions, horse-drawn carriages and pine-fringed coves have long made Spetses and Porto Heli a discreet playground for well-heeled Athenians.",
+  },
+  {
+    slug: "northern-new-mexico",
+    name: "Northern New Mexico",
+    country: "United States",
+    region: "New Mexico",
+    lat: 35.8892,
+    lng: -106.306,
+    accent: "b45309",
+    blurb:
+      "High desert of red-rock mesas, pinon hills and enormous skies between Santa Fe, Los Alamos and the Chama valley. The light that drew Georgia O'Keeffe to Ghost Ranch still hangs over adobe towns, ancient pueblos and the secret mesa where the atomic age began.",
+  },
 ];
